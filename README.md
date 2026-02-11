@@ -10,19 +10,19 @@
 A **self-building data catalogue** that auto-profiles every table in the Horizon Bank Holdings MDM Lakehouse — generating rich metadata, PII classifications, data lineage, business glossary terms, and quality scores. No manual documentation. No tribal knowledge. The catalogue builds itself from the data.
 
 ### Catalogue Browser
-![Catalogue Browser](docs/gifs/01_Catalogue_Browser.gif)
+![Catalogue Browser](01_Catalogue_Browser.gif)
 
 ### Table Detail — Column-Level Profiling
-![Table Detail](docs/gifs/02_Table_Detail.gif)
+![Table Detail](02_Table_Detail.gif)
 
 ### Data Lineage Map
-![Lineage Map](docs/gifs/03_Lineage_Map.gif)
+![Lineage Map](03_Lineage_Map.gif)
 
 ### Business Glossary
-![Business Glossary](docs/gifs/04_Business_Glossary.gif)
+![Business Glossary](04_Business_Glossary.gif)
 
 ### Data Quality Observatory
-![Quality Observatory](docs/gifs/05_Quality_Observatory.gif)
+![Quality Observatory](05_Quality_Observatory.gif)
 
 ---
 
