@@ -1,0 +1,218 @@
+{
+  "dim_customer": {
+    "layer": "gold",
+    "upstream": [
+      {
+        "table": "core_banking_customers",
+        "layer": "bronze",
+        "join": "SSN_HASH \u2192 ssn_hash",
+        "transform": "Uppercase name split, phone normalize"
+      },
+      {
+        "table": "salesforce_accounts",
+        "layer": "bronze",
+        "join": "PersonEmail \u2192 email",
+        "transform": "CRM fields mapped"
+      },
+      {
+        "table": "fiserv_parties",
+        "layer": "bronze",
+        "join": "EMAIL_ADDR \u2192 email",
+        "transform": "Name parsing, risk mapping"
+      },
+      {
+        "table": "mdm_match_pairs",
+        "layer": "mdm",
+        "join": "customer_id_1/2 \u2192 customer_id",
+        "transform": "Survivorship rules applied"
+      }
+    ],
+    "downstream": [
+      "dim_account",
+      "fact_transactions",
+      "fact_loan_payments",
+      "fact_credit_risk",
+      "digital_events",
+      "fraud_alerts"
+    ],
+    "refresh": "Every 4 hours (CDC from Core Banking)",
+    "sla": "< 4 hours from source change"
+  },
+  "dim_account": {
+    "layer": "gold",
+    "upstream": [
+      {
+        "table": "dim_customer",
+        "layer": "gold",
+        "join": "customer_id",
+        "transform": "FK reference"
+      },
+      {
+        "table": "dim_product",
+        "layer": "gold",
+        "join": "product_id",
+        "transform": "Product enrichment"
+      }
+    ],
+    "downstream": [
+      "fact_transactions",
+      "fact_loan_payments",
+      "fact_credit_risk"
+    ],
+    "refresh": "Every 4 hours",
+    "sla": "< 4 hours"
+  },
+  "fact_transactions": {
+    "layer": "gold",
+    "upstream": [
+      {
+        "table": "dim_account",
+        "layer": "gold",
+        "join": "account_id",
+        "transform": "Account enrichment"
+      },
+      {
+        "table": "dim_customer",
+        "layer": "gold",
+        "join": "customer_id",
+        "transform": "Customer enrichment"
+      }
+    ],
+    "downstream": [
+      "fraud_alerts",
+      "partner_performance"
+    ],
+    "refresh": "Near real-time (streaming)",
+    "sla": "< 15 minutes"
+  },
+  "fact_credit_risk": {
+    "layer": "gold",
+    "upstream": [
+      {
+        "table": "dim_customer",
+        "layer": "gold",
+        "join": "customer_id",
+        "transform": "FICO, risk tier"
+      },
+      {
+        "table": "dim_account",
+        "layer": "gold",
+        "join": "account_id (aggregated)",
+        "transform": "Balance aggregation"
+      }
+    ],
+    "downstream": [],
+    "refresh": "Daily snapshot",
+    "sla": "< 6 hours (overnight batch)"
+  },
+  "fraud_alerts": {
+    "layer": "gold",
+    "upstream": [
+      {
+        "table": "fact_transactions",
+        "layer": "gold",
+        "join": "transaction_id",
+        "transform": "ML model scoring"
+      },
+      {
+        "table": "dim_account",
+        "layer": "gold",
+        "join": "account_id",
+        "transform": "Account context"
+      }
+    ],
+    "downstream": [],
+    "refresh": "Real-time (event-driven)",
+    "sla": "< 500ms from transaction"
+  },
+  "digital_events": {
+    "layer": "clickstream",
+    "upstream": [
+      {
+        "table": "dim_customer",
+        "layer": "gold",
+        "join": "customer_id",
+        "transform": "Session attribution"
+      }
+    ],
+    "downstream": [],
+    "refresh": "Streaming (Kinesis)",
+    "sla": "< 5 minutes"
+  },
+  "core_banking_customers": {
+    "layer": "bronze",
+    "upstream": [
+      {
+        "table": "Oracle Core Banking DB",
+        "layer": "source",
+        "join": "JDBC CDC",
+        "transform": "None (raw extract)"
+      }
+    ],
+    "downstream": [
+      "dim_customer"
+    ],
+    "refresh": "Every 4 hours (incremental CDC)",
+    "sla": "< 30 minutes extraction"
+  },
+  "salesforce_accounts": {
+    "layer": "bronze",
+    "upstream": [
+      {
+        "table": "Salesforce CRM",
+        "layer": "source",
+        "join": "Bulk API v2",
+        "transform": "None (raw extract)"
+      }
+    ],
+    "downstream": [
+      "dim_customer"
+    ],
+    "refresh": "Every 2 hours + real-time CDC",
+    "sla": "< 15 minutes"
+  },
+  "fiserv_parties": {
+    "layer": "bronze",
+    "upstream": [
+      {
+        "table": "Fiserv SFTP",
+        "layer": "source",
+        "join": "File drop",
+        "transform": "None (raw CSV)"
+      }
+    ],
+    "downstream": [
+      "dim_customer"
+    ],
+    "refresh": "Daily at 02:00 UTC",
+    "sla": "< 1 hour after file drop"
+  },
+  "mdm_match_pairs": {
+    "layer": "mdm",
+    "upstream": [
+      {
+        "table": "core_banking_customers",
+        "layer": "bronze",
+        "join": "Fuzzy match",
+        "transform": "Jaro-Winkler scoring"
+      },
+      {
+        "table": "salesforce_accounts",
+        "layer": "bronze",
+        "join": "Fuzzy match",
+        "transform": "Jaro-Winkler scoring"
+      },
+      {
+        "table": "fiserv_parties",
+        "layer": "bronze",
+        "join": "Fuzzy match",
+        "transform": "Jaro-Winkler scoring"
+      }
+    ],
+    "downstream": [
+      "dim_customer"
+    ],
+    "refresh": "After Silver refresh",
+    "sla": "< 1 hour after Silver completes"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "report_date": "2026-02-11T05:41:51Z",
+  "company": "Horizon Bank Holdings",
+  "total_tables": 15,
+  "total_rows": 103443,
+  "total_columns": 225,
+  "total_size_bytes": 14907894,
+  "total_size_human": "14.2 MB",
+  "avg_quality_score": 98.6,
+  "pii_column_distribution": {
+    "CONFIDENTIAL": 35,
+    "PII": 31,
+    "SPII": 14,
+    "PUBLIC": 145
+  },
+  "layer_statistics": {
+    "bronze": {
+      "tables": 3,
+      "rows": 3000,
+      "avg_quality": 100.0
+    },
+    "gold": {
+      "tables": 7,
+      "rows": 59311,
+      "avg_quality": 97.4
+    },
+    "clickstream": {
+      "tables": 1,
+      "rows": 40000,
+      "avg_quality": 98.5
+    },
+    "fraud": {
+      "tables": 1,
+      "rows": 644,
+      "avg_quality": 99.0
+    },
+    "partners": {
+      "tables": 1,
+      "rows": 120,
+      "avg_quality": 100.0
+    },
+    "realtime": {
+      "tables": 1,
+      "rows": 336,
+      "avg_quality": 100.0
+    },
+    "mdm": {
+      "tables": 1,
+      "rows": 32,
+      "avg_quality": 99.4
+    }
+  },
+  "tables_by_quality": [
+    {
+      "table": "dim_product",
+      "score": 82.0,
+      "layer": "gold"
+    },
+    {
+      "table": "digital_events",
+      "score": 98.5,
+      "layer": "clickstream"
+    },
+    {
+      "table": "fraud_alerts",
+      "score": 99.0,
+      "layer": "fraud"
+    },
+    {
+      "table": "mdm_match_pairs",
+      "score": 99.4,
+      "layer": "mdm"
+    },
+    {
+      "table": "fact_loan_payments",
+      "score": 99.9,
+      "layer": "gold"
+    },
+    {
+      "table": "core_banking_customers",
+      "score": 100.0,
+      "layer": "bronze"
+    },
+    {
+      "table": "salesforce_accounts",
+      "score": 100.0,
+      "layer": "bronze"
+    },
+    {
+      "table": "fiserv_parties",
+      "score": 100.0,
+      "layer": "bronze"
+    },
+    {
+      "table": "dim_customer",
+      "score": 100.0,
+      "layer": "gold"
+    },
+    {
+      "table": "dim_account",
+      "score": 100.0,
+      "layer": "gold"
+    },
+    {
+      "table": "dim_date",
+      "score": 100.0,
+      "layer": "gold"
+    },
+    {
+      "table": "fact_transactions",
+      "score": 100.0,
+      "layer": "gold"
+    },
+    {
+      "table": "fact_credit_risk",
+      "score": 100.0,
+      "layer": "gold"
+    },
+    {
+      "table": "partner_performance",
+      "score": 100.0,
+      "layer": "partners"
+    },
+    {
+      "table": "hourly_metrics",
+      "score": 100.0,
+      "layer": "realtime"
+    }
+  ]
+}

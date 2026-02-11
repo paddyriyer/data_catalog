@@ -1,0 +1,674 @@
+{
+  "table_name": "fact_credit_risk",
+  "layer": "gold",
+  "file_path": "/home/claude/data-catalogue/data/gold/fact_credit_risk.csv",
+  "total_rows": 1844,
+  "total_columns": 16,
+  "file_size_bytes": 194915,
+  "file_size_human": "190.3 KB",
+  "profiled_at": "2026-02-11T05:41:51Z",
+  "quality_score": 100.0,
+  "pii_summary": {
+    "CONFIDENTIAL": 5,
+    "PUBLIC": 7,
+    "SPII": 4
+  },
+  "columns": [
+    {
+      "column_name": "customer_id",
+      "data_type": "identifier",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 1844,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1844,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "sample_values": [
+        "CUST-00645",
+        "CUST-00058",
+        "CUST-01340",
+        "CUST-00540",
+        "CUST-01496"
+      ],
+      "min_length": 10,
+      "max_length": 10,
+      "avg_length": 10.0,
+      "quality_score": 100,
+      "glossary": {
+        "term": "Customer Identifier",
+        "definition": "Unique golden record identifier for a customer entity, MDM-assigned after deduplication across source systems.",
+        "domain": "MDM",
+        "steward": "Data Governance Team"
+      }
+    },
+    {
+      "column_name": "snapshot_date",
+      "data_type": "date",
+      "pii_classification": "PUBLIC",
+      "total_count": 1844,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1,
+      "cardinality_ratio": 0.05,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "2026-02-10",
+          "count": 1844,
+          "pct": 100.0
+        }
+      ],
+      "sample_values": [
+        "2026-02-10"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "fico_score",
+      "data_type": "integer",
+      "pii_classification": "SPII",
+      "total_count": 1844,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 332,
+      "cardinality_ratio": 18.0,
+      "is_unique": false,
+      "min": 300.0,
+      "max": 850.0,
+      "mean": 708.16,
+      "median": 719.0,
+      "std_dev": 86.32,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 1844,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "quality_score": 100,
+      "glossary": {
+        "term": "FICO Score",
+        "definition": "Fair Isaac Corporation credit score (300-850) indicating creditworthiness. Sourced from Core Banking as authoritative system.",
+        "domain": "Credit Risk",
+        "steward": "Risk Analytics"
+      }
+    },
+    {
+      "column_name": "risk_tier",
+      "data_type": "string",
+      "pii_classification": "SPII",
+      "total_count": 1844,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 5,
+      "cardinality_ratio": 0.27,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 1844,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "min_length": 5,
+      "max_length": 13,
+      "avg_length": 8.3,
+      "quality_score": 100,
+      "glossary": {
+        "term": "Credit Risk Tier",
+        "definition": "Risk classification based on FICO: super_prime (750+), prime (700-749), near_prime (650-699), subprime (580-649), deep_subprime (<580).",
+        "domain": "Credit Risk",
+        "steward": "Risk Analytics"
+      }
+    },
+    {
+      "column_name": "segment",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 1844,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 5,
+      "cardinality_ratio": 0.27,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "mass_market",
+          "count": 724,
+          "pct": 39.3
+        },
+        {
+          "value": "mass_affluent",
+          "count": 563,
+          "pct": 30.5
+        },
+        {
+          "value": "affluent",
+          "count": 277,
+          "pct": 15.0
+        },
+        {
+          "value": "high_net_worth",
+          "count": 180,
+          "pct": 9.8
+        },
+        {
+          "value": "ultra_hnw",
+          "count": 100,
+          "pct": 5.4
+        }
+      ],
+      "sample_values": [
+        "affluent",
+        "high_net_worth",
+        "mass_market",
+        "ultra_hnw",
+        "mass_affluent"
+      ],
+      "min_length": 8,
+      "max_length": 14,
+      "avg_length": 11.3,
+      "quality_score": 100,
+      "glossary": {
+        "term": "Customer Segment",
+        "definition": "Wealth-based segmentation: mass_market (<$75K), mass_affluent ($75K-$150K), affluent ($150K-$300K), high_net_worth ($300K-$750K), ultra_hnw (>$750K).",
+        "domain": "Marketing",
+        "steward": "Customer Analytics"
+      }
+    },
+    {
+      "column_name": "total_balance",
+      "data_type": "decimal",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 1844,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1844,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "min": 8.34,
+      "max": 19663301.42,
+      "mean": 287490.61,
+      "median": 41567.58,
+      "std_dev": 1177199.11,
+      "sample_values": [
+        "120571.36",
+        "9138.1",
+        "159151.72",
+        "62709.93",
+        "27697.03"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "total_credit_limit",
+      "data_type": "decimal",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 1844,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 831,
+      "cardinality_ratio": 45.07,
+      "is_unique": false,
+      "min": 0.0,
+      "max": 212800.83,
+      "mean": 32919.97,
+      "median": 26720.48,
+      "std_dev": 29627.0,
+      "sample_values": [
+        "40920.59",
+        "41842.52",
+        "50458.59",
+        "5923.64",
+        "60180.48"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "utilization_pct",
+      "data_type": "decimal",
+      "pii_classification": "PUBLIC",
+      "total_count": 1844,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1160,
+      "cardinality_ratio": 62.91,
+      "is_unique": false,
+      "min": 0.0,
+      "max": 260459.6,
+      "mean": 1199.86,
+      "median": 89.8,
+      "std_dev": 9200.67,
+      "top_values": [
+        {
+          "value": "0",
+          "count": 261,
+          "pct": 14.2
+        },
+        {
+          "value": "100.0",
+          "count": 161,
+          "pct": 8.7
+        },
+        {
+          "value": "48.6",
+          "count": 5,
+          "pct": 0.3
+        },
+        {
+          "value": "48.1",
+          "count": 5,
+          "pct": 0.3
+        },
+        {
+          "value": "57.0",
+          "count": 4,
+          "pct": 0.2
+        },
+        {
+          "value": "27.9",
+          "count": 4,
+          "pct": 0.2
+        },
+        {
+          "value": "116.7",
+          "count": 4,
+          "pct": 0.2
+        },
+        {
+          "value": "63.6",
+          "count": 4,
+          "pct": 0.2
+        }
+      ],
+      "sample_values": [
+        "97.4",
+        "57.4",
+        "1335.7",
+        "110.6",
+        "53.2"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "num_products",
+      "data_type": "integer",
+      "pii_classification": "PUBLIC",
+      "total_count": 1844,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 4,
+      "cardinality_ratio": 0.22,
+      "is_unique": false,
+      "min": 1.0,
+      "max": 4.0,
+      "mean": 2.1,
+      "median": 2.0,
+      "std_dev": 0.9,
+      "top_values": [
+        {
+          "value": "2",
+          "count": 755,
+          "pct": 40.9
+        },
+        {
+          "value": "1",
+          "count": 523,
+          "pct": 28.4
+        },
+        {
+          "value": "3",
+          "count": 430,
+          "pct": 23.3
+        },
+        {
+          "value": "4",
+          "count": 136,
+          "pct": 7.4
+        }
+      ],
+      "sample_values": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "days_past_due",
+      "data_type": "integer",
+      "pii_classification": "PUBLIC",
+      "total_count": 1844,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 6,
+      "cardinality_ratio": 0.33,
+      "is_unique": false,
+      "min": 0.0,
+      "max": 150.0,
+      "mean": 7.16,
+      "median": 0.0,
+      "std_dev": 20.9,
+      "top_values": [
+        {
+          "value": "0",
+          "count": 1588,
+          "pct": 86.1
+        },
+        {
+          "value": "30",
+          "count": 142,
+          "pct": 7.7
+        },
+        {
+          "value": "60",
+          "count": 66,
+          "pct": 3.6
+        },
+        {
+          "value": "90",
+          "count": 30,
+          "pct": 1.6
+        },
+        {
+          "value": "120",
+          "count": 14,
+          "pct": 0.8
+        },
+        {
+          "value": "150",
+          "count": 4,
+          "pct": 0.2
+        }
+      ],
+      "sample_values": [
+        "90",
+        "150",
+        "30",
+        "0",
+        "120"
+      ],
+      "quality_score": 100,
+      "glossary": {
+        "term": "Days Past Due (DPD)",
+        "definition": "Number of days a payment is overdue. Key delinquency indicator: 0=current, 30/60/90/120+ trigger escalating actions.",
+        "domain": "Collections",
+        "steward": "Collections Team"
+      }
+    },
+    {
+      "column_name": "delinquency_status",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 1844,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 6,
+      "cardinality_ratio": 0.33,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "current",
+          "count": 1588,
+          "pct": 86.1
+        },
+        {
+          "value": "dpd_30",
+          "count": 142,
+          "pct": 7.7
+        },
+        {
+          "value": "dpd_60",
+          "count": 66,
+          "pct": 3.6
+        },
+        {
+          "value": "dpd_90",
+          "count": 30,
+          "pct": 1.6
+        },
+        {
+          "value": "dpd_120",
+          "count": 14,
+          "pct": 0.8
+        },
+        {
+          "value": "dpd_150",
+          "count": 4,
+          "pct": 0.2
+        }
+      ],
+      "sample_values": [
+        "current",
+        "dpd_150",
+        "dpd_120",
+        "dpd_90",
+        "dpd_60"
+      ],
+      "min_length": 6,
+      "max_length": 7,
+      "avg_length": 6.9,
+      "quality_score": 100
+    },
+    {
+      "column_name": "probability_of_default",
+      "data_type": "decimal",
+      "pii_classification": "SPII",
+      "total_count": 1844,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 697,
+      "cardinality_ratio": 37.8,
+      "is_unique": false,
+      "min": 0.0,
+      "max": 0.3481,
+      "mean": 0.04,
+      "median": 0.0293,
+      "std_dev": 0.04,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 1844,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "quality_score": 100,
+      "glossary": {
+        "term": "Probability of Default (PD)",
+        "definition": "Statistical likelihood (0-1) that a borrower will default within 12 months. Basel II/III regulatory metric.",
+        "domain": "Credit Risk",
+        "steward": "Risk Analytics"
+      }
+    },
+    {
+      "column_name": "loss_given_default",
+      "data_type": "decimal",
+      "pii_classification": "SPII",
+      "total_count": 1844,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 489,
+      "cardinality_ratio": 26.52,
+      "is_unique": false,
+      "min": 0.3,
+      "max": 0.8,
+      "mean": 0.55,
+      "median": 0.556,
+      "std_dev": 0.14,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 1844,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "expected_loss",
+      "data_type": "decimal",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 1844,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 257,
+      "cardinality_ratio": 13.94,
+      "is_unique": false,
+      "min": 0.0,
+      "max": 718013.4,
+      "mean": 2824.53,
+      "median": 0.0,
+      "std_dev": 28088.24,
+      "sample_values": [
+        "13532.82",
+        "958.59",
+        "273.97",
+        "1106.27",
+        "783.38"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "behavioral_score",
+      "data_type": "integer",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 1844,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 531,
+      "cardinality_ratio": 28.8,
+      "is_unique": false,
+      "min": 300.0,
+      "max": 850.0,
+      "mean": 572.98,
+      "median": 578.0,
+      "std_dev": 155.74,
+      "sample_values": [
+        "747",
+        "702",
+        "347",
+        "685",
+        "776"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "months_on_book",
+      "data_type": "integer",
+      "pii_classification": "PUBLIC",
+      "total_count": 1844,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 98,
+      "cardinality_ratio": 5.31,
+      "is_unique": false,
+      "min": 1.0,
+      "max": 98.0,
+      "mean": 49.19,
+      "median": 49.0,
+      "std_dev": 28.58,
+      "top_values": [
+        {
+          "value": "18",
+          "count": 28,
+          "pct": 1.5
+        },
+        {
+          "value": "97",
+          "count": 28,
+          "pct": 1.5
+        },
+        {
+          "value": "30",
+          "count": 28,
+          "pct": 1.5
+        },
+        {
+          "value": "20",
+          "count": 28,
+          "pct": 1.5
+        },
+        {
+          "value": "5",
+          "count": 26,
+          "pct": 1.4
+        },
+        {
+          "value": "98",
+          "count": 25,
+          "pct": 1.4
+        },
+        {
+          "value": "54",
+          "count": 25,
+          "pct": 1.4
+        },
+        {
+          "value": "41",
+          "count": 25,
+          "pct": 1.4
+        }
+      ],
+      "sample_values": [
+        "4",
+        "2",
+        "9",
+        "45",
+        "24"
+      ],
+      "quality_score": 100
+    }
+  ],
+  "lineage": {
+    "layer": "gold",
+    "upstream": [
+      {
+        "table": "dim_customer",
+        "layer": "gold",
+        "join": "customer_id",
+        "transform": "FICO, risk tier"
+      },
+      {
+        "table": "dim_account",
+        "layer": "gold",
+        "join": "account_id (aggregated)",
+        "transform": "Balance aggregation"
+      }
+    ],
+    "downstream": [],
+    "refresh": "Daily snapshot",
+    "sla": "< 6 hours (overnight batch)"
+  },
+  "owner": "Data Engineering",
+  "refresh_frequency": "Daily snapshot",
+  "sla": "< 6 hours (overnight batch)",
+  "tags": [
+    "contains_pii",
+    "risk",
+    "fact",
+    "gold",
+    "regulatory"
+  ]
+}

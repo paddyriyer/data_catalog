@@ -1,0 +1,806 @@
+{
+  "table_name": "fraud_alerts",
+  "layer": "fraud",
+  "file_path": "/home/claude/data-catalogue/data/fraud/fraud_alerts.csv",
+  "total_rows": 644,
+  "total_columns": 16,
+  "file_size_bytes": 109831,
+  "file_size_human": "107.3 KB",
+  "profiled_at": "2026-02-11T05:41:51Z",
+  "quality_score": 99.0,
+  "pii_summary": {
+    "PUBLIC": 11,
+    "CONFIDENTIAL": 4,
+    "SPII": 1
+  },
+  "columns": [
+    {
+      "column_name": "alert_id",
+      "data_type": "identifier",
+      "pii_classification": "PUBLIC",
+      "total_count": 644,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 644,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "top_values": [
+        {
+          "value": "FRD-00001",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "value": "FRD-00002",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "value": "FRD-00003",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "value": "FRD-00004",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "value": "FRD-00005",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "value": "FRD-00006",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "value": "FRD-00007",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "value": "FRD-00008",
+          "count": 1,
+          "pct": 0.2
+        }
+      ],
+      "sample_values": [
+        "FRD-00415",
+        "FRD-00129",
+        "FRD-00552",
+        "FRD-00004",
+        "FRD-00320"
+      ],
+      "min_length": 9,
+      "max_length": 9,
+      "avg_length": 9.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "transaction_id",
+      "data_type": "identifier",
+      "pii_classification": "PUBLIC",
+      "total_count": 644,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 644,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "top_values": [
+        {
+          "value": "TXN-00030",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "value": "TXN-00047",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "value": "TXN-00054",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "value": "TXN-00065",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "value": "TXN-00102",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "value": "TXN-00166",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "value": "TXN-00174",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "value": "TXN-00191",
+          "count": 1,
+          "pct": 0.2
+        }
+      ],
+      "sample_values": [
+        "TXN-23541",
+        "TXN-01140",
+        "TXN-01957",
+        "TXN-23672",
+        "TXN-26618"
+      ],
+      "min_length": 9,
+      "max_length": 9,
+      "avg_length": 9.0,
+      "quality_score": 100,
+      "glossary": {
+        "term": "Transaction Identifier",
+        "definition": "Unique identifier for each financial transaction. Immutable once created.",
+        "domain": "Payments",
+        "steward": "Payment Operations"
+      }
+    },
+    {
+      "column_name": "account_id",
+      "data_type": "identifier",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 644,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 512,
+      "cardinality_ratio": 79.5,
+      "is_unique": false,
+      "sample_values": [
+        "ACCT-10605",
+        "ACCT-11105",
+        "ACCT-13343",
+        "ACCT-10430",
+        "ACCT-10572"
+      ],
+      "min_length": 10,
+      "max_length": 10,
+      "avg_length": 10.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "customer_id",
+      "data_type": "identifier",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 644,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 470,
+      "cardinality_ratio": 72.98,
+      "is_unique": false,
+      "sample_values": [
+        "CUST-00840",
+        "CUST-01915",
+        "CUST-00645",
+        "CUST-00058",
+        "CUST-01344"
+      ],
+      "min_length": 10,
+      "max_length": 10,
+      "avg_length": 10.0,
+      "quality_score": 100,
+      "glossary": {
+        "term": "Customer Identifier",
+        "definition": "Unique golden record identifier for a customer entity, MDM-assigned after deduplication across source systems.",
+        "domain": "MDM",
+        "steward": "Data Governance Team"
+      }
+    },
+    {
+      "column_name": "alert_timestamp",
+      "data_type": "datetime",
+      "pii_classification": "PUBLIC",
+      "total_count": 644,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 644,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "top_values": [
+        {
+          "value": "2026-02-07T06:06:12Z",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "value": "2025-04-05T06:44:54Z",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "value": "2025-06-15T23:06:28Z",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "value": "2026-02-07T07:05:36Z",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "value": "2025-06-04T20:58:07Z",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "value": "2025-07-31T04:34:34Z",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "value": "2025-07-31T17:54:09Z",
+          "count": 1,
+          "pct": 0.2
+        },
+        {
+          "value": "2025-10-02T16:30:26Z",
+          "count": 1,
+          "pct": 0.2
+        }
+      ],
+      "sample_values": [
+        "2025-04-22T15:52:33Z",
+        "2025-09-12T03:29:12Z",
+        "2026-01-28T22:55:36Z",
+        "2025-02-16T10:53:30Z",
+        "2025-05-20T14:52:41Z"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "alert_type",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 644,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 10,
+      "cardinality_ratio": 1.55,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "large_purchase",
+          "count": 97,
+          "pct": 15.1
+        },
+        {
+          "value": "geographic_anomaly",
+          "count": 78,
+          "pct": 12.1
+        },
+        {
+          "value": "card_not_present_high_risk",
+          "count": 73,
+          "pct": 11.3
+        },
+        {
+          "value": "velocity_spike",
+          "count": 72,
+          "pct": 11.2
+        },
+        {
+          "value": "new_merchant_high_amount",
+          "count": 62,
+          "pct": 9.6
+        },
+        {
+          "value": "account_takeover_attempt",
+          "count": 61,
+          "pct": 9.5
+        },
+        {
+          "value": "multiple_declines",
+          "count": 58,
+          "pct": 9.0
+        },
+        {
+          "value": "international_unusual",
+          "count": 54,
+          "pct": 8.4
+        }
+      ],
+      "sample_values": [
+        "new_merchant_high_amount",
+        "card_not_present_high_risk",
+        "velocity_spike",
+        "multiple_declines",
+        "structuring_pattern"
+      ],
+      "min_length": 14,
+      "max_length": 26,
+      "avg_length": 19.4,
+      "quality_score": 100,
+      "glossary": {
+        "term": "Fraud Alert Type",
+        "definition": "Classification of the fraud/AML alert: velocity_spike, geographic_anomaly, large_purchase, account_takeover_attempt, structuring_pattern, etc.",
+        "domain": "Fraud",
+        "steward": "Fraud Operations"
+      }
+    },
+    {
+      "column_name": "severity",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 644,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 4,
+      "cardinality_ratio": 0.62,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "medium",
+          "count": 237,
+          "pct": 36.8
+        },
+        {
+          "value": "low",
+          "count": 173,
+          "pct": 26.9
+        },
+        {
+          "value": "high",
+          "count": 169,
+          "pct": 26.2
+        },
+        {
+          "value": "critical",
+          "count": 65,
+          "pct": 10.1
+        }
+      ],
+      "sample_values": [
+        "critical",
+        "high",
+        "low",
+        "medium"
+      ],
+      "min_length": 3,
+      "max_length": 8,
+      "avg_length": 4.9,
+      "quality_score": 100
+    },
+    {
+      "column_name": "risk_score",
+      "data_type": "decimal",
+      "pii_classification": "SPII",
+      "total_count": 644,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 421,
+      "cardinality_ratio": 65.37,
+      "is_unique": false,
+      "min": 0.3,
+      "max": 0.998,
+      "mean": 0.66,
+      "median": 0.662,
+      "std_dev": 0.2,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 644,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "amount",
+      "data_type": "decimal",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 644,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 636,
+      "cardinality_ratio": 98.76,
+      "is_unique": false,
+      "min": 3.64,
+      "max": 855.25,
+      "mean": 391.78,
+      "median": 523.8,
+      "std_dev": 259.6,
+      "sample_values": [
+        "660.45",
+        "593.82",
+        "742.45",
+        "657.63",
+        "10.72"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "merchant_category",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 644,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 16,
+      "cardinality_ratio": 2.48,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "Airlines",
+          "count": 410,
+          "pct": 63.7
+        },
+        {
+          "value": "Fast Food",
+          "count": 21,
+          "pct": 3.3
+        },
+        {
+          "value": "Online Shopping",
+          "count": 19,
+          "pct": 3.0
+        },
+        {
+          "value": "Grocery",
+          "count": 19,
+          "pct": 3.0
+        },
+        {
+          "value": "Bookstores",
+          "count": 19,
+          "pct": 3.0
+        },
+        {
+          "value": "Electronics",
+          "count": 18,
+          "pct": 2.8
+        },
+        {
+          "value": "Pharmacy",
+          "count": 16,
+          "pct": 2.5
+        },
+        {
+          "value": "Restaurants",
+          "count": 16,
+          "pct": 2.5
+        }
+      ],
+      "sample_values": [
+        "Online Shopping",
+        "Restaurants",
+        "Rideshare/Taxi",
+        "Department Stores",
+        "Fast Food"
+      ],
+      "min_length": 6,
+      "max_length": 17,
+      "avg_length": 8.8,
+      "quality_score": 100
+    },
+    {
+      "column_name": "detection_method",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 644,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 5,
+      "cardinality_ratio": 0.78,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "ml_model",
+          "count": 139,
+          "pct": 21.6
+        },
+        {
+          "value": "velocity_check",
+          "count": 138,
+          "pct": 21.4
+        },
+        {
+          "value": "network_analysis",
+          "count": 135,
+          "pct": 21.0
+        },
+        {
+          "value": "geo_fence",
+          "count": 118,
+          "pct": 18.3
+        },
+        {
+          "value": "rules_engine",
+          "count": 114,
+          "pct": 17.7
+        }
+      ],
+      "sample_values": [
+        "network_analysis",
+        "geo_fence",
+        "rules_engine",
+        "ml_model",
+        "velocity_check"
+      ],
+      "min_length": 8,
+      "max_length": 16,
+      "avg_length": 11.9,
+      "quality_score": 100
+    },
+    {
+      "column_name": "model_version",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 644,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 3,
+      "cardinality_ratio": 0.47,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "aml_v2.1",
+          "count": 227,
+          "pct": 35.2
+        },
+        {
+          "value": "fraud_v3.3",
+          "count": 221,
+          "pct": 34.3
+        },
+        {
+          "value": "fraud_v3.2",
+          "count": 196,
+          "pct": 30.4
+        }
+      ],
+      "sample_values": [
+        "fraud_v3.2",
+        "aml_v2.1",
+        "fraud_v3.3"
+      ],
+      "min_length": 8,
+      "max_length": 10,
+      "avg_length": 9.3,
+      "quality_score": 100
+    },
+    {
+      "column_name": "status",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 644,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 5,
+      "cardinality_ratio": 0.78,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "false_positive",
+          "count": 262,
+          "pct": 40.7
+        },
+        {
+          "value": "investigating",
+          "count": 124,
+          "pct": 19.3
+        },
+        {
+          "value": "closed",
+          "count": 101,
+          "pct": 15.7
+        },
+        {
+          "value": "open",
+          "count": 88,
+          "pct": 13.7
+        },
+        {
+          "value": "confirmed_fraud",
+          "count": 69,
+          "pct": 10.7
+        }
+      ],
+      "sample_values": [
+        "closed",
+        "false_positive",
+        "investigating",
+        "confirmed_fraud",
+        "open"
+      ],
+      "min_length": 4,
+      "max_length": 15,
+      "avg_length": 11.3,
+      "quality_score": 100
+    },
+    {
+      "column_name": "assigned_to",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 644,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 20,
+      "cardinality_ratio": 3.11,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "analyst_013",
+          "count": 48,
+          "pct": 7.5
+        },
+        {
+          "value": "analyst_018",
+          "count": 42,
+          "pct": 6.5
+        },
+        {
+          "value": "analyst_014",
+          "count": 38,
+          "pct": 5.9
+        },
+        {
+          "value": "analyst_008",
+          "count": 37,
+          "pct": 5.7
+        },
+        {
+          "value": "analyst_006",
+          "count": 36,
+          "pct": 5.6
+        },
+        {
+          "value": "analyst_017",
+          "count": 34,
+          "pct": 5.3
+        },
+        {
+          "value": "analyst_005",
+          "count": 33,
+          "pct": 5.1
+        },
+        {
+          "value": "analyst_011",
+          "count": 33,
+          "pct": 5.1
+        }
+      ],
+      "sample_values": [
+        "analyst_012",
+        "analyst_018",
+        "analyst_014",
+        "analyst_013",
+        "analyst_005"
+      ],
+      "min_length": 11,
+      "max_length": 11,
+      "avg_length": 11.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "resolution_date",
+      "data_type": "date",
+      "pii_classification": "PUBLIC",
+      "total_count": 644,
+      "null_count": 201,
+      "null_rate": 31.21,
+      "distinct_count": 261,
+      "cardinality_ratio": 40.53,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "2025-07-19",
+          "count": 6,
+          "pct": 1.4
+        },
+        {
+          "value": "2025-09-12",
+          "count": 5,
+          "pct": 1.1
+        },
+        {
+          "value": "2025-08-26",
+          "count": 5,
+          "pct": 1.1
+        },
+        {
+          "value": "2025-04-16",
+          "count": 4,
+          "pct": 0.9
+        },
+        {
+          "value": "2025-12-29",
+          "count": 4,
+          "pct": 0.9
+        },
+        {
+          "value": "2026-01-11",
+          "count": 4,
+          "pct": 0.9
+        },
+        {
+          "value": "2025-09-29",
+          "count": 4,
+          "pct": 0.9
+        },
+        {
+          "value": "2025-09-04",
+          "count": 4,
+          "pct": 0.9
+        }
+      ],
+      "sample_values": [
+        "2026-03-07",
+        "2025-03-03",
+        "2025-07-28",
+        "2026-02-18",
+        "2025-10-09"
+      ],
+      "quality_score": 84.4
+    },
+    {
+      "column_name": "loss_amount",
+      "data_type": "decimal",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 644,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 55,
+      "cardinality_ratio": 8.54,
+      "is_unique": false,
+      "min": 0.0,
+      "max": 632.11,
+      "mean": 14.56,
+      "median": 0.0,
+      "std_dev": 71.78,
+      "sample_values": [
+        "171.19",
+        "11.65",
+        "632.11",
+        "534.18",
+        "520.48"
+      ],
+      "quality_score": 100
+    }
+  ],
+  "lineage": {
+    "layer": "gold",
+    "upstream": [
+      {
+        "table": "fact_transactions",
+        "layer": "gold",
+        "join": "transaction_id",
+        "transform": "ML model scoring"
+      },
+      {
+        "table": "dim_account",
+        "layer": "gold",
+        "join": "account_id",
+        "transform": "Account context"
+      }
+    ],
+    "downstream": [],
+    "refresh": "Real-time (event-driven)",
+    "sla": "< 500ms from transaction"
+  },
+  "owner": "Data Engineering",
+  "refresh_frequency": "Real-time (event-driven)",
+  "sla": "< 500ms from transaction",
+  "tags": [
+    "fraud",
+    "compliance",
+    "contains_pii",
+    "aml"
+  ]
+}

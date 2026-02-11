@@ -1,0 +1,593 @@
+{
+  "table_name": "mdm_match_pairs",
+  "layer": "mdm",
+  "file_path": "/home/claude/data-catalogue/data/mdm/mdm_match_pairs.csv",
+  "total_rows": 32,
+  "total_columns": 15,
+  "file_size_bytes": 4579,
+  "file_size_human": "4.5 KB",
+  "profiled_at": "2026-02-11T05:41:51Z",
+  "quality_score": 99.4,
+  "pii_summary": {
+    "PUBLIC": 9,
+    "PII": 4,
+    "CONFIDENTIAL": 2
+  },
+  "columns": [
+    {
+      "column_name": "pair_id",
+      "data_type": "identifier",
+      "pii_classification": "PUBLIC",
+      "total_count": 32,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 32,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "top_values": [
+        {
+          "value": "MPR-00001",
+          "count": 1,
+          "pct": 3.1
+        },
+        {
+          "value": "MPR-00002",
+          "count": 1,
+          "pct": 3.1
+        },
+        {
+          "value": "MPR-00003",
+          "count": 1,
+          "pct": 3.1
+        },
+        {
+          "value": "MPR-00004",
+          "count": 1,
+          "pct": 3.1
+        },
+        {
+          "value": "MPR-00005",
+          "count": 1,
+          "pct": 3.1
+        },
+        {
+          "value": "MPR-00006",
+          "count": 1,
+          "pct": 3.1
+        },
+        {
+          "value": "MPR-00007",
+          "count": 1,
+          "pct": 3.1
+        },
+        {
+          "value": "MPR-00008",
+          "count": 1,
+          "pct": 3.1
+        }
+      ],
+      "sample_values": [
+        "MPR-00019",
+        "MPR-00029",
+        "MPR-00030",
+        "MPR-00002",
+        "MPR-00020"
+      ],
+      "min_length": 9,
+      "max_length": 9,
+      "avg_length": 9.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "customer_id_1",
+      "data_type": "identifier",
+      "pii_classification": "PUBLIC",
+      "total_count": 32,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 32,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "top_values": [
+        {
+          "value": "CUST-01308",
+          "count": 1,
+          "pct": 3.1
+        },
+        {
+          "value": "CUST-01697",
+          "count": 1,
+          "pct": 3.1
+        },
+        {
+          "value": "CUST-01357",
+          "count": 1,
+          "pct": 3.1
+        },
+        {
+          "value": "CUST-00936",
+          "count": 1,
+          "pct": 3.1
+        },
+        {
+          "value": "CUST-01155",
+          "count": 1,
+          "pct": 3.1
+        },
+        {
+          "value": "CUST-01456",
+          "count": 1,
+          "pct": 3.1
+        },
+        {
+          "value": "CUST-00421",
+          "count": 1,
+          "pct": 3.1
+        },
+        {
+          "value": "CUST-00349",
+          "count": 1,
+          "pct": 3.1
+        }
+      ],
+      "sample_values": [
+        "CUST-01270",
+        "CUST-01707",
+        "CUST-01697",
+        "CUST-01441",
+        "CUST-00760"
+      ],
+      "min_length": 10,
+      "max_length": 10,
+      "avg_length": 10.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "source_system_1",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 32,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 3,
+      "cardinality_ratio": 9.38,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "salesforce",
+          "count": 12,
+          "pct": 37.5
+        },
+        {
+          "value": "core_banking",
+          "count": 10,
+          "pct": 31.2
+        },
+        {
+          "value": "fiserv",
+          "count": 10,
+          "pct": 31.2
+        }
+      ],
+      "sample_values": [
+        "salesforce",
+        "fiserv",
+        "core_banking"
+      ],
+      "min_length": 6,
+      "max_length": 12,
+      "avg_length": 9.4,
+      "quality_score": 100
+    },
+    {
+      "column_name": "customer_id_2",
+      "data_type": "identifier",
+      "pii_classification": "PUBLIC",
+      "total_count": 32,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 32,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "top_values": [
+        {
+          "value": "CUST-00157",
+          "count": 1,
+          "pct": 3.1
+        },
+        {
+          "value": "CUST-00166",
+          "count": 1,
+          "pct": 3.1
+        },
+        {
+          "value": "CUST-01507",
+          "count": 1,
+          "pct": 3.1
+        },
+        {
+          "value": "CUST-00488",
+          "count": 1,
+          "pct": 3.1
+        },
+        {
+          "value": "CUST-00539",
+          "count": 1,
+          "pct": 3.1
+        },
+        {
+          "value": "CUST-00571",
+          "count": 1,
+          "pct": 3.1
+        },
+        {
+          "value": "CUST-00541",
+          "count": 1,
+          "pct": 3.1
+        },
+        {
+          "value": "CUST-00963",
+          "count": 1,
+          "pct": 3.1
+        }
+      ],
+      "sample_values": [
+        "CUST-00002",
+        "CUST-00488",
+        "CUST-01126",
+        "CUST-00789",
+        "CUST-01344"
+      ],
+      "min_length": 10,
+      "max_length": 10,
+      "avg_length": 10.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "source_system_2",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 32,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 3,
+      "cardinality_ratio": 9.38,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "salesforce",
+          "count": 14,
+          "pct": 43.8
+        },
+        {
+          "value": "core_banking",
+          "count": 10,
+          "pct": 31.2
+        },
+        {
+          "value": "fiserv",
+          "count": 8,
+          "pct": 25.0
+        }
+      ],
+      "sample_values": [
+        "salesforce",
+        "fiserv",
+        "core_banking"
+      ],
+      "min_length": 6,
+      "max_length": 12,
+      "avg_length": 9.6,
+      "quality_score": 100
+    },
+    {
+      "column_name": "name_score",
+      "data_type": "decimal",
+      "pii_classification": "PII",
+      "total_count": 32,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 32,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "min": 0.2763,
+      "max": 0.9507,
+      "mean": 0.56,
+      "median": 0.564,
+      "std_dev": 0.12,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 32,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "email_score",
+      "data_type": "decimal",
+      "pii_classification": "PII",
+      "total_count": 32,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 32,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "min": 0.1102,
+      "max": 0.2983,
+      "mean": 0.21,
+      "median": 0.2248,
+      "std_dev": 0.06,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 32,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "phone_score",
+      "data_type": "decimal",
+      "pii_classification": "PII",
+      "total_count": 32,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 31,
+      "cardinality_ratio": 96.88,
+      "is_unique": false,
+      "min": 0.0028,
+      "max": 0.2997,
+      "mean": 0.21,
+      "median": 0.24,
+      "std_dev": 0.07,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 32,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "address_score",
+      "data_type": "decimal",
+      "pii_classification": "PII",
+      "total_count": 32,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 32,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "min": 0.0171,
+      "max": 0.8945,
+      "mean": 0.31,
+      "median": 0.2907,
+      "std_dev": 0.23,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 32,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "cross_system_score",
+      "data_type": "decimal",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 32,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 32,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "min": 0.0035,
+      "max": 0.1991,
+      "mean": 0.12,
+      "median": 0.1427,
+      "std_dev": 0.06,
+      "sample_values": [
+        "0.1916",
+        "0.0721",
+        "0.1991",
+        "0.1818",
+        "0.092"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "composite_score",
+      "data_type": "decimal",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 32,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 30,
+      "cardinality_ratio": 93.75,
+      "is_unique": false,
+      "min": 0.3002,
+      "max": 0.416,
+      "mean": 0.32,
+      "median": 0.3127,
+      "std_dev": 0.03,
+      "sample_values": [
+        "0.3049",
+        "0.3033",
+        "0.314",
+        "0.3207",
+        "0.3528"
+      ],
+      "quality_score": 100,
+      "glossary": {
+        "term": "MDM Composite Match Score",
+        "definition": "Weighted similarity score (0-1) across name, email, phone, address, and cross-system dimensions. \u22650.92=auto_merge, 0.75-0.92=review, <0.75=no_match.",
+        "domain": "MDM",
+        "steward": "Data Governance Team"
+      }
+    },
+    {
+      "column_name": "match_tier",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 32,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1,
+      "cardinality_ratio": 3.12,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "no_match",
+          "count": 32,
+          "pct": 100.0
+        }
+      ],
+      "sample_values": [
+        "no_match"
+      ],
+      "min_length": 8,
+      "max_length": 8,
+      "avg_length": 8.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "match_decision",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 32,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1,
+      "cardinality_ratio": 3.12,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "reject",
+          "count": 32,
+          "pct": 100.0
+        }
+      ],
+      "sample_values": [
+        "reject"
+      ],
+      "min_length": 6,
+      "max_length": 6,
+      "avg_length": 6.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "decided_by",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 32,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 2,
+      "cardinality_ratio": 6.25,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "steward",
+          "count": 21,
+          "pct": 65.6
+        },
+        {
+          "value": "pending",
+          "count": 11,
+          "pct": 34.4
+        }
+      ],
+      "sample_values": [
+        "pending",
+        "steward"
+      ],
+      "min_length": 7,
+      "max_length": 7,
+      "avg_length": 7.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "decided_at",
+      "data_type": "datetime",
+      "pii_classification": "PUBLIC",
+      "total_count": 32,
+      "null_count": 6,
+      "null_rate": 18.75,
+      "distinct_count": 1,
+      "cardinality_ratio": 3.12,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "2026-02-10T22:14:58Z",
+          "count": 26,
+          "pct": 100.0
+        }
+      ],
+      "sample_values": [
+        "2026-02-10T22:14:58Z"
+      ],
+      "quality_score": 90.6
+    }
+  ],
+  "lineage": {
+    "layer": "mdm",
+    "upstream": [
+      {
+        "table": "core_banking_customers",
+        "layer": "bronze",
+        "join": "Fuzzy match",
+        "transform": "Jaro-Winkler scoring"
+      },
+      {
+        "table": "salesforce_accounts",
+        "layer": "bronze",
+        "join": "Fuzzy match",
+        "transform": "Jaro-Winkler scoring"
+      },
+      {
+        "table": "fiserv_parties",
+        "layer": "bronze",
+        "join": "Fuzzy match",
+        "transform": "Jaro-Winkler scoring"
+      }
+    ],
+    "downstream": [
+      "dim_customer"
+    ],
+    "refresh": "After Silver refresh",
+    "sla": "< 1 hour after Silver completes"
+  },
+  "owner": "Data Engineering",
+  "refresh_frequency": "After Silver refresh",
+  "sla": "< 1 hour after Silver completes",
+  "tags": [
+    "mdm",
+    "contains_pii",
+    "data_quality"
+  ]
+}

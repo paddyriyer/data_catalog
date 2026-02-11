@@ -1,0 +1,20 @@
+annual_fee,apr_range,apy,category,max_amount,min_amount,min_balance,name,product_id,rewards_rate,signup_bonus,term_months
+95,17.99-25.99,,travel,,,,Horizon Venture Rewards,CC-001,"3x travel, 2x dining, 1x other",60000,
+0,19.99-27.99,,cashback,,,,Horizon Unlimited Cashback,CC-002,1.5% unlimited cashback,200,
+0,19.99-27.99,,dining,,,,Horizon Savor Dining,CC-003,"4% dining, 2% grocery, 1% other",200,
+395,19.24-26.24,,premium_travel,,,,Horizon Elite Travel,CC-004,"5x flights, 10x hotels, 2x other",100000,
+0,18.49-25.49,,business,,,,Horizon Spark Business,CC-005,2% unlimited on business purchases,500,
+0,24.99-29.99,,secured,,,,Horizon Secured Builder,CC-006,1% cashback on all purchases,0,
+0,15.99-23.99,,balance_transfer,,,,Horizon Platinum Balance,CC-007,0% intro APR 15 months,0,
+0,19.99-27.99,,student,,,,Horizon Quicksilver Student,CC-008,"1.5% cashback, $50 annual credit",100,
+,7.49-22.99,,personal,50000,1000,,Personal Loan Standard,PL-001,,,"36,48,60"
+,6.99-18.99,,personal_jumbo,100000,25000,,Personal Loan Jumbo,PL-002,,,"48,60,72,84"
+,4.49-12.99,,auto_new,80000,10000,,Auto Loan New Vehicle,AL-001,,,"36,48,60,72"
+,5.49-15.99,,auto_used,50000,5000,,Auto Loan Used Vehicle,AL-002,,,"36,48,60"
+,4.99-14.49,,auto_refi,75000,5000,,Auto Refinance,AL-003,,,"36,48,60"
+,,4.25,hisa,,,0,360 Performance Savings,SA-001,,,
+,,0.10,checking,,,0,360 Checking,SA-002,,,
+,,4.50,cd,,,500,12-Month CD,CD-001,,,
+,,4.30,cd,,,500,18-Month CD,CD-002,,,
+,,4.00,cd,,,500,5-Year CD,CD-003,,,
+,,4.00,money_market,,,10000,Money Market Account,MM-001,,,

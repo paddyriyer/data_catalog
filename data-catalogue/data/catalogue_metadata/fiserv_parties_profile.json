@@ -1,0 +1,448 @@
+{
+  "table_name": "fiserv_parties",
+  "layer": "bronze",
+  "file_path": "/home/claude/data-catalogue/data/bronze/fiserv_parties.csv",
+  "total_rows": 1000,
+  "total_columns": 11,
+  "file_size_bytes": 121426,
+  "file_size_human": "118.6 KB",
+  "profiled_at": "2026-02-11T05:41:50Z",
+  "quality_score": 100.0,
+  "pii_summary": {
+    "CONFIDENTIAL": 1,
+    "PII": 5,
+    "PUBLIC": 3,
+    "SPII": 2
+  },
+  "columns": [
+    {
+      "column_name": "PARTY_ID",
+      "data_type": "string",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 1000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 999,
+      "cardinality_ratio": 99.9,
+      "is_unique": false,
+      "sample_values": [
+        "FSV497263",
+        "FSV872566",
+        "FSV285406",
+        "FSV618269",
+        "FSV753737"
+      ],
+      "min_length": 9,
+      "max_length": 9,
+      "avg_length": 9.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "FULL_NAME",
+      "data_type": "string",
+      "pii_classification": "PII",
+      "total_count": 1000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 956,
+      "cardinality_ratio": 95.6,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 1000,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "min_length": 6,
+      "max_length": 19,
+      "avg_length": 12.7,
+      "quality_score": 100
+    },
+    {
+      "column_name": "EMAIL_ADDR",
+      "data_type": "email",
+      "pii_classification": "PII",
+      "total_count": 1000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1000,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 1000,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "min_length": 18,
+      "max_length": 35,
+      "avg_length": 26.1,
+      "quality_score": 100
+    },
+    {
+      "column_name": "PHONE_NUM",
+      "data_type": "integer",
+      "pii_classification": "PII",
+      "total_count": 1000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1000,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "min": 12004571098.0,
+      "max": 19992672973.0,
+      "mean": 16005403021.26,
+      "median": 16041032619.0,
+      "std_dev": 2319308498.31,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 1000,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "STREET_ADDR",
+      "data_type": "string",
+      "pii_classification": "PII",
+      "total_count": 1000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1000,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 1000,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "min_length": 10,
+      "max_length": 16,
+      "avg_length": 12.7,
+      "quality_score": 100
+    },
+    {
+      "column_name": "CITY_NAME",
+      "data_type": "string",
+      "pii_classification": "PII",
+      "total_count": 1000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 40,
+      "cardinality_ratio": 4.0,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 1000,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "min_length": 5,
+      "max_length": 14,
+      "avg_length": 8.5,
+      "quality_score": 100
+    },
+    {
+      "column_name": "STATE_CODE",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 1000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 20,
+      "cardinality_ratio": 2.0,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "IL",
+          "count": 60,
+          "pct": 6.0
+        },
+        {
+          "value": "FL",
+          "count": 60,
+          "pct": 6.0
+        },
+        {
+          "value": "MD",
+          "count": 59,
+          "pct": 5.9
+        },
+        {
+          "value": "GA",
+          "count": 59,
+          "pct": 5.9
+        },
+        {
+          "value": "MO",
+          "count": 58,
+          "pct": 5.8
+        },
+        {
+          "value": "IN",
+          "count": 57,
+          "pct": 5.7
+        },
+        {
+          "value": "NJ",
+          "count": 56,
+          "pct": 5.6
+        },
+        {
+          "value": "AZ",
+          "count": 51,
+          "pct": 5.1
+        }
+      ],
+      "sample_values": [
+        "VA",
+        "MD",
+        "MA",
+        "MI",
+        "FL"
+      ],
+      "min_length": 2,
+      "max_length": 2,
+      "avg_length": 2.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "POSTAL_CODE",
+      "data_type": "integer",
+      "pii_classification": "PUBLIC",
+      "total_count": 1000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 991,
+      "cardinality_ratio": 99.1,
+      "is_unique": false,
+      "min": 10276.0,
+      "max": 99872.0,
+      "mean": 55485.32,
+      "median": 56621.0,
+      "std_dev": 25471.93,
+      "top_values": [
+        {
+          "value": "54287",
+          "count": 2,
+          "pct": 0.2
+        },
+        {
+          "value": "43671",
+          "count": 2,
+          "pct": 0.2
+        },
+        {
+          "value": "72470",
+          "count": 2,
+          "pct": 0.2
+        },
+        {
+          "value": "64912",
+          "count": 2,
+          "pct": 0.2
+        },
+        {
+          "value": "68349",
+          "count": 2,
+          "pct": 0.2
+        },
+        {
+          "value": "11058",
+          "count": 2,
+          "pct": 0.2
+        },
+        {
+          "value": "19881",
+          "count": 2,
+          "pct": 0.2
+        },
+        {
+          "value": "23497",
+          "count": 2,
+          "pct": 0.2
+        }
+      ],
+      "sample_values": [
+        "89124",
+        "24025",
+        "65477",
+        "17546",
+        "98289"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "RISK_RATING",
+      "data_type": "string",
+      "pii_classification": "SPII",
+      "total_count": 1000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 5,
+      "cardinality_ratio": 0.5,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 1000,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "min_length": 5,
+      "max_length": 13,
+      "avg_length": 8.3,
+      "quality_score": 100
+    },
+    {
+      "column_name": "CREDIT_SCORE",
+      "data_type": "integer",
+      "pii_classification": "SPII",
+      "total_count": 1000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 296,
+      "cardinality_ratio": 29.6,
+      "is_unique": false,
+      "min": 300.0,
+      "max": 850.0,
+      "mean": 705.35,
+      "median": 718.0,
+      "std_dev": 87.77,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 1000,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "ONBOARD_DATE",
+      "data_type": "date",
+      "pii_classification": "PUBLIC",
+      "total_count": 1000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 853,
+      "cardinality_ratio": 85.3,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "2024-10-29",
+          "count": 3,
+          "pct": 0.3
+        },
+        {
+          "value": "2022-02-06",
+          "count": 3,
+          "pct": 0.3
+        },
+        {
+          "value": "2025-06-07",
+          "count": 3,
+          "pct": 0.3
+        },
+        {
+          "value": "2025-09-27",
+          "count": 3,
+          "pct": 0.3
+        },
+        {
+          "value": "2021-09-03",
+          "count": 3,
+          "pct": 0.3
+        },
+        {
+          "value": "2024-06-13",
+          "count": 3,
+          "pct": 0.3
+        },
+        {
+          "value": "2022-09-05",
+          "count": 3,
+          "pct": 0.3
+        },
+        {
+          "value": "2018-03-06",
+          "count": 3,
+          "pct": 0.3
+        }
+      ],
+      "sample_values": [
+        "2019-04-01",
+        "2019-05-31",
+        "2020-05-19",
+        "2021-02-17",
+        "2024-07-03"
+      ],
+      "quality_score": 100
+    }
+  ],
+  "lineage": {
+    "layer": "bronze",
+    "upstream": [
+      {
+        "table": "Fiserv SFTP",
+        "layer": "source",
+        "join": "File drop",
+        "transform": "None (raw CSV)"
+      }
+    ],
+    "downstream": [
+      "dim_customer"
+    ],
+    "refresh": "Daily at 02:00 UTC",
+    "sla": "< 1 hour after file drop"
+  },
+  "owner": "Data Engineering",
+  "refresh_frequency": "Daily at 02:00 UTC",
+  "sla": "< 1 hour after file drop",
+  "tags": [
+    "bronze",
+    "contains_pii"
+  ]
+}

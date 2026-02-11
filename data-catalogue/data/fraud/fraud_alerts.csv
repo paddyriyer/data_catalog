@@ -1,0 +1,645 @@
+alert_id,transaction_id,account_id,customer_id,alert_timestamp,alert_type,severity,risk_score,amount,merchant_category,detection_method,model_version,status,assigned_to,resolution_date,loss_amount
+FRD-00001,TXN-00030,ACCT-10168,CUST-00085,2026-02-07T06:06:12Z,card_not_present_high_risk,medium,0.37,33.07,Pharmacy,geo_fence,aml_v2.1,investigating,analyst_006,2026-03-07,0
+FRD-00002,TXN-00047,ACCT-13786,CUST-01955,2025-04-05T06:44:54Z,multiple_declines,critical,0.674,589.99,Airlines,network_analysis,fraud_v3.2,investigating,analyst_008,2025-04-16,0
+FRD-00003,TXN-00054,ACCT-11801,CUST-00905,2025-06-15T23:06:28Z,structuring_pattern,medium,0.841,160.97,Medical,ml_model,aml_v2.1,investigating,analyst_007,2025-07-13,0
+FRD-00004,TXN-00065,ACCT-10068,CUST-00030,2026-02-07T07:05:36Z,large_purchase,high,0.875,593.92,Airlines,geo_fence,aml_v2.1,investigating,analyst_007,,0
+FRD-00005,TXN-00102,ACCT-11360,CUST-00671,2025-06-04T20:58:07Z,geographic_anomaly,high,0.44,15.52,Parking,geo_fence,aml_v2.1,open,analyst_005,2025-06-25,0
+FRD-00006,TXN-00166,ACCT-12430,CUST-01241,2025-07-31T04:34:34Z,structuring_pattern,high,0.885,620.69,Airlines,rules_engine,fraud_v3.2,closed,analyst_017,,0
+FRD-00007,TXN-00174,ACCT-10107,CUST-00050,2025-07-31T17:54:09Z,new_merchant_high_amount,low,0.867,504.12,Airlines,network_analysis,aml_v2.1,false_positive,analyst_004,,0
+FRD-00008,TXN-00191,ACCT-10521,CUST-00248,2025-10-02T16:30:26Z,account_takeover_attempt,medium,0.801,603.95,Airlines,network_analysis,fraud_v3.3,false_positive,analyst_002,2025-10-23,0
+FRD-00009,TXN-00236,ACCT-10777,CUST-00379,2025-12-31T02:06:25Z,international_unusual,critical,0.386,550.73,Airlines,velocity_check,fraud_v3.3,false_positive,analyst_011,2026-01-19,0
+FRD-00010,TXN-00247,ACCT-10876,CUST-00428,2025-10-06T09:34:08Z,geographic_anomaly,low,0.42,682.83,Airlines,ml_model,fraud_v3.2,closed,analyst_005,2025-10-10,0
+FRD-00011,TXN-00269,ACCT-13038,CUST-01561,2025-12-24T02:05:15Z,account_takeover_attempt,medium,0.887,547.34,Airlines,velocity_check,aml_v2.1,false_positive,analyst_016,2025-12-29,0
+FRD-00012,TXN-00312,ACCT-12690,CUST-01380,2025-12-29T13:01:48Z,velocity_spike,low,0.821,114.07,Clothing,geo_fence,fraud_v3.3,false_positive,analyst_006,2026-01-20,0
+FRD-00013,TXN-00370,ACCT-13746,CUST-01931,2025-10-13T10:22:53Z,account_takeover_attempt,low,0.936,89.34,Department Stores,geo_fence,fraud_v3.2,false_positive,analyst_011,2025-10-24,0
+FRD-00014,TXN-00397,ACCT-13292,CUST-01684,2025-04-11T01:49:39Z,geographic_anomaly,high,0.864,23.3,Online Shopping,rules_engine,fraud_v3.2,investigating,analyst_005,2025-04-16,0
+FRD-00015,TXN-00416,ACCT-11122,CUST-00548,2025-04-25T12:26:11Z,velocity_spike,critical,0.651,604.2,Airlines,rules_engine,fraud_v3.3,false_positive,analyst_012,2025-05-17,0
+FRD-00016,TXN-00426,ACCT-12369,CUST-01210,2025-05-01T10:35:52Z,international_unusual,medium,0.408,507.23,Airlines,network_analysis,fraud_v3.3,closed,analyst_017,2025-05-20,0
+FRD-00017,TXN-00475,ACCT-11061,CUST-00518,2025-03-10T04:51:57Z,multiple_declines,medium,0.755,78.68,Grocery,ml_model,aml_v2.1,false_positive,analyst_010,2025-03-15,0
+FRD-00018,TXN-00578,ACCT-13203,CUST-01637,2025-03-28T20:05:47Z,multiple_declines,low,0.731,89.08,Grocery,velocity_check,fraud_v3.2,false_positive,analyst_007,2025-04-12,0
+FRD-00019,TXN-00600,ACCT-11904,CUST-00960,2025-12-29T02:21:01Z,account_takeover_attempt,medium,0.629,36.84,Bookstores,ml_model,aml_v2.1,closed,analyst_002,,0
+FRD-00020,TXN-00660,ACCT-10909,CUST-00441,2025-04-24T07:22:55Z,account_takeover_attempt,high,0.736,644.85,Airlines,velocity_check,aml_v2.1,false_positive,analyst_019,2025-05-08,0
+FRD-00021,TXN-00713,ACCT-12409,CUST-01231,2025-02-26T23:23:33Z,large_purchase,high,0.833,583.3,Airlines,rules_engine,fraud_v3.2,false_positive,analyst_013,2025-03-12,0
+FRD-00022,TXN-00722,ACCT-10980,CUST-00475,2025-02-15T04:58:42Z,unusual_time_pattern,medium,0.898,42.26,Entertainment,geo_fence,aml_v2.1,false_positive,analyst_008,,0
+FRD-00023,TXN-00798,ACCT-11146,CUST-00560,2025-03-22T15:51:31Z,geographic_anomaly,medium,0.917,79.02,Online Shopping,ml_model,aml_v2.1,confirmed_fraud,analyst_006,2025-03-30,0
+FRD-00024,TXN-00800,ACCT-12508,CUST-01283,2025-04-15T19:46:24Z,geographic_anomaly,high,0.985,3.64,Gas Stations,rules_engine,aml_v2.1,false_positive,analyst_014,,0
+FRD-00025,TXN-00848,ACCT-10589,CUST-00281,2025-04-02T06:00:52Z,velocity_spike,medium,0.755,508.14,Airlines,rules_engine,fraud_v3.2,open,analyst_001,,0
+FRD-00026,TXN-00895,ACCT-13548,CUST-01822,2025-06-10T19:15:03Z,large_purchase,medium,0.846,642.81,Airlines,network_analysis,fraud_v3.2,false_positive,analyst_019,,0
+FRD-00027,TXN-00915,ACCT-11713,CUST-00860,2025-05-24T04:10:55Z,account_takeover_attempt,low,0.505,526.72,Airlines,velocity_check,fraud_v3.2,confirmed_fraud,analyst_020,2025-06-15,0
+FRD-00028,TXN-00924,ACCT-13045,CUST-01564,2025-12-18T02:20:16Z,large_purchase,medium,0.527,660.06,Airlines,ml_model,fraud_v3.3,false_positive,analyst_009,2026-01-11,440.25
+FRD-00029,TXN-00990,ACCT-13243,CUST-01662,2025-06-17T01:13:24Z,large_purchase,high,0.61,807.0,Airlines,network_analysis,fraud_v3.3,false_positive,analyst_006,2025-06-23,0
+FRD-00030,TXN-01082,ACCT-11753,CUST-00881,2025-10-06T09:27:02Z,large_purchase,medium,0.914,594.31,Airlines,velocity_check,fraud_v3.2,confirmed_fraud,analyst_007,2025-10-27,0
+FRD-00031,TXN-01102,ACCT-13637,CUST-01869,2025-09-26T02:51:05Z,large_purchase,low,0.734,534.26,Airlines,rules_engine,fraud_v3.3,false_positive,analyst_013,2025-09-29,0
+FRD-00032,TXN-01139,ACCT-11842,CUST-00924,2025-08-13T21:06:09Z,multiple_declines,medium,0.784,534.8,Airlines,rules_engine,fraud_v3.2,investigating,analyst_018,2025-08-14,0
+FRD-00033,TXN-01140,ACCT-11093,CUST-00531,2025-09-12T11:50:47Z,card_not_present_high_risk,high,0.717,67.64,Grocery,velocity_check,fraud_v3.2,false_positive,analyst_011,2025-09-17,0
+FRD-00034,TXN-01171,ACCT-10517,CUST-00245,2025-12-29T03:15:15Z,large_purchase,low,0.786,500.52,Airlines,network_analysis,fraud_v3.3,open,analyst_015,2026-01-11,0
+FRD-00035,TXN-01350,ACCT-12124,CUST-01081,2025-10-26T06:11:13Z,large_purchase,low,0.668,139.14,Department Stores,network_analysis,fraud_v3.3,false_positive,analyst_015,,0
+FRD-00036,TXN-01383,ACCT-10383,CUST-00182,2025-06-11T04:15:04Z,large_purchase,medium,0.416,88.93,Grocery,ml_model,fraud_v3.3,closed,analyst_007,,0
+FRD-00037,TXN-01387,ACCT-13544,CUST-01820,2025-05-17T20:28:50Z,unusual_time_pattern,medium,0.311,581.28,Airlines,network_analysis,fraud_v3.2,open,analyst_008,,0
+FRD-00038,TXN-01493,ACCT-12063,CUST-01044,2025-05-20T13:45:09Z,multiple_declines,low,0.447,502.59,Airlines,ml_model,fraud_v3.2,false_positive,analyst_019,2025-05-31,0
+FRD-00039,TXN-01499,ACCT-12719,CUST-01391,2026-02-09T09:54:09Z,large_purchase,low,0.907,102.02,Airlines,geo_fence,fraud_v3.2,investigating,analyst_017,,0
+FRD-00040,TXN-01571,ACCT-11778,CUST-00894,2025-07-25T18:48:48Z,multiple_declines,low,0.771,121.81,Department Stores,geo_fence,fraud_v3.2,open,analyst_012,2025-08-21,0
+FRD-00041,TXN-01583,ACCT-13749,CUST-01932,2025-02-13T10:36:41Z,international_unusual,high,0.409,578.01,Airlines,ml_model,fraud_v3.2,investigating,analyst_006,,0
+FRD-00042,TXN-01627,ACCT-12746,CUST-01404,2025-03-10T10:26:15Z,large_purchase,low,0.671,31.7,Pharmacy,rules_engine,fraud_v3.2,closed,analyst_018,2025-03-30,0
+FRD-00043,TXN-01641,ACCT-10020,CUST-00009,2025-11-16T00:07:26Z,velocity_spike,low,0.648,93.44,Online Shopping,geo_fence,fraud_v3.2,false_positive,analyst_009,2025-11-29,0
+FRD-00044,TXN-01649,ACCT-12238,CUST-01141,2026-02-08T01:01:59Z,new_merchant_high_amount,medium,0.307,536.86,Airlines,network_analysis,fraud_v3.3,confirmed_fraud,analyst_012,,0
+FRD-00045,TXN-01667,ACCT-11779,CUST-00895,2025-07-20T01:01:10Z,new_merchant_high_amount,high,0.958,532.13,Airlines,geo_fence,fraud_v3.2,false_positive,analyst_001,2025-08-14,0
+FRD-00046,TXN-01692,ACCT-12812,CUST-01436,2025-02-26T22:33:52Z,velocity_spike,high,0.481,82.42,Grocery,velocity_check,aml_v2.1,investigating,analyst_002,2025-03-03,0
+FRD-00047,TXN-01793,ACCT-11418,CUST-00702,2025-06-12T03:09:12Z,velocity_spike,medium,0.646,737.54,Airlines,network_analysis,aml_v2.1,investigating,analyst_013,,390.87
+FRD-00048,TXN-01802,ACCT-12267,CUST-01158,2025-07-29T20:34:04Z,new_merchant_high_amount,medium,0.459,613.96,Airlines,ml_model,fraud_v3.3,false_positive,analyst_012,2025-08-12,0
+FRD-00049,TXN-01818,ACCT-12531,CUST-01292,2026-02-08T13:41:49Z,unusual_time_pattern,low,0.843,516.37,Airlines,rules_engine,aml_v2.1,investigating,analyst_007,2026-02-13,0
+FRD-00050,TXN-01880,ACCT-11566,CUST-00784,2025-04-01T11:50:52Z,large_purchase,medium,0.711,649.19,Airlines,network_analysis,aml_v2.1,investigating,analyst_016,2025-04-22,0
+FRD-00051,TXN-01957,ACCT-11334,CUST-00659,2026-01-17T09:58:32Z,large_purchase,medium,0.567,580.17,Airlines,geo_fence,fraud_v3.2,closed,analyst_013,,0
+FRD-00052,TXN-02002,ACCT-10139,CUST-00069,2025-09-18T11:15:56Z,international_unusual,medium,0.468,150.13,Electronics,network_analysis,fraud_v3.3,false_positive,analyst_006,,0
+FRD-00053,TXN-02046,ACCT-10533,CUST-00252,2025-10-08T03:19:29Z,card_not_present_high_risk,critical,0.863,150.49,Electronics,velocity_check,aml_v2.1,investigating,analyst_017,2025-10-20,0
+FRD-00054,TXN-02101,ACCT-13259,CUST-01669,2025-07-08T00:20:15Z,geographic_anomaly,medium,0.443,543.0,Airlines,network_analysis,fraud_v3.2,false_positive,analyst_017,2025-08-02,0
+FRD-00055,TXN-02181,ACCT-12695,CUST-01382,2025-03-05T03:16:49Z,large_purchase,medium,0.748,578.55,Airlines,geo_fence,fraud_v3.2,false_positive,analyst_020,,205.42
+FRD-00056,TXN-02229,ACCT-12007,CUST-01018,2025-07-22T19:07:50Z,card_not_present_high_risk,medium,0.411,29.16,Entertainment,velocity_check,fraud_v3.3,open,analyst_008,,0
+FRD-00057,TXN-02237,ACCT-13192,CUST-01631,2025-09-30T06:49:19Z,large_purchase,medium,0.953,599.86,Airlines,rules_engine,aml_v2.1,false_positive,analyst_020,2025-10-03,0
+FRD-00058,TXN-02266,ACCT-13218,CUST-01647,2025-12-14T22:38:16Z,large_purchase,high,0.556,197.53,Electronics,velocity_check,aml_v2.1,open,analyst_014,2025-12-21,0
+FRD-00059,TXN-02285,ACCT-13183,CUST-01627,2025-08-15T07:01:02Z,structuring_pattern,high,0.556,518.81,Airlines,ml_model,fraud_v3.3,confirmed_fraud,analyst_002,2025-08-27,0
+FRD-00060,TXN-02290,ACCT-12933,CUST-01500,2025-02-25T22:09:28Z,card_not_present_high_risk,low,0.785,583.36,Airlines,network_analysis,fraud_v3.3,confirmed_fraud,analyst_007,2025-03-23,0
+FRD-00061,TXN-02314,ACCT-10013,CUST-00006,2025-05-23T06:10:20Z,velocity_spike,medium,0.996,12.72,Entertainment,ml_model,fraud_v3.2,closed,analyst_004,,0
+FRD-00062,TXN-02442,ACCT-10685,CUST-00328,2025-03-02T19:35:53Z,geographic_anomaly,high,0.638,38.99,Pharmacy,rules_engine,fraud_v3.3,closed,analyst_016,2025-03-28,0
+FRD-00063,TXN-02484,ACCT-10989,CUST-00480,2026-02-05T23:59:39Z,large_purchase,medium,0.937,36.11,Entertainment,network_analysis,fraud_v3.3,closed,analyst_020,2026-02-15,0
+FRD-00064,TXN-02533,ACCT-10357,CUST-00172,2025-07-03T05:51:40Z,account_takeover_attempt,medium,0.868,38.66,Entertainment,ml_model,fraud_v3.3,closed,analyst_008,,0
+FRD-00065,TXN-02538,ACCT-12868,CUST-01466,2025-07-20T16:47:33Z,multiple_declines,medium,0.906,67.5,Grocery,rules_engine,fraud_v3.3,false_positive,analyst_011,2025-07-28,0
+FRD-00066,TXN-02617,ACCT-13086,CUST-01583,2026-01-25T20:48:53Z,structuring_pattern,critical,0.788,561.14,Airlines,rules_engine,aml_v2.1,investigating,analyst_013,2026-01-28,0
+FRD-00067,TXN-02636,ACCT-10464,CUST-00218,2025-02-26T10:39:37Z,unusual_time_pattern,critical,0.51,562.92,Airlines,velocity_check,aml_v2.1,false_positive,analyst_009,2025-03-11,298.69
+FRD-00068,TXN-02732,ACCT-12599,CUST-01331,2025-08-18T04:03:39Z,geographic_anomaly,low,0.931,641.93,Airlines,rules_engine,aml_v2.1,investigating,analyst_011,2025-09-03,0
+FRD-00069,TXN-02773,ACCT-10637,CUST-00303,2025-06-27T03:09:44Z,multiple_declines,critical,0.303,19.43,Restaurants,ml_model,aml_v2.1,investigating,analyst_014,,6.11
+FRD-00070,TXN-02856,ACCT-12080,CUST-01057,2025-08-30T20:16:29Z,card_not_present_high_risk,low,0.897,59.99,Restaurants,velocity_check,fraud_v3.2,open,analyst_020,2025-09-23,0
+FRD-00071,TXN-02858,ACCT-10482,CUST-00226,2025-08-29T02:49:25Z,large_purchase,medium,0.509,20.91,Pharmacy,rules_engine,aml_v2.1,false_positive,analyst_005,2025-09-12,0
+FRD-00072,TXN-03021,ACCT-12161,CUST-01100,2025-05-18T06:07:05Z,account_takeover_attempt,medium,0.594,505.41,Airlines,ml_model,fraud_v3.2,false_positive,analyst_020,2025-06-10,0
+FRD-00073,TXN-03062,ACCT-13229,CUST-01652,2025-07-10T21:06:15Z,geographic_anomaly,critical,0.734,19.99,Parking,rules_engine,fraud_v3.3,false_positive,analyst_002,2025-07-21,17.97
+FRD-00074,TXN-03096,ACCT-10567,CUST-00266,2025-02-12T01:00:27Z,geographic_anomaly,medium,0.518,583.63,Airlines,velocity_check,fraud_v3.3,false_positive,analyst_010,,0
+FRD-00075,TXN-03130,ACCT-11249,CUST-00618,2025-04-20T22:20:26Z,velocity_spike,low,0.526,16.35,Parking,velocity_check,fraud_v3.2,false_positive,analyst_004,,0
+FRD-00076,TXN-03136,ACCT-13131,CUST-01606,2025-07-20T02:01:49Z,international_unusual,medium,0.412,712.55,Airlines,network_analysis,aml_v2.1,false_positive,analyst_011,2025-08-13,0
+FRD-00077,TXN-03140,ACCT-12396,CUST-01224,2025-08-02T22:10:36Z,geographic_anomaly,medium,0.503,654.96,Airlines,velocity_check,aml_v2.1,investigating,analyst_017,2025-08-25,0
+FRD-00078,TXN-03141,ACCT-13413,CUST-01750,2026-01-16T05:28:40Z,international_unusual,medium,0.644,9.39,Fast Food,network_analysis,fraud_v3.3,open,analyst_008,,0
+FRD-00079,TXN-03173,ACCT-13683,CUST-01894,2025-04-09T06:30:09Z,international_unusual,high,0.377,513.76,Airlines,rules_engine,fraud_v3.3,false_positive,analyst_006,,132.37
+FRD-00080,TXN-03181,ACCT-11300,CUST-00644,2025-04-02T09:19:03Z,account_takeover_attempt,low,0.88,58.55,Gas Stations,rules_engine,fraud_v3.2,closed,analyst_016,,0
+FRD-00081,TXN-03209,ACCT-12131,CUST-01085,2025-12-07T03:50:15Z,geographic_anomaly,low,0.81,611.64,Airlines,network_analysis,fraud_v3.3,investigating,analyst_007,2025-12-27,0
+FRD-00082,TXN-03248,ACCT-13462,CUST-01776,2025-06-09T02:46:58Z,international_unusual,medium,0.656,738.16,Airlines,geo_fence,aml_v2.1,confirmed_fraud,analyst_018,2025-06-22,0
+FRD-00083,TXN-03314,ACCT-12858,CUST-01458,2025-12-29T18:02:14Z,unusual_time_pattern,high,0.57,21.96,Entertainment,rules_engine,fraud_v3.3,closed,analyst_014,,0
+FRD-00084,TXN-03365,ACCT-12997,CUST-01535,2025-02-17T20:07:21Z,international_unusual,low,0.33,516.83,Airlines,geo_fence,fraud_v3.2,investigating,analyst_017,2025-03-13,0
+FRD-00085,TXN-03394,ACCT-11977,CUST-01003,2025-04-16T14:56:28Z,card_not_present_high_risk,medium,0.313,585.6,Airlines,geo_fence,fraud_v3.3,false_positive,analyst_006,,0
+FRD-00086,TXN-03471,ACCT-10213,CUST-00109,2026-01-15T20:50:31Z,velocity_spike,medium,0.696,695.1,Airlines,geo_fence,fraud_v3.2,false_positive,analyst_009,2026-02-04,0
+FRD-00087,TXN-03476,ACCT-11634,CUST-00818,2025-02-25T12:59:28Z,geographic_anomaly,high,0.805,546.75,Airlines,geo_fence,fraud_v3.2,confirmed_fraud,analyst_001,2025-03-06,0
+FRD-00088,TXN-03535,ACCT-11102,CUST-00536,2026-02-08T08:13:52Z,structuring_pattern,medium,0.467,602.6,Airlines,ml_model,aml_v2.1,confirmed_fraud,analyst_003,2026-02-22,5.32
+FRD-00089,TXN-03545,ACCT-13539,CUST-01818,2026-02-07T23:49:36Z,multiple_declines,critical,0.557,698.8,Airlines,velocity_check,fraud_v3.3,investigating,analyst_002,,0
+FRD-00090,TXN-03637,ACCT-10324,CUST-00157,2025-04-13T16:14:43Z,international_unusual,medium,0.978,518.47,Airlines,velocity_check,aml_v2.1,investigating,analyst_011,2025-05-10,232.07
+FRD-00091,TXN-03661,ACCT-13683,CUST-01894,2025-05-10T10:18:53Z,new_merchant_high_amount,low,0.975,403.79,Airlines,network_analysis,fraud_v3.3,closed,analyst_010,2025-05-26,0
+FRD-00092,TXN-03750,ACCT-12421,CUST-01235,2025-08-09T15:32:24Z,large_purchase,medium,0.653,652.65,Airlines,ml_model,aml_v2.1,closed,analyst_012,,0
+FRD-00093,TXN-03758,ACCT-13343,CUST-01709,2025-02-27T12:06:26Z,velocity_spike,low,0.657,111.96,Hotels,geo_fence,fraud_v3.2,false_positive,analyst_009,2025-03-22,0
+FRD-00094,TXN-03799,ACCT-11047,CUST-00512,2025-08-05T10:03:51Z,card_not_present_high_risk,low,0.668,35.32,Gas Stations,ml_model,fraud_v3.3,false_positive,analyst_011,2025-09-04,7.5
+FRD-00095,TXN-03835,ACCT-13672,CUST-01890,2025-12-25T00:55:16Z,new_merchant_high_amount,critical,0.369,674.51,Airlines,network_analysis,fraud_v3.3,closed,analyst_018,2026-01-11,0
+FRD-00096,TXN-03844,ACCT-10174,CUST-00087,2025-05-31T17:16:40Z,geographic_anomaly,medium,0.694,22.45,Rideshare/Taxi,ml_model,fraud_v3.2,investigating,analyst_016,,0
+FRD-00097,TXN-03899,ACCT-10129,CUST-00063,2026-01-15T22:50:11Z,international_unusual,critical,0.86,509.56,Airlines,ml_model,fraud_v3.2,false_positive,analyst_016,2026-02-04,0
+FRD-00098,TXN-04029,ACCT-11283,CUST-00635,2025-11-16T21:09:43Z,large_purchase,medium,0.347,704.1,Airlines,ml_model,aml_v2.1,false_positive,analyst_008,2025-11-22,0
+FRD-00099,TXN-04087,ACCT-11919,CUST-00971,2025-10-21T17:07:19Z,account_takeover_attempt,low,0.867,59.45,Online Shopping,network_analysis,fraud_v3.3,false_positive,analyst_004,,6.79
+FRD-00100,TXN-04107,ACCT-10145,CUST-00072,2025-04-02T01:26:57Z,velocity_spike,low,0.591,620.18,Airlines,network_analysis,aml_v2.1,open,analyst_014,2025-04-23,0
+FRD-00101,TXN-04146,ACCT-12399,CUST-01225,2025-09-29T19:18:10Z,large_purchase,high,0.846,566.45,Airlines,ml_model,fraud_v3.3,closed,analyst_003,2025-10-06,489.68
+FRD-00102,TXN-04226,ACCT-13715,CUST-01913,2025-11-08T05:09:16Z,account_takeover_attempt,high,0.38,593.82,Airlines,rules_engine,fraud_v3.2,closed,analyst_013,2025-11-10,0
+FRD-00103,TXN-04320,ACCT-10572,CUST-00269,2025-10-19T23:34:49Z,large_purchase,medium,0.951,561.3,Airlines,ml_model,aml_v2.1,closed,analyst_004,,0
+FRD-00104,TXN-04321,ACCT-10434,CUST-00206,2025-09-02T20:57:37Z,new_merchant_high_amount,low,0.777,612.84,Airlines,rules_engine,aml_v2.1,open,analyst_006,2025-10-02,0
+FRD-00105,TXN-04360,ACCT-13499,CUST-01795,2025-07-31T13:18:30Z,velocity_spike,high,0.386,61.39,Clothing,geo_fence,aml_v2.1,false_positive,analyst_015,2025-08-07,0
+FRD-00106,TXN-04411,ACCT-10812,CUST-00397,2025-02-21T03:44:38Z,new_merchant_high_amount,medium,0.55,572.63,Airlines,rules_engine,fraud_v3.3,confirmed_fraud,analyst_020,2025-03-14,0
+FRD-00107,TXN-04424,ACCT-13124,CUST-01603,2025-05-30T23:27:58Z,account_takeover_attempt,low,0.767,643.05,Airlines,velocity_check,fraud_v3.3,false_positive,analyst_004,2025-06-14,0
+FRD-00108,TXN-04469,ACCT-12423,CUST-01236,2025-04-30T18:00:02Z,velocity_spike,critical,0.575,698.89,Airlines,ml_model,aml_v2.1,false_positive,analyst_007,2025-05-21,0
+FRD-00109,TXN-04489,ACCT-13227,CUST-01651,2025-06-26T01:36:26Z,card_not_present_high_risk,medium,0.399,34.23,Bookstores,velocity_check,fraud_v3.2,false_positive,analyst_002,2025-06-28,0
+FRD-00110,TXN-04495,ACCT-13581,CUST-01842,2025-07-24T11:52:16Z,card_not_present_high_risk,low,0.768,651.48,Airlines,ml_model,fraud_v3.2,false_positive,analyst_008,2025-08-15,0
+FRD-00111,TXN-04619,ACCT-11443,CUST-00715,2025-02-22T18:07:25Z,card_not_present_high_risk,medium,0.774,541.31,Airlines,network_analysis,fraud_v3.3,investigating,analyst_009,,0
+FRD-00112,TXN-04678,ACCT-12316,CUST-01185,2025-07-26T05:43:00Z,international_unusual,medium,0.635,772.85,Airlines,velocity_check,fraud_v3.2,investigating,analyst_005,2025-08-25,0
+FRD-00113,TXN-04735,ACCT-12413,CUST-01233,2026-01-22T17:11:43Z,large_purchase,low,0.355,11.7,Parking,ml_model,fraud_v3.3,open,analyst_010,,0
+FRD-00114,TXN-04776,ACCT-11164,CUST-00569,2025-05-14T12:17:07Z,new_merchant_high_amount,low,0.918,742.45,Airlines,ml_model,aml_v2.1,investigating,analyst_013,2025-05-24,0
+FRD-00115,TXN-04777,ACCT-10784,CUST-00383,2025-02-23T19:31:23Z,card_not_present_high_risk,critical,0.585,118.55,Airlines,velocity_check,fraud_v3.2,false_positive,analyst_002,2025-03-01,0
+FRD-00116,TXN-04851,ACCT-12055,CUST-01041,2026-01-05T05:01:28Z,card_not_present_high_risk,high,0.557,13.84,Parking,network_analysis,fraud_v3.3,false_positive,analyst_010,,0
+FRD-00117,TXN-04861,ACCT-11423,CUST-00704,2025-12-04T02:21:12Z,geographic_anomaly,medium,0.732,16.26,Fast Food,velocity_check,fraud_v3.2,false_positive,analyst_018,2026-01-03,0
+FRD-00118,TXN-04905,ACCT-12989,CUST-01529,2025-12-28T17:19:36Z,geographic_anomaly,low,0.724,521.45,Airlines,rules_engine,fraud_v3.3,closed,analyst_015,,0
+FRD-00119,TXN-04918,ACCT-13197,CUST-01634,2025-12-20T14:35:46Z,structuring_pattern,low,0.572,563.31,Airlines,geo_fence,aml_v2.1,false_positive,analyst_018,,0
+FRD-00120,TXN-04970,ACCT-13556,CUST-01827,2025-07-09T13:52:32Z,velocity_spike,high,0.923,526.04,Airlines,geo_fence,fraud_v3.2,open,analyst_006,,0
+FRD-00121,TXN-04992,ACCT-11542,CUST-00771,2025-09-29T12:12:39Z,geographic_anomaly,medium,0.543,18.41,Bookstores,velocity_check,aml_v2.1,false_positive,analyst_003,2025-10-08,0
+FRD-00122,TXN-05073,ACCT-12064,CUST-01045,2025-10-07T13:34:23Z,international_unusual,low,0.409,569.29,Airlines,velocity_check,aml_v2.1,confirmed_fraud,analyst_003,,0
+FRD-00123,TXN-05120,ACCT-13124,CUST-01603,2025-05-24T19:44:41Z,card_not_present_high_risk,low,0.736,731.21,Airlines,network_analysis,aml_v2.1,false_positive,analyst_010,2025-06-11,0
+FRD-00124,TXN-05144,ACCT-12977,CUST-01522,2025-11-09T14:58:49Z,new_merchant_high_amount,high,0.768,531.3,Airlines,geo_fence,aml_v2.1,investigating,analyst_017,2025-11-15,0
+FRD-00125,TXN-05175,ACCT-10046,CUST-00021,2025-05-25T00:03:36Z,structuring_pattern,low,0.671,586.66,Airlines,geo_fence,fraud_v3.3,false_positive,analyst_014,,0
+FRD-00126,TXN-05278,ACCT-12616,CUST-01343,2025-02-12T14:05:40Z,account_takeover_attempt,medium,0.955,834.49,Airlines,velocity_check,fraud_v3.2,closed,analyst_010,2025-03-02,0
+FRD-00127,TXN-05345,ACCT-10221,CUST-00113,2025-10-29T18:44:42Z,large_purchase,medium,0.68,613.89,Airlines,geo_fence,aml_v2.1,open,analyst_004,,0
+FRD-00128,TXN-05358,ACCT-12816,CUST-01438,2025-12-20T12:48:03Z,new_merchant_high_amount,low,0.516,53.99,Department Stores,ml_model,aml_v2.1,false_positive,analyst_014,2025-12-22,0
+FRD-00129,TXN-05419,ACCT-12631,CUST-01347,2025-06-19T15:25:28Z,card_not_present_high_risk,high,0.41,672.21,Airlines,network_analysis,aml_v2.1,false_positive,analyst_016,2025-07-01,0
+FRD-00130,TXN-05434,ACCT-12772,CUST-01417,2025-12-12T11:58:24Z,card_not_present_high_risk,medium,0.417,89.33,Clothing,network_analysis,aml_v2.1,investigating,analyst_012,,0
+FRD-00131,TXN-05536,ACCT-11674,CUST-00840,2025-07-19T11:51:54Z,large_purchase,low,0.496,18.71,Parking,velocity_check,fraud_v3.2,closed,analyst_018,2025-08-01,0
+FRD-00132,TXN-05662,ACCT-10644,CUST-00306,2026-01-03T02:37:05Z,geographic_anomaly,high,0.935,551.63,Airlines,ml_model,fraud_v3.2,false_positive,analyst_008,,0
+FRD-00133,TXN-05687,ACCT-11545,CUST-00771,2025-11-10T06:15:30Z,international_unusual,medium,0.392,648.87,Airlines,velocity_check,aml_v2.1,false_positive,analyst_012,2025-11-27,0
+FRD-00134,TXN-05724,ACCT-11835,CUST-00921,2025-06-17T19:48:15Z,velocity_spike,high,0.626,546.26,Airlines,network_analysis,fraud_v3.2,closed,analyst_006,2025-06-20,0
+FRD-00135,TXN-05809,ACCT-10086,CUST-00042,2025-07-02T23:59:56Z,card_not_present_high_risk,medium,0.476,32.88,Pharmacy,network_analysis,fraud_v3.3,false_positive,analyst_003,2025-07-09,0
+FRD-00136,TXN-05812,ACCT-12166,CUST-01103,2025-08-14T10:05:19Z,multiple_declines,medium,0.42,515.66,Airlines,velocity_check,fraud_v3.2,false_positive,analyst_018,2025-08-26,0
+FRD-00137,TXN-05851,ACCT-11074,CUST-00524,2025-09-26T00:25:51Z,structuring_pattern,high,0.577,112.66,Grocery,ml_model,fraud_v3.2,false_positive,analyst_013,2025-10-08,0
+FRD-00138,TXN-05971,ACCT-13101,CUST-01592,2026-01-03T01:25:06Z,large_purchase,medium,0.86,538.81,Airlines,ml_model,fraud_v3.3,confirmed_fraud,analyst_014,2026-01-23,0
+FRD-00139,TXN-06078,ACCT-11160,CUST-00567,2025-09-15T04:56:44Z,geographic_anomaly,critical,0.922,489.42,Airlines,velocity_check,fraud_v3.3,investigating,analyst_014,2025-10-14,0
+FRD-00140,TXN-06086,ACCT-10592,CUST-00282,2025-12-06T02:37:06Z,card_not_present_high_risk,low,0.671,530.92,Airlines,network_analysis,aml_v2.1,closed,analyst_014,2025-12-08,0
+FRD-00141,TXN-06139,ACCT-12753,CUST-01408,2025-05-21T01:17:25Z,multiple_declines,low,0.398,123.86,Medical,velocity_check,aml_v2.1,closed,analyst_007,,0
+FRD-00142,TXN-06175,ACCT-11332,CUST-00659,2025-08-31T09:02:10Z,velocity_spike,medium,0.691,90.32,Gas Stations,network_analysis,fraud_v3.2,open,analyst_017,2025-09-04,80.2
+FRD-00143,TXN-06247,ACCT-11548,CUST-00773,2025-07-29T15:51:35Z,international_unusual,low,0.505,535.04,Airlines,velocity_check,fraud_v3.3,closed,analyst_003,2025-08-24,0
+FRD-00144,TXN-06253,ACCT-13201,CUST-01636,2025-03-07T20:13:24Z,velocity_spike,low,0.704,18.42,Rideshare/Taxi,ml_model,aml_v2.1,closed,analyst_014,,0
+FRD-00145,TXN-06261,ACCT-10690,CUST-00330,2025-09-11T11:45:08Z,international_unusual,critical,0.458,105.28,Medical,ml_model,aml_v2.1,false_positive,analyst_018,,0
+FRD-00146,TXN-06289,ACCT-13096,CUST-01589,2026-01-13T21:33:58Z,velocity_spike,high,0.435,139.46,Electronics,rules_engine,fraud_v3.3,confirmed_fraud,analyst_011,2026-02-10,0
+FRD-00147,TXN-06301,ACCT-12310,CUST-01182,2025-03-22T04:34:28Z,international_unusual,medium,0.874,527.09,Airlines,velocity_check,fraud_v3.3,false_positive,analyst_017,2025-04-14,0
+FRD-00148,TXN-06336,ACCT-12864,CUST-01462,2025-02-27T14:40:21Z,international_unusual,critical,0.554,623.82,Airlines,network_analysis,aml_v2.1,open,analyst_019,2025-03-23,0
+FRD-00149,TXN-06373,ACCT-12372,CUST-01211,2025-10-05T09:48:30Z,velocity_spike,high,0.714,690.27,Airlines,rules_engine,fraud_v3.2,confirmed_fraud,analyst_002,2025-10-31,92.93
+FRD-00150,TXN-06399,ACCT-10240,CUST-00120,2025-06-13T05:06:02Z,structuring_pattern,low,0.99,588.25,Airlines,geo_fence,fraud_v3.2,confirmed_fraud,analyst_020,2025-06-21,0
+FRD-00151,TXN-06520,ACCT-10493,CUST-00232,2025-08-01T13:23:39Z,international_unusual,high,0.49,19.03,Fast Food,geo_fence,fraud_v3.3,false_positive,analyst_008,2025-08-07,0
+FRD-00152,TXN-06758,ACCT-13577,CUST-01839,2025-06-18T06:54:08Z,velocity_spike,medium,0.816,509.43,Airlines,velocity_check,aml_v2.1,false_positive,analyst_013,,495.41
+FRD-00153,TXN-06828,ACCT-11300,CUST-00644,2025-06-06T08:32:13Z,geographic_anomaly,high,0.677,531.65,Airlines,network_analysis,aml_v2.1,closed,analyst_009,2025-06-19,0
+FRD-00154,TXN-06848,ACCT-11281,CUST-00634,2025-03-24T11:55:40Z,account_takeover_attempt,high,0.396,22.7,Fast Food,rules_engine,aml_v2.1,confirmed_fraud,analyst_009,,0
+FRD-00155,TXN-06865,ACCT-12922,CUST-01496,2025-02-28T19:59:21Z,unusual_time_pattern,high,0.393,512.14,Airlines,geo_fence,aml_v2.1,false_positive,analyst_013,2025-03-09,0
+FRD-00156,TXN-06898,ACCT-10332,CUST-00161,2025-03-13T01:26:07Z,structuring_pattern,low,0.82,616.24,Airlines,geo_fence,fraud_v3.2,false_positive,analyst_014,2025-03-27,0
+FRD-00157,TXN-06959,ACCT-11542,CUST-00771,2025-08-19T17:12:33Z,large_purchase,medium,0.38,10.72,Fast Food,ml_model,fraud_v3.3,false_positive,analyst_016,2025-09-07,8.84
+FRD-00158,TXN-07041,ACCT-12827,CUST-01444,2025-08-16T14:28:01Z,geographic_anomaly,low,0.573,47.88,Online Shopping,network_analysis,fraud_v3.3,false_positive,analyst_020,,0
+FRD-00159,TXN-07219,ACCT-13281,CUST-01679,2025-07-12T08:02:02Z,structuring_pattern,low,0.447,25.44,Rideshare/Taxi,network_analysis,aml_v2.1,false_positive,analyst_013,,0
+FRD-00160,TXN-07297,ACCT-11541,CUST-00770,2025-05-03T06:06:03Z,account_takeover_attempt,medium,0.865,165.38,Medical,geo_fence,fraud_v3.2,closed,analyst_008,2025-05-23,0
+FRD-00161,TXN-07298,ACCT-13031,CUST-01557,2025-11-15T18:32:29Z,geographic_anomaly,medium,0.919,16.64,Parking,velocity_check,fraud_v3.3,investigating,analyst_006,2025-12-03,0
+FRD-00162,TXN-07351,ACCT-11172,CUST-00573,2025-05-08T11:49:21Z,large_purchase,medium,0.463,656.52,Airlines,rules_engine,fraud_v3.3,closed,analyst_003,,0
+FRD-00163,TXN-07414,ACCT-10639,CUST-00305,2025-09-03T13:31:07Z,account_takeover_attempt,medium,0.435,58.24,Medical,ml_model,fraud_v3.2,closed,analyst_010,2025-09-18,0
+FRD-00164,TXN-07563,ACCT-13601,CUST-01851,2025-09-13T03:23:35Z,velocity_spike,high,0.942,644.61,Airlines,ml_model,fraud_v3.2,open,analyst_009,,0
+FRD-00165,TXN-07582,ACCT-13292,CUST-01684,2025-03-28T11:18:51Z,multiple_declines,low,0.475,60.43,Online Shopping,velocity_check,fraud_v3.3,investigating,analyst_016,,0
+FRD-00166,TXN-07591,ACCT-10907,CUST-00441,2026-02-08T18:46:10Z,geographic_anomaly,medium,0.782,593.57,Airlines,ml_model,fraud_v3.3,open,analyst_007,,0
+FRD-00167,TXN-07756,ACCT-12190,CUST-01113,2025-05-20T16:24:59Z,large_purchase,critical,0.727,36.39,Electronics,rules_engine,fraud_v3.3,false_positive,analyst_003,,0
+FRD-00168,TXN-07772,ACCT-10273,CUST-00137,2025-11-17T09:24:27Z,new_merchant_high_amount,medium,0.549,598.69,Airlines,velocity_check,fraud_v3.3,open,analyst_008,2025-12-09,0
+FRD-00169,TXN-07807,ACCT-12873,CUST-01468,2026-02-05T15:48:10Z,unusual_time_pattern,high,0.912,506.44,Airlines,network_analysis,aml_v2.1,closed,analyst_005,,0
+FRD-00170,TXN-07827,ACCT-10726,CUST-00348,2025-07-08T09:12:16Z,geographic_anomaly,high,0.599,556.67,Airlines,ml_model,fraud_v3.3,closed,analyst_001,2025-07-18,0
+FRD-00171,TXN-07885,ACCT-11756,CUST-00884,2026-01-09T18:05:29Z,structuring_pattern,medium,0.387,585.56,Airlines,rules_engine,fraud_v3.2,open,analyst_006,2026-02-03,0
+FRD-00172,TXN-07928,ACCT-11108,CUST-00539,2025-07-03T07:03:16Z,geographic_anomaly,medium,0.538,566.21,Airlines,ml_model,aml_v2.1,investigating,analyst_009,2025-07-10,0
+FRD-00173,TXN-08019,ACCT-12509,CUST-01283,2025-07-03T00:29:18Z,large_purchase,low,0.846,509.76,Airlines,velocity_check,aml_v2.1,open,analyst_009,2025-07-07,0
+FRD-00174,TXN-08071,ACCT-10965,CUST-00468,2025-03-19T00:40:38Z,account_takeover_attempt,high,0.805,20.71,Fast Food,network_analysis,fraud_v3.3,false_positive,analyst_011,2025-04-04,0
+FRD-00175,TXN-08106,ACCT-13341,CUST-01707,2025-09-14T04:32:48Z,large_purchase,medium,0.857,621.29,Airlines,ml_model,aml_v2.1,open,analyst_018,2025-10-10,0
+FRD-00176,TXN-08124,ACCT-10640,CUST-00305,2025-03-27T11:55:19Z,card_not_present_high_risk,low,0.759,136.94,Medical,rules_engine,aml_v2.1,false_positive,analyst_019,,0
+FRD-00177,TXN-08296,ACCT-12737,CUST-01400,2025-10-02T12:12:56Z,unusual_time_pattern,high,0.653,43.02,Restaurants,ml_model,fraud_v3.3,confirmed_fraud,analyst_013,,0
+FRD-00178,TXN-08408,ACCT-10733,CUST-00353,2025-12-09T00:47:38Z,new_merchant_high_amount,low,0.332,91.23,Online Shopping,rules_engine,fraud_v3.3,closed,analyst_018,,0
+FRD-00179,TXN-08427,ACCT-10772,CUST-00378,2026-01-01T08:37:41Z,new_merchant_high_amount,medium,0.65,114.25,Clothing,rules_engine,fraud_v3.2,false_positive,analyst_004,,0
+FRD-00180,TXN-08447,ACCT-11560,CUST-00779,2025-02-21T20:31:57Z,account_takeover_attempt,medium,0.818,610.72,Airlines,rules_engine,aml_v2.1,investigating,analyst_002,2025-02-23,0
+FRD-00181,TXN-08475,ACCT-10064,CUST-00029,2025-12-16T19:15:39Z,new_merchant_high_amount,low,0.601,575.95,Airlines,velocity_check,fraud_v3.3,closed,analyst_009,,0
+FRD-00182,TXN-08554,ACCT-13193,CUST-01632,2025-08-01T21:37:46Z,velocity_spike,medium,0.737,558.88,Airlines,geo_fence,fraud_v3.2,open,analyst_007,2025-08-29,0
+FRD-00183,TXN-08568,ACCT-11146,CUST-00560,2025-06-11T01:33:03Z,structuring_pattern,medium,0.491,582.99,Airlines,velocity_check,fraud_v3.3,false_positive,analyst_001,2025-06-23,0
+FRD-00184,TXN-08605,ACCT-10877,CUST-00429,2025-05-08T08:20:32Z,new_merchant_high_amount,high,0.52,513.55,Airlines,geo_fence,aml_v2.1,investigating,analyst_020,2025-05-20,0
+FRD-00185,TXN-08626,ACCT-12251,CUST-01148,2025-02-25T22:25:53Z,geographic_anomaly,medium,0.898,44.28,Pharmacy,geo_fence,fraud_v3.2,false_positive,analyst_013,,0
+FRD-00186,TXN-08762,ACCT-13383,CUST-01733,2025-09-21T01:54:37Z,structuring_pattern,medium,0.916,619.41,Airlines,velocity_check,fraud_v3.3,false_positive,analyst_018,2025-09-29,0
+FRD-00187,TXN-08793,ACCT-12854,CUST-01456,2025-05-14T17:26:11Z,geographic_anomaly,critical,0.665,20.94,Entertainment,network_analysis,fraud_v3.3,false_positive,analyst_003,2025-05-17,0
+FRD-00188,TXN-08947,ACCT-12869,CUST-01466,2025-04-22T15:52:33Z,international_unusual,medium,0.563,625.63,Airlines,geo_fence,fraud_v3.3,investigating,analyst_013,2025-05-16,0
+FRD-00189,TXN-08992,ACCT-11399,CUST-00692,2026-01-05T16:20:30Z,structuring_pattern,critical,0.737,621.99,Airlines,velocity_check,fraud_v3.3,closed,analyst_018,2026-01-27,0
+FRD-00190,TXN-08997,ACCT-13405,CUST-01746,2025-09-19T12:08:51Z,card_not_present_high_risk,medium,0.706,636.05,Airlines,ml_model,aml_v2.1,investigating,analyst_002,2025-10-12,0
+FRD-00191,TXN-09110,ACCT-13843,CUST-01987,2025-11-28T05:56:45Z,geographic_anomaly,low,0.766,700.46,Airlines,network_analysis,aml_v2.1,closed,analyst_002,2025-12-28,0
+FRD-00192,TXN-09114,ACCT-12805,CUST-01433,2025-05-12T17:42:06Z,card_not_present_high_risk,medium,0.856,642.88,Airlines,velocity_check,fraud_v3.2,confirmed_fraud,analyst_020,2025-05-18,632.11
+FRD-00193,TXN-09139,ACCT-10450,CUST-00212,2025-02-22T13:27:02Z,geographic_anomaly,medium,0.736,550.44,Airlines,network_analysis,fraud_v3.2,investigating,analyst_018,,0
+FRD-00194,TXN-09197,ACCT-11778,CUST-00894,2025-11-12T13:52:34Z,new_merchant_high_amount,high,0.843,548.63,Airlines,geo_fence,fraud_v3.3,false_positive,analyst_013,,0
+FRD-00195,TXN-09211,ACCT-12599,CUST-01331,2025-12-27T03:12:50Z,large_purchase,low,0.826,10.76,Gas Stations,rules_engine,fraud_v3.2,closed,analyst_017,2026-01-09,5.56
+FRD-00196,TXN-09239,ACCT-12516,CUST-01286,2025-06-23T15:35:20Z,new_merchant_high_amount,low,0.629,130.15,Electronics,network_analysis,fraud_v3.2,confirmed_fraud,analyst_015,2025-07-19,0
+FRD-00197,TXN-09361,ACCT-11533,CUST-00767,2025-08-11T03:59:35Z,multiple_declines,critical,0.941,773.68,Airlines,network_analysis,aml_v2.1,false_positive,analyst_006,,0
+FRD-00198,TXN-09456,ACCT-12011,CUST-01020,2025-07-15T09:42:04Z,structuring_pattern,medium,0.584,558.59,Airlines,ml_model,fraud_v3.2,investigating,analyst_011,2025-08-06,0
+FRD-00199,TXN-09493,ACCT-12233,CUST-01139,2025-08-09T01:56:09Z,velocity_spike,medium,0.517,676.62,Airlines,network_analysis,aml_v2.1,investigating,analyst_014,2025-08-22,0
+FRD-00200,TXN-09513,ACCT-12011,CUST-01020,2025-10-13T13:43:25Z,large_purchase,high,0.758,531.55,Airlines,velocity_check,aml_v2.1,investigating,analyst_011,2025-10-31,0
+FRD-00201,TXN-09533,ACCT-12485,CUST-01272,2025-07-03T14:04:44Z,geographic_anomaly,high,0.672,548.35,Airlines,network_analysis,aml_v2.1,closed,analyst_003,2025-07-12,0
+FRD-00202,TXN-09535,ACCT-12951,CUST-01509,2025-08-10T23:05:05Z,unusual_time_pattern,low,0.964,29.24,Clothing,network_analysis,aml_v2.1,false_positive,analyst_005,2025-09-04,0
+FRD-00203,TXN-09537,ACCT-10750,CUST-00364,2025-02-25T09:54:58Z,multiple_declines,medium,0.492,579.54,Airlines,network_analysis,aml_v2.1,closed,analyst_013,2025-03-05,0
+FRD-00204,TXN-09545,ACCT-13586,CUST-01844,2025-05-25T15:15:37Z,geographic_anomaly,low,0.543,49.74,Grocery,rules_engine,fraud_v3.2,false_positive,analyst_013,2025-06-24,0
+FRD-00205,TXN-09588,ACCT-13499,CUST-01795,2025-06-09T20:32:40Z,account_takeover_attempt,high,0.498,525.85,Airlines,velocity_check,fraud_v3.2,open,analyst_013,2025-06-14,384.69
+FRD-00206,TXN-09624,ACCT-11207,CUST-00595,2025-11-12T16:00:40Z,multiple_declines,medium,0.987,523.93,Airlines,network_analysis,fraud_v3.2,false_positive,analyst_004,2025-11-22,0
+FRD-00207,TXN-09627,ACCT-11901,CUST-00957,2025-11-12T08:59:57Z,new_merchant_high_amount,high,0.667,505.27,Airlines,geo_fence,aml_v2.1,false_positive,analyst_013,2025-12-09,0
+FRD-00208,TXN-09636,ACCT-10825,CUST-00401,2025-04-28T12:30:16Z,account_takeover_attempt,low,0.723,662.37,Airlines,network_analysis,fraud_v3.2,investigating,analyst_018,2025-05-27,0
+FRD-00209,TXN-09643,ACCT-12131,CUST-01085,2025-09-20T17:40:36Z,geographic_anomaly,medium,0.593,75.26,Electronics,geo_fence,fraud_v3.2,investigating,analyst_009,,0
+FRD-00210,TXN-09651,ACCT-11476,CUST-00733,2025-06-11T06:30:05Z,multiple_declines,critical,0.322,569.64,Airlines,ml_model,fraud_v3.2,closed,analyst_012,,0
+FRD-00211,TXN-09656,ACCT-10121,CUST-00058,2025-05-03T11:16:28Z,large_purchase,low,0.897,187.33,Hotels,geo_fence,fraud_v3.3,false_positive,analyst_011,,0
+FRD-00212,TXN-09664,ACCT-10072,CUST-00032,2026-01-02T20:26:24Z,new_merchant_high_amount,medium,0.868,712.07,Airlines,ml_model,fraud_v3.2,false_positive,analyst_020,2026-01-24,0
+FRD-00213,TXN-09833,ACCT-13861,CUST-01997,2025-04-23T21:35:45Z,velocity_spike,high,0.497,503.09,Airlines,ml_model,fraud_v3.2,false_positive,analyst_002,,0
+FRD-00214,TXN-09886,ACCT-10145,CUST-00072,2025-11-07T17:47:40Z,account_takeover_attempt,high,0.472,603.51,Airlines,network_analysis,fraud_v3.2,open,analyst_013,2025-12-07,0
+FRD-00215,TXN-09904,ACCT-11538,CUST-00769,2025-06-10T16:29:05Z,new_merchant_high_amount,critical,0.6,517.19,Airlines,geo_fence,fraud_v3.3,investigating,analyst_019,2025-07-10,26.61
+FRD-00216,TXN-09912,ACCT-12472,CUST-01264,2025-03-15T09:35:56Z,international_unusual,high,0.757,15.47,Parking,network_analysis,aml_v2.1,open,analyst_002,2025-03-17,0
+FRD-00217,TXN-10069,ACCT-12719,CUST-01391,2025-11-27T11:32:35Z,multiple_declines,medium,0.376,52.84,Bookstores,network_analysis,fraud_v3.2,false_positive,analyst_014,2025-12-16,0
+FRD-00218,TXN-10129,ACCT-13818,CUST-01973,2026-01-27T09:13:37Z,structuring_pattern,low,0.98,518.08,Airlines,ml_model,fraud_v3.3,false_positive,analyst_018,2026-02-18,0
+FRD-00219,TXN-10200,ACCT-12168,CUST-01104,2025-09-07T05:53:55Z,new_merchant_high_amount,high,0.706,520.63,Airlines,rules_engine,aml_v2.1,investigating,analyst_006,2025-10-02,0
+FRD-00220,TXN-10351,ACCT-12772,CUST-01417,2025-05-08T13:46:14Z,velocity_spike,medium,0.519,782.89,Airlines,ml_model,aml_v2.1,closed,analyst_014,,0
+FRD-00221,TXN-10399,ACCT-10276,CUST-00138,2025-05-24T03:45:38Z,international_unusual,critical,0.454,13.54,Bookstores,ml_model,fraud_v3.3,investigating,analyst_003,2025-05-28,0
+FRD-00222,TXN-10449,ACCT-10765,CUST-00371,2025-05-21T21:40:00Z,geographic_anomaly,high,0.31,549.75,Airlines,network_analysis,fraud_v3.3,false_positive,analyst_005,,0
+FRD-00223,TXN-10465,ACCT-13436,CUST-01762,2025-07-22T01:03:46Z,large_purchase,high,0.471,15.26,Parking,rules_engine,aml_v2.1,false_positive,analyst_018,,0
+FRD-00224,TXN-10490,ACCT-10420,CUST-00199,2025-10-01T10:32:01Z,multiple_declines,low,0.804,46.01,Pharmacy,velocity_check,fraud_v3.3,investigating,analyst_008,,0
+FRD-00225,TXN-10506,ACCT-11873,CUST-00942,2025-05-15T23:15:01Z,card_not_present_high_risk,high,0.741,60.0,Restaurants,network_analysis,fraud_v3.3,open,analyst_018,2025-05-26,0
+FRD-00226,TXN-10583,ACCT-12760,CUST-01412,2025-10-13T13:21:44Z,geographic_anomaly,low,0.523,60.2,Clothing,geo_fence,fraud_v3.2,confirmed_fraud,analyst_019,,23.86
+FRD-00227,TXN-10603,ACCT-12687,CUST-01379,2026-02-03T11:48:29Z,velocity_spike,low,0.429,583.48,Airlines,network_analysis,aml_v2.1,investigating,analyst_005,2026-02-16,0
+FRD-00228,TXN-10628,ACCT-10682,CUST-00327,2025-03-17T13:08:18Z,international_unusual,high,0.875,128.28,Electronics,network_analysis,fraud_v3.3,false_positive,analyst_013,2025-04-16,0
+FRD-00229,TXN-10633,ACCT-13086,CUST-01583,2025-05-05T03:40:23Z,card_not_present_high_risk,high,0.625,25.07,Bookstores,geo_fence,aml_v2.1,investigating,analyst_013,,0
+FRD-00230,TXN-10687,ACCT-12810,CUST-01435,2025-06-01T20:47:23Z,new_merchant_high_amount,medium,0.503,542.06,Airlines,geo_fence,fraud_v3.3,investigating,analyst_018,,0
+FRD-00231,TXN-10729,ACCT-13405,CUST-01746,2025-11-02T01:46:51Z,structuring_pattern,medium,0.464,559.47,Airlines,geo_fence,fraud_v3.2,false_positive,analyst_005,,0
+FRD-00232,TXN-10824,ACCT-12202,CUST-01119,2025-08-25T18:20:25Z,large_purchase,medium,0.989,712.58,Airlines,velocity_check,fraud_v3.3,false_positive,analyst_008,2025-09-01,283.29
+FRD-00233,TXN-10827,ACCT-10771,CUST-00376,2025-08-29T16:28:01Z,large_purchase,critical,0.84,546.71,Airlines,velocity_check,aml_v2.1,false_positive,analyst_011,2025-09-11,0
+FRD-00234,TXN-10886,ACCT-11070,CUST-00522,2025-06-13T22:03:16Z,unusual_time_pattern,medium,0.771,149.2,Medical,rules_engine,fraud_v3.2,false_positive,analyst_018,,0
+FRD-00235,TXN-10960,ACCT-11182,CUST-00579,2025-10-28T11:04:42Z,international_unusual,medium,0.726,535.83,Airlines,velocity_check,fraud_v3.3,confirmed_fraud,analyst_015,2025-11-07,0
+FRD-00236,TXN-10962,ACCT-12158,CUST-01099,2025-08-27T14:24:58Z,large_purchase,high,0.916,17.26,Bookstores,geo_fence,aml_v2.1,false_positive,analyst_007,,0
+FRD-00237,TXN-10986,ACCT-13784,CUST-01953,2025-06-18T07:26:22Z,new_merchant_high_amount,medium,0.634,628.72,Airlines,network_analysis,aml_v2.1,false_positive,analyst_015,,0
+FRD-00238,TXN-11006,ACCT-12388,CUST-01220,2025-03-13T16:36:59Z,international_unusual,high,0.344,528.65,Airlines,velocity_check,fraud_v3.3,closed,analyst_006,2025-03-22,0
+FRD-00239,TXN-11068,ACCT-11518,CUST-00760,2025-04-01T00:34:23Z,new_merchant_high_amount,medium,0.525,590.22,Airlines,velocity_check,fraud_v3.3,confirmed_fraud,analyst_005,2025-04-13,0
+FRD-00240,TXN-11158,ACCT-10947,CUST-00461,2025-05-22T01:07:13Z,card_not_present_high_risk,medium,0.481,520.02,Airlines,velocity_check,fraud_v3.3,false_positive,analyst_018,,0
+FRD-00241,TXN-11196,ACCT-13659,CUST-01882,2026-01-13T14:50:13Z,card_not_present_high_risk,low,0.737,27.88,Pharmacy,geo_fence,aml_v2.1,investigating,analyst_011,2026-01-30,0
+FRD-00242,TXN-11232,ACCT-11586,CUST-00794,2025-05-08T03:19:45Z,large_purchase,high,0.789,574.47,Airlines,geo_fence,aml_v2.1,false_positive,analyst_020,,0
+FRD-00243,TXN-11242,ACCT-13818,CUST-01973,2025-10-29T13:30:46Z,large_purchase,low,0.629,554.18,Airlines,ml_model,fraud_v3.3,closed,analyst_004,,0
+FRD-00244,TXN-11342,ACCT-10298,CUST-00147,2025-03-19T03:59:11Z,structuring_pattern,high,0.985,51.5,Restaurants,velocity_check,aml_v2.1,closed,analyst_012,2025-04-13,0
+FRD-00245,TXN-11519,ACCT-10292,CUST-00144,2025-10-02T11:02:52Z,large_purchase,low,0.701,511.6,Airlines,rules_engine,aml_v2.1,investigating,analyst_012,2025-10-06,0
+FRD-00246,TXN-11543,ACCT-10995,CUST-00483,2025-12-01T08:28:13Z,card_not_present_high_risk,low,0.647,18.71,Parking,network_analysis,fraud_v3.2,investigating,analyst_017,,0
+FRD-00247,TXN-11588,ACCT-10158,CUST-00080,2025-02-18T03:13:28Z,new_merchant_high_amount,medium,0.863,810.59,Airlines,rules_engine,aml_v2.1,investigating,analyst_003,,0
+FRD-00248,TXN-11604,ACCT-11105,CUST-00538,2025-09-11T20:44:52Z,velocity_spike,high,0.838,42.74,Bookstores,geo_fence,fraud_v3.3,closed,analyst_013,2025-10-03,0
+FRD-00249,TXN-11674,ACCT-10906,CUST-00440,2025-09-26T15:37:37Z,account_takeover_attempt,medium,0.394,15.26,Fast Food,rules_engine,fraud_v3.3,false_positive,analyst_007,2025-10-18,0
+FRD-00250,TXN-11768,ACCT-12616,CUST-01343,2025-10-09T22:30:18Z,account_takeover_attempt,critical,0.969,15.59,Fast Food,ml_model,fraud_v3.2,false_positive,analyst_015,2025-11-08,0
+FRD-00251,TXN-11781,ACCT-11511,CUST-00755,2026-02-09T12:59:24Z,geographic_anomaly,medium,0.321,539.39,Airlines,ml_model,fraud_v3.3,open,analyst_010,2026-02-23,0
+FRD-00252,TXN-11795,ACCT-12615,CUST-01342,2025-10-27T04:57:36Z,multiple_declines,low,0.998,519.22,Airlines,network_analysis,fraud_v3.2,investigating,analyst_006,2025-11-02,0
+FRD-00253,TXN-11860,ACCT-12427,CUST-01239,2025-09-24T21:20:08Z,large_purchase,low,0.782,615.01,Airlines,network_analysis,fraud_v3.3,false_positive,analyst_008,,0
+FRD-00254,TXN-11911,ACCT-10502,CUST-00237,2025-07-02T12:19:58Z,multiple_declines,high,0.483,568.86,Airlines,ml_model,aml_v2.1,investigating,analyst_018,2025-07-29,0
+FRD-00255,TXN-11968,ACCT-12873,CUST-01468,2025-05-19T07:19:25Z,geographic_anomaly,high,0.926,618.62,Airlines,geo_fence,aml_v2.1,closed,analyst_017,2025-06-11,0
+FRD-00256,TXN-11978,ACCT-13249,CUST-01665,2025-10-26T13:14:02Z,unusual_time_pattern,high,0.783,555.0,Airlines,network_analysis,aml_v2.1,false_positive,analyst_020,,0
+FRD-00257,TXN-12034,ACCT-13152,CUST-01615,2026-01-21T08:48:35Z,unusual_time_pattern,low,0.652,658.95,Airlines,ml_model,aml_v2.1,confirmed_fraud,analyst_012,2026-01-29,0
+FRD-00258,TXN-12066,ACCT-11376,CUST-00679,2025-05-28T16:33:35Z,account_takeover_attempt,critical,0.547,16.46,Fast Food,geo_fence,aml_v2.1,closed,analyst_016,,2.03
+FRD-00259,TXN-12079,ACCT-13861,CUST-01997,2025-11-29T02:09:12Z,unusual_time_pattern,medium,0.453,118.38,Grocery,network_analysis,aml_v2.1,closed,analyst_005,,0
+FRD-00260,TXN-12245,ACCT-10494,CUST-00233,2026-01-17T03:42:22Z,velocity_spike,medium,0.967,558.7,Airlines,ml_model,fraud_v3.3,false_positive,analyst_006,2026-01-31,0
+FRD-00261,TXN-12270,ACCT-10273,CUST-00137,2025-06-07T05:11:39Z,international_unusual,critical,0.751,53.92,Online Shopping,ml_model,aml_v2.1,investigating,analyst_011,2025-06-30,0
+FRD-00262,TXN-12369,ACCT-13724,CUST-01918,2025-10-02T00:12:25Z,velocity_spike,low,0.437,714.61,Airlines,rules_engine,fraud_v3.3,false_positive,analyst_016,,0
+FRD-00263,TXN-12452,ACCT-11260,CUST-00624,2025-05-05T21:41:30Z,velocity_spike,critical,0.946,665.62,Airlines,rules_engine,fraud_v3.2,investigating,analyst_020,2025-05-18,0
+FRD-00264,TXN-12466,ACCT-11121,CUST-00547,2025-07-11T11:53:14Z,account_takeover_attempt,low,0.772,17.1,Gas Stations,rules_engine,fraud_v3.3,confirmed_fraud,analyst_014,2025-07-28,3.21
+FRD-00265,TXN-12481,ACCT-12193,CUST-01115,2025-10-08T19:47:36Z,card_not_present_high_risk,critical,0.685,501.98,Airlines,geo_fence,fraud_v3.3,false_positive,analyst_018,2025-10-18,0
+FRD-00266,TXN-12487,ACCT-12791,CUST-01425,2025-02-14T20:57:44Z,large_purchase,low,0.402,529.14,Airlines,network_analysis,aml_v2.1,confirmed_fraud,analyst_010,2025-03-04,0
+FRD-00267,TXN-12499,ACCT-11712,CUST-00859,2025-04-13T01:51:32Z,structuring_pattern,medium,0.309,606.22,Airlines,geo_fence,fraud_v3.2,confirmed_fraud,analyst_014,2025-04-21,0
+FRD-00268,TXN-12500,ACCT-11990,CUST-01008,2025-07-27T10:14:15Z,new_merchant_high_amount,high,0.936,558.35,Airlines,geo_fence,fraud_v3.3,false_positive,analyst_010,2025-08-05,0
+FRD-00269,TXN-12509,ACCT-11821,CUST-00912,2025-09-25T14:43:51Z,geographic_anomaly,critical,0.963,658.38,Airlines,ml_model,aml_v2.1,false_positive,analyst_004,2025-10-08,0
+FRD-00270,TXN-12749,ACCT-13718,CUST-01915,2026-01-11T12:58:15Z,velocity_spike,medium,0.506,529.92,Airlines,velocity_check,aml_v2.1,confirmed_fraud,analyst_019,2026-02-10,0
+FRD-00271,TXN-12792,ACCT-12413,CUST-01233,2025-03-17T13:04:13Z,card_not_present_high_risk,low,0.304,528.42,Airlines,network_analysis,fraud_v3.2,false_positive,analyst_019,,0
+FRD-00272,TXN-12854,ACCT-10374,CUST-00178,2025-12-19T00:25:41Z,large_purchase,medium,0.333,38.7,Restaurants,geo_fence,fraud_v3.3,confirmed_fraud,analyst_020,2025-12-26,0
+FRD-00273,TXN-12861,ACCT-12946,CUST-01506,2025-09-03T21:39:03Z,unusual_time_pattern,high,0.975,45.45,Gas Stations,velocity_check,aml_v2.1,open,analyst_003,2025-09-27,0
+FRD-00274,TXN-12945,ACCT-10277,CUST-00139,2026-01-05T07:13:24Z,account_takeover_attempt,low,0.842,39.58,Gas Stations,ml_model,fraud_v3.3,open,analyst_001,2026-01-21,0
+FRD-00275,TXN-12966,ACCT-13436,CUST-01762,2025-07-22T20:16:49Z,large_purchase,medium,0.894,611.43,Airlines,ml_model,aml_v2.1,closed,analyst_002,2025-08-18,0
+FRD-00276,TXN-12973,ACCT-13555,CUST-01827,2026-02-01T11:50:01Z,new_merchant_high_amount,medium,0.761,141.06,Electronics,ml_model,fraud_v3.2,investigating,analyst_002,2026-03-03,0
+FRD-00277,TXN-12976,ACCT-11468,CUST-00727,2025-09-15T11:14:00Z,geographic_anomaly,medium,0.911,26.46,Fast Food,geo_fence,aml_v2.1,false_positive,analyst_013,2025-09-30,0
+FRD-00278,TXN-12998,ACCT-10718,CUST-00345,2025-06-19T16:05:23Z,international_unusual,critical,0.785,28.26,Bookstores,network_analysis,fraud_v3.2,confirmed_fraud,analyst_014,2025-06-21,0
+FRD-00279,TXN-13067,ACCT-10812,CUST-00397,2026-01-29T20:06:58Z,structuring_pattern,medium,0.334,553.1,Airlines,ml_model,fraud_v3.3,confirmed_fraud,analyst_003,,0
+FRD-00280,TXN-13074,ACCT-10560,CUST-00263,2025-11-04T22:16:37Z,multiple_declines,critical,0.66,521.51,Airlines,ml_model,fraud_v3.2,investigating,analyst_006,2025-11-11,0
+FRD-00281,TXN-13218,ACCT-10383,CUST-00182,2026-01-31T02:57:48Z,multiple_declines,critical,0.603,623.02,Airlines,ml_model,fraud_v3.3,false_positive,analyst_016,2026-02-14,0
+FRD-00282,TXN-13274,ACCT-11408,CUST-00695,2025-04-11T03:35:30Z,account_takeover_attempt,medium,0.826,543.94,Airlines,geo_fence,fraud_v3.2,confirmed_fraud,analyst_019,2025-05-08,0
+FRD-00283,TXN-13340,ACCT-10194,CUST-00100,2025-08-22T20:39:55Z,card_not_present_high_risk,low,0.522,673.04,Airlines,velocity_check,fraud_v3.3,false_positive,analyst_018,2025-09-04,0
+FRD-00284,TXN-13381,ACCT-13399,CUST-01742,2025-05-23T11:32:32Z,account_takeover_attempt,low,0.449,86.44,Clothing,rules_engine,fraud_v3.3,confirmed_fraud,analyst_006,2025-06-04,0
+FRD-00285,TXN-13394,ACCT-11461,CUST-00724,2025-08-01T16:57:50Z,structuring_pattern,medium,0.947,791.7,Airlines,velocity_check,aml_v2.1,false_positive,analyst_013,2025-08-30,520.48
+FRD-00286,TXN-13448,ACCT-10632,CUST-00301,2025-09-10T14:18:24Z,multiple_declines,high,0.574,533.59,Airlines,geo_fence,fraud_v3.2,false_positive,analyst_003,2025-09-25,0
+FRD-00287,TXN-13451,ACCT-10597,CUST-00284,2025-11-15T15:51:32Z,velocity_spike,high,0.915,251.67,Hotels,velocity_check,aml_v2.1,false_positive,analyst_020,2025-12-06,0
+FRD-00288,TXN-13527,ACCT-11414,CUST-00701,2025-07-30T16:47:30Z,international_unusual,low,0.39,521.87,Airlines,velocity_check,aml_v2.1,closed,analyst_012,2025-08-26,0
+FRD-00289,TXN-13690,ACCT-10174,CUST-00087,2025-02-15T14:42:39Z,unusual_time_pattern,critical,0.466,171.12,Electronics,velocity_check,fraud_v3.3,false_positive,analyst_017,2025-02-27,0
+FRD-00290,TXN-13703,ACCT-12970,CUST-01519,2025-12-21T02:24:11Z,velocity_spike,medium,0.587,550.27,Airlines,velocity_check,fraud_v3.3,confirmed_fraud,analyst_009,2025-12-29,0
+FRD-00291,TXN-13719,ACCT-10975,CUST-00473,2025-08-31T22:16:42Z,large_purchase,medium,0.788,81.41,Electronics,velocity_check,aml_v2.1,open,analyst_001,2025-09-14,9.4
+FRD-00292,TXN-13780,ACCT-12201,CUST-01119,2025-08-18T12:09:02Z,unusual_time_pattern,high,0.431,693.86,Airlines,network_analysis,aml_v2.1,confirmed_fraud,analyst_010,2025-09-03,0
+FRD-00293,TXN-13820,ACCT-11516,CUST-00760,2025-08-01T16:12:51Z,international_unusual,low,0.533,831.41,Airlines,geo_fence,aml_v2.1,false_positive,analyst_012,2025-08-22,0
+FRD-00294,TXN-13822,ACCT-10570,CUST-00268,2025-06-04T06:27:04Z,velocity_spike,low,0.402,79.35,Medical,rules_engine,fraud_v3.3,open,analyst_013,2025-06-08,0
+FRD-00295,TXN-13903,ACCT-12029,CUST-01029,2025-06-29T08:58:06Z,velocity_spike,low,0.592,15.47,Parking,rules_engine,fraud_v3.3,false_positive,analyst_008,2025-07-01,0
+FRD-00296,TXN-13919,ACCT-10590,CUST-00282,2025-03-05T05:06:16Z,geographic_anomaly,medium,0.636,68.93,Clothing,ml_model,fraud_v3.2,closed,analyst_013,2025-03-28,0
+FRD-00297,TXN-13939,ACCT-13042,CUST-01563,2025-06-02T04:51:44Z,new_merchant_high_amount,low,0.901,165.68,Electronics,velocity_check,fraud_v3.2,open,analyst_017,2025-06-18,0
+FRD-00298,TXN-14102,ACCT-10640,CUST-00305,2025-04-14T04:04:24Z,card_not_present_high_risk,high,0.766,539.53,Airlines,rules_engine,aml_v2.1,confirmed_fraud,analyst_016,2025-05-07,0
+FRD-00299,TXN-14178,ACCT-11317,CUST-00652,2025-12-27T16:20:45Z,structuring_pattern,high,0.847,73.71,Online Shopping,network_analysis,fraud_v3.2,investigating,analyst_007,2026-01-11,0
+FRD-00300,TXN-14233,ACCT-10921,CUST-00446,2025-05-23T11:23:21Z,structuring_pattern,critical,0.378,545.77,Airlines,geo_fence,fraud_v3.3,open,analyst_005,2025-06-18,0
+FRD-00301,TXN-14357,ACCT-13195,CUST-01633,2025-07-31T06:12:31Z,geographic_anomaly,high,0.473,545.84,Airlines,ml_model,aml_v2.1,false_positive,analyst_007,,0
+FRD-00302,TXN-14393,ACCT-11783,CUST-00897,2025-03-18T04:03:45Z,card_not_present_high_risk,high,0.825,539.8,Airlines,velocity_check,aml_v2.1,false_positive,analyst_004,2025-03-29,0
+FRD-00303,TXN-14407,ACCT-13045,CUST-01564,2025-09-11T00:00:01Z,new_merchant_high_amount,low,0.672,169.87,Electronics,network_analysis,fraud_v3.3,false_positive,analyst_006,,0
+FRD-00304,TXN-14431,ACCT-13023,CUST-01552,2025-09-10T02:59:12Z,card_not_present_high_risk,low,0.613,544.87,Airlines,ml_model,fraud_v3.2,investigating,analyst_016,2025-09-25,0
+FRD-00305,TXN-14443,ACCT-10716,CUST-00344,2026-01-23T16:09:30Z,large_purchase,medium,0.551,538.52,Airlines,network_analysis,aml_v2.1,confirmed_fraud,analyst_019,,0
+FRD-00306,TXN-14507,ACCT-11418,CUST-00702,2025-07-04T15:14:02Z,account_takeover_attempt,medium,0.521,614.0,Airlines,ml_model,fraud_v3.2,closed,analyst_004,,0
+FRD-00307,TXN-14508,ACCT-10430,CUST-00204,2025-03-17T21:03:53Z,geographic_anomaly,medium,0.511,503.05,Airlines,rules_engine,fraud_v3.2,investigating,analyst_002,2025-04-15,0
+FRD-00308,TXN-14529,ACCT-11127,CUST-00551,2025-10-17T18:41:31Z,geographic_anomaly,high,0.92,558.04,Airlines,velocity_check,aml_v2.1,investigating,analyst_011,2025-10-28,0
+FRD-00309,TXN-14694,ACCT-10308,CUST-00151,2025-10-14T11:09:15Z,geographic_anomaly,medium,0.897,32.31,Bookstores,ml_model,fraud_v3.3,false_positive,analyst_013,2025-11-11,0
+FRD-00310,TXN-14708,ACCT-13455,CUST-01773,2025-08-21T21:42:34Z,large_purchase,medium,0.645,659.46,Airlines,ml_model,fraud_v3.3,false_positive,analyst_006,2025-09-13,0
+FRD-00311,TXN-14722,ACCT-13630,CUST-01866,2025-12-29T12:17:43Z,geographic_anomaly,high,0.464,530.36,Airlines,network_analysis,fraud_v3.3,false_positive,analyst_004,,0
+FRD-00312,TXN-14820,ACCT-11647,CUST-00822,2025-07-01T21:51:49Z,geographic_anomaly,medium,0.444,578.71,Airlines,ml_model,aml_v2.1,investigating,analyst_019,,0
+FRD-00313,TXN-14886,ACCT-10913,CUST-00442,2025-12-03T16:18:24Z,account_takeover_attempt,low,0.883,568.46,Airlines,rules_engine,aml_v2.1,open,analyst_001,2025-12-14,11.65
+FRD-00314,TXN-14888,ACCT-13710,CUST-01908,2025-03-12T09:34:17Z,unusual_time_pattern,medium,0.682,613.15,Airlines,geo_fence,fraud_v3.3,open,analyst_009,2025-03-15,0
+FRD-00315,TXN-14904,ACCT-12423,CUST-01236,2025-08-03T22:13:00Z,card_not_present_high_risk,high,0.364,38.7,Restaurants,ml_model,fraud_v3.3,open,analyst_006,2025-08-08,0
+FRD-00316,TXN-14908,ACCT-12863,CUST-01462,2025-05-05T12:30:41Z,card_not_present_high_risk,low,0.803,175.61,Hotels,geo_fence,fraud_v3.3,confirmed_fraud,analyst_018,2025-05-23,133.13
+FRD-00317,TXN-14971,ACCT-10342,CUST-00164,2025-12-25T05:41:34Z,new_merchant_high_amount,medium,0.951,506.74,Airlines,rules_engine,fraud_v3.2,false_positive,analyst_012,2026-01-03,0
+FRD-00318,TXN-15011,ACCT-11528,CUST-00765,2025-10-03T01:18:59Z,structuring_pattern,high,0.855,22.1,Clothing,network_analysis,fraud_v3.3,confirmed_fraud,analyst_006,,0
+FRD-00319,TXN-15012,ACCT-10240,CUST-00120,2025-04-13T08:42:08Z,velocity_spike,high,0.474,610.32,Airlines,velocity_check,fraud_v3.2,false_positive,analyst_012,2025-05-10,0
+FRD-00320,TXN-15081,ACCT-13110,CUST-01595,2025-03-20T04:41:51Z,multiple_declines,medium,0.645,540.6,Airlines,network_analysis,fraud_v3.3,open,analyst_002,2025-04-07,0
+FRD-00321,TXN-15089,ACCT-13206,CUST-01639,2025-07-22T15:25:58Z,structuring_pattern,low,0.462,62.51,Grocery,velocity_check,aml_v2.1,false_positive,analyst_009,,0
+FRD-00322,TXN-15167,ACCT-10111,CUST-00052,2025-07-13T22:39:41Z,new_merchant_high_amount,medium,0.797,750.63,Airlines,velocity_check,fraud_v3.3,investigating,analyst_004,2025-07-19,0
+FRD-00323,TXN-15195,ACCT-13093,CUST-01587,2026-01-21T19:35:23Z,unusual_time_pattern,high,0.477,578.91,Airlines,network_analysis,aml_v2.1,false_positive,analyst_008,2026-02-09,148.73
+FRD-00324,TXN-15241,ACCT-12415,CUST-01234,2025-05-13T05:37:17Z,account_takeover_attempt,low,0.833,583.52,Airlines,network_analysis,aml_v2.1,closed,analyst_020,,0
+FRD-00325,TXN-15251,ACCT-10492,CUST-00232,2025-11-27T17:22:02Z,international_unusual,medium,0.77,591.72,Airlines,network_analysis,fraud_v3.2,false_positive,analyst_016,2025-12-16,0
+FRD-00326,TXN-15294,ACCT-11921,CUST-00972,2025-12-07T18:03:03Z,large_purchase,medium,0.604,501.14,Airlines,ml_model,fraud_v3.3,confirmed_fraud,analyst_007,2025-12-14,0
+FRD-00327,TXN-15381,ACCT-12989,CUST-01529,2026-01-18T20:47:16Z,unusual_time_pattern,medium,0.649,528.01,Airlines,ml_model,fraud_v3.2,false_positive,analyst_007,2026-02-03,231.38
+FRD-00328,TXN-15399,ACCT-10062,CUST-00028,2025-07-11T18:43:42Z,unusual_time_pattern,high,0.398,533.28,Airlines,network_analysis,aml_v2.1,false_positive,analyst_005,,0
+FRD-00329,TXN-15537,ACCT-10307,CUST-00150,2026-02-01T05:29:01Z,multiple_declines,medium,0.401,547.84,Airlines,velocity_check,aml_v2.1,false_positive,analyst_019,,0
+FRD-00330,TXN-15606,ACCT-12136,CUST-01088,2025-07-09T12:31:30Z,velocity_spike,critical,0.304,581.5,Airlines,velocity_check,aml_v2.1,false_positive,analyst_001,2025-08-02,0
+FRD-00331,TXN-15624,ACCT-13023,CUST-01552,2025-06-19T10:36:12Z,large_purchase,low,0.81,256.29,Airlines,geo_fence,aml_v2.1,investigating,analyst_011,2025-07-09,0
+FRD-00332,TXN-15627,ACCT-12030,CUST-01030,2025-07-10T23:27:14Z,multiple_declines,medium,0.723,505.22,Airlines,rules_engine,aml_v2.1,open,analyst_018,2025-07-25,0
+FRD-00333,TXN-15690,ACCT-10962,CUST-00467,2025-12-18T19:50:16Z,account_takeover_attempt,low,0.939,624.36,Airlines,geo_fence,fraud_v3.3,false_positive,analyst_009,2026-01-06,0
+FRD-00334,TXN-15846,ACCT-13249,CUST-01665,2025-11-01T19:40:04Z,large_purchase,medium,0.749,550.79,Airlines,ml_model,aml_v2.1,false_positive,analyst_014,,0
+FRD-00335,TXN-15904,ACCT-13100,CUST-01592,2025-09-24T09:25:18Z,multiple_declines,low,0.931,606.63,Airlines,network_analysis,fraud_v3.3,false_positive,analyst_001,2025-10-19,0
+FRD-00336,TXN-15909,ACCT-13502,CUST-01796,2025-04-16T02:31:12Z,new_merchant_high_amount,medium,0.611,523.8,Airlines,ml_model,fraud_v3.2,confirmed_fraud,analyst_013,2025-04-26,0
+FRD-00337,TXN-15915,ACCT-12126,CUST-01082,2025-12-10T02:27:41Z,new_merchant_high_amount,medium,0.314,621.21,Airlines,velocity_check,aml_v2.1,false_positive,analyst_010,2025-12-17,0
+FRD-00338,TXN-15954,ACCT-11078,CUST-00525,2025-08-20T15:52:46Z,card_not_present_high_risk,critical,0.964,10.66,Bookstores,ml_model,fraud_v3.2,closed,analyst_016,2025-09-05,0
+FRD-00339,TXN-15979,ACCT-11234,CUST-00606,2025-03-27T11:00:51Z,structuring_pattern,high,0.874,592.81,Airlines,ml_model,fraud_v3.2,false_positive,analyst_008,2025-04-07,0
+FRD-00340,TXN-16212,ACCT-11502,CUST-00747,2025-12-28T13:04:13Z,geographic_anomaly,medium,0.851,566.25,Airlines,ml_model,fraud_v3.3,open,analyst_018,2025-12-29,0
+FRD-00341,TXN-16232,ACCT-11281,CUST-00634,2025-06-08T10:38:06Z,account_takeover_attempt,low,0.874,616.27,Airlines,ml_model,fraud_v3.3,open,analyst_019,2025-06-19,0
+FRD-00342,TXN-16258,ACCT-13449,CUST-01769,2025-06-25T06:33:50Z,structuring_pattern,high,0.325,735.77,Airlines,network_analysis,aml_v2.1,investigating,analyst_012,,0
+FRD-00343,TXN-16411,ACCT-10773,CUST-00378,2025-10-21T23:39:17Z,international_unusual,medium,0.522,570.94,Airlines,ml_model,fraud_v3.2,investigating,analyst_008,2025-11-19,0
+FRD-00344,TXN-16418,ACCT-11538,CUST-00769,2025-08-04T23:48:12Z,large_purchase,low,0.337,32.89,Online Shopping,velocity_check,aml_v2.1,false_positive,analyst_013,2025-08-26,0
+FRD-00345,TXN-16477,ACCT-11139,CUST-00557,2025-09-12T03:29:12Z,large_purchase,medium,0.492,47.05,Bookstores,geo_fence,aml_v2.1,false_positive,analyst_010,2025-09-29,0
+FRD-00346,TXN-16492,ACCT-12574,CUST-01313,2025-08-03T17:11:55Z,multiple_declines,high,0.473,531.42,Airlines,network_analysis,fraud_v3.3,confirmed_fraud,analyst_019,,0
+FRD-00347,TXN-16494,ACCT-10072,CUST-00032,2025-07-14T08:13:56Z,card_not_present_high_risk,low,0.968,548.36,Airlines,geo_fence,fraud_v3.2,investigating,analyst_005,2025-08-10,0
+FRD-00348,TXN-16512,ACCT-12101,CUST-01069,2025-12-11T11:24:55Z,structuring_pattern,critical,0.652,28.4,Pharmacy,ml_model,fraud_v3.2,closed,analyst_015,2026-01-02,0
+FRD-00349,TXN-16538,ACCT-13784,CUST-01953,2026-02-09T08:35:57Z,international_unusual,medium,0.794,13.54,Fast Food,velocity_check,fraud_v3.3,false_positive,analyst_018,2026-03-07,0
+FRD-00350,TXN-16558,ACCT-10871,CUST-00425,2026-01-24T07:50:22Z,large_purchase,medium,0.867,64.01,Department Stores,velocity_check,aml_v2.1,false_positive,analyst_016,2026-02-14,0
+FRD-00351,TXN-16566,ACCT-11668,CUST-00834,2025-12-02T15:56:53Z,unusual_time_pattern,critical,0.747,6.14,Rideshare/Taxi,network_analysis,fraud_v3.2,false_positive,analyst_001,2025-12-27,0
+FRD-00352,TXN-16607,ACCT-10825,CUST-00401,2025-03-23T00:46:14Z,international_unusual,critical,0.734,69.88,Department Stores,geo_fence,fraud_v3.3,false_positive,analyst_001,2025-04-09,59.94
+FRD-00353,TXN-16629,ACCT-11160,CUST-00567,2025-07-20T14:26:31Z,account_takeover_attempt,medium,0.944,509.92,Airlines,ml_model,fraud_v3.2,false_positive,analyst_007,2025-07-31,0
+FRD-00354,TXN-16632,ACCT-12175,CUST-01107,2026-01-21T18:00:22Z,card_not_present_high_risk,high,0.957,547.26,Airlines,geo_fence,fraud_v3.3,false_positive,analyst_016,2026-02-15,0
+FRD-00355,TXN-16650,ACCT-10033,CUST-00016,2025-06-04T04:08:40Z,account_takeover_attempt,high,0.57,20.43,Rideshare/Taxi,ml_model,fraud_v3.2,open,analyst_017,2025-07-04,0
+FRD-00356,TXN-16732,ACCT-12625,CUST-01345,2026-01-02T20:04:16Z,card_not_present_high_risk,low,0.945,71.55,Restaurants,rules_engine,fraud_v3.3,closed,analyst_019,2026-01-14,0
+FRD-00357,TXN-16778,ACCT-11437,CUST-00711,2026-01-02T02:46:17Z,large_purchase,medium,0.874,514.85,Airlines,geo_fence,aml_v2.1,false_positive,analyst_018,,0
+FRD-00358,TXN-16788,ACCT-11468,CUST-00727,2026-01-30T04:12:52Z,new_merchant_high_amount,low,0.831,502.22,Airlines,network_analysis,fraud_v3.3,closed,analyst_015,,437.06
+FRD-00359,TXN-16824,ACCT-13434,CUST-01761,2025-08-12T18:05:17Z,card_not_present_high_risk,low,0.871,57.59,Department Stores,ml_model,fraud_v3.2,investigating,analyst_001,2025-09-01,0
+FRD-00360,TXN-17002,ACCT-10751,CUST-00365,2025-08-02T11:07:07Z,account_takeover_attempt,medium,0.507,597.8,Airlines,network_analysis,aml_v2.1,false_positive,analyst_014,,0
+FRD-00361,TXN-17111,ACCT-10442,CUST-00209,2025-05-12T17:27:05Z,multiple_declines,medium,0.621,565.55,Airlines,ml_model,fraud_v3.2,false_positive,analyst_009,2025-05-30,43.54
+FRD-00362,TXN-17114,ACCT-13619,CUST-01860,2025-03-27T14:12:55Z,unusual_time_pattern,medium,0.353,740.23,Airlines,rules_engine,aml_v2.1,false_positive,analyst_014,2025-04-12,0
+FRD-00363,TXN-17301,ACCT-12290,CUST-01171,2025-04-26T16:15:17Z,large_purchase,high,0.972,687.49,Airlines,network_analysis,fraud_v3.3,open,analyst_006,2025-05-15,0
+FRD-00364,TXN-17341,ACCT-10436,CUST-00207,2025-10-26T05:33:13Z,velocity_spike,low,0.78,648.01,Airlines,rules_engine,fraud_v3.2,investigating,analyst_017,2025-11-14,0
+FRD-00365,TXN-17362,ACCT-12040,CUST-01035,2025-06-27T17:41:38Z,structuring_pattern,high,0.814,578.87,Airlines,velocity_check,fraud_v3.3,false_positive,analyst_016,2025-07-19,0
+FRD-00366,TXN-17458,ACCT-10292,CUST-00144,2025-09-08T03:06:50Z,new_merchant_high_amount,low,0.765,213.06,Electronics,network_analysis,aml_v2.1,open,analyst_014,2025-09-12,0
+FRD-00367,TXN-17481,ACCT-12567,CUST-01308,2025-02-23T20:03:34Z,multiple_declines,high,0.426,46.76,Online Shopping,geo_fence,fraud_v3.3,closed,analyst_010,2025-03-11,0
+FRD-00368,TXN-17507,ACCT-11299,CUST-00643,2026-02-05T03:03:30Z,large_purchase,high,0.616,205.86,Electronics,velocity_check,aml_v2.1,false_positive,analyst_009,,0
+FRD-00369,TXN-17579,ACCT-10612,CUST-00289,2025-06-18T08:33:16Z,unusual_time_pattern,high,0.848,509.73,Airlines,velocity_check,fraud_v3.3,closed,analyst_014,2025-07-12,0
+FRD-00370,TXN-17610,ACCT-10242,CUST-00122,2025-11-06T15:31:05Z,card_not_present_high_risk,low,0.793,503.35,Airlines,velocity_check,fraud_v3.3,investigating,analyst_017,,0
+FRD-00371,TXN-17629,ACCT-12774,CUST-01417,2026-02-09T13:34:35Z,unusual_time_pattern,high,0.822,823.96,Airlines,network_analysis,fraud_v3.2,closed,analyst_013,2026-02-26,0
+FRD-00372,TXN-17642,ACCT-12516,CUST-01286,2025-03-17T19:16:49Z,international_unusual,medium,0.306,186.26,Hotels,rules_engine,fraud_v3.3,confirmed_fraud,analyst_016,,0
+FRD-00373,TXN-17664,ACCT-11760,CUST-00885,2025-08-03T15:22:34Z,account_takeover_attempt,critical,0.756,12.8,Online Shopping,rules_engine,fraud_v3.3,false_positive,analyst_005,2025-08-28,0
+FRD-00374,TXN-17757,ACCT-11937,CUST-00983,2025-04-14T23:06:11Z,new_merchant_high_amount,high,0.331,212.66,Hotels,rules_engine,fraud_v3.3,investigating,analyst_013,2025-04-24,0
+FRD-00375,TXN-17790,ACCT-12675,CUST-01374,2025-06-01T16:52:59Z,multiple_declines,medium,0.6,583.64,Airlines,velocity_check,aml_v2.1,open,analyst_008,2025-06-06,0
+FRD-00376,TXN-17913,ACCT-13514,CUST-01802,2025-11-05T22:27:10Z,multiple_declines,medium,0.301,660.45,Airlines,ml_model,aml_v2.1,false_positive,analyst_004,2025-11-09,0
+FRD-00377,TXN-18000,ACCT-10849,CUST-00415,2025-09-08T19:39:35Z,multiple_declines,high,0.35,67.7,Grocery,geo_fence,fraud_v3.3,confirmed_fraud,analyst_020,2025-09-11,0
+FRD-00378,TXN-18040,ACCT-11026,CUST-00502,2025-09-05T07:07:20Z,card_not_present_high_risk,low,0.992,66.51,Medical,network_analysis,aml_v2.1,closed,analyst_004,2025-09-23,0
+FRD-00379,TXN-18103,ACCT-10425,CUST-00201,2025-07-10T10:22:44Z,velocity_spike,low,0.505,536.22,Airlines,network_analysis,aml_v2.1,open,analyst_004,,0
+FRD-00380,TXN-18144,ACCT-13845,CUST-01988,2025-05-11T06:07:57Z,international_unusual,high,0.909,42.47,Pharmacy,ml_model,fraud_v3.2,false_positive,analyst_001,,0
+FRD-00381,TXN-18178,ACCT-10677,CUST-00325,2025-10-26T06:02:17Z,new_merchant_high_amount,high,0.595,509.55,Airlines,velocity_check,aml_v2.1,open,analyst_012,2025-11-03,0
+FRD-00382,TXN-18295,ACCT-11612,CUST-00807,2025-03-06T07:38:06Z,geographic_anomaly,low,0.528,57.32,Restaurants,network_analysis,fraud_v3.2,investigating,analyst_014,2025-03-19,0
+FRD-00383,TXN-18345,ACCT-13786,CUST-01955,2025-02-14T15:30:23Z,velocity_spike,medium,0.872,577.67,Airlines,network_analysis,fraud_v3.3,confirmed_fraud,analyst_014,2025-03-13,0
+FRD-00384,TXN-18646,ACCT-13812,CUST-01970,2025-09-27T23:08:05Z,geographic_anomaly,medium,0.558,423.25,Airlines,network_analysis,aml_v2.1,false_positive,analyst_007,2025-10-03,0
+FRD-00385,TXN-18667,ACCT-13555,CUST-01827,2025-07-30T16:44:12Z,velocity_spike,high,0.738,712.41,Airlines,ml_model,fraud_v3.2,false_positive,analyst_007,2025-08-27,442.11
+FRD-00386,TXN-18713,ACCT-11033,CUST-00506,2025-10-19T13:54:31Z,international_unusual,medium,0.77,31.46,Restaurants,ml_model,fraud_v3.3,closed,analyst_005,2025-11-13,0
+FRD-00387,TXN-18723,ACCT-11586,CUST-00794,2025-02-15T14:56:27Z,structuring_pattern,high,0.397,576.37,Airlines,velocity_check,fraud_v3.3,closed,analyst_018,2025-02-23,0
+FRD-00388,TXN-18746,ACCT-10060,CUST-00027,2025-08-27T14:22:05Z,geographic_anomaly,medium,0.985,12.73,Fast Food,geo_fence,fraud_v3.3,false_positive,analyst_001,,0
+FRD-00389,TXN-18860,ACCT-12131,CUST-01085,2025-10-13T07:15:38Z,card_not_present_high_risk,low,0.463,683.45,Airlines,geo_fence,aml_v2.1,false_positive,analyst_014,2025-10-29,0
+FRD-00390,TXN-18971,ACCT-10644,CUST-00306,2025-10-13T02:04:26Z,geographic_anomaly,medium,0.444,585.67,Airlines,ml_model,aml_v2.1,false_positive,analyst_007,,0
+FRD-00391,TXN-19002,ACCT-11767,CUST-00888,2025-02-22T04:38:12Z,large_purchase,critical,0.832,251.35,Airlines,rules_engine,aml_v2.1,false_positive,analyst_013,,172.37
+FRD-00392,TXN-19008,ACCT-11448,CUST-00717,2025-06-04T15:52:37Z,card_not_present_high_risk,medium,0.648,514.58,Airlines,rules_engine,fraud_v3.3,investigating,analyst_015,2025-06-09,0
+FRD-00393,TXN-19100,ACCT-10292,CUST-00144,2025-06-25T06:26:24Z,structuring_pattern,high,0.798,21.15,Entertainment,ml_model,fraud_v3.2,false_positive,analyst_019,,0
+FRD-00394,TXN-19163,ACCT-12491,CUST-01275,2025-07-07T04:46:29Z,international_unusual,medium,0.787,855.25,Airlines,velocity_check,aml_v2.1,closed,analyst_019,2025-07-19,0
+FRD-00395,TXN-19215,ACCT-13600,CUST-01851,2026-02-06T04:14:08Z,velocity_spike,critical,0.305,543.46,Airlines,geo_fence,fraud_v3.2,false_positive,analyst_018,,0
+FRD-00396,TXN-19343,ACCT-11829,CUST-00917,2025-09-20T08:30:01Z,multiple_declines,high,0.873,500.78,Airlines,network_analysis,fraud_v3.3,investigating,analyst_018,,0
+FRD-00397,TXN-19345,ACCT-13572,CUST-01837,2025-02-10T07:04:27Z,card_not_present_high_risk,low,0.993,626.96,Airlines,velocity_check,aml_v2.1,investigating,analyst_008,,0
+FRD-00398,TXN-19454,ACCT-11424,CUST-00704,2025-10-24T21:05:23Z,velocity_spike,medium,0.606,39.21,Entertainment,rules_engine,fraud_v3.2,false_positive,analyst_018,2025-11-01,0
+FRD-00399,TXN-19520,ACCT-10517,CUST-00245,2025-09-29T16:04:17Z,international_unusual,low,0.483,84.41,Grocery,network_analysis,aml_v2.1,confirmed_fraud,analyst_003,2025-10-07,0
+FRD-00400,TXN-19534,ACCT-10426,CUST-00202,2025-06-01T19:10:22Z,large_purchase,medium,0.736,13.75,Entertainment,velocity_check,fraud_v3.3,confirmed_fraud,analyst_014,,0
+FRD-00401,TXN-19629,ACCT-13375,CUST-01730,2025-05-21T19:50:16Z,account_takeover_attempt,low,0.752,49.34,Restaurants,rules_engine,fraud_v3.3,closed,analyst_006,2025-05-25,0
+FRD-00402,TXN-19655,ACCT-10863,CUST-00421,2025-02-18T21:03:01Z,large_purchase,high,0.443,61.32,Grocery,velocity_check,fraud_v3.2,open,analyst_016,2025-03-06,0
+FRD-00403,TXN-19831,ACCT-10061,CUST-00028,2025-06-04T21:20:48Z,geographic_anomaly,low,0.315,524.59,Airlines,ml_model,fraud_v3.3,closed,analyst_005,,0
+FRD-00404,TXN-19948,ACCT-11121,CUST-00547,2025-08-11T09:41:45Z,geographic_anomaly,high,0.421,621.67,Airlines,network_analysis,fraud_v3.3,investigating,analyst_013,2025-09-02,0
+FRD-00405,TXN-19962,ACCT-10203,CUST-00106,2025-05-29T19:05:23Z,card_not_present_high_risk,low,0.832,586.76,Airlines,velocity_check,aml_v2.1,investigating,analyst_006,,0
+FRD-00406,TXN-19974,ACCT-11989,CUST-01007,2025-08-23T05:23:22Z,multiple_declines,low,0.309,524.84,Airlines,velocity_check,fraud_v3.3,open,analyst_009,2025-09-05,0
+FRD-00407,TXN-20001,ACCT-10245,CUST-00122,2025-10-09T15:50:06Z,account_takeover_attempt,low,0.809,46.81,Online Shopping,network_analysis,fraud_v3.2,false_positive,analyst_002,,0
+FRD-00408,TXN-20008,ACCT-11404,CUST-00694,2025-10-03T18:42:09Z,geographic_anomaly,low,0.545,500.04,Airlines,network_analysis,fraud_v3.3,investigating,analyst_010,,0
+FRD-00409,TXN-20039,ACCT-12101,CUST-01069,2025-08-11T03:45:12Z,international_unusual,medium,0.942,648.13,Airlines,velocity_check,aml_v2.1,investigating,analyst_019,,0
+FRD-00410,TXN-20078,ACCT-13206,CUST-01639,2025-08-23T03:02:13Z,new_merchant_high_amount,low,0.648,576.08,Airlines,ml_model,fraud_v3.2,investigating,analyst_012,2025-08-26,0
+FRD-00411,TXN-20085,ACCT-10165,CUST-00083,2025-08-22T05:43:01Z,multiple_declines,critical,0.756,11.07,Grocery,ml_model,fraud_v3.3,false_positive,analyst_008,,0
+FRD-00412,TXN-20247,ACCT-12131,CUST-01085,2025-11-01T16:32:50Z,card_not_present_high_risk,low,0.552,513.03,Airlines,rules_engine,fraud_v3.2,open,analyst_011,2025-11-21,0
+FRD-00413,TXN-20275,ACCT-11226,CUST-00602,2025-08-23T09:14:20Z,large_purchase,medium,0.665,37.28,Online Shopping,ml_model,fraud_v3.2,false_positive,analyst_002,2025-09-12,0
+FRD-00414,TXN-20309,ACCT-12746,CUST-01404,2026-01-02T20:16:17Z,geographic_anomaly,low,0.723,671.14,Airlines,velocity_check,aml_v2.1,closed,analyst_010,2026-01-03,0
+FRD-00415,TXN-20362,ACCT-10912,CUST-00442,2025-03-18T21:04:18Z,large_purchase,medium,0.696,588.99,Airlines,ml_model,fraud_v3.3,false_positive,analyst_013,,0
+FRD-00416,TXN-20373,ACCT-11299,CUST-00643,2026-01-22T00:55:34Z,multiple_declines,low,0.94,591.4,Airlines,velocity_check,fraud_v3.3,investigating,analyst_004,2026-02-05,0
+FRD-00417,TXN-20452,ACCT-12805,CUST-01433,2026-01-27T23:57:05Z,multiple_declines,high,0.438,561.23,Airlines,velocity_check,aml_v2.1,investigating,analyst_011,2026-02-13,342.07
+FRD-00418,TXN-20472,ACCT-10945,CUST-00460,2025-11-08T23:32:12Z,geographic_anomaly,high,0.496,226.4,Hotels,velocity_check,aml_v2.1,investigating,analyst_011,2025-12-01,0
+FRD-00419,TXN-20507,ACCT-11024,CUST-00500,2025-03-05T13:40:41Z,large_purchase,medium,0.716,573.69,Airlines,rules_engine,aml_v2.1,false_positive,analyst_017,2025-03-27,0
+FRD-00420,TXN-20528,ACCT-10150,CUST-00076,2026-01-06T03:55:55Z,structuring_pattern,medium,0.591,19.37,Fast Food,velocity_check,fraud_v3.3,closed,analyst_010,,0
+FRD-00421,TXN-20548,ACCT-10428,CUST-00203,2025-09-18T08:18:10Z,large_purchase,high,0.979,558.74,Airlines,ml_model,fraud_v3.2,investigating,analyst_013,2025-10-09,0
+FRD-00422,TXN-20564,ACCT-10256,CUST-00128,2025-03-12T01:39:41Z,structuring_pattern,medium,0.799,44.39,Pharmacy,ml_model,aml_v2.1,confirmed_fraud,analyst_012,,0
+FRD-00423,TXN-20576,ACCT-10780,CUST-00381,2025-10-05T17:00:49Z,large_purchase,high,0.93,32.76,Restaurants,network_analysis,fraud_v3.2,closed,analyst_008,,0
+FRD-00424,TXN-20602,ACCT-11299,CUST-00643,2025-06-19T12:45:16Z,new_merchant_high_amount,high,0.885,526.26,Airlines,ml_model,fraud_v3.2,open,analyst_003,,0
+FRD-00425,TXN-20670,ACCT-11560,CUST-00779,2025-02-15T05:01:13Z,card_not_present_high_risk,high,0.801,113.85,Department Stores,ml_model,fraud_v3.3,open,analyst_016,2025-02-24,0
+FRD-00426,TXN-20680,ACCT-13468,CUST-01778,2025-12-01T22:02:00Z,unusual_time_pattern,low,0.543,18.15,Clothing,velocity_check,fraud_v3.3,investigating,analyst_008,2025-12-02,0
+FRD-00427,TXN-20717,ACCT-10895,CUST-00436,2026-01-08T20:10:18Z,unusual_time_pattern,high,0.88,44.22,Restaurants,velocity_check,fraud_v3.2,false_positive,analyst_005,2026-01-27,0
+FRD-00428,TXN-20740,ACCT-12449,CUST-01253,2025-08-13T03:36:17Z,velocity_spike,high,0.568,547.98,Airlines,geo_fence,aml_v2.1,closed,analyst_018,,0
+FRD-00429,TXN-20765,ACCT-12045,CUST-01037,2025-08-16T08:27:53Z,account_takeover_attempt,low,0.464,504.14,Airlines,ml_model,fraud_v3.2,false_positive,analyst_001,,0
+FRD-00430,TXN-20782,ACCT-13520,CUST-01805,2025-08-03T09:11:58Z,multiple_declines,medium,0.762,620.99,Airlines,rules_engine,aml_v2.1,open,analyst_009,2025-08-14,409.97
+FRD-00431,TXN-20808,ACCT-12737,CUST-01400,2025-02-15T21:44:10Z,new_merchant_high_amount,high,0.669,591.65,Airlines,network_analysis,fraud_v3.2,open,analyst_004,2025-02-19,0
+FRD-00432,TXN-20966,ACCT-12496,CUST-01277,2025-06-14T06:14:39Z,structuring_pattern,medium,0.553,26.65,Online Shopping,rules_engine,fraud_v3.2,confirmed_fraud,analyst_005,2025-07-12,8.07
+FRD-00433,TXN-20999,ACCT-13524,CUST-01807,2025-12-21T06:37:40Z,large_purchase,medium,0.654,23.57,Pharmacy,rules_engine,aml_v2.1,open,analyst_017,,0
+FRD-00434,TXN-21012,ACCT-12999,CUST-01536,2025-07-01T10:38:29Z,multiple_declines,low,0.915,523.95,Airlines,network_analysis,fraud_v3.3,investigating,analyst_001,2025-07-17,0
+FRD-00435,TXN-21017,ACCT-13038,CUST-01561,2025-09-08T14:30:44Z,card_not_present_high_risk,low,0.397,522.11,Airlines,ml_model,fraud_v3.3,closed,analyst_006,2025-09-17,83.05
+FRD-00436,TXN-21028,ACCT-11222,CUST-00601,2025-03-09T15:35:09Z,geographic_anomaly,high,0.858,22.86,Parking,geo_fence,fraud_v3.2,open,analyst_003,2025-04-08,0
+FRD-00437,TXN-21041,ACCT-10363,CUST-00174,2025-08-23T20:34:18Z,geographic_anomaly,medium,0.904,23.41,Fast Food,ml_model,fraud_v3.3,investigating,analyst_004,2025-08-24,0
+FRD-00438,TXN-21071,ACCT-12394,CUST-01223,2025-09-11T12:49:50Z,structuring_pattern,medium,0.327,171.98,Airlines,network_analysis,aml_v2.1,open,analyst_018,2025-10-01,0
+FRD-00439,TXN-21113,ACCT-12088,CUST-01062,2025-07-18T16:42:53Z,card_not_present_high_risk,medium,0.634,30.29,Gas Stations,ml_model,aml_v2.1,confirmed_fraud,analyst_010,2025-07-28,0
+FRD-00440,TXN-21144,ACCT-12879,CUST-01470,2025-09-03T07:10:12Z,velocity_spike,high,0.372,47.25,Clothing,ml_model,fraud_v3.2,closed,analyst_020,,0
+FRD-00441,TXN-21145,ACCT-10737,CUST-00356,2025-05-25T22:51:42Z,large_purchase,low,0.529,14.04,Fast Food,rules_engine,fraud_v3.3,open,analyst_016,2025-06-06,4.62
+FRD-00442,TXN-21158,ACCT-12063,CUST-01044,2025-09-29T09:03:52Z,card_not_present_high_risk,medium,0.538,30.64,Entertainment,geo_fence,fraud_v3.2,false_positive,analyst_010,2025-10-04,0
+FRD-00443,TXN-21217,ACCT-10982,CUST-00477,2025-07-19T15:43:53Z,multiple_declines,critical,0.54,428.19,Airlines,velocity_check,aml_v2.1,confirmed_fraud,analyst_007,,0
+FRD-00444,TXN-21322,ACCT-11302,CUST-00645,2025-07-19T00:28:55Z,geographic_anomaly,medium,0.461,537.07,Airlines,geo_fence,aml_v2.1,open,analyst_017,2025-08-12,0
+FRD-00445,TXN-21374,ACCT-12988,CUST-01528,2025-09-25T23:40:28Z,new_merchant_high_amount,high,0.471,631.25,Airlines,geo_fence,fraud_v3.3,investigating,analyst_004,2025-10-01,0
+FRD-00446,TXN-21446,ACCT-12694,CUST-01382,2025-06-18T01:23:56Z,card_not_present_high_risk,low,0.749,477.94,Airlines,ml_model,fraud_v3.3,investigating,analyst_018,2025-06-29,0
+FRD-00447,TXN-21460,ACCT-10947,CUST-00461,2025-11-06T20:08:05Z,account_takeover_attempt,medium,0.469,582.69,Airlines,ml_model,fraud_v3.3,false_positive,analyst_012,2025-11-27,0
+FRD-00448,TXN-21462,ACCT-12203,CUST-01122,2025-02-17T00:25:39Z,velocity_spike,high,0.686,570.62,Airlines,ml_model,fraud_v3.2,closed,analyst_010,2025-02-26,0
+FRD-00449,TXN-21491,ACCT-10014,CUST-00007,2025-06-14T13:09:13Z,large_purchase,high,0.976,139.86,Department Stores,ml_model,fraud_v3.3,closed,analyst_009,2025-06-22,0
+FRD-00450,TXN-21594,ACCT-11024,CUST-00500,2025-10-26T14:05:11Z,unusual_time_pattern,high,0.515,249.29,Hotels,ml_model,fraud_v3.3,open,analyst_019,2025-10-30,0
+FRD-00451,TXN-21656,ACCT-11977,CUST-01003,2025-03-25T21:38:34Z,structuring_pattern,critical,0.955,555.55,Airlines,velocity_check,fraud_v3.2,false_positive,analyst_002,2025-04-22,0
+FRD-00452,TXN-21662,ACCT-11767,CUST-00888,2025-05-04T02:51:08Z,geographic_anomaly,medium,0.389,507.29,Airlines,rules_engine,fraud_v3.2,false_positive,analyst_001,,0
+FRD-00453,TXN-21687,ACCT-13449,CUST-01769,2025-04-30T05:57:43Z,account_takeover_attempt,high,0.956,591.14,Airlines,rules_engine,fraud_v3.2,investigating,analyst_005,2025-05-05,0
+FRD-00454,TXN-21693,ACCT-13201,CUST-01636,2025-06-16T20:48:21Z,card_not_present_high_risk,high,0.34,47.82,Clothing,geo_fence,fraud_v3.2,confirmed_fraud,analyst_011,2025-06-17,0
+FRD-00455,TXN-21704,ACCT-13753,CUST-01935,2025-05-20T14:28:30Z,unusual_time_pattern,critical,0.478,543.33,Airlines,velocity_check,aml_v2.1,closed,analyst_005,2025-06-09,0
+FRD-00456,TXN-21708,ACCT-11057,CUST-00516,2025-02-14T18:37:49Z,geographic_anomaly,medium,0.491,532.93,Airlines,rules_engine,fraud_v3.3,confirmed_fraud,analyst_015,2025-03-12,0
+FRD-00457,TXN-21724,ACCT-10999,CUST-00486,2025-06-21T06:03:22Z,new_merchant_high_amount,high,0.611,527.91,Airlines,geo_fence,fraud_v3.3,investigating,analyst_003,2025-07-16,0
+FRD-00458,TXN-21769,ACCT-10263,CUST-00132,2025-09-26T02:45:00Z,account_takeover_attempt,medium,0.373,78.93,Gas Stations,rules_engine,fraud_v3.2,false_positive,analyst_008,2025-10-20,0
+FRD-00459,TXN-21805,ACCT-11953,CUST-00991,2026-01-01T05:51:34Z,velocity_spike,medium,0.6,33.18,Bookstores,geo_fence,fraud_v3.2,investigating,analyst_018,2026-01-31,0
+FRD-00460,TXN-21829,ACCT-10085,CUST-00041,2025-09-11T05:39:00Z,multiple_declines,high,0.381,37.48,Department Stores,rules_engine,aml_v2.1,false_positive,analyst_011,2025-09-13,0
+FRD-00461,TXN-21916,ACCT-12753,CUST-01408,2025-10-30T08:02:31Z,velocity_spike,high,0.7,234.83,Medical,rules_engine,fraud_v3.2,false_positive,analyst_003,,0
+FRD-00462,TXN-21940,ACCT-11987,CUST-01007,2025-09-07T10:35:38Z,velocity_spike,high,0.595,502.44,Airlines,velocity_check,fraud_v3.2,false_positive,analyst_015,,0
+FRD-00463,TXN-21995,ACCT-13045,CUST-01564,2025-10-21T14:30:14Z,structuring_pattern,low,0.4,624.33,Airlines,network_analysis,fraud_v3.2,investigating,analyst_007,2025-10-28,0
+FRD-00464,TXN-22008,ACCT-10628,CUST-00299,2025-11-06T07:20:54Z,new_merchant_high_amount,medium,0.321,235.86,Electronics,geo_fence,aml_v2.1,investigating,analyst_014,,0
+FRD-00465,TXN-22085,ACCT-11075,CUST-00524,2025-04-14T04:06:23Z,new_merchant_high_amount,low,0.626,539.8,Airlines,geo_fence,fraud_v3.3,closed,analyst_002,,0
+FRD-00466,TXN-22111,ACCT-11143,CUST-00559,2025-03-29T07:29:09Z,large_purchase,low,0.369,537.37,Airlines,ml_model,fraud_v3.3,investigating,analyst_016,,0
+FRD-00467,TXN-22135,ACCT-13174,CUST-01623,2026-01-16T04:39:18Z,multiple_declines,medium,0.446,22.46,Fast Food,network_analysis,fraud_v3.3,investigating,analyst_005,,0
+FRD-00468,TXN-22139,ACCT-13777,CUST-01948,2025-06-23T07:49:26Z,velocity_spike,low,0.894,511.27,Airlines,velocity_check,fraud_v3.2,false_positive,analyst_003,2025-07-19,0
+FRD-00469,TXN-22239,ACCT-12641,CUST-01352,2025-03-03T21:24:41Z,multiple_declines,medium,0.738,60.55,Grocery,network_analysis,aml_v2.1,false_positive,analyst_019,2025-03-27,0
+FRD-00470,TXN-22369,ACCT-13781,CUST-01951,2025-07-21T13:45:26Z,velocity_spike,low,0.592,615.84,Airlines,rules_engine,fraud_v3.2,false_positive,analyst_016,2025-07-24,0
+FRD-00471,TXN-22460,ACCT-11348,CUST-00664,2025-05-04T03:21:44Z,large_purchase,high,0.324,720.74,Airlines,velocity_check,fraud_v3.2,false_positive,analyst_012,2025-05-10,0
+FRD-00472,TXN-22474,ACCT-10448,CUST-00212,2025-04-20T13:13:34Z,large_purchase,medium,0.498,601.29,Airlines,rules_engine,aml_v2.1,open,analyst_013,,0
+FRD-00473,TXN-22590,ACCT-12577,CUST-01314,2025-10-09T19:37:52Z,large_purchase,low,0.896,534.1,Airlines,velocity_check,aml_v2.1,closed,analyst_015,,0
+FRD-00474,TXN-22591,ACCT-12679,CUST-01375,2025-09-17T12:30:46Z,large_purchase,high,0.428,531.09,Airlines,rules_engine,fraud_v3.2,false_positive,analyst_008,2025-09-29,0
+FRD-00475,TXN-22671,ACCT-11149,CUST-00562,2025-09-02T01:30:37Z,geographic_anomaly,high,0.619,23.45,Rideshare/Taxi,geo_fence,fraud_v3.3,false_positive,analyst_008,2025-09-12,0
+FRD-00476,TXN-22696,ACCT-10829,CUST-00403,2025-04-09T05:58:38Z,geographic_anomaly,low,0.604,522.78,Airlines,velocity_check,aml_v2.1,false_positive,analyst_013,,0
+FRD-00477,TXN-22761,ACCT-13477,CUST-01781,2025-03-29T17:54:16Z,account_takeover_attempt,low,0.458,508.48,Airlines,rules_engine,aml_v2.1,false_positive,analyst_008,2025-04-05,171.19
+FRD-00478,TXN-22791,ACCT-13695,CUST-01901,2025-02-20T11:03:47Z,card_not_present_high_risk,medium,0.639,50.89,Bookstores,rules_engine,aml_v2.1,confirmed_fraud,analyst_019,2025-03-22,17.49
+FRD-00479,TXN-22827,ACCT-13785,CUST-01955,2025-11-29T23:30:03Z,structuring_pattern,low,0.669,506.98,Airlines,rules_engine,aml_v2.1,investigating,analyst_005,,0
+FRD-00480,TXN-22845,ACCT-10705,CUST-00338,2025-05-21T19:41:13Z,new_merchant_high_amount,low,0.848,672.43,Airlines,velocity_check,fraud_v3.2,open,analyst_008,2025-06-14,0
+FRD-00481,TXN-22850,ACCT-11995,CUST-01010,2025-04-14T06:18:51Z,account_takeover_attempt,low,0.554,536.47,Airlines,network_analysis,fraud_v3.3,false_positive,analyst_020,2025-05-06,0
+FRD-00482,TXN-22939,ACCT-11767,CUST-00888,2025-07-06T21:40:03Z,large_purchase,medium,0.998,515.72,Airlines,geo_fence,aml_v2.1,open,analyst_017,2025-07-22,0
+FRD-00483,TXN-22940,ACCT-12920,CUST-01495,2025-05-20T01:28:48Z,international_unusual,medium,0.367,41.61,Entertainment,velocity_check,fraud_v3.3,false_positive,analyst_008,,0
+FRD-00484,TXN-23033,ACCT-13101,CUST-01592,2025-12-22T20:03:32Z,international_unusual,high,0.752,45.72,Gas Stations,ml_model,aml_v2.1,false_positive,analyst_011,2026-01-08,0
+FRD-00485,TXN-23129,ACCT-13706,CUST-01906,2025-02-16T10:53:30Z,multiple_declines,low,0.596,518.3,Airlines,geo_fence,fraud_v3.2,investigating,analyst_014,,0
+FRD-00486,TXN-23131,ACCT-12077,CUST-01056,2025-08-25T03:49:02Z,international_unusual,high,0.901,501.36,Airlines,ml_model,aml_v2.1,investigating,analyst_020,2025-09-21,0
+FRD-00487,TXN-23302,ACCT-12101,CUST-01069,2025-12-05T16:15:33Z,unusual_time_pattern,high,0.358,517.12,Airlines,network_analysis,aml_v2.1,confirmed_fraud,analyst_017,,0
+FRD-00488,TXN-23313,ACCT-10319,CUST-00156,2025-06-23T08:18:39Z,geographic_anomaly,medium,0.851,786.04,Airlines,rules_engine,aml_v2.1,false_positive,analyst_007,2025-07-04,0
+FRD-00489,TXN-23524,ACCT-13845,CUST-01988,2025-02-24T21:01:13Z,geographic_anomaly,high,0.974,135.85,Clothing,ml_model,fraud_v3.2,closed,analyst_013,,41.66
+FRD-00490,TXN-23541,ACCT-12198,CUST-01118,2025-07-07T19:00:16Z,large_purchase,low,0.572,600.77,Airlines,geo_fence,fraud_v3.2,investigating,analyst_002,2025-07-19,0
+FRD-00491,TXN-23551,ACCT-11913,CUST-00967,2025-10-19T08:21:05Z,card_not_present_high_risk,low,0.682,32.04,Bookstores,network_analysis,fraud_v3.3,open,analyst_017,2025-11-03,0
+FRD-00492,TXN-23568,ACCT-11801,CUST-00905,2025-11-11T13:07:58Z,geographic_anomaly,low,0.628,579.45,Airlines,network_analysis,fraud_v3.2,open,analyst_018,2025-11-13,0
+FRD-00493,TXN-23570,ACCT-13197,CUST-01634,2025-04-14T12:54:55Z,structuring_pattern,medium,0.4,515.8,Airlines,ml_model,fraud_v3.2,investigating,analyst_008,2025-04-16,0
+FRD-00494,TXN-23590,ACCT-11589,CUST-00795,2025-07-19T21:01:20Z,new_merchant_high_amount,medium,0.522,514.17,Airlines,rules_engine,aml_v2.1,investigating,analyst_004,2025-07-22,0
+FRD-00495,TXN-23668,ACCT-12847,CUST-01452,2025-08-26T17:09:15Z,large_purchase,high,0.872,16.28,Fast Food,geo_fence,fraud_v3.3,confirmed_fraud,analyst_002,,0
+FRD-00496,TXN-23672,ACCT-11313,CUST-00649,2025-09-14T20:54:57Z,structuring_pattern,critical,0.779,824.27,Airlines,rules_engine,fraud_v3.3,investigating,analyst_009,,0
+FRD-00497,TXN-23705,ACCT-12938,CUST-01503,2025-05-11T05:24:30Z,multiple_declines,critical,0.63,584.65,Airlines,geo_fence,fraud_v3.2,closed,analyst_019,,0
+FRD-00498,TXN-23723,ACCT-11578,CUST-00790,2025-04-04T06:01:52Z,new_merchant_high_amount,medium,0.529,645.65,Airlines,ml_model,aml_v2.1,investigating,analyst_015,2025-04-24,13.95
+FRD-00499,TXN-23754,ACCT-13710,CUST-01908,2025-07-10T16:05:42Z,account_takeover_attempt,high,0.666,542.73,Airlines,ml_model,aml_v2.1,closed,analyst_016,2025-08-04,0
+FRD-00500,TXN-23891,ACCT-13023,CUST-01552,2025-02-18T04:52:12Z,card_not_present_high_risk,medium,0.84,33.4,Restaurants,ml_model,aml_v2.1,false_positive,analyst_007,,0
+FRD-00501,TXN-23904,ACCT-12891,CUST-01475,2025-08-17T09:01:38Z,unusual_time_pattern,high,0.337,52.35,Gas Stations,velocity_check,fraud_v3.3,false_positive,analyst_011,,41.04
+FRD-00502,TXN-23919,ACCT-11358,CUST-00668,2025-03-29T03:50:51Z,large_purchase,low,0.83,614.28,Airlines,velocity_check,fraud_v3.3,false_positive,analyst_015,2025-04-05,0
+FRD-00503,TXN-23995,ACCT-10392,CUST-00187,2025-07-20T00:28:13Z,multiple_declines,medium,0.537,547.08,Airlines,geo_fence,fraud_v3.3,investigating,analyst_004,,0
+FRD-00504,TXN-24032,ACCT-12095,CUST-01065,2025-03-22T06:49:07Z,large_purchase,high,0.466,506.82,Airlines,rules_engine,fraud_v3.3,false_positive,analyst_007,2025-03-27,0
+FRD-00505,TXN-24052,ACCT-13169,CUST-01621,2026-02-08T01:32:57Z,large_purchase,low,0.782,468.39,Airlines,ml_model,fraud_v3.3,investigating,analyst_015,,0
+FRD-00506,TXN-24074,ACCT-11201,CUST-00592,2026-01-03T18:26:12Z,international_unusual,high,0.458,585.75,Airlines,rules_engine,fraud_v3.2,false_positive,analyst_003,2026-01-29,0
+FRD-00507,TXN-24113,ACCT-10362,CUST-00173,2025-03-09T11:47:33Z,card_not_present_high_risk,medium,0.698,45.51,Grocery,rules_engine,aml_v2.1,closed,analyst_015,,0
+FRD-00508,TXN-24157,ACCT-13818,CUST-01973,2025-04-29T21:58:37Z,unusual_time_pattern,medium,0.382,517.77,Airlines,network_analysis,aml_v2.1,false_positive,analyst_020,2025-05-04,0
+FRD-00509,TXN-24232,ACCT-13784,CUST-01953,2025-11-26T06:52:22Z,unusual_time_pattern,high,0.572,525.43,Airlines,velocity_check,fraud_v3.3,false_positive,analyst_004,2025-12-17,69.35
+FRD-00510,TXN-24286,ACCT-13100,CUST-01592,2025-11-02T11:52:26Z,velocity_spike,high,0.641,25.98,Clothing,velocity_check,fraud_v3.2,false_positive,analyst_008,2025-11-13,0
+FRD-00511,TXN-24297,ACCT-10967,CUST-00471,2025-05-26T07:12:03Z,geographic_anomaly,medium,0.409,675.48,Airlines,rules_engine,aml_v2.1,open,analyst_007,2025-06-06,0
+FRD-00512,TXN-24390,ACCT-13731,CUST-01923,2025-07-17T14:11:47Z,large_purchase,medium,0.761,23.87,Pharmacy,network_analysis,fraud_v3.2,open,analyst_016,2025-08-02,0
+FRD-00513,TXN-24483,ACCT-10975,CUST-00473,2025-03-10T05:16:42Z,large_purchase,medium,0.443,589.44,Airlines,geo_fence,fraud_v3.3,open,analyst_009,2025-03-23,0
+FRD-00514,TXN-24542,ACCT-13016,CUST-01549,2025-06-12T15:20:31Z,account_takeover_attempt,high,0.847,52.57,Grocery,ml_model,fraud_v3.3,confirmed_fraud,analyst_020,2025-06-16,0
+FRD-00515,TXN-24547,ACCT-12687,CUST-01379,2025-02-28T05:08:34Z,large_purchase,critical,0.332,91.19,Grocery,network_analysis,aml_v2.1,open,analyst_001,2025-03-07,0
+FRD-00516,TXN-24556,ACCT-12052,CUST-01040,2025-06-04T11:31:19Z,large_purchase,high,0.944,529.11,Airlines,geo_fence,aml_v2.1,false_positive,analyst_018,2025-06-06,0
+FRD-00517,TXN-24642,ACCT-13218,CUST-01647,2025-12-10T02:28:46Z,international_unusual,critical,0.58,67.26,Bookstores,rules_engine,fraud_v3.2,closed,analyst_005,2026-01-09,0
+FRD-00518,TXN-24693,ACCT-10605,CUST-00287,2025-06-19T18:52:25Z,structuring_pattern,medium,0.542,540.39,Airlines,network_analysis,fraud_v3.3,confirmed_fraud,analyst_017,,0
+FRD-00519,TXN-24760,ACCT-10533,CUST-00252,2025-03-02T02:06:55Z,account_takeover_attempt,medium,0.799,572.3,Airlines,geo_fence,aml_v2.1,false_positive,analyst_015,2025-03-26,0
+FRD-00520,TXN-24785,ACCT-12262,CUST-01155,2025-12-08T20:45:34Z,velocity_spike,medium,0.492,670.48,Airlines,geo_fence,fraud_v3.2,false_positive,analyst_004,2025-12-20,0
+FRD-00521,TXN-24830,ACCT-11909,CUST-00965,2025-11-28T13:46:10Z,new_merchant_high_amount,high,0.524,37.3,Bookstores,velocity_check,aml_v2.1,open,analyst_003,2025-12-09,0
+FRD-00522,TXN-24876,ACCT-12249,CUST-01147,2025-12-19T23:22:27Z,large_purchase,critical,0.384,37.69,Rideshare/Taxi,network_analysis,aml_v2.1,false_positive,analyst_019,2026-01-16,8.09
+FRD-00523,TXN-24960,ACCT-10018,CUST-00008,2025-06-05T12:39:40Z,multiple_declines,high,0.943,618.6,Airlines,network_analysis,fraud_v3.2,closed,analyst_015,2025-07-01,0
+FRD-00524,TXN-24966,ACCT-11468,CUST-00727,2025-12-25T07:44:35Z,large_purchase,high,0.964,662.37,Airlines,network_analysis,aml_v2.1,false_positive,analyst_004,2025-12-28,0
+FRD-00525,TXN-24973,ACCT-13176,CUST-01623,2025-12-04T19:54:48Z,international_unusual,critical,0.358,663.92,Airlines,velocity_check,fraud_v3.3,investigating,analyst_014,2025-12-05,0
+FRD-00526,TXN-25008,ACCT-12034,CUST-01031,2025-08-30T06:11:46Z,international_unusual,high,0.787,12.5,Rideshare/Taxi,velocity_check,fraud_v3.2,false_positive,analyst_015,,0
+FRD-00527,TXN-25034,ACCT-11965,CUST-00998,2025-03-18T02:11:08Z,unusual_time_pattern,medium,0.51,633.56,Airlines,ml_model,fraud_v3.3,false_positive,analyst_017,,0
+FRD-00528,TXN-25057,ACCT-12774,CUST-01417,2025-05-31T22:45:56Z,card_not_present_high_risk,medium,0.897,103.06,Medical,rules_engine,fraud_v3.2,false_positive,analyst_004,2025-06-22,0
+FRD-00529,TXN-25075,ACCT-12810,CUST-01435,2025-09-07T21:20:09Z,card_not_present_high_risk,low,0.812,560.86,Airlines,rules_engine,fraud_v3.3,false_positive,analyst_020,,0
+FRD-00530,TXN-25168,ACCT-11634,CUST-00818,2025-02-15T04:41:52Z,large_purchase,high,0.796,96.2,Medical,geo_fence,aml_v2.1,closed,analyst_016,,0
+FRD-00531,TXN-25176,ACCT-12544,CUST-01298,2025-04-24T05:10:45Z,multiple_declines,medium,0.382,629.04,Airlines,rules_engine,fraud_v3.3,investigating,analyst_019,2025-04-30,0
+FRD-00532,TXN-25230,ACCT-13547,CUST-01822,2025-05-31T03:05:39Z,new_merchant_high_amount,high,0.593,18.17,Restaurants,velocity_check,fraud_v3.3,closed,analyst_001,2025-06-21,0
+FRD-00533,TXN-25235,ACCT-12873,CUST-01468,2025-08-15T14:45:29Z,unusual_time_pattern,high,0.619,606.33,Airlines,network_analysis,fraud_v3.2,false_positive,analyst_005,2025-09-07,0
+FRD-00534,TXN-25259,ACCT-13404,CUST-01745,2025-11-10T03:07:16Z,card_not_present_high_risk,low,0.458,823.06,Airlines,ml_model,fraud_v3.2,open,analyst_019,2025-11-11,0
+FRD-00535,TXN-25330,ACCT-10965,CUST-00468,2025-07-17T17:15:28Z,card_not_present_high_risk,low,0.764,411.12,Hotels,velocity_check,fraud_v3.3,false_positive,analyst_019,,0
+FRD-00536,TXN-25349,ACCT-10646,CUST-00308,2025-08-23T13:37:31Z,multiple_declines,low,0.715,588.41,Airlines,geo_fence,fraud_v3.3,false_positive,analyst_020,,0
+FRD-00537,TXN-25375,ACCT-13724,CUST-01918,2026-01-05T07:23:32Z,multiple_declines,low,0.696,570.06,Airlines,ml_model,aml_v2.1,closed,analyst_003,2026-01-13,0
+FRD-00538,TXN-25384,ACCT-10877,CUST-00429,2025-12-10T03:16:39Z,international_unusual,medium,0.385,661.29,Airlines,network_analysis,fraud_v3.3,false_positive,analyst_019,2025-12-11,0
+FRD-00539,TXN-25386,ACCT-11395,CUST-00691,2025-05-04T15:44:10Z,geographic_anomaly,high,0.556,527.51,Airlines,geo_fence,fraud_v3.3,confirmed_fraud,analyst_003,,0
+FRD-00540,TXN-25449,ACCT-11460,CUST-00723,2026-01-28T22:55:36Z,structuring_pattern,medium,0.664,377.46,Airlines,velocity_check,fraud_v3.3,closed,analyst_019,2026-02-06,0
+FRD-00541,TXN-25451,ACCT-10307,CUST-00150,2025-10-02T14:25:33Z,multiple_declines,critical,0.517,657.63,Airlines,velocity_check,fraud_v3.3,closed,analyst_015,,0
+FRD-00542,TXN-25490,ACCT-10011,CUST-00006,2025-09-27T17:43:36Z,account_takeover_attempt,medium,0.301,548.03,Airlines,network_analysis,fraud_v3.2,false_positive,analyst_013,,404.91
+FRD-00543,TXN-25538,ACCT-10253,CUST-00126,2025-07-05T15:12:39Z,large_purchase,medium,0.938,142.63,Hotels,rules_engine,fraud_v3.2,false_positive,analyst_009,2025-07-26,0
+FRD-00544,TXN-25641,ACCT-11602,CUST-00803,2025-06-10T19:00:52Z,international_unusual,low,0.69,665.41,Airlines,rules_engine,aml_v2.1,investigating,analyst_006,,0
+FRD-00545,TXN-25668,ACCT-13000,CUST-01536,2025-02-20T12:33:37Z,velocity_spike,medium,0.907,688.0,Airlines,rules_engine,aml_v2.1,open,analyst_014,2025-02-21,0
+FRD-00546,TXN-25688,ACCT-12027,CUST-01028,2026-01-05T23:41:10Z,structuring_pattern,medium,0.893,538.78,Airlines,network_analysis,aml_v2.1,false_positive,analyst_006,,0
+FRD-00547,TXN-25714,ACCT-12806,CUST-01433,2025-09-11T16:12:27Z,unusual_time_pattern,medium,0.463,608.87,Airlines,geo_fence,aml_v2.1,open,analyst_013,2025-10-08,0
+FRD-00548,TXN-25969,ACCT-10172,CUST-00086,2025-02-13T15:24:29Z,new_merchant_high_amount,high,0.731,614.82,Airlines,geo_fence,fraud_v3.3,false_positive,analyst_011,,0
+FRD-00549,TXN-26000,ACCT-12031,CUST-01030,2026-02-10T13:26:36Z,card_not_present_high_risk,high,0.371,609.67,Airlines,velocity_check,fraud_v3.2,false_positive,analyst_014,2026-03-04,0
+FRD-00550,TXN-26119,ACCT-10184,CUST-00094,2025-03-04T10:46:58Z,velocity_spike,critical,0.96,523.48,Airlines,geo_fence,fraud_v3.2,confirmed_fraud,analyst_009,2025-04-01,0
+FRD-00551,TXN-26126,ACCT-12624,CUST-01345,2025-05-29T12:59:53Z,velocity_spike,medium,0.557,529.16,Airlines,rules_engine,fraud_v3.2,closed,analyst_004,2025-06-15,0
+FRD-00552,TXN-26143,ACCT-13847,CUST-01989,2025-08-21T05:08:17Z,velocity_spike,medium,0.654,526.98,Airlines,ml_model,fraud_v3.2,open,analyst_015,,0
+FRD-00553,TXN-26166,ACCT-12012,CUST-01021,2025-10-09T15:29:41Z,large_purchase,critical,0.654,589.73,Airlines,velocity_check,aml_v2.1,confirmed_fraud,analyst_017,2025-10-27,0
+FRD-00554,TXN-26179,ACCT-12746,CUST-01404,2026-01-07T17:36:32Z,large_purchase,high,0.827,695.71,Airlines,geo_fence,fraud_v3.3,false_positive,analyst_003,2026-01-25,0
+FRD-00555,TXN-26234,ACCT-12369,CUST-01210,2025-04-21T20:17:22Z,velocity_spike,low,0.412,649.95,Airlines,network_analysis,fraud_v3.3,investigating,analyst_020,2025-05-12,0
+FRD-00556,TXN-26235,ACCT-10207,CUST-00107,2025-03-06T08:00:35Z,new_merchant_high_amount,medium,0.957,581.85,Airlines,velocity_check,fraud_v3.3,false_positive,analyst_019,,0
+FRD-00557,TXN-26238,ACCT-13155,CUST-01616,2025-12-21T07:10:35Z,unusual_time_pattern,low,0.619,610.75,Airlines,velocity_check,aml_v2.1,investigating,analyst_005,2025-12-23,0
+FRD-00558,TXN-26264,ACCT-12679,CUST-01375,2025-02-27T05:03:44Z,velocity_spike,medium,0.574,38.08,Rideshare/Taxi,geo_fence,fraud_v3.3,closed,analyst_015,2025-03-29,0
+FRD-00559,TXN-26268,ACCT-13111,CUST-01596,2026-01-02T16:35:24Z,velocity_spike,medium,0.953,94.55,Online Shopping,velocity_check,aml_v2.1,false_positive,analyst_008,2026-01-27,0
+FRD-00560,TXN-26279,ACCT-11006,CUST-00489,2025-07-29T15:46:34Z,velocity_spike,high,0.738,514.44,Airlines,rules_engine,fraud_v3.3,closed,analyst_011,2025-07-30,0
+FRD-00561,TXN-26286,ACCT-10566,CUST-00265,2025-11-08T16:27:43Z,structuring_pattern,medium,0.868,688.72,Airlines,ml_model,fraud_v3.2,false_positive,analyst_015,2025-11-26,228.43
+FRD-00562,TXN-26299,ACCT-12997,CUST-01535,2025-03-30T17:36:29Z,new_merchant_high_amount,high,0.393,540.65,Airlines,rules_engine,aml_v2.1,false_positive,analyst_004,2025-04-04,0
+FRD-00563,TXN-26300,ACCT-10099,CUST-00047,2025-12-12T10:08:34Z,large_purchase,low,0.711,624.03,Airlines,ml_model,fraud_v3.2,false_positive,analyst_009,,0
+FRD-00564,TXN-26392,ACCT-13152,CUST-01615,2025-06-22T06:08:56Z,new_merchant_high_amount,low,0.804,546.28,Airlines,ml_model,aml_v2.1,closed,analyst_014,2025-06-28,0
+FRD-00565,TXN-26416,ACCT-11713,CUST-00860,2025-08-10T21:54:00Z,new_merchant_high_amount,critical,0.525,548.59,Airlines,network_analysis,fraud_v3.2,false_positive,analyst_003,,0
+FRD-00566,TXN-26425,ACCT-10587,CUST-00280,2025-04-29T09:26:12Z,new_merchant_high_amount,low,0.931,60.24,Gas Stations,rules_engine,fraud_v3.3,closed,analyst_019,,0
+FRD-00567,TXN-26465,ACCT-13659,CUST-01882,2025-09-28T19:53:19Z,velocity_spike,high,0.593,55.99,Department Stores,geo_fence,fraud_v3.3,confirmed_fraud,analyst_004,2025-10-22,0
+FRD-00568,TXN-26500,ACCT-12267,CUST-01158,2025-10-19T23:42:37Z,card_not_present_high_risk,low,0.511,44.43,Bookstores,geo_fence,fraud_v3.3,false_positive,analyst_001,2025-10-29,0
+FRD-00569,TXN-26581,ACCT-12706,CUST-01386,2025-07-15T18:01:23Z,account_takeover_attempt,high,0.333,614.19,Airlines,rules_engine,aml_v2.1,open,analyst_019,2025-07-31,139.64
+FRD-00570,TXN-26618,ACCT-11024,CUST-00500,2025-07-18T23:25:09Z,card_not_present_high_risk,high,0.762,39.34,Rideshare/Taxi,ml_model,fraud_v3.3,false_positive,analyst_006,,0
+FRD-00571,TXN-26674,ACCT-13400,CUST-01743,2025-08-06T18:14:32Z,account_takeover_attempt,low,0.513,503.14,Airlines,network_analysis,aml_v2.1,false_positive,analyst_003,2025-08-24,0
+FRD-00572,TXN-26746,ACCT-12415,CUST-01234,2025-06-22T22:45:21Z,card_not_present_high_risk,medium,0.921,530.66,Airlines,geo_fence,fraud_v3.3,false_positive,analyst_008,2025-07-08,0
+FRD-00573,TXN-26825,ACCT-12007,CUST-01018,2025-07-09T13:51:14Z,card_not_present_high_risk,medium,0.672,511.87,Hotels,velocity_check,aml_v2.1,false_positive,analyst_013,2025-07-17,0
+FRD-00574,TXN-26835,ACCT-11720,CUST-00865,2025-12-15T17:54:23Z,new_merchant_high_amount,medium,0.992,512.86,Airlines,velocity_check,fraud_v3.2,false_positive,analyst_001,2026-01-01,0
+FRD-00575,TXN-26842,ACCT-13539,CUST-01818,2026-01-02T23:08:46Z,new_merchant_high_amount,medium,0.579,591.88,Airlines,rules_engine,aml_v2.1,confirmed_fraud,analyst_013,,0
+FRD-00576,TXN-26871,ACCT-13023,CUST-01552,2025-12-13T16:56:44Z,card_not_present_high_risk,low,0.426,583.92,Airlines,geo_fence,fraud_v3.2,confirmed_fraud,analyst_016,2025-12-25,0
+FRD-00577,TXN-27019,ACCT-13249,CUST-01665,2025-03-15T09:07:37Z,geographic_anomaly,low,0.3,597.14,Airlines,ml_model,fraud_v3.3,investigating,analyst_006,2025-03-26,0
+FRD-00578,TXN-27115,ACCT-12362,CUST-01205,2025-06-16T03:41:17Z,geographic_anomaly,low,0.544,519.26,Airlines,rules_engine,aml_v2.1,false_positive,analyst_012,,0
+FRD-00579,TXN-27178,ACCT-10396,CUST-00189,2026-01-13T06:45:46Z,multiple_declines,medium,0.707,535.99,Airlines,velocity_check,fraud_v3.3,false_positive,analyst_010,,0
+FRD-00580,TXN-27207,ACCT-13514,CUST-01802,2025-09-30T00:54:38Z,geographic_anomaly,high,0.716,510.13,Airlines,network_analysis,aml_v2.1,investigating,analyst_015,2025-10-10,0
+FRD-00581,TXN-27242,ACCT-11970,CUST-01001,2025-08-23T09:11:09Z,large_purchase,medium,0.925,600.29,Airlines,ml_model,aml_v2.1,open,analyst_009,2025-09-10,0
+FRD-00582,TXN-27277,ACCT-12589,CUST-01322,2025-07-01T21:07:23Z,international_unusual,high,0.935,168.38,Medical,rules_engine,fraud_v3.2,closed,analyst_017,2025-07-08,0
+FRD-00583,TXN-27306,ACCT-13109,CUST-01595,2025-06-17T12:01:14Z,velocity_spike,low,0.484,141.8,Airlines,network_analysis,aml_v2.1,investigating,analyst_013,,0
+FRD-00584,TXN-27321,ACCT-10464,CUST-00218,2025-07-26T23:29:16Z,international_unusual,critical,0.865,619.58,Airlines,geo_fence,fraud_v3.2,open,analyst_001,2025-08-03,0
+FRD-00585,TXN-27343,ACCT-13505,CUST-01798,2025-04-27T03:15:33Z,velocity_spike,high,0.398,502.13,Airlines,network_analysis,fraud_v3.3,false_positive,analyst_002,2025-05-19,0
+FRD-00586,TXN-27387,ACCT-11594,CUST-00798,2025-04-03T18:40:49Z,velocity_spike,critical,0.436,576.88,Airlines,ml_model,fraud_v3.2,false_positive,analyst_004,,534.18
+FRD-00587,TXN-27429,ACCT-12496,CUST-01277,2025-06-02T13:41:54Z,structuring_pattern,medium,0.413,511.11,Airlines,velocity_check,fraud_v3.2,confirmed_fraud,analyst_013,2025-06-29,0
+FRD-00588,TXN-27436,ACCT-11526,CUST-00765,2025-09-21T20:56:45Z,new_merchant_high_amount,low,0.531,65.93,Grocery,network_analysis,fraud_v3.2,false_positive,analyst_006,2025-09-30,0
+FRD-00589,TXN-27625,ACCT-12448,CUST-01253,2025-09-15T08:06:21Z,structuring_pattern,high,0.828,594.08,Airlines,ml_model,fraud_v3.2,investigating,analyst_005,2025-10-14,0
+FRD-00590,TXN-27645,ACCT-12055,CUST-01041,2025-10-19T05:34:21Z,account_takeover_attempt,medium,0.752,168.13,Medical,geo_fence,fraud_v3.3,false_positive,analyst_011,2025-10-22,0
+FRD-00591,TXN-27677,ACCT-12316,CUST-01185,2026-01-21T03:48:25Z,velocity_spike,high,0.33,672.98,Airlines,velocity_check,fraud_v3.2,open,analyst_012,,0
+FRD-00592,TXN-27680,ACCT-11544,CUST-00771,2025-07-09T18:53:58Z,unusual_time_pattern,low,0.653,23.87,Rideshare/Taxi,ml_model,fraud_v3.3,investigating,analyst_011,2025-07-29,0
+FRD-00593,TXN-27704,ACCT-10649,CUST-00310,2026-02-10T23:08:38Z,new_merchant_high_amount,medium,0.86,13.61,Parking,geo_fence,fraud_v3.2,false_positive,analyst_017,2026-02-18,0
+FRD-00594,TXN-27706,ACCT-13727,CUST-01920,2025-07-23T08:22:24Z,multiple_declines,critical,0.612,570.05,Airlines,network_analysis,aml_v2.1,false_positive,analyst_016,2025-08-22,0
+FRD-00595,TXN-27745,ACCT-12995,CUST-01533,2025-04-17T23:42:07Z,velocity_spike,low,0.667,18.84,Fast Food,rules_engine,fraud_v3.3,closed,analyst_013,2025-04-26,0
+FRD-00596,TXN-27759,ACCT-11621,CUST-00811,2025-02-23T03:08:23Z,card_not_present_high_risk,low,0.887,716.31,Airlines,velocity_check,aml_v2.1,open,analyst_010,2025-03-05,0
+FRD-00597,TXN-27761,ACCT-10076,CUST-00035,2025-06-29T14:52:49Z,unusual_time_pattern,high,0.704,39.18,Pharmacy,velocity_check,aml_v2.1,open,analyst_010,2025-07-11,5.23
+FRD-00598,TXN-27781,ACCT-13249,CUST-01665,2026-01-07T08:40:58Z,new_merchant_high_amount,low,0.533,676.36,Airlines,ml_model,fraud_v3.2,false_positive,analyst_019,,0
+FRD-00599,TXN-27819,ACCT-12143,CUST-01091,2025-10-06T17:10:07Z,new_merchant_high_amount,high,0.674,14.66,Pharmacy,ml_model,aml_v2.1,confirmed_fraud,analyst_017,2025-11-02,0
+FRD-00600,TXN-27860,ACCT-13152,CUST-01615,2025-08-05T05:04:22Z,international_unusual,low,0.835,517.63,Airlines,rules_engine,fraud_v3.3,open,analyst_005,2025-08-22,0
+FRD-00601,TXN-27929,ACCT-11121,CUST-00547,2025-05-11T06:22:38Z,geographic_anomaly,low,0.595,34.01,Pharmacy,geo_fence,aml_v2.1,false_positive,analyst_006,2025-05-19,0
+FRD-00602,TXN-27931,ACCT-10760,CUST-00369,2025-03-04T02:39:10Z,account_takeover_attempt,critical,0.309,550.5,Airlines,network_analysis,aml_v2.1,closed,analyst_013,2025-03-17,0
+FRD-00603,TXN-27954,ACCT-10582,CUST-00275,2025-06-30T20:36:36Z,account_takeover_attempt,high,0.468,29.09,Rideshare/Taxi,network_analysis,aml_v2.1,false_positive,analyst_014,2025-07-12,0
+FRD-00604,TXN-27997,ACCT-13339,CUST-01706,2025-07-07T12:43:30Z,large_purchase,medium,0.438,21.95,Parking,velocity_check,fraud_v3.3,false_positive,analyst_018,2025-07-23,0
+FRD-00605,TXN-28006,ACCT-13794,CUST-01959,2025-12-28T05:09:33Z,structuring_pattern,medium,0.52,553.91,Airlines,network_analysis,aml_v2.1,open,analyst_005,,0
+FRD-00606,TXN-28008,ACCT-13281,CUST-01679,2025-05-08T07:52:26Z,international_unusual,low,0.561,543.85,Airlines,velocity_check,aml_v2.1,false_positive,analyst_006,2025-05-12,0
+FRD-00607,TXN-28073,ACCT-10872,CUST-00426,2025-06-07T22:04:48Z,geographic_anomaly,critical,0.779,656.09,Airlines,velocity_check,aml_v2.1,closed,analyst_017,,0
+FRD-00608,TXN-28179,ACCT-11194,CUST-00587,2025-07-11T15:57:36Z,account_takeover_attempt,low,0.938,504.94,Airlines,network_analysis,fraud_v3.3,false_positive,analyst_011,2025-07-13,0
+FRD-00609,TXN-28181,ACCT-12787,CUST-01423,2025-04-20T18:50:17Z,card_not_present_high_risk,medium,0.58,33.92,Clothing,network_analysis,fraud_v3.2,false_positive,analyst_003,2025-05-20,0
+FRD-00610,TXN-28306,ACCT-13731,CUST-01923,2025-04-14T08:44:15Z,velocity_spike,medium,0.772,57.75,Online Shopping,network_analysis,fraud_v3.2,investigating,analyst_017,2025-05-02,0
+FRD-00611,TXN-28423,ACCT-13786,CUST-01955,2026-01-03T13:34:55Z,card_not_present_high_risk,high,0.355,50.64,Restaurants,geo_fence,fraud_v3.2,false_positive,analyst_002,2026-01-24,0
+FRD-00612,TXN-28527,ACCT-13544,CUST-01820,2025-06-27T05:40:19Z,account_takeover_attempt,critical,0.778,510.25,Airlines,rules_engine,fraud_v3.2,confirmed_fraud,analyst_015,2025-07-25,0
+FRD-00613,TXN-28547,ACCT-10895,CUST-00436,2025-05-01T16:50:01Z,velocity_spike,low,0.949,13.67,Fast Food,geo_fence,fraud_v3.2,false_positive,analyst_012,2025-05-03,0
+FRD-00614,TXN-28556,ACCT-13095,CUST-01589,2025-04-14T00:31:00Z,unusual_time_pattern,medium,0.942,541.46,Airlines,geo_fence,fraud_v3.2,investigating,analyst_008,2025-04-28,0
+FRD-00615,TXN-28586,ACCT-12694,CUST-01382,2025-06-26T00:52:13Z,geographic_anomaly,high,0.315,280.08,Airlines,network_analysis,aml_v2.1,open,analyst_007,,0
+FRD-00616,TXN-28672,ACCT-11938,CUST-00983,2025-08-20T05:04:23Z,account_takeover_attempt,high,0.586,679.92,Airlines,velocity_check,aml_v2.1,false_positive,analyst_003,2025-09-15,0
+FRD-00617,TXN-28685,ACCT-12623,CUST-01344,2025-04-22T03:29:08Z,account_takeover_attempt,critical,0.992,590.69,Airlines,velocity_check,fraud_v3.2,false_positive,analyst_011,,0
+FRD-00618,TXN-28705,ACCT-12448,CUST-01253,2025-04-26T13:34:16Z,account_takeover_attempt,high,0.367,25.32,Online Shopping,geo_fence,aml_v2.1,investigating,analyst_014,,0
+FRD-00619,TXN-28728,ACCT-12642,CUST-01353,2025-09-03T06:54:40Z,account_takeover_attempt,medium,0.825,187.72,Electronics,rules_engine,fraud_v3.3,false_positive,analyst_015,2025-09-12,0
+FRD-00620,TXN-28745,ACCT-13383,CUST-01733,2025-12-24T07:24:20Z,card_not_present_high_risk,medium,0.708,606.66,Airlines,velocity_check,aml_v2.1,false_positive,analyst_014,2025-12-29,0
+FRD-00621,TXN-28753,ACCT-10912,CUST-00442,2025-12-11T04:54:25Z,structuring_pattern,critical,0.946,550.26,Airlines,rules_engine,fraud_v3.3,open,analyst_018,2025-12-31,0
+FRD-00622,TXN-28798,ACCT-12365,CUST-01208,2025-11-14T03:46:52Z,geographic_anomaly,low,0.679,643.49,Airlines,velocity_check,fraud_v3.2,investigating,analyst_009,,0
+FRD-00623,TXN-28934,ACCT-12869,CUST-01466,2025-09-20T13:43:58Z,international_unusual,medium,0.871,20.49,Parking,ml_model,aml_v2.1,investigating,analyst_017,2025-09-28,0
+FRD-00624,TXN-28937,ACCT-13570,CUST-01836,2025-12-29T22:15:46Z,large_purchase,high,0.833,578.88,Airlines,network_analysis,fraud_v3.2,closed,analyst_005,2026-01-12,371.96
+FRD-00625,TXN-28938,ACCT-12891,CUST-01475,2025-10-21T23:41:08Z,unusual_time_pattern,medium,0.749,570.99,Airlines,rules_engine,fraud_v3.3,confirmed_fraud,analyst_018,2025-11-07,0
+FRD-00626,TXN-29002,ACCT-13093,CUST-01587,2025-06-14T21:47:12Z,multiple_declines,medium,0.87,69.34,Gas Stations,geo_fence,fraud_v3.3,false_positive,analyst_012,,0
+FRD-00627,TXN-29005,ACCT-11784,CUST-00897,2025-12-22T00:54:11Z,velocity_spike,low,0.468,502.99,Airlines,network_analysis,fraud_v3.3,false_positive,analyst_006,2025-12-23,0
+FRD-00628,TXN-29087,ACCT-13817,CUST-01973,2026-01-17T02:27:35Z,card_not_present_high_risk,medium,0.641,21.05,Rideshare/Taxi,velocity_check,fraud_v3.3,false_positive,analyst_008,2026-02-05,0
+FRD-00629,TXN-29194,ACCT-11326,CUST-00656,2025-08-01T23:06:13Z,card_not_present_high_risk,medium,0.708,536.73,Airlines,velocity_check,fraud_v3.2,investigating,analyst_002,,0
+FRD-00630,TXN-29216,ACCT-13220,CUST-01648,2025-12-08T08:19:13Z,large_purchase,low,0.658,230.0,Electronics,geo_fence,fraud_v3.3,false_positive,analyst_002,2026-01-05,0
+FRD-00631,TXN-29250,ACCT-10751,CUST-00365,2025-09-01T10:33:00Z,large_purchase,medium,0.612,566.53,Airlines,ml_model,aml_v2.1,false_positive,analyst_005,2025-09-16,0
+FRD-00632,TXN-29376,ACCT-13672,CUST-01890,2025-05-18T11:36:28Z,card_not_present_high_risk,low,0.693,503.34,Airlines,geo_fence,fraud_v3.2,open,analyst_013,2025-05-19,0
+FRD-00633,TXN-29404,ACCT-11179,CUST-00579,2025-06-09T22:50:50Z,velocity_spike,low,0.919,568.28,Airlines,geo_fence,fraud_v3.3,closed,analyst_011,2025-06-14,0
+FRD-00634,TXN-29471,ACCT-12843,CUST-01451,2025-04-07T16:45:03Z,large_purchase,high,0.662,22.25,Fast Food,rules_engine,aml_v2.1,false_positive,analyst_012,2025-05-05,0
+FRD-00635,TXN-29491,ACCT-11204,CUST-00593,2025-11-24T16:20:22Z,geographic_anomaly,medium,0.747,761.86,Airlines,network_analysis,aml_v2.1,open,analyst_011,2025-12-08,0
+FRD-00636,TXN-29551,ACCT-10649,CUST-00310,2025-11-11T05:51:05Z,multiple_declines,low,0.736,555.45,Airlines,ml_model,aml_v2.1,closed,analyst_010,2025-12-05,0
+FRD-00637,TXN-29553,ACCT-11534,CUST-00768,2025-06-12T12:11:32Z,geographic_anomaly,high,0.699,604.43,Airlines,ml_model,fraud_v3.3,investigating,analyst_015,,0
+FRD-00638,TXN-29603,ACCT-11246,CUST-00616,2025-05-06T00:17:47Z,velocity_spike,medium,0.851,638.98,Airlines,velocity_check,fraud_v3.3,confirmed_fraud,analyst_014,,0
+FRD-00639,TXN-29654,ACCT-10661,CUST-00317,2025-05-20T14:52:41Z,multiple_declines,medium,0.965,42.96,Department Stores,geo_fence,fraud_v3.2,open,analyst_005,,0
+FRD-00640,TXN-29789,ACCT-13686,CUST-01895,2025-08-25T08:45:12Z,geographic_anomaly,high,0.845,10.77,Bookstores,rules_engine,aml_v2.1,false_positive,analyst_016,2025-08-26,3.06
+FRD-00641,TXN-29801,ACCT-13831,CUST-01980,2025-06-13T08:46:03Z,account_takeover_attempt,medium,0.648,15.85,Fast Food,rules_engine,fraud_v3.3,false_positive,analyst_020,2025-06-27,0
+FRD-00642,TXN-29852,ACCT-10226,CUST-00114,2025-04-23T21:31:29Z,geographic_anomaly,high,0.93,511.41,Airlines,geo_fence,aml_v2.1,open,analyst_017,2025-04-30,0
+FRD-00643,TXN-29890,ACCT-12250,CUST-01147,2025-10-03T12:13:22Z,international_unusual,low,0.496,666.02,Airlines,rules_engine,fraud_v3.2,false_positive,analyst_008,,0
+FRD-00644,TXN-29924,ACCT-12491,CUST-01275,2025-11-22T20:35:48Z,multiple_declines,medium,0.927,64.15,Online Shopping,rules_engine,aml_v2.1,confirmed_fraud,analyst_014,2025-12-14,0

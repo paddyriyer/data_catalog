@@ -1,0 +1,884 @@
+{
+  "table_name": "partner_performance",
+  "layer": "partners",
+  "file_path": "/home/claude/data-catalogue/data/partners/partner_performance.csv",
+  "total_rows": 120,
+  "total_columns": 15,
+  "file_size_bytes": 14589,
+  "file_size_human": "14.2 KB",
+  "profiled_at": "2026-02-11T05:41:51Z",
+  "quality_score": 100.0,
+  "pii_summary": {
+    "PUBLIC": 13,
+    "PII": 1,
+    "CONFIDENTIAL": 1
+  },
+  "columns": [
+    {
+      "column_name": "partner_id",
+      "data_type": "identifier",
+      "pii_classification": "PUBLIC",
+      "total_count": 120,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 10,
+      "cardinality_ratio": 8.33,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "PTR-001",
+          "count": 12,
+          "pct": 10.0
+        },
+        {
+          "value": "PTR-002",
+          "count": 12,
+          "pct": 10.0
+        },
+        {
+          "value": "PTR-003",
+          "count": 12,
+          "pct": 10.0
+        },
+        {
+          "value": "PTR-004",
+          "count": 12,
+          "pct": 10.0
+        },
+        {
+          "value": "PTR-005",
+          "count": 12,
+          "pct": 10.0
+        },
+        {
+          "value": "PTR-006",
+          "count": 12,
+          "pct": 10.0
+        },
+        {
+          "value": "PTR-007",
+          "count": 12,
+          "pct": 10.0
+        },
+        {
+          "value": "PTR-008",
+          "count": 12,
+          "pct": 10.0
+        }
+      ],
+      "sample_values": [
+        "PTR-006",
+        "PTR-009",
+        "PTR-010",
+        "PTR-004",
+        "PTR-002"
+      ],
+      "min_length": 7,
+      "max_length": 7,
+      "avg_length": 7.0,
+      "quality_score": 100,
+      "glossary": {
+        "term": "Partner Identifier",
+        "definition": "Unique identifier for co-brand partners, merchant networks, and digital partners in the rewards ecosystem.",
+        "domain": "Partnerships",
+        "steward": "Partnership Team"
+      }
+    },
+    {
+      "column_name": "partner_name",
+      "data_type": "string",
+      "pii_classification": "PII",
+      "total_count": 120,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 10,
+      "cardinality_ratio": 8.33,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 120,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "min_length": 4,
+      "max_length": 16,
+      "avg_length": 9.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "partner_type",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 120,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 5,
+      "cardinality_ratio": 4.17,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "co_brand",
+          "count": 36,
+          "pct": 30.0
+        },
+        {
+          "value": "rewards_network",
+          "count": 36,
+          "pct": 30.0
+        },
+        {
+          "value": "digital_partner",
+          "count": 24,
+          "pct": 20.0
+        },
+        {
+          "value": "marketplace",
+          "count": 12,
+          "pct": 10.0
+        },
+        {
+          "value": "dealer_network",
+          "count": 12,
+          "pct": 10.0
+        }
+      ],
+      "sample_values": [
+        "marketplace",
+        "dealer_network",
+        "digital_partner",
+        "co_brand",
+        "rewards_network"
+      ],
+      "min_length": 8,
+      "max_length": 15,
+      "avg_length": 12.4,
+      "quality_score": 100
+    },
+    {
+      "column_name": "partner_category",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 120,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 9,
+      "cardinality_ratio": 7.5,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "retail",
+          "count": 24,
+          "pct": 20.0
+        },
+        {
+          "value": "ecommerce",
+          "count": 12,
+          "pct": 10.0
+        },
+        {
+          "value": "travel",
+          "count": 12,
+          "pct": 10.0
+        },
+        {
+          "value": "rideshare",
+          "count": 12,
+          "pct": 10.0
+        },
+        {
+          "value": "grocery",
+          "count": 12,
+          "pct": 10.0
+        },
+        {
+          "value": "hospitality",
+          "count": 12,
+          "pct": 10.0
+        },
+        {
+          "value": "technology",
+          "count": 12,
+          "pct": 10.0
+        },
+        {
+          "value": "dining",
+          "count": 12,
+          "pct": 10.0
+        }
+      ],
+      "sample_values": [
+        "grocery",
+        "ecommerce",
+        "rideshare",
+        "retail",
+        "auto"
+      ],
+      "min_length": 4,
+      "max_length": 11,
+      "avg_length": 7.4,
+      "quality_score": 100
+    },
+    {
+      "column_name": "month",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 120,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 12,
+      "cardinality_ratio": 10.0,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "2026-02",
+          "count": 10,
+          "pct": 8.3
+        },
+        {
+          "value": "2026-01",
+          "count": 10,
+          "pct": 8.3
+        },
+        {
+          "value": "2025-12",
+          "count": 10,
+          "pct": 8.3
+        },
+        {
+          "value": "2025-11",
+          "count": 10,
+          "pct": 8.3
+        },
+        {
+          "value": "2025-10",
+          "count": 10,
+          "pct": 8.3
+        },
+        {
+          "value": "2025-09",
+          "count": 10,
+          "pct": 8.3
+        },
+        {
+          "value": "2025-08",
+          "count": 10,
+          "pct": 8.3
+        },
+        {
+          "value": "2025-07",
+          "count": 10,
+          "pct": 8.3
+        }
+      ],
+      "sample_values": [
+        "2025-04",
+        "2025-11",
+        "2025-12",
+        "2025-05",
+        "2025-08"
+      ],
+      "min_length": 7,
+      "max_length": 7,
+      "avg_length": 7.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "total_transactions",
+      "data_type": "integer",
+      "pii_classification": "PUBLIC",
+      "total_count": 120,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 120,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "min": 5752.0,
+      "max": 149637.0,
+      "mean": 79022.28,
+      "median": 85112.0,
+      "std_dev": 38998.38,
+      "top_values": [
+        {
+          "value": "78835",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "113388",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "107723",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "82386",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "26349",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "12790",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "5752",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "123070",
+          "count": 1,
+          "pct": 0.8
+        }
+      ],
+      "sample_values": [
+        "92737",
+        "18756",
+        "57238",
+        "69846",
+        "20403"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "total_spend",
+      "data_type": "decimal",
+      "pii_classification": "PUBLIC",
+      "total_count": 120,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 120,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "min": 523192.95,
+      "max": 24936440.85,
+      "mean": 12801462.79,
+      "median": 13197921.17,
+      "std_dev": 6891065.75,
+      "top_values": [
+        {
+          "value": "4302744.36",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "2969813.85",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "15949435.41",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "19974597.68",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "22190689.83",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "8084013.75",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "5154195.02",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "13197921.17",
+          "count": 1,
+          "pct": 0.8
+        }
+      ],
+      "sample_values": [
+        "19068776.18",
+        "6645699.55",
+        "15949435.41",
+        "24936440.85",
+        "21939381.56"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "interchange_revenue",
+      "data_type": "decimal",
+      "pii_classification": "PUBLIC",
+      "total_count": 120,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 120,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "min": 13782.52,
+      "max": 499287.17,
+      "mean": 254573.44,
+      "median": 264037.68,
+      "std_dev": 138184.02,
+      "top_values": [
+        {
+          "value": "68102.73",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "499238.94",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "207903.21",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "31010.29",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "381264.7",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "49080.34",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "27943.63",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "83942.0",
+          "count": 1,
+          "pct": 0.8
+        }
+      ],
+      "sample_values": [
+        "271415.08",
+        "47749.16",
+        "238334.65",
+        "386859.82",
+        "266824.68"
+      ],
+      "quality_score": 100,
+      "glossary": {
+        "term": "Interchange Revenue",
+        "definition": "Fee earned per card transaction, paid by the merchant's bank to Horizon Bank. Typically 1.5-3.5% of transaction value.",
+        "domain": "Finance",
+        "steward": "Finance Operations"
+      }
+    },
+    {
+      "column_name": "rewards_cost",
+      "data_type": "decimal",
+      "pii_classification": "PUBLIC",
+      "total_count": 120,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 120,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "min": 5873.57,
+      "max": 198989.32,
+      "mean": 107735.29,
+      "median": 114641.11,
+      "std_dev": 55489.24,
+      "top_values": [
+        {
+          "value": "67761.57",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "114641.11",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "152636.93",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "46638.55",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "36744.62",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "38412.89",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "151070.04",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "137816.61",
+          "count": 1,
+          "pct": 0.8
+        }
+      ],
+      "sample_values": [
+        "162110.24",
+        "146267.76",
+        "190434.43",
+        "177422.4",
+        "95290.92"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "new_accounts_sourced",
+      "data_type": "integer",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 120,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 113,
+      "cardinality_ratio": 94.17,
+      "is_unique": false,
+      "min": 69.0,
+      "max": 1970.0,
+      "mean": 1069.51,
+      "median": 1129.0,
+      "std_dev": 523.82,
+      "sample_values": [
+        "1782",
+        "618",
+        "1277",
+        "1651",
+        "1753"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "active_cardholders",
+      "data_type": "integer",
+      "pii_classification": "PUBLIC",
+      "total_count": 120,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 120,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "min": 12600.0,
+      "max": 499141.0,
+      "mean": 270135.62,
+      "median": 279903.0,
+      "std_dev": 148317.46,
+      "top_values": [
+        {
+          "value": "176164",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "37453",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "53576",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "59092",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "20368",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "463190",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "439217",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "191283",
+          "count": 1,
+          "pct": 0.8
+        }
+      ],
+      "sample_values": [
+        "115949",
+        "441239",
+        "143415",
+        "431262",
+        "198699"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "avg_transaction_value",
+      "data_type": "decimal",
+      "pii_classification": "PUBLIC",
+      "total_count": 120,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 120,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "min": 25.95,
+      "max": 199.05,
+      "mean": 117.53,
+      "median": 122.34,
+      "std_dev": 50.48,
+      "top_values": [
+        {
+          "value": "56.5",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "163.61",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "47.48",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "44.23",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "177.46",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "103.52",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "82.4",
+          "count": 1,
+          "pct": 0.8
+        },
+        {
+          "value": "75.21",
+          "count": 1,
+          "pct": 0.8
+        }
+      ],
+      "sample_values": [
+        "75.21",
+        "85.99",
+        "139.93",
+        "134.5",
+        "62.42"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "customer_satisfaction",
+      "data_type": "decimal",
+      "pii_classification": "PUBLIC",
+      "total_count": 120,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 15,
+      "cardinality_ratio": 12.5,
+      "is_unique": false,
+      "min": 3.5,
+      "max": 4.9,
+      "mean": 4.21,
+      "median": 4.2,
+      "std_dev": 0.41,
+      "top_values": [
+        {
+          "value": "4.1",
+          "count": 13,
+          "pct": 10.8
+        },
+        {
+          "value": "4.0",
+          "count": 11,
+          "pct": 9.2
+        },
+        {
+          "value": "4.2",
+          "count": 10,
+          "pct": 8.3
+        },
+        {
+          "value": "4.7",
+          "count": 10,
+          "pct": 8.3
+        },
+        {
+          "value": "3.7",
+          "count": 9,
+          "pct": 7.5
+        },
+        {
+          "value": "4.8",
+          "count": 9,
+          "pct": 7.5
+        },
+        {
+          "value": "3.6",
+          "count": 8,
+          "pct": 6.7
+        },
+        {
+          "value": "4.6",
+          "count": 8,
+          "pct": 6.7
+        }
+      ],
+      "sample_values": [
+        "4.3",
+        "3.7",
+        "4.7",
+        "3.5",
+        "3.6"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "contract_status",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 120,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1,
+      "cardinality_ratio": 0.83,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "active",
+          "count": 120,
+          "pct": 100.0
+        }
+      ],
+      "sample_values": [
+        "active"
+      ],
+      "min_length": 6,
+      "max_length": 6,
+      "avg_length": 6.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "revenue_share_pct",
+      "data_type": "decimal",
+      "pii_classification": "PUBLIC",
+      "total_count": 120,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 87,
+      "cardinality_ratio": 72.5,
+      "is_unique": false,
+      "min": 0.54,
+      "max": 2.98,
+      "mean": 1.72,
+      "median": 1.68,
+      "std_dev": 0.76,
+      "top_values": [
+        {
+          "value": "2.53",
+          "count": 3,
+          "pct": 2.5
+        },
+        {
+          "value": "0.98",
+          "count": 3,
+          "pct": 2.5
+        },
+        {
+          "value": "2.75",
+          "count": 3,
+          "pct": 2.5
+        },
+        {
+          "value": "0.99",
+          "count": 3,
+          "pct": 2.5
+        },
+        {
+          "value": "1.33",
+          "count": 3,
+          "pct": 2.5
+        },
+        {
+          "value": "1.29",
+          "count": 3,
+          "pct": 2.5
+        },
+        {
+          "value": "2.43",
+          "count": 3,
+          "pct": 2.5
+        },
+        {
+          "value": "2.84",
+          "count": 3,
+          "pct": 2.5
+        }
+      ],
+      "sample_values": [
+        "2.61",
+        "0.87",
+        "2.2",
+        "1.98",
+        "1.32"
+      ],
+      "quality_score": 100
+    }
+  ],
+  "lineage": {},
+  "owner": "Data Engineering",
+  "refresh_frequency": "Unknown",
+  "sla": "Unknown",
+  "tags": [
+    "partners",
+    "contains_pii",
+    "partnership"
+  ]
+}

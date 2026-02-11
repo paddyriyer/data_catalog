@@ -1,0 +1,644 @@
+{
+  "table_name": "dim_account",
+  "layer": "gold",
+  "file_path": "/home/claude/data-catalogue/data/gold/dim_account.csv",
+  "total_rows": 3867,
+  "total_columns": 15,
+  "file_size_bytes": 525840,
+  "file_size_human": "513.5 KB",
+  "profiled_at": "2026-02-11T05:41:50Z",
+  "quality_score": 100.0,
+  "pii_summary": {
+    "CONFIDENTIAL": 6,
+    "PUBLIC": 8,
+    "PII": 1
+  },
+  "columns": [
+    {
+      "column_name": "account_id",
+      "data_type": "identifier",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 3867,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 3867,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "sample_values": [
+        "ACCT-10605",
+        "ACCT-10918",
+        "ACCT-12907",
+        "ACCT-12808",
+        "ACCT-13343"
+      ],
+      "min_length": 10,
+      "max_length": 10,
+      "avg_length": 10.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "customer_id",
+      "data_type": "identifier",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 3867,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1844,
+      "cardinality_ratio": 47.69,
+      "is_unique": false,
+      "sample_values": [
+        "CUST-00645",
+        "CUST-00058",
+        "CUST-01340",
+        "CUST-00540",
+        "CUST-01496"
+      ],
+      "min_length": 10,
+      "max_length": 10,
+      "avg_length": 10.0,
+      "quality_score": 100,
+      "glossary": {
+        "term": "Customer Identifier",
+        "definition": "Unique golden record identifier for a customer entity, MDM-assigned after deduplication across source systems.",
+        "domain": "MDM",
+        "steward": "Data Governance Team"
+      }
+    },
+    {
+      "column_name": "product_id",
+      "data_type": "identifier",
+      "pii_classification": "PUBLIC",
+      "total_count": 3867,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 19,
+      "cardinality_ratio": 0.49,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "CC-003",
+          "count": 245,
+          "pct": 6.3
+        },
+        {
+          "value": "CD-002",
+          "count": 245,
+          "pct": 6.3
+        },
+        {
+          "value": "CD-003",
+          "count": 240,
+          "pct": 6.2
+        },
+        {
+          "value": "CC-002",
+          "count": 236,
+          "pct": 6.1
+        },
+        {
+          "value": "CD-001",
+          "count": 233,
+          "pct": 6.0
+        },
+        {
+          "value": "CC-005",
+          "count": 229,
+          "pct": 5.9
+        },
+        {
+          "value": "AL-001",
+          "count": 229,
+          "pct": 5.9
+        },
+        {
+          "value": "MM-001",
+          "count": 226,
+          "pct": 5.8
+        }
+      ],
+      "sample_values": [
+        "CC-005",
+        "SA-001",
+        "AL-001",
+        "MM-001",
+        "PL-002"
+      ],
+      "min_length": 6,
+      "max_length": 6,
+      "avg_length": 6.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "product_name",
+      "data_type": "string",
+      "pii_classification": "PII",
+      "total_count": 3867,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 19,
+      "cardinality_ratio": 0.49,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 3867,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "min_length": 9,
+      "max_length": 27,
+      "avg_length": 19.3,
+      "quality_score": 100
+    },
+    {
+      "column_name": "product_category",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 3867,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 17,
+      "cardinality_ratio": 0.44,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "cd",
+          "count": 718,
+          "pct": 18.6
+        },
+        {
+          "value": "dining",
+          "count": 245,
+          "pct": 6.3
+        },
+        {
+          "value": "cashback",
+          "count": 236,
+          "pct": 6.1
+        },
+        {
+          "value": "business",
+          "count": 229,
+          "pct": 5.9
+        },
+        {
+          "value": "auto_new",
+          "count": 229,
+          "pct": 5.9
+        },
+        {
+          "value": "money_market",
+          "count": 226,
+          "pct": 5.8
+        },
+        {
+          "value": "balance_transfer",
+          "count": 224,
+          "pct": 5.8
+        },
+        {
+          "value": "auto_used",
+          "count": 219,
+          "pct": 5.7
+        }
+      ],
+      "sample_values": [
+        "auto_refi",
+        "cd",
+        "checking",
+        "auto_used",
+        "business"
+      ],
+      "min_length": 2,
+      "max_length": 16,
+      "avg_length": 7.3,
+      "quality_score": 100
+    },
+    {
+      "column_name": "account_number",
+      "data_type": "integer",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 3867,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 3867,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "min": 5104612448171.0,
+      "max": 9999680324526988.0,
+      "mean": 5048594001010346.0,
+      "median": 5085058449585489.0,
+      "std_dev": 2890250747731964.5,
+      "sample_values": [
+        "0970710202349250",
+        "3623735919026608",
+        "5210224201497557",
+        "7088548188264909",
+        "6176704391324676"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "open_date",
+      "data_type": "date",
+      "pii_classification": "PUBLIC",
+      "total_count": 3867,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1660,
+      "cardinality_ratio": 42.93,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "2026-01-23",
+          "count": 13,
+          "pct": 0.3
+        },
+        {
+          "value": "2026-01-29",
+          "count": 13,
+          "pct": 0.3
+        },
+        {
+          "value": "2026-01-09",
+          "count": 12,
+          "pct": 0.3
+        },
+        {
+          "value": "2026-01-18",
+          "count": 12,
+          "pct": 0.3
+        },
+        {
+          "value": "2025-12-06",
+          "count": 12,
+          "pct": 0.3
+        },
+        {
+          "value": "2025-12-29",
+          "count": 12,
+          "pct": 0.3
+        },
+        {
+          "value": "2025-12-10",
+          "count": 12,
+          "pct": 0.3
+        },
+        {
+          "value": "2026-01-28",
+          "count": 12,
+          "pct": 0.3
+        }
+      ],
+      "sample_values": [
+        "2024-11-01",
+        "2021-12-23",
+        "2023-11-27",
+        "2024-07-03",
+        "2019-09-05"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "status",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 3867,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 4,
+      "cardinality_ratio": 0.1,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "open",
+          "count": 3316,
+          "pct": 85.8
+        },
+        {
+          "value": "closed",
+          "count": 305,
+          "pct": 7.9
+        },
+        {
+          "value": "delinquent",
+          "count": 167,
+          "pct": 4.3
+        },
+        {
+          "value": "frozen",
+          "count": 79,
+          "pct": 2.0
+        }
+      ],
+      "sample_values": [
+        "closed",
+        "delinquent",
+        "frozen",
+        "open"
+      ],
+      "min_length": 4,
+      "max_length": 10,
+      "avg_length": 4.5,
+      "quality_score": 100
+    },
+    {
+      "column_name": "balance",
+      "data_type": "decimal",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 3867,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 3865,
+      "cardinality_ratio": 99.95,
+      "is_unique": false,
+      "min": 0.61,
+      "max": 9993536.6,
+      "mean": 137091.46,
+      "median": 14036.55,
+      "std_dev": 721667.44,
+      "sample_values": [
+        "2487.34",
+        "245666.77",
+        "10730.35",
+        "27139.0",
+        "6107.28"
+      ],
+      "quality_score": 100,
+      "glossary": {
+        "term": "Account Balance",
+        "definition": "Current outstanding balance on the account. For credit cards: amount owed. For loans: remaining principal. For deposits: available funds.",
+        "domain": "Finance",
+        "steward": "Finance Operations"
+      }
+    },
+    {
+      "column_name": "credit_limit",
+      "data_type": "decimal",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 3867,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 919,
+      "cardinality_ratio": 23.77,
+      "is_unique": false,
+      "min": 0.0,
+      "max": 99458.2,
+      "mean": 15698.07,
+      "median": 8000.0,
+      "std_dev": 19312.23,
+      "sample_values": [
+        "35277.1",
+        "40920.59",
+        "33791.7",
+        "27139.0",
+        "5923.64"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "apr",
+      "data_type": "decimal",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 3867,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1438,
+      "cardinality_ratio": 37.19,
+      "is_unique": false,
+      "min": 0.1,
+      "max": 27.99,
+      "mean": 13.22,
+      "median": 15.18,
+      "std_dev": 8.6,
+      "sample_values": [
+        "20.92",
+        "5.56",
+        "25.26",
+        "21.7",
+        "5.97"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "monthly_payment",
+      "data_type": "decimal",
+      "pii_classification": "PUBLIC",
+      "total_count": 3867,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 909,
+      "cardinality_ratio": 23.51,
+      "is_unique": false,
+      "min": 0.0,
+      "max": 2486.45,
+      "mean": 215.08,
+      "median": 0.0,
+      "std_dev": 459.38,
+      "top_values": [
+        {
+          "value": "0",
+          "count": 2957,
+          "pct": 76.5
+        },
+        {
+          "value": "813.27",
+          "count": 2,
+          "pct": 0.1
+        },
+        {
+          "value": "1136.46",
+          "count": 2,
+          "pct": 0.1
+        },
+        {
+          "value": "369.32",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "168.98",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "921.37",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "482.69",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "1366.76",
+          "count": 1,
+          "pct": 0.0
+        }
+      ],
+      "sample_values": [
+        "1686.66",
+        "1000.66",
+        "951.74",
+        "986.69",
+        "1825.32"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "autopay_enrolled",
+      "data_type": "boolean",
+      "pii_classification": "PUBLIC",
+      "total_count": 3867,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 2,
+      "cardinality_ratio": 0.05,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "True",
+          "count": 2120,
+          "pct": 54.8
+        },
+        {
+          "value": "False",
+          "count": 1747,
+          "pct": 45.2
+        }
+      ],
+      "sample_values": [
+        "False",
+        "True"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "paperless",
+      "data_type": "boolean",
+      "pii_classification": "PUBLIC",
+      "total_count": 3867,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 2,
+      "cardinality_ratio": 0.05,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "True",
+          "count": 2694,
+          "pct": 69.7
+        },
+        {
+          "value": "False",
+          "count": 1173,
+          "pct": 30.3
+        }
+      ],
+      "sample_values": [
+        "False",
+        "True"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "last_activity_date",
+      "data_type": "date",
+      "pii_classification": "PUBLIC",
+      "total_count": 3867,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 91,
+      "cardinality_ratio": 2.35,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "2026-02-04",
+          "count": 72,
+          "pct": 1.9
+        },
+        {
+          "value": "2026-02-08",
+          "count": 53,
+          "pct": 1.4
+        },
+        {
+          "value": "2025-12-18",
+          "count": 53,
+          "pct": 1.4
+        },
+        {
+          "value": "2025-11-15",
+          "count": 52,
+          "pct": 1.3
+        },
+        {
+          "value": "2026-01-22",
+          "count": 52,
+          "pct": 1.3
+        },
+        {
+          "value": "2026-01-14",
+          "count": 52,
+          "pct": 1.3
+        },
+        {
+          "value": "2025-12-28",
+          "count": 52,
+          "pct": 1.3
+        },
+        {
+          "value": "2026-01-31",
+          "count": 52,
+          "pct": 1.3
+        }
+      ],
+      "sample_values": [
+        "2025-12-23",
+        "2025-12-18",
+        "2025-12-25",
+        "2025-11-27",
+        "2026-01-10"
+      ],
+      "quality_score": 100
+    }
+  ],
+  "lineage": {
+    "layer": "gold",
+    "upstream": [
+      {
+        "table": "dim_customer",
+        "layer": "gold",
+        "join": "customer_id",
+        "transform": "FK reference"
+      },
+      {
+        "table": "dim_product",
+        "layer": "gold",
+        "join": "product_id",
+        "transform": "Product enrichment"
+      }
+    ],
+    "downstream": [
+      "fact_transactions",
+      "fact_loan_payments",
+      "fact_credit_risk"
+    ],
+    "refresh": "Every 4 hours",
+    "sla": "< 4 hours"
+  },
+  "owner": "Data Engineering",
+  "refresh_frequency": "Every 4 hours",
+  "sla": "< 4 hours",
+  "tags": [
+    "gold",
+    "contains_pii",
+    "dimension"
+  ]
+}

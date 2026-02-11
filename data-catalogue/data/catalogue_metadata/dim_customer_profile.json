@@ -1,0 +1,1209 @@
+{
+  "table_name": "dim_customer",
+  "layer": "gold",
+  "file_path": "/home/claude/data-catalogue/data/gold/dim_customer.csv",
+  "total_rows": 2000,
+  "total_columns": 29,
+  "file_size_bytes": 558164,
+  "file_size_human": "545.1 KB",
+  "profiled_at": "2026-02-11T05:41:50Z",
+  "quality_score": 100.0,
+  "pii_summary": {
+    "CONFIDENTIAL": 1,
+    "PII": 6,
+    "SPII": 4,
+    "PUBLIC": 18
+  },
+  "columns": [
+    {
+      "column_name": "customer_id",
+      "data_type": "identifier",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 2000,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "sample_values": [
+        "CUST-00645",
+        "CUST-00058",
+        "CUST-00891",
+        "CUST-01340",
+        "CUST-00540"
+      ],
+      "min_length": 10,
+      "max_length": 10,
+      "avg_length": 10.0,
+      "quality_score": 100,
+      "glossary": {
+        "term": "Customer Identifier",
+        "definition": "Unique golden record identifier for a customer entity, MDM-assigned after deduplication across source systems.",
+        "domain": "MDM",
+        "steward": "Data Governance Team"
+      }
+    },
+    {
+      "column_name": "first_name",
+      "data_type": "string",
+      "pii_classification": "PII",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 100,
+      "cardinality_ratio": 5.0,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 2000,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "min_length": 3,
+      "max_length": 11,
+      "avg_length": 6.2,
+      "quality_score": 100
+    },
+    {
+      "column_name": "last_name",
+      "data_type": "string",
+      "pii_classification": "PII",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 101,
+      "cardinality_ratio": 5.05,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 2000,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "min_length": 3,
+      "max_length": 10,
+      "avg_length": 5.9,
+      "quality_score": 100
+    },
+    {
+      "column_name": "email",
+      "data_type": "email",
+      "pii_classification": "PII",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 2000,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 2000,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "min_length": 18,
+      "max_length": 35,
+      "avg_length": 26.1,
+      "quality_score": 100
+    },
+    {
+      "column_name": "phone",
+      "data_type": "integer",
+      "pii_classification": "PII",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 2000,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "min": 12004571098.0,
+      "max": 19992672973.0,
+      "mean": 15974994152.03,
+      "median": 15956442132.0,
+      "std_dev": 2285872679.06,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 2000,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "date_of_birth",
+      "data_type": "date",
+      "pii_classification": "PII",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1874,
+      "cardinality_ratio": 93.7,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 2000,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "ssn_hash",
+      "data_type": "string",
+      "pii_classification": "SPII",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 2000,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 2000,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "min_length": 16,
+      "max_length": 16,
+      "avg_length": 16.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "address_line1",
+      "data_type": "string",
+      "pii_classification": "PII",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1997,
+      "cardinality_ratio": 99.85,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 2000,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "min_length": 10,
+      "max_length": 16,
+      "avg_length": 12.8,
+      "quality_score": 100
+    },
+    {
+      "column_name": "city",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 40,
+      "cardinality_ratio": 2.0,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "Springfield",
+          "count": 212,
+          "pct": 10.6
+        },
+        {
+          "value": "Columbus",
+          "count": 212,
+          "pct": 10.6
+        },
+        {
+          "value": "Madison",
+          "count": 164,
+          "pct": 8.2
+        },
+        {
+          "value": "Newark",
+          "count": 63,
+          "pct": 3.1
+        },
+        {
+          "value": "Pittsburgh",
+          "count": 59,
+          "pct": 2.9
+        },
+        {
+          "value": "Savannah",
+          "count": 59,
+          "pct": 2.9
+        },
+        {
+          "value": "Phoenix",
+          "count": 56,
+          "pct": 2.8
+        },
+        {
+          "value": "Atlanta",
+          "count": 51,
+          "pct": 2.5
+        }
+      ],
+      "sample_values": [
+        "Rochester",
+        "Naperville",
+        "Cleveland",
+        "Sacramento",
+        "Chicago"
+      ],
+      "min_length": 5,
+      "max_length": 14,
+      "avg_length": 8.5,
+      "quality_score": 100
+    },
+    {
+      "column_name": "state",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 20,
+      "cardinality_ratio": 1.0,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "IL",
+          "count": 118,
+          "pct": 5.9
+        },
+        {
+          "value": "FL",
+          "count": 115,
+          "pct": 5.8
+        },
+        {
+          "value": "GA",
+          "count": 110,
+          "pct": 5.5
+        },
+        {
+          "value": "NJ",
+          "count": 110,
+          "pct": 5.5
+        },
+        {
+          "value": "NY",
+          "count": 108,
+          "pct": 5.4
+        },
+        {
+          "value": "PA",
+          "count": 106,
+          "pct": 5.3
+        },
+        {
+          "value": "MD",
+          "count": 105,
+          "pct": 5.2
+        },
+        {
+          "value": "AZ",
+          "count": 102,
+          "pct": 5.1
+        }
+      ],
+      "sample_values": [
+        "VA",
+        "MD",
+        "MI",
+        "MA",
+        "FL"
+      ],
+      "min_length": 2,
+      "max_length": 2,
+      "avg_length": 2.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "zip_code",
+      "data_type": "integer",
+      "pii_classification": "PUBLIC",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1971,
+      "cardinality_ratio": 98.55,
+      "is_unique": false,
+      "min": 10235.0,
+      "max": 99989.0,
+      "mean": 55137.74,
+      "median": 55604.0,
+      "std_dev": 25812.9,
+      "top_values": [
+        {
+          "value": "49599",
+          "count": 2,
+          "pct": 0.1
+        },
+        {
+          "value": "57381",
+          "count": 2,
+          "pct": 0.1
+        },
+        {
+          "value": "42728",
+          "count": 2,
+          "pct": 0.1
+        },
+        {
+          "value": "13268",
+          "count": 2,
+          "pct": 0.1
+        },
+        {
+          "value": "76932",
+          "count": 2,
+          "pct": 0.1
+        },
+        {
+          "value": "61229",
+          "count": 2,
+          "pct": 0.1
+        },
+        {
+          "value": "32756",
+          "count": 2,
+          "pct": 0.1
+        },
+        {
+          "value": "72809",
+          "count": 2,
+          "pct": 0.1
+        }
+      ],
+      "sample_values": [
+        "21032",
+        "68547",
+        "52353",
+        "11776",
+        "73370"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "country",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1,
+      "cardinality_ratio": 0.05,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "US",
+          "count": 2000,
+          "pct": 100.0
+        }
+      ],
+      "sample_values": [
+        "US"
+      ],
+      "min_length": 2,
+      "max_length": 2,
+      "avg_length": 2.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "segment",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 5,
+      "cardinality_ratio": 0.25,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "mass_market",
+          "count": 785,
+          "pct": 39.2
+        },
+        {
+          "value": "mass_affluent",
+          "count": 619,
+          "pct": 30.9
+        },
+        {
+          "value": "affluent",
+          "count": 297,
+          "pct": 14.8
+        },
+        {
+          "value": "high_net_worth",
+          "count": 195,
+          "pct": 9.8
+        },
+        {
+          "value": "ultra_hnw",
+          "count": 104,
+          "pct": 5.2
+        }
+      ],
+      "sample_values": [
+        "affluent",
+        "high_net_worth",
+        "mass_market",
+        "ultra_hnw",
+        "mass_affluent"
+      ],
+      "min_length": 8,
+      "max_length": 14,
+      "avg_length": 11.4,
+      "quality_score": 100,
+      "glossary": {
+        "term": "Customer Segment",
+        "definition": "Wealth-based segmentation: mass_market (<$75K), mass_affluent ($75K-$150K), affluent ($150K-$300K), high_net_worth ($300K-$750K), ultra_hnw (>$750K).",
+        "domain": "Marketing",
+        "steward": "Customer Analytics"
+      }
+    },
+    {
+      "column_name": "risk_tier",
+      "data_type": "string",
+      "pii_classification": "SPII",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 5,
+      "cardinality_ratio": 0.25,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 2000,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "min_length": 5,
+      "max_length": 13,
+      "avg_length": 8.3,
+      "quality_score": 100,
+      "glossary": {
+        "term": "Credit Risk Tier",
+        "definition": "Risk classification based on FICO: super_prime (750+), prime (700-749), near_prime (650-699), subprime (580-649), deep_subprime (<580).",
+        "domain": "Credit Risk",
+        "steward": "Risk Analytics"
+      }
+    },
+    {
+      "column_name": "fico_score",
+      "data_type": "integer",
+      "pii_classification": "SPII",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 339,
+      "cardinality_ratio": 16.95,
+      "is_unique": false,
+      "min": 300.0,
+      "max": 850.0,
+      "mean": 707.93,
+      "median": 718.0,
+      "std_dev": 86.97,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 2000,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "quality_score": 100,
+      "glossary": {
+        "term": "FICO Score",
+        "definition": "Fair Isaac Corporation credit score (300-850) indicating creditworthiness. Sourced from Core Banking as authoritative system.",
+        "domain": "Credit Risk",
+        "steward": "Risk Analytics"
+      }
+    },
+    {
+      "column_name": "annual_income",
+      "data_type": "integer",
+      "pii_classification": "SPII",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1987,
+      "cardinality_ratio": 99.35,
+      "is_unique": false,
+      "min": 30075.0,
+      "max": 4966755.0,
+      "mean": 289858.82,
+      "median": 102243.0,
+      "std_dev": 670815.12,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 2000,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "employment_status",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 5,
+      "cardinality_ratio": 0.25,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "employed",
+          "count": 1329,
+          "pct": 66.5
+        },
+        {
+          "value": "self_employed",
+          "count": 307,
+          "pct": 15.3
+        },
+        {
+          "value": "retired",
+          "count": 191,
+          "pct": 9.6
+        },
+        {
+          "value": "student",
+          "count": 93,
+          "pct": 4.7
+        },
+        {
+          "value": "unemployed",
+          "count": 80,
+          "pct": 4.0
+        }
+      ],
+      "sample_values": [
+        "unemployed",
+        "self_employed",
+        "student",
+        "retired",
+        "employed"
+      ],
+      "min_length": 7,
+      "max_length": 13,
+      "avg_length": 8.7,
+      "quality_score": 100
+    },
+    {
+      "column_name": "acquisition_channel",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 7,
+      "cardinality_ratio": 0.35,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "phone",
+          "count": 298,
+          "pct": 14.9
+        },
+        {
+          "value": "web",
+          "count": 295,
+          "pct": 14.8
+        },
+        {
+          "value": "mobile_app",
+          "count": 295,
+          "pct": 14.8
+        },
+        {
+          "value": "partner_referral",
+          "count": 288,
+          "pct": 14.4
+        },
+        {
+          "value": "branch",
+          "count": 279,
+          "pct": 14.0
+        },
+        {
+          "value": "mail",
+          "count": 273,
+          "pct": 13.7
+        },
+        {
+          "value": "social_media",
+          "count": 272,
+          "pct": 13.6
+        }
+      ],
+      "sample_values": [
+        "branch",
+        "mail",
+        "social_media",
+        "phone",
+        "partner_referral"
+      ],
+      "min_length": 3,
+      "max_length": 16,
+      "avg_length": 8.0,
+      "quality_score": 100,
+      "glossary": {
+        "term": "Acquisition Channel",
+        "definition": "Marketing channel through which the customer was originally acquired: branch, web, mobile_app, phone, mail, partner_referral, social_media.",
+        "domain": "Marketing",
+        "steward": "Customer Analytics"
+      }
+    },
+    {
+      "column_name": "acquisition_date",
+      "data_type": "date",
+      "pii_classification": "PUBLIC",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1454,
+      "cardinality_ratio": 72.7,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "2023-05-10",
+          "count": 5,
+          "pct": 0.2
+        },
+        {
+          "value": "2022-12-14",
+          "count": 5,
+          "pct": 0.2
+        },
+        {
+          "value": "2022-02-06",
+          "count": 5,
+          "pct": 0.2
+        },
+        {
+          "value": "2024-03-04",
+          "count": 4,
+          "pct": 0.2
+        },
+        {
+          "value": "2020-08-27",
+          "count": 4,
+          "pct": 0.2
+        },
+        {
+          "value": "2025-03-12",
+          "count": 4,
+          "pct": 0.2
+        },
+        {
+          "value": "2025-04-06",
+          "count": 4,
+          "pct": 0.2
+        },
+        {
+          "value": "2024-05-31",
+          "count": 4,
+          "pct": 0.2
+        }
+      ],
+      "sample_values": [
+        "2024-07-03",
+        "2018-08-20",
+        "2024-12-21",
+        "2021-02-20",
+        "2018-01-26"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "customer_since",
+      "data_type": "date",
+      "pii_classification": "PUBLIC",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1454,
+      "cardinality_ratio": 72.7,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "2023-05-10",
+          "count": 5,
+          "pct": 0.2
+        },
+        {
+          "value": "2022-12-14",
+          "count": 5,
+          "pct": 0.2
+        },
+        {
+          "value": "2022-02-06",
+          "count": 5,
+          "pct": 0.2
+        },
+        {
+          "value": "2024-03-04",
+          "count": 4,
+          "pct": 0.2
+        },
+        {
+          "value": "2020-08-27",
+          "count": 4,
+          "pct": 0.2
+        },
+        {
+          "value": "2025-03-12",
+          "count": 4,
+          "pct": 0.2
+        },
+        {
+          "value": "2025-04-06",
+          "count": 4,
+          "pct": 0.2
+        },
+        {
+          "value": "2024-05-31",
+          "count": 4,
+          "pct": 0.2
+        }
+      ],
+      "sample_values": [
+        "2024-07-03",
+        "2018-08-20",
+        "2024-12-21",
+        "2021-02-20",
+        "2018-01-26"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "status",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 4,
+      "cardinality_ratio": 0.2,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "active",
+          "count": 1605,
+          "pct": 80.2
+        },
+        {
+          "value": "inactive",
+          "count": 193,
+          "pct": 9.7
+        },
+        {
+          "value": "closed",
+          "count": 156,
+          "pct": 7.8
+        },
+        {
+          "value": "suspended",
+          "count": 46,
+          "pct": 2.3
+        }
+      ],
+      "sample_values": [
+        "closed",
+        "suspended",
+        "inactive",
+        "active"
+      ],
+      "min_length": 6,
+      "max_length": 9,
+      "avg_length": 6.3,
+      "quality_score": 100
+    },
+    {
+      "column_name": "digital_enrolled",
+      "data_type": "boolean",
+      "pii_classification": "PUBLIC",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 2,
+      "cardinality_ratio": 0.1,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "True",
+          "count": 1489,
+          "pct": 74.5
+        },
+        {
+          "value": "False",
+          "count": 511,
+          "pct": 25.6
+        }
+      ],
+      "sample_values": [
+        "False",
+        "True"
+      ],
+      "quality_score": 100,
+      "glossary": {
+        "term": "Digital Banking Enrollment",
+        "definition": "Boolean flag indicating whether the customer has activated digital banking (web or mobile app access).",
+        "domain": "Digital",
+        "steward": "Digital Banking"
+      }
+    },
+    {
+      "column_name": "mobile_app_user",
+      "data_type": "boolean",
+      "pii_classification": "PUBLIC",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 2,
+      "cardinality_ratio": 0.1,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "True",
+          "count": 1182,
+          "pct": 59.1
+        },
+        {
+          "value": "False",
+          "count": 818,
+          "pct": 40.9
+        }
+      ],
+      "sample_values": [
+        "False",
+        "True"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "preferred_channel",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 4,
+      "cardinality_ratio": 0.2,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "phone",
+          "count": 521,
+          "pct": 26.1
+        },
+        {
+          "value": "web",
+          "count": 520,
+          "pct": 26.0
+        },
+        {
+          "value": "branch",
+          "count": 495,
+          "pct": 24.8
+        },
+        {
+          "value": "mobile",
+          "count": 464,
+          "pct": 23.2
+        }
+      ],
+      "sample_values": [
+        "phone",
+        "branch",
+        "mobile",
+        "web"
+      ],
+      "min_length": 3,
+      "max_length": 6,
+      "avg_length": 5.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "opt_in_marketing",
+      "data_type": "boolean",
+      "pii_classification": "PUBLIC",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 2,
+      "cardinality_ratio": 0.1,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "True",
+          "count": 1313,
+          "pct": 65.6
+        },
+        {
+          "value": "False",
+          "count": 687,
+          "pct": 34.4
+        }
+      ],
+      "sample_values": [
+        "False",
+        "True"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "kyc_verified",
+      "data_type": "boolean",
+      "pii_classification": "PUBLIC",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1,
+      "cardinality_ratio": 0.05,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "True",
+          "count": 2000,
+          "pct": 100.0
+        }
+      ],
+      "sample_values": [
+        "True"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "kyc_date",
+      "data_type": "date",
+      "pii_classification": "PUBLIC",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1440,
+      "cardinality_ratio": 72.0,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "2024-08-17",
+          "count": 5,
+          "pct": 0.2
+        },
+        {
+          "value": "2018-02-16",
+          "count": 5,
+          "pct": 0.2
+        },
+        {
+          "value": "2018-07-18",
+          "count": 4,
+          "pct": 0.2
+        },
+        {
+          "value": "2020-04-23",
+          "count": 4,
+          "pct": 0.2
+        },
+        {
+          "value": "2019-07-16",
+          "count": 4,
+          "pct": 0.2
+        },
+        {
+          "value": "2021-02-21",
+          "count": 4,
+          "pct": 0.2
+        },
+        {
+          "value": "2024-08-23",
+          "count": 4,
+          "pct": 0.2
+        },
+        {
+          "value": "2023-08-23",
+          "count": 4,
+          "pct": 0.2
+        }
+      ],
+      "sample_values": [
+        "2021-12-23",
+        "2024-07-03",
+        "2023-11-02",
+        "2021-03-09",
+        "2023-10-02"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "_source_system",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 3,
+      "cardinality_ratio": 0.15,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "core_banking",
+          "count": 690,
+          "pct": 34.5
+        },
+        {
+          "value": "fiserv",
+          "count": 667,
+          "pct": 33.4
+        },
+        {
+          "value": "salesforce",
+          "count": 643,
+          "pct": 32.1
+        }
+      ],
+      "sample_values": [
+        "salesforce",
+        "fiserv",
+        "core_banking"
+      ],
+      "min_length": 6,
+      "max_length": 12,
+      "avg_length": 9.4,
+      "quality_score": 100
+    },
+    {
+      "column_name": "_ingested_at",
+      "data_type": "datetime",
+      "pii_classification": "PUBLIC",
+      "total_count": 2000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1,
+      "cardinality_ratio": 0.05,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "2026-02-10T22:14:56Z",
+          "count": 2000,
+          "pct": 100.0
+        }
+      ],
+      "sample_values": [
+        "2026-02-10T22:14:56Z"
+      ],
+      "quality_score": 100
+    }
+  ],
+  "lineage": {
+    "layer": "gold",
+    "upstream": [
+      {
+        "table": "core_banking_customers",
+        "layer": "bronze",
+        "join": "SSN_HASH \u2192 ssn_hash",
+        "transform": "Uppercase name split, phone normalize"
+      },
+      {
+        "table": "salesforce_accounts",
+        "layer": "bronze",
+        "join": "PersonEmail \u2192 email",
+        "transform": "CRM fields mapped"
+      },
+      {
+        "table": "fiserv_parties",
+        "layer": "bronze",
+        "join": "EMAIL_ADDR \u2192 email",
+        "transform": "Name parsing, risk mapping"
+      },
+      {
+        "table": "mdm_match_pairs",
+        "layer": "mdm",
+        "join": "customer_id_1/2 \u2192 customer_id",
+        "transform": "Survivorship rules applied"
+      }
+    ],
+    "downstream": [
+      "dim_account",
+      "fact_transactions",
+      "fact_loan_payments",
+      "fact_credit_risk",
+      "digital_events",
+      "fraud_alerts"
+    ],
+    "refresh": "Every 4 hours (CDC from Core Banking)",
+    "sla": "< 4 hours from source change"
+  },
+  "owner": "Data Engineering",
+  "refresh_frequency": "Every 4 hours (CDC from Core Banking)",
+  "sla": "< 4 hours from source change",
+  "tags": [
+    "contains_pii",
+    "entity",
+    "customer",
+    "dimension",
+    "gold"
+  ]
+}

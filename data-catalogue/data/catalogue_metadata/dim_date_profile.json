@@ -1,0 +1,530 @@
+{
+  "table_name": "dim_date",
+  "layer": "gold",
+  "file_path": "/home/claude/data-catalogue/data/gold/dim_date.csv",
+  "total_rows": 1095,
+  "total_columns": 11,
+  "file_size_bytes": 63700,
+  "file_size_human": "62.2 KB",
+  "profiled_at": "2026-02-11T05:41:50Z",
+  "quality_score": 100.0,
+  "pii_summary": {
+    "PUBLIC": 10,
+    "PII": 1
+  },
+  "columns": [
+    {
+      "column_name": "date_key",
+      "data_type": "date",
+      "pii_classification": "PUBLIC",
+      "total_count": 1095,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1095,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "top_values": [
+        {
+          "value": "2023-01-01",
+          "count": 1,
+          "pct": 0.1
+        },
+        {
+          "value": "2023-01-02",
+          "count": 1,
+          "pct": 0.1
+        },
+        {
+          "value": "2023-01-03",
+          "count": 1,
+          "pct": 0.1
+        },
+        {
+          "value": "2023-01-04",
+          "count": 1,
+          "pct": 0.1
+        },
+        {
+          "value": "2023-01-05",
+          "count": 1,
+          "pct": 0.1
+        },
+        {
+          "value": "2023-01-06",
+          "count": 1,
+          "pct": 0.1
+        },
+        {
+          "value": "2023-01-07",
+          "count": 1,
+          "pct": 0.1
+        },
+        {
+          "value": "2023-01-08",
+          "count": 1,
+          "pct": 0.1
+        }
+      ],
+      "sample_values": [
+        "2025-12-23",
+        "2024-11-01",
+        "2024-07-03",
+        "2023-11-27",
+        "2025-01-18"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "year",
+      "data_type": "integer",
+      "pii_classification": "PUBLIC",
+      "total_count": 1095,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 3,
+      "cardinality_ratio": 0.27,
+      "is_unique": false,
+      "min": 2023.0,
+      "max": 2025.0,
+      "mean": 2024.0,
+      "median": 2024.0,
+      "std_dev": 0.82,
+      "top_values": [
+        {
+          "value": "2024",
+          "count": 366,
+          "pct": 33.4
+        },
+        {
+          "value": "2023",
+          "count": 365,
+          "pct": 33.3
+        },
+        {
+          "value": "2025",
+          "count": 364,
+          "pct": 33.2
+        }
+      ],
+      "sample_values": [
+        "2024",
+        "2023",
+        "2025"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "quarter",
+      "data_type": "boolean",
+      "pii_classification": "PUBLIC",
+      "total_count": 1095,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 4,
+      "cardinality_ratio": 0.37,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "3",
+          "count": 276,
+          "pct": 25.2
+        },
+        {
+          "value": "4",
+          "count": 275,
+          "pct": 25.1
+        },
+        {
+          "value": "2",
+          "count": 273,
+          "pct": 24.9
+        },
+        {
+          "value": "1",
+          "count": 271,
+          "pct": 24.7
+        }
+      ],
+      "sample_values": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "month",
+      "data_type": "integer",
+      "pii_classification": "PUBLIC",
+      "total_count": 1095,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 12,
+      "cardinality_ratio": 1.1,
+      "is_unique": false,
+      "min": 1.0,
+      "max": 12.0,
+      "mean": 6.52,
+      "median": 7.0,
+      "std_dev": 3.45,
+      "top_values": [
+        {
+          "value": "1",
+          "count": 93,
+          "pct": 8.5
+        },
+        {
+          "value": "3",
+          "count": 93,
+          "pct": 8.5
+        },
+        {
+          "value": "5",
+          "count": 93,
+          "pct": 8.5
+        },
+        {
+          "value": "7",
+          "count": 93,
+          "pct": 8.5
+        },
+        {
+          "value": "8",
+          "count": 93,
+          "pct": 8.5
+        },
+        {
+          "value": "10",
+          "count": 93,
+          "pct": 8.5
+        },
+        {
+          "value": "12",
+          "count": 92,
+          "pct": 8.4
+        },
+        {
+          "value": "4",
+          "count": 90,
+          "pct": 8.2
+        }
+      ],
+      "sample_values": [
+        "7",
+        "6",
+        "3",
+        "5",
+        "10"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "month_name",
+      "data_type": "string",
+      "pii_classification": "PII",
+      "total_count": 1095,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 12,
+      "cardinality_ratio": 1.1,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 1095,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "min_length": 3,
+      "max_length": 9,
+      "avg_length": 6.1,
+      "quality_score": 100
+    },
+    {
+      "column_name": "week",
+      "data_type": "integer",
+      "pii_classification": "PUBLIC",
+      "total_count": 1095,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 52,
+      "cardinality_ratio": 4.75,
+      "is_unique": false,
+      "min": 1.0,
+      "max": 52.0,
+      "mean": 26.48,
+      "median": 26.0,
+      "std_dev": 15.05,
+      "top_values": [
+        {
+          "value": "1",
+          "count": 23,
+          "pct": 2.1
+        },
+        {
+          "value": "52",
+          "count": 22,
+          "pct": 2.0
+        },
+        {
+          "value": "2",
+          "count": 21,
+          "pct": 1.9
+        },
+        {
+          "value": "3",
+          "count": 21,
+          "pct": 1.9
+        },
+        {
+          "value": "4",
+          "count": 21,
+          "pct": 1.9
+        },
+        {
+          "value": "5",
+          "count": 21,
+          "pct": 1.9
+        },
+        {
+          "value": "6",
+          "count": 21,
+          "pct": 1.9
+        },
+        {
+          "value": "7",
+          "count": 21,
+          "pct": 1.9
+        }
+      ],
+      "sample_values": [
+        "26",
+        "47",
+        "6",
+        "40",
+        "3"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "day_of_week",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 1095,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 7,
+      "cardinality_ratio": 0.64,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "Sunday",
+          "count": 157,
+          "pct": 14.3
+        },
+        {
+          "value": "Monday",
+          "count": 157,
+          "pct": 14.3
+        },
+        {
+          "value": "Tuesday",
+          "count": 157,
+          "pct": 14.3
+        },
+        {
+          "value": "Wednesday",
+          "count": 156,
+          "pct": 14.2
+        },
+        {
+          "value": "Thursday",
+          "count": 156,
+          "pct": 14.2
+        },
+        {
+          "value": "Friday",
+          "count": 156,
+          "pct": 14.2
+        },
+        {
+          "value": "Saturday",
+          "count": 156,
+          "pct": 14.2
+        }
+      ],
+      "sample_values": [
+        "Wednesday",
+        "Thursday",
+        "Saturday",
+        "Friday",
+        "Tuesday"
+      ],
+      "min_length": 6,
+      "max_length": 9,
+      "avg_length": 7.1,
+      "quality_score": 100
+    },
+    {
+      "column_name": "is_weekend",
+      "data_type": "boolean",
+      "pii_classification": "PUBLIC",
+      "total_count": 1095,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 2,
+      "cardinality_ratio": 0.18,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "False",
+          "count": 782,
+          "pct": 71.4
+        },
+        {
+          "value": "True",
+          "count": 313,
+          "pct": 28.6
+        }
+      ],
+      "sample_values": [
+        "False",
+        "True"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "is_holiday",
+      "data_type": "boolean",
+      "pii_classification": "PUBLIC",
+      "total_count": 1095,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 2,
+      "cardinality_ratio": 0.18,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "False",
+          "count": 1092,
+          "pct": 99.7
+        },
+        {
+          "value": "True",
+          "count": 3,
+          "pct": 0.3
+        }
+      ],
+      "sample_values": [
+        "False",
+        "True"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "fiscal_year",
+      "data_type": "integer",
+      "pii_classification": "PUBLIC",
+      "total_count": 1095,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 4,
+      "cardinality_ratio": 0.37,
+      "is_unique": false,
+      "min": 2022.0,
+      "max": 2025.0,
+      "mean": 2023.25,
+      "median": 2023.0,
+      "std_dev": 0.92,
+      "top_values": [
+        {
+          "value": "2023",
+          "count": 366,
+          "pct": 33.4
+        },
+        {
+          "value": "2024",
+          "count": 365,
+          "pct": 33.3
+        },
+        {
+          "value": "2022",
+          "count": 273,
+          "pct": 24.9
+        },
+        {
+          "value": "2025",
+          "count": 91,
+          "pct": 8.3
+        }
+      ],
+      "sample_values": [
+        "2022",
+        "2023",
+        "2025",
+        "2024"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "fiscal_quarter",
+      "data_type": "integer",
+      "pii_classification": "PUBLIC",
+      "total_count": 1095,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 4,
+      "cardinality_ratio": 0.37,
+      "is_unique": false,
+      "min": 1.0,
+      "max": 4.0,
+      "mean": 2.5,
+      "median": 3.0,
+      "std_dev": 1.12,
+      "top_values": [
+        {
+          "value": "4",
+          "count": 276,
+          "pct": 25.2
+        },
+        {
+          "value": "1",
+          "count": 275,
+          "pct": 25.1
+        },
+        {
+          "value": "3",
+          "count": 273,
+          "pct": 24.9
+        },
+        {
+          "value": "2",
+          "count": 271,
+          "pct": 24.7
+        }
+      ],
+      "sample_values": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "quality_score": 100
+    }
+  ],
+  "lineage": {},
+  "owner": "Data Engineering",
+  "refresh_frequency": "Unknown",
+  "sla": "Unknown",
+  "tags": [
+    "gold",
+    "contains_pii",
+    "dimension"
+  ]
+}

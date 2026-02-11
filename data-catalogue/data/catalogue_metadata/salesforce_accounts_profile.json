@@ -1,0 +1,593 @@
+{
+  "table_name": "salesforce_accounts",
+  "layer": "bronze",
+  "file_path": "/home/claude/data-catalogue/data/bronze/salesforce_accounts.csv",
+  "total_rows": 1200,
+  "total_columns": 13,
+  "file_size_bytes": 171252,
+  "file_size_human": "167.2 KB",
+  "profiled_at": "2026-02-11T05:41:50Z",
+  "quality_score": 100.0,
+  "pii_summary": {
+    "CONFIDENTIAL": 1,
+    "PII": 5,
+    "PUBLIC": 6,
+    "SPII": 1
+  },
+  "columns": [
+    {
+      "column_name": "AccountId",
+      "data_type": "string",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 1200,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1200,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "sample_values": [
+        "001752925cd091b",
+        "00177303c0ff03d",
+        "001ebe7e554fe30",
+        "00122facf51bd8a",
+        "001015d65ea2573"
+      ],
+      "min_length": 15,
+      "max_length": 15,
+      "avg_length": 15.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "FirstName",
+      "data_type": "string",
+      "pii_classification": "PII",
+      "total_count": 1200,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 100,
+      "cardinality_ratio": 8.33,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 1200,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "min_length": 3,
+      "max_length": 11,
+      "avg_length": 6.1,
+      "quality_score": 100
+    },
+    {
+      "column_name": "LastName",
+      "data_type": "string",
+      "pii_classification": "PII",
+      "total_count": 1200,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 101,
+      "cardinality_ratio": 8.42,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 1200,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "min_length": 3,
+      "max_length": 10,
+      "avg_length": 5.9,
+      "quality_score": 100
+    },
+    {
+      "column_name": "PersonEmail",
+      "data_type": "email",
+      "pii_classification": "PII",
+      "total_count": 1200,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1200,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 1200,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "min_length": 18,
+      "max_length": 35,
+      "avg_length": 26.3,
+      "quality_score": 100
+    },
+    {
+      "column_name": "Phone",
+      "data_type": "integer",
+      "pii_classification": "PII",
+      "total_count": 1200,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1200,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "min": 12004571098.0,
+      "max": 19992672973.0,
+      "mean": 15968395263.96,
+      "median": 15923518002.0,
+      "std_dev": 2288781069.78,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 1200,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "MailingStreet",
+      "data_type": "string",
+      "pii_classification": "PII",
+      "total_count": 1200,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1200,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 1200,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "min_length": 10,
+      "max_length": 16,
+      "avg_length": 12.7,
+      "quality_score": 100
+    },
+    {
+      "column_name": "MailingCity",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 1200,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 40,
+      "cardinality_ratio": 3.33,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "Springfield",
+          "count": 138,
+          "pct": 11.5
+        },
+        {
+          "value": "Columbus",
+          "count": 122,
+          "pct": 10.2
+        },
+        {
+          "value": "Madison",
+          "count": 97,
+          "pct": 8.1
+        },
+        {
+          "value": "Phoenix",
+          "count": 40,
+          "pct": 3.3
+        },
+        {
+          "value": "Newark",
+          "count": 40,
+          "pct": 3.3
+        },
+        {
+          "value": "Pittsburgh",
+          "count": 36,
+          "pct": 3.0
+        },
+        {
+          "value": "Grand Rapids",
+          "count": 32,
+          "pct": 2.7
+        },
+        {
+          "value": "Philadelphia",
+          "count": 32,
+          "pct": 2.7
+        }
+      ],
+      "sample_values": [
+        "Rochester",
+        "Naperville",
+        "Cleveland",
+        "Sacramento",
+        "Chicago"
+      ],
+      "min_length": 5,
+      "max_length": 14,
+      "avg_length": 8.6,
+      "quality_score": 100
+    },
+    {
+      "column_name": "MailingState",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 1200,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 20,
+      "cardinality_ratio": 1.67,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "FL",
+          "count": 81,
+          "pct": 6.8
+        },
+        {
+          "value": "IL",
+          "count": 78,
+          "pct": 6.5
+        },
+        {
+          "value": "NJ",
+          "count": 70,
+          "pct": 5.8
+        },
+        {
+          "value": "IN",
+          "count": 69,
+          "pct": 5.8
+        },
+        {
+          "value": "PA",
+          "count": 68,
+          "pct": 5.7
+        },
+        {
+          "value": "MO",
+          "count": 67,
+          "pct": 5.6
+        },
+        {
+          "value": "MD",
+          "count": 66,
+          "pct": 5.5
+        },
+        {
+          "value": "NY",
+          "count": 63,
+          "pct": 5.2
+        }
+      ],
+      "sample_values": [
+        "VA",
+        "MD",
+        "MI",
+        "MA",
+        "FL"
+      ],
+      "min_length": 2,
+      "max_length": 2,
+      "avg_length": 2.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "MailingPostalCode",
+      "data_type": "integer",
+      "pii_classification": "PUBLIC",
+      "total_count": 1200,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1190,
+      "cardinality_ratio": 99.17,
+      "is_unique": false,
+      "min": 10235.0,
+      "max": 99872.0,
+      "mean": 55295.77,
+      "median": 55738.0,
+      "std_dev": 25835.59,
+      "top_values": [
+        {
+          "value": "49599",
+          "count": 2,
+          "pct": 0.2
+        },
+        {
+          "value": "57381",
+          "count": 2,
+          "pct": 0.2
+        },
+        {
+          "value": "42728",
+          "count": 2,
+          "pct": 0.2
+        },
+        {
+          "value": "13268",
+          "count": 2,
+          "pct": 0.2
+        },
+        {
+          "value": "76932",
+          "count": 2,
+          "pct": 0.2
+        },
+        {
+          "value": "51799",
+          "count": 2,
+          "pct": 0.2
+        },
+        {
+          "value": "36687",
+          "count": 2,
+          "pct": 0.2
+        },
+        {
+          "value": "54287",
+          "count": 2,
+          "pct": 0.2
+        }
+      ],
+      "sample_values": [
+        "33038",
+        "24025",
+        "65477",
+        "17546",
+        "38016"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "Annual_Revenue__c",
+      "data_type": "integer",
+      "pii_classification": "SPII",
+      "total_count": 1200,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1197,
+      "cardinality_ratio": 99.75,
+      "is_unique": false,
+      "min": 30075.0,
+      "max": 4966755.0,
+      "mean": 268397.98,
+      "median": 100317.0,
+      "std_dev": 636281.07,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 1200,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "Segment__c",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 1200,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 5,
+      "cardinality_ratio": 0.42,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "mass_market",
+          "count": 494,
+          "pct": 41.2
+        },
+        {
+          "value": "mass_affluent",
+          "count": 372,
+          "pct": 31.0
+        },
+        {
+          "value": "affluent",
+          "count": 172,
+          "pct": 14.3
+        },
+        {
+          "value": "high_net_worth",
+          "count": 109,
+          "pct": 9.1
+        },
+        {
+          "value": "ultra_hnw",
+          "count": 53,
+          "pct": 4.4
+        }
+      ],
+      "sample_values": [
+        "affluent",
+        "high_net_worth",
+        "mass_market",
+        "ultra_hnw",
+        "mass_affluent"
+      ],
+      "min_length": 8,
+      "max_length": 14,
+      "avg_length": 11.4,
+      "quality_score": 100
+    },
+    {
+      "column_name": "Lead_Source__c",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 1200,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 7,
+      "cardinality_ratio": 0.58,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "phone",
+          "count": 187,
+          "pct": 15.6
+        },
+        {
+          "value": "partner_referral",
+          "count": 182,
+          "pct": 15.2
+        },
+        {
+          "value": "web",
+          "count": 181,
+          "pct": 15.1
+        },
+        {
+          "value": "mobile_app",
+          "count": 173,
+          "pct": 14.4
+        },
+        {
+          "value": "social_media",
+          "count": 164,
+          "pct": 13.7
+        },
+        {
+          "value": "branch",
+          "count": 161,
+          "pct": 13.4
+        },
+        {
+          "value": "mail",
+          "count": 152,
+          "pct": 12.7
+        }
+      ],
+      "sample_values": [
+        "branch",
+        "mail",
+        "social_media",
+        "phone",
+        "partner_referral"
+      ],
+      "min_length": 3,
+      "max_length": 16,
+      "avg_length": 8.1,
+      "quality_score": 100
+    },
+    {
+      "column_name": "CreatedDate",
+      "data_type": "date",
+      "pii_classification": "PUBLIC",
+      "total_count": 1200,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 974,
+      "cardinality_ratio": 81.17,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "2024-03-04",
+          "count": 4,
+          "pct": 0.3
+        },
+        {
+          "value": "2025-03-12",
+          "count": 4,
+          "pct": 0.3
+        },
+        {
+          "value": "2024-06-20",
+          "count": 4,
+          "pct": 0.3
+        },
+        {
+          "value": "2022-12-14",
+          "count": 4,
+          "pct": 0.3
+        },
+        {
+          "value": "2023-12-07",
+          "count": 4,
+          "pct": 0.3
+        },
+        {
+          "value": "2019-10-24",
+          "count": 3,
+          "pct": 0.2
+        },
+        {
+          "value": "2020-08-27",
+          "count": 3,
+          "pct": 0.2
+        },
+        {
+          "value": "2022-12-24",
+          "count": 3,
+          "pct": 0.2
+        }
+      ],
+      "sample_values": [
+        "2019-04-01",
+        "2019-05-31",
+        "2021-02-17",
+        "2020-06-01",
+        "2022-07-30"
+      ],
+      "quality_score": 100
+    }
+  ],
+  "lineage": {
+    "layer": "bronze",
+    "upstream": [
+      {
+        "table": "Salesforce CRM",
+        "layer": "source",
+        "join": "Bulk API v2",
+        "transform": "None (raw extract)"
+      }
+    ],
+    "downstream": [
+      "dim_customer"
+    ],
+    "refresh": "Every 2 hours + real-time CDC",
+    "sla": "< 15 minutes"
+  },
+  "owner": "Data Engineering",
+  "refresh_frequency": "Every 2 hours + real-time CDC",
+  "sla": "< 15 minutes",
+  "tags": [
+    "bronze",
+    "contains_pii"
+  ]
+}

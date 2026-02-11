@@ -1,0 +1,923 @@
+{
+  "table_name": "digital_events",
+  "layer": "clickstream",
+  "file_path": "/home/claude/data-catalogue/data/clickstream/digital_events.csv",
+  "total_rows": 40000,
+  "total_columns": 17,
+  "file_size_bytes": 6312521,
+  "file_size_human": "6.0 MB",
+  "profiled_at": "2026-02-11T05:41:51Z",
+  "quality_score": 98.5,
+  "pii_summary": {
+    "PUBLIC": 15,
+    "CONFIDENTIAL": 1,
+    "PII": 1
+  },
+  "columns": [
+    {
+      "column_name": "event_id",
+      "data_type": "identifier",
+      "pii_classification": "PUBLIC",
+      "total_count": 40000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 40000,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "top_values": [
+        {
+          "value": "EVT-00001",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "EVT-00002",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "EVT-00003",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "EVT-00004",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "EVT-00005",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "EVT-00006",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "EVT-00007",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "EVT-00008",
+          "count": 1,
+          "pct": 0.0
+        }
+      ],
+      "sample_values": [
+        "EVT-06218",
+        "EVT-10406",
+        "EVT-28754",
+        "EVT-27724",
+        "EVT-03135"
+      ],
+      "min_length": 9,
+      "max_length": 9,
+      "avg_length": 9.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "customer_id",
+      "data_type": "identifier",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 40000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1197,
+      "cardinality_ratio": 2.99,
+      "is_unique": false,
+      "sample_values": [
+        "CUST-00402",
+        "CUST-01252",
+        "CUST-00645",
+        "CUST-00058",
+        "CUST-01344"
+      ],
+      "min_length": 10,
+      "max_length": 10,
+      "avg_length": 10.0,
+      "quality_score": 100,
+      "glossary": {
+        "term": "Customer Identifier",
+        "definition": "Unique golden record identifier for a customer entity, MDM-assigned after deduplication across source systems.",
+        "domain": "MDM",
+        "steward": "Data Governance Team"
+      }
+    },
+    {
+      "column_name": "session_id",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 40000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 39836,
+      "cardinality_ratio": 99.59,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "sess_f8375213c2a2",
+          "count": 2,
+          "pct": 0.0
+        },
+        {
+          "value": "sess_0366ae5bd19c",
+          "count": 2,
+          "pct": 0.0
+        },
+        {
+          "value": "sess_6c0b1228d9c8",
+          "count": 2,
+          "pct": 0.0
+        },
+        {
+          "value": "sess_dd28e3c1cbfd",
+          "count": 2,
+          "pct": 0.0
+        },
+        {
+          "value": "sess_7e88839786ba",
+          "count": 2,
+          "pct": 0.0
+        },
+        {
+          "value": "sess_b684d1e54f81",
+          "count": 2,
+          "pct": 0.0
+        },
+        {
+          "value": "sess_41729e5f4b2b",
+          "count": 2,
+          "pct": 0.0
+        },
+        {
+          "value": "sess_f59c73e7d5a4",
+          "count": 2,
+          "pct": 0.0
+        }
+      ],
+      "sample_values": [
+        "sess_a3e44914fb1a",
+        "sess_d956d3062ea7",
+        "sess_b6fa9b006c43",
+        "sess_8cfaa32638c7",
+        "sess_4afb255efc8c"
+      ],
+      "min_length": 17,
+      "max_length": 17,
+      "avg_length": 17.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "timestamp",
+      "data_type": "datetime",
+      "pii_classification": "PUBLIC",
+      "total_count": 40000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 39952,
+      "cardinality_ratio": 99.88,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "2025-12-20T19:36:48Z",
+          "count": 2,
+          "pct": 0.0
+        },
+        {
+          "value": "2025-12-03T22:52:14Z",
+          "count": 2,
+          "pct": 0.0
+        },
+        {
+          "value": "2025-10-07T18:54:27Z",
+          "count": 2,
+          "pct": 0.0
+        },
+        {
+          "value": "2025-10-10T04:38:25Z",
+          "count": 2,
+          "pct": 0.0
+        },
+        {
+          "value": "2025-10-15T19:50:15Z",
+          "count": 2,
+          "pct": 0.0
+        },
+        {
+          "value": "2025-11-12T03:53:53Z",
+          "count": 2,
+          "pct": 0.0
+        },
+        {
+          "value": "2025-08-30T03:10:11Z",
+          "count": 2,
+          "pct": 0.0
+        },
+        {
+          "value": "2025-09-17T10:37:52Z",
+          "count": 2,
+          "pct": 0.0
+        }
+      ],
+      "sample_values": [
+        "2025-11-30T04:41:40Z",
+        "2025-11-04T16:01:50Z",
+        "2025-09-18T20:57:10Z",
+        "2026-02-09T19:27:31Z",
+        "2025-08-26T06:38:13Z"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "event_type",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 40000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 6,
+      "cardinality_ratio": 0.01,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "page_view",
+          "count": 15992,
+          "pct": 40.0
+        },
+        {
+          "value": "click",
+          "count": 10146,
+          "pct": 25.4
+        },
+        {
+          "value": "form_submit",
+          "count": 5933,
+          "pct": 14.8
+        },
+        {
+          "value": "api_call",
+          "count": 3944,
+          "pct": 9.9
+        },
+        {
+          "value": "feature_toggle",
+          "count": 2000,
+          "pct": 5.0
+        },
+        {
+          "value": "error",
+          "count": 1985,
+          "pct": 5.0
+        }
+      ],
+      "sample_values": [
+        "feature_toggle",
+        "api_call",
+        "page_view",
+        "form_submit",
+        "click"
+      ],
+      "min_length": 5,
+      "max_length": 14,
+      "avg_length": 8.2,
+      "quality_score": 100
+    },
+    {
+      "column_name": "page_url",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 40000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 20,
+      "cardinality_ratio": 0.05,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "/support",
+          "count": 2074,
+          "pct": 5.2
+        },
+        {
+          "value": "/offers",
+          "count": 2061,
+          "pct": 5.2
+        },
+        {
+          "value": "/accounts",
+          "count": 2060,
+          "pct": 5.1
+        },
+        {
+          "value": "/invest",
+          "count": 2059,
+          "pct": 5.1
+        },
+        {
+          "value": "/budgets",
+          "count": 2045,
+          "pct": 5.1
+        },
+        {
+          "value": "/rewards",
+          "count": 2025,
+          "pct": 5.1
+        },
+        {
+          "value": "/mobile-deposit",
+          "count": 2023,
+          "pct": 5.1
+        },
+        {
+          "value": "/spend-insights",
+          "count": 2022,
+          "pct": 5.1
+        }
+      ],
+      "sample_values": [
+        "/invest",
+        "/savings-goals",
+        "/card-controls",
+        "/pay-bill",
+        "/auto-pay"
+      ],
+      "min_length": 7,
+      "max_length": 18,
+      "avg_length": 10.5,
+      "quality_score": 100
+    },
+    {
+      "column_name": "platform",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 40000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 2,
+      "cardinality_ratio": 0.01,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "web",
+          "count": 24350,
+          "pct": 60.9
+        },
+        {
+          "value": "mobile_app",
+          "count": 15650,
+          "pct": 39.1
+        }
+      ],
+      "sample_values": [
+        "mobile_app",
+        "web"
+      ],
+      "min_length": 3,
+      "max_length": 10,
+      "avg_length": 5.7,
+      "quality_score": 100
+    },
+    {
+      "column_name": "device_type",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 40000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 4,
+      "cardinality_ratio": 0.01,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "ios",
+          "count": 13944,
+          "pct": 34.9
+        },
+        {
+          "value": "android",
+          "count": 12065,
+          "pct": 30.2
+        },
+        {
+          "value": "desktop",
+          "count": 10095,
+          "pct": 25.2
+        },
+        {
+          "value": "tablet",
+          "count": 3896,
+          "pct": 9.7
+        }
+      ],
+      "sample_values": [
+        "tablet",
+        "android",
+        "desktop",
+        "ios"
+      ],
+      "min_length": 3,
+      "max_length": 7,
+      "avg_length": 5.5,
+      "quality_score": 100
+    },
+    {
+      "column_name": "os_version",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 40000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 6,
+      "cardinality_ratio": 0.01,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "macOS 14",
+          "count": 6892,
+          "pct": 17.2
+        },
+        {
+          "value": "Android 14",
+          "count": 6766,
+          "pct": 16.9
+        },
+        {
+          "value": "Android 15",
+          "count": 6634,
+          "pct": 16.6
+        },
+        {
+          "value": "Windows 11",
+          "count": 6602,
+          "pct": 16.5
+        },
+        {
+          "value": "iOS 17",
+          "count": 6602,
+          "pct": 16.5
+        },
+        {
+          "value": "iOS 18",
+          "count": 6504,
+          "pct": 16.3
+        }
+      ],
+      "sample_values": [
+        "macOS 14",
+        "Windows 11",
+        "iOS 18",
+        "Android 14",
+        "iOS 17"
+      ],
+      "min_length": 6,
+      "max_length": 10,
+      "avg_length": 8.3,
+      "quality_score": 100
+    },
+    {
+      "column_name": "app_version",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 40000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 5,
+      "cardinality_ratio": 0.01,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "8.1.0",
+          "count": 8165,
+          "pct": 20.4
+        },
+        {
+          "value": "8.2.0",
+          "count": 8085,
+          "pct": 20.2
+        },
+        {
+          "value": "8.4.0",
+          "count": 7955,
+          "pct": 19.9
+        },
+        {
+          "value": "8.3.0",
+          "count": 7901,
+          "pct": 19.8
+        },
+        {
+          "value": "9.0.0",
+          "count": 7894,
+          "pct": 19.7
+        }
+      ],
+      "sample_values": [
+        "8.2.0",
+        "8.1.0",
+        "8.3.0",
+        "9.0.0",
+        "8.4.0"
+      ],
+      "min_length": 5,
+      "max_length": 5,
+      "avg_length": 5.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "screen_name",
+      "data_type": "string",
+      "pii_classification": "PII",
+      "total_count": 40000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 20,
+      "cardinality_ratio": 0.05,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 40000,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "min_length": 6,
+      "max_length": 16,
+      "avg_length": 9.4,
+      "quality_score": 100
+    },
+    {
+      "column_name": "duration_seconds",
+      "data_type": "integer",
+      "pii_classification": "PUBLIC",
+      "total_count": 40000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 179,
+      "cardinality_ratio": 0.45,
+      "is_unique": false,
+      "min": 2.0,
+      "max": 180.0,
+      "mean": 91.62,
+      "median": 92.0,
+      "std_dev": 51.52,
+      "top_values": [
+        {
+          "value": "115",
+          "count": 274,
+          "pct": 0.7
+        },
+        {
+          "value": "136",
+          "count": 260,
+          "pct": 0.7
+        },
+        {
+          "value": "133",
+          "count": 255,
+          "pct": 0.6
+        },
+        {
+          "value": "106",
+          "count": 255,
+          "pct": 0.6
+        },
+        {
+          "value": "164",
+          "count": 254,
+          "pct": 0.6
+        },
+        {
+          "value": "167",
+          "count": 254,
+          "pct": 0.6
+        },
+        {
+          "value": "75",
+          "count": 249,
+          "pct": 0.6
+        },
+        {
+          "value": "64",
+          "count": 249,
+          "pct": 0.6
+        }
+      ],
+      "sample_values": [
+        "123",
+        "101",
+        "130",
+        "4",
+        "179"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "referrer",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 40000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 6,
+      "cardinality_ratio": 0.01,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "direct",
+          "count": 14214,
+          "pct": 35.5
+        },
+        {
+          "value": "push_notification",
+          "count": 7869,
+          "pct": 19.7
+        },
+        {
+          "value": "email",
+          "count": 6040,
+          "pct": 15.1
+        },
+        {
+          "value": "search",
+          "count": 5883,
+          "pct": 14.7
+        },
+        {
+          "value": "social",
+          "count": 3990,
+          "pct": 10.0
+        },
+        {
+          "value": "partner_link",
+          "count": 2004,
+          "pct": 5.0
+        }
+      ],
+      "sample_values": [
+        "email",
+        "social",
+        "push_notification",
+        "direct",
+        "search"
+      ],
+      "min_length": 5,
+      "max_length": 17,
+      "avg_length": 8.3,
+      "quality_score": 100
+    },
+    {
+      "column_name": "conversion_event",
+      "data_type": "boolean",
+      "pii_classification": "PUBLIC",
+      "total_count": 40000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 2,
+      "cardinality_ratio": 0.01,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "False",
+          "count": 38738,
+          "pct": 96.8
+        },
+        {
+          "value": "True",
+          "count": 1262,
+          "pct": 3.2
+        }
+      ],
+      "sample_values": [
+        "False",
+        "True"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "error_code",
+      "data_type": "identifier",
+      "pii_classification": "PUBLIC",
+      "total_count": 40000,
+      "null_count": 39255,
+      "null_rate": 98.14,
+      "distinct_count": 194,
+      "cardinality_ratio": 0.48,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "ERR_433",
+          "count": 9,
+          "pct": 1.2
+        },
+        {
+          "value": "ERR_477",
+          "count": 9,
+          "pct": 1.2
+        },
+        {
+          "value": "ERR_448",
+          "count": 9,
+          "pct": 1.2
+        },
+        {
+          "value": "ERR_499",
+          "count": 9,
+          "pct": 1.2
+        },
+        {
+          "value": "ERR_475",
+          "count": 9,
+          "pct": 1.2
+        },
+        {
+          "value": "ERR_503",
+          "count": 8,
+          "pct": 1.1
+        },
+        {
+          "value": "ERR_420",
+          "count": 8,
+          "pct": 1.1
+        },
+        {
+          "value": "ERR_437",
+          "count": 8,
+          "pct": 1.1
+        }
+      ],
+      "sample_values": [
+        "ERR_424",
+        "ERR_440",
+        "ERR_540",
+        "ERR_419",
+        "ERR_447"
+      ],
+      "min_length": 7,
+      "max_length": 7,
+      "avg_length": 7.0,
+      "quality_score": 75
+    },
+    {
+      "column_name": "geo_lat",
+      "data_type": "decimal",
+      "pii_classification": "PUBLIC",
+      "total_count": 40000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 36812,
+      "cardinality_ratio": 92.03,
+      "is_unique": false,
+      "min": 25.0008,
+      "max": 47.9997,
+      "mean": 36.5,
+      "median": 36.5368,
+      "std_dev": 6.67,
+      "top_values": [
+        {
+          "value": "30.8298",
+          "count": 5,
+          "pct": 0.0
+        },
+        {
+          "value": "34.346",
+          "count": 4,
+          "pct": 0.0
+        },
+        {
+          "value": "39.9672",
+          "count": 4,
+          "pct": 0.0
+        },
+        {
+          "value": "37.1696",
+          "count": 4,
+          "pct": 0.0
+        },
+        {
+          "value": "37.901",
+          "count": 4,
+          "pct": 0.0
+        },
+        {
+          "value": "27.6013",
+          "count": 4,
+          "pct": 0.0
+        },
+        {
+          "value": "37.1661",
+          "count": 4,
+          "pct": 0.0
+        },
+        {
+          "value": "32.9916",
+          "count": 3,
+          "pct": 0.0
+        }
+      ],
+      "sample_values": [
+        "32.5162",
+        "43.1039",
+        "44.5682",
+        "25.0179",
+        "25.4629"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "geo_lon",
+      "data_type": "decimal",
+      "pii_classification": "PUBLIC",
+      "total_count": 40000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 38490,
+      "cardinality_ratio": 96.23,
+      "is_unique": false,
+      "min": -121.9921,
+      "max": -71.0002,
+      "mean": -96.49,
+      "median": -96.4251,
+      "std_dev": 14.71,
+      "top_values": [
+        {
+          "value": "-89.4418",
+          "count": 4,
+          "pct": 0.0
+        },
+        {
+          "value": "-100.024",
+          "count": 3,
+          "pct": 0.0
+        },
+        {
+          "value": "-76.8311",
+          "count": 3,
+          "pct": 0.0
+        },
+        {
+          "value": "-77.6943",
+          "count": 3,
+          "pct": 0.0
+        },
+        {
+          "value": "-81.5293",
+          "count": 3,
+          "pct": 0.0
+        },
+        {
+          "value": "-102.2151",
+          "count": 3,
+          "pct": 0.0
+        },
+        {
+          "value": "-116.8412",
+          "count": 3,
+          "pct": 0.0
+        },
+        {
+          "value": "-85.4053",
+          "count": 3,
+          "pct": 0.0
+        }
+      ],
+      "sample_values": [
+        "-105.7649",
+        "-71.8318",
+        "-80.5726",
+        "-113.4204",
+        "-81.6037"
+      ],
+      "quality_score": 100
+    }
+  ],
+  "lineage": {
+    "layer": "clickstream",
+    "upstream": [
+      {
+        "table": "dim_customer",
+        "layer": "gold",
+        "join": "customer_id",
+        "transform": "Session attribution"
+      }
+    ],
+    "downstream": [],
+    "refresh": "Streaming (Kinesis)",
+    "sla": "< 5 minutes"
+  },
+  "owner": "Data Engineering",
+  "refresh_frequency": "Streaming (Kinesis)",
+  "sla": "< 5 minutes",
+  "tags": [
+    "clickstream",
+    "digital",
+    "contains_pii"
+  ]
+}

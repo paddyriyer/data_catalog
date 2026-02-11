@@ -1,0 +1,182 @@
+{
+  "acquisition_channel": {
+    "term": "Acquisition Channel",
+    "definition": "Marketing channel through which the customer was originally acquired: branch, web, mobile_app, phone, mail, partner_referral, social_media.",
+    "domain": "Marketing",
+    "steward": "Customer Analytics",
+    "found_in": [
+      "dim_customer"
+    ],
+    "pii_classification": "PUBLIC"
+  },
+  "alert_type": {
+    "term": "Fraud Alert Type",
+    "definition": "Classification of the fraud/AML alert: velocity_spike, geographic_anomaly, large_purchase, account_takeover_attempt, structuring_pattern, etc.",
+    "domain": "Fraud",
+    "steward": "Fraud Operations",
+    "found_in": [
+      "fraud_alerts"
+    ],
+    "pii_classification": "PUBLIC"
+  },
+  "balance": {
+    "term": "Account Balance",
+    "definition": "Current outstanding balance on the account. For credit cards: amount owed. For loans: remaining principal. For deposits: available funds.",
+    "domain": "Finance",
+    "steward": "Finance Operations",
+    "found_in": [
+      "dim_account"
+    ],
+    "pii_classification": "CONFIDENTIAL"
+  },
+  "composite_score": {
+    "term": "MDM Composite Match Score",
+    "definition": "Weighted similarity score (0-1) across name, email, phone, address, and cross-system dimensions. \u22650.92=auto_merge, 0.75-0.92=review, <0.75=no_match.",
+    "domain": "MDM",
+    "steward": "Data Governance Team",
+    "found_in": [
+      "mdm_match_pairs"
+    ],
+    "pii_classification": "CONFIDENTIAL"
+  },
+  "customer_id": {
+    "term": "Customer Identifier",
+    "definition": "Unique golden record identifier for a customer entity, MDM-assigned after deduplication across source systems.",
+    "domain": "MDM",
+    "steward": "Data Governance Team",
+    "found_in": [
+      "dim_customer",
+      "dim_account",
+      "fact_transactions",
+      "fact_loan_payments",
+      "fact_credit_risk",
+      "digital_events",
+      "fraud_alerts"
+    ],
+    "pii_classification": "CONFIDENTIAL"
+  },
+  "days_past_due": {
+    "term": "Days Past Due (DPD)",
+    "definition": "Number of days a payment is overdue. Key delinquency indicator: 0=current, 30/60/90/120+ trigger escalating actions.",
+    "domain": "Collections",
+    "steward": "Collections Team",
+    "found_in": [
+      "fact_credit_risk"
+    ],
+    "pii_classification": "PUBLIC"
+  },
+  "digital_enrolled": {
+    "term": "Digital Banking Enrollment",
+    "definition": "Boolean flag indicating whether the customer has activated digital banking (web or mobile app access).",
+    "domain": "Digital",
+    "steward": "Digital Banking",
+    "found_in": [
+      "dim_customer"
+    ],
+    "pii_classification": "PUBLIC"
+  },
+  "fico_score": {
+    "term": "FICO Score",
+    "definition": "Fair Isaac Corporation credit score (300-850) indicating creditworthiness. Sourced from Core Banking as authoritative system.",
+    "domain": "Credit Risk",
+    "steward": "Risk Analytics",
+    "found_in": [
+      "dim_customer",
+      "fact_credit_risk"
+    ],
+    "pii_classification": "SPII"
+  },
+  "fraud_flag": {
+    "term": "Fraud Flag",
+    "definition": "Boolean indicator set by the real-time fraud detection engine when a transaction triggers ML model or rules-based alerts.",
+    "domain": "Fraud",
+    "steward": "Fraud Operations",
+    "found_in": [
+      "fact_transactions"
+    ],
+    "pii_classification": "PUBLIC"
+  },
+  "interchange_revenue": {
+    "term": "Interchange Revenue",
+    "definition": "Fee earned per card transaction, paid by the merchant's bank to Horizon Bank. Typically 1.5-3.5% of transaction value.",
+    "domain": "Finance",
+    "steward": "Finance Operations",
+    "found_in": [
+      "partner_performance"
+    ],
+    "pii_classification": "PUBLIC"
+  },
+  "mcc_code": {
+    "term": "Merchant Category Code",
+    "definition": "ISO 18245 four-digit code classifying the merchant's business type for card transactions.",
+    "domain": "Payments",
+    "steward": "Merchant Services",
+    "found_in": [
+      "fact_transactions"
+    ],
+    "pii_classification": "PUBLIC"
+  },
+  "partner_id": {
+    "term": "Partner Identifier",
+    "definition": "Unique identifier for co-brand partners, merchant networks, and digital partners in the rewards ecosystem.",
+    "domain": "Partnerships",
+    "steward": "Partnership Team",
+    "found_in": [
+      "partner_performance"
+    ],
+    "pii_classification": "PUBLIC"
+  },
+  "probability_of_default": {
+    "term": "Probability of Default (PD)",
+    "definition": "Statistical likelihood (0-1) that a borrower will default within 12 months. Basel II/III regulatory metric.",
+    "domain": "Credit Risk",
+    "steward": "Risk Analytics",
+    "found_in": [
+      "fact_credit_risk"
+    ],
+    "pii_classification": "SPII"
+  },
+  "rewards_earned": {
+    "term": "Rewards Earned",
+    "definition": "Dollar value of rewards points/cashback earned on a transaction, calculated by product-specific reward rates.",
+    "domain": "Loyalty",
+    "steward": "Loyalty Program",
+    "found_in": [
+      "fact_transactions"
+    ],
+    "pii_classification": "PUBLIC"
+  },
+  "risk_tier": {
+    "term": "Credit Risk Tier",
+    "definition": "Risk classification based on FICO: super_prime (750+), prime (700-749), near_prime (650-699), subprime (580-649), deep_subprime (<580).",
+    "domain": "Credit Risk",
+    "steward": "Risk Analytics",
+    "found_in": [
+      "dim_customer",
+      "fact_credit_risk"
+    ],
+    "pii_classification": "SPII"
+  },
+  "segment": {
+    "term": "Customer Segment",
+    "definition": "Wealth-based segmentation: mass_market (<$75K), mass_affluent ($75K-$150K), affluent ($150K-$300K), high_net_worth ($300K-$750K), ultra_hnw (>$750K).",
+    "domain": "Marketing",
+    "steward": "Customer Analytics",
+    "found_in": [
+      "dim_customer",
+      "fact_credit_risk"
+    ],
+    "pii_classification": "PUBLIC"
+  },
+  "transaction_id": {
+    "term": "Transaction Identifier",
+    "definition": "Unique identifier for each financial transaction. Immutable once created.",
+    "domain": "Payments",
+    "steward": "Payment Operations",
+    "found_in": [
+      "fact_transactions",
+      "fraud_alerts"
+    ],
+    "pii_classification": "PUBLIC"
+  }
+}

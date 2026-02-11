@@ -1,0 +1,535 @@
+{
+  "table_name": "fact_loan_payments",
+  "layer": "gold",
+  "file_path": "/home/claude/data-catalogue/data/gold/fact_loan_payments.csv",
+  "total_rows": 20486,
+  "total_columns": 11,
+  "file_size_bytes": 2019805,
+  "file_size_human": "1.9 MB",
+  "profiled_at": "2026-02-11T05:41:51Z",
+  "quality_score": 99.9,
+  "pii_summary": {
+    "PUBLIC": 7,
+    "CONFIDENTIAL": 4
+  },
+  "columns": [
+    {
+      "column_name": "payment_id",
+      "data_type": "identifier",
+      "pii_classification": "PUBLIC",
+      "total_count": 20486,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 20486,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "top_values": [
+        {
+          "value": "PMT-00001",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "PMT-00002",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "PMT-00003",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "PMT-00004",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "PMT-00005",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "PMT-00006",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "PMT-00007",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "PMT-00008",
+          "count": 1,
+          "pct": 0.0
+        }
+      ],
+      "sample_values": [
+        "PMT-12912",
+        "PMT-04400",
+        "PMT-05137",
+        "PMT-01501",
+        "PMT-16262"
+      ],
+      "min_length": 9,
+      "max_length": 9,
+      "avg_length": 9.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "account_id",
+      "data_type": "identifier",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 20486,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 787,
+      "cardinality_ratio": 3.84,
+      "is_unique": false,
+      "sample_values": [
+        "ACCT-10303",
+        "ACCT-12907",
+        "ACCT-12808",
+        "ACCT-11785",
+        "ACCT-10422"
+      ],
+      "min_length": 10,
+      "max_length": 10,
+      "avg_length": 10.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "customer_id",
+      "data_type": "identifier",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 20486,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 686,
+      "cardinality_ratio": 3.35,
+      "is_unique": false,
+      "sample_values": [
+        "CUST-01915",
+        "CUST-01344",
+        "CUST-01340",
+        "CUST-00540",
+        "CUST-01672"
+      ],
+      "min_length": 10,
+      "max_length": 10,
+      "avg_length": 10.0,
+      "quality_score": 100,
+      "glossary": {
+        "term": "Customer Identifier",
+        "definition": "Unique golden record identifier for a customer entity, MDM-assigned after deduplication across source systems.",
+        "domain": "MDM",
+        "steward": "Data Governance Team"
+      }
+    },
+    {
+      "column_name": "due_date",
+      "data_type": "date",
+      "pii_classification": "PUBLIC",
+      "total_count": 20486,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 2327,
+      "cardinality_ratio": 11.36,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "2026-02-08",
+          "count": 37,
+          "pct": 0.2
+        },
+        {
+          "value": "2026-01-09",
+          "count": 35,
+          "pct": 0.2
+        },
+        {
+          "value": "2025-12-07",
+          "count": 34,
+          "pct": 0.2
+        },
+        {
+          "value": "2026-01-06",
+          "count": 34,
+          "pct": 0.2
+        },
+        {
+          "value": "2026-02-05",
+          "count": 34,
+          "pct": 0.2
+        },
+        {
+          "value": "2026-01-20",
+          "count": 33,
+          "pct": 0.2
+        },
+        {
+          "value": "2025-12-26",
+          "count": 33,
+          "pct": 0.2
+        },
+        {
+          "value": "2026-01-25",
+          "count": 33,
+          "pct": 0.2
+        }
+      ],
+      "sample_values": [
+        "2024-11-01",
+        "2024-07-03",
+        "2023-11-27",
+        "2021-12-23",
+        "2019-09-05"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "payment_date",
+      "data_type": "date",
+      "pii_classification": "PUBLIC",
+      "total_count": 20486,
+      "null_count": 619,
+      "null_rate": 3.02,
+      "distinct_count": 2371,
+      "cardinality_ratio": 11.57,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "2026-01-18",
+          "count": 35,
+          "pct": 0.2
+        },
+        {
+          "value": "2026-01-22",
+          "count": 34,
+          "pct": 0.2
+        },
+        {
+          "value": "2026-01-06",
+          "count": 34,
+          "pct": 0.2
+        },
+        {
+          "value": "2026-01-15",
+          "count": 33,
+          "pct": 0.2
+        },
+        {
+          "value": "2025-10-05",
+          "count": 33,
+          "pct": 0.2
+        },
+        {
+          "value": "2025-11-05",
+          "count": 33,
+          "pct": 0.2
+        },
+        {
+          "value": "2025-11-21",
+          "count": 33,
+          "pct": 0.2
+        },
+        {
+          "value": "2025-11-18",
+          "count": 32,
+          "pct": 0.2
+        }
+      ],
+      "sample_values": [
+        "2026-03-07",
+        "2024-11-01",
+        "2024-07-03",
+        "2023-11-27",
+        "2021-12-23"
+      ],
+      "quality_score": 98.5
+    },
+    {
+      "column_name": "amount_due",
+      "data_type": "decimal",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 20486,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 785,
+      "cardinality_ratio": 3.83,
+      "is_unique": false,
+      "min": 28.98,
+      "max": 2485.63,
+      "mean": 932.2,
+      "median": 888.72,
+      "std_dev": 514.61,
+      "sample_values": [
+        "1686.66",
+        "1000.66",
+        "951.74",
+        "986.69",
+        "1825.32"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "amount_paid",
+      "data_type": "decimal",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 20486,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 3795,
+      "cardinality_ratio": 18.52,
+      "is_unique": false,
+      "min": 0.0,
+      "max": 2485.63,
+      "mean": 869.68,
+      "median": 835.97,
+      "std_dev": 523.09,
+      "sample_values": [
+        "690.25",
+        "782.75",
+        "1082.61",
+        "1825.32",
+        "327.32"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "payment_status",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 20486,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 5,
+      "cardinality_ratio": 0.02,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "on_time",
+          "count": 16803,
+          "pct": 82.0
+        },
+        {
+          "value": "late_1_15",
+          "count": 1654,
+          "pct": 8.1
+        },
+        {
+          "value": "late_16_30",
+          "count": 817,
+          "pct": 4.0
+        },
+        {
+          "value": "missed",
+          "count": 619,
+          "pct": 3.0
+        },
+        {
+          "value": "late_31_60",
+          "count": 593,
+          "pct": 2.9
+        }
+      ],
+      "sample_values": [
+        "late_31_60",
+        "late_16_30",
+        "missed",
+        "late_1_15",
+        "on_time"
+      ],
+      "min_length": 6,
+      "max_length": 10,
+      "avg_length": 7.3,
+      "quality_score": 100
+    },
+    {
+      "column_name": "payment_method",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 20486,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 4,
+      "cardinality_ratio": 0.02,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "debit_card",
+          "count": 5192,
+          "pct": 25.3
+        },
+        {
+          "value": "ach",
+          "count": 5129,
+          "pct": 25.0
+        },
+        {
+          "value": "auto_pay",
+          "count": 5085,
+          "pct": 24.8
+        },
+        {
+          "value": "check",
+          "count": 5080,
+          "pct": 24.8
+        }
+      ],
+      "sample_values": [
+        "check",
+        "debit_card",
+        "ach",
+        "auto_pay"
+      ],
+      "min_length": 3,
+      "max_length": 10,
+      "avg_length": 6.5,
+      "quality_score": 100
+    },
+    {
+      "column_name": "principal_portion",
+      "data_type": "decimal",
+      "pii_classification": "PUBLIC",
+      "total_count": 20486,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 3754,
+      "cardinality_ratio": 18.32,
+      "is_unique": false,
+      "min": 0.0,
+      "max": 1491.38,
+      "mean": 521.81,
+      "median": 501.58,
+      "std_dev": 313.86,
+      "top_values": [
+        {
+          "value": "0.0",
+          "count": 619,
+          "pct": 3.0
+        },
+        {
+          "value": "487.96",
+          "count": 142,
+          "pct": 0.7
+        },
+        {
+          "value": "1012.0",
+          "count": 84,
+          "pct": 0.4
+        },
+        {
+          "value": "256.4",
+          "count": 83,
+          "pct": 0.4
+        },
+        {
+          "value": "820.06",
+          "count": 82,
+          "pct": 0.4
+        },
+        {
+          "value": "897.13",
+          "count": 79,
+          "pct": 0.4
+        },
+        {
+          "value": "502.23",
+          "count": 77,
+          "pct": 0.4
+        },
+        {
+          "value": "560.15",
+          "count": 75,
+          "pct": 0.4
+        }
+      ],
+      "sample_values": [
+        "354.73",
+        "467.56",
+        "358.13",
+        "1434.86",
+        "119.69"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "interest_portion",
+      "data_type": "decimal",
+      "pii_classification": "PUBLIC",
+      "total_count": 20486,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 3716,
+      "cardinality_ratio": 18.14,
+      "is_unique": false,
+      "min": 0.0,
+      "max": 994.25,
+      "mean": 347.87,
+      "median": 334.39,
+      "std_dev": 209.24,
+      "top_values": [
+        {
+          "value": "0.0",
+          "count": 619,
+          "pct": 3.0
+        },
+        {
+          "value": "325.31",
+          "count": 142,
+          "pct": 0.7
+        },
+        {
+          "value": "170.94",
+          "count": 83,
+          "pct": 0.4
+        },
+        {
+          "value": "546.7",
+          "count": 82,
+          "pct": 0.4
+        },
+        {
+          "value": "598.09",
+          "count": 79,
+          "pct": 0.4
+        },
+        {
+          "value": "334.82",
+          "count": 77,
+          "pct": 0.4
+        },
+        {
+          "value": "373.43",
+          "count": 75,
+          "pct": 0.4
+        },
+        {
+          "value": "115.23",
+          "count": 75,
+          "pct": 0.4
+        }
+      ],
+      "sample_values": [
+        "113.96",
+        "367.05",
+        "160.37",
+        "246.83",
+        "65.18"
+      ],
+      "quality_score": 100
+    }
+  ],
+  "lineage": {},
+  "owner": "Data Engineering",
+  "refresh_frequency": "Unknown",
+  "sla": "Unknown",
+  "tags": [
+    "gold",
+    "fact",
+    "transactional",
+    "financial"
+  ]
+}

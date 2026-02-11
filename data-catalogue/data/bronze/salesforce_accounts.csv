@@ -1,0 +1,1201 @@
+AccountId,FirstName,LastName,PersonEmail,Phone,MailingStreet,MailingCity,MailingState,MailingPostalCode,Annual_Revenue__c,Segment__c,Lead_Source__c,CreatedDate
+001c0fc8a590b37,Samantha,Anderson,samantha.anderson30@aol.com,+18161445199,9295 Maple Way,San Diego,CA,95181,57651,mass_market,phone,2024-08-15
+00195b08dcc92a8,Jason,Baker,jason.baker6@hotmail.com,+16709996414,2145 Walnut St,Charlotte,NC,82357,36338,mass_market,partner_referral,2022-04-06
+0014543e891b2dd,William,Robinson,william.robinson78@hotmail.com,+13759961380,4110 Elm Dr,Jacksonville,FL,59735,53283,mass_market,partner_referral,2022-02-25
+00118046e4c2e4b,Stephanie,Wright,stephanie.wright19@outlook.com,+13425137722,9297 Lake Blvd,Buffalo,NY,86622,637039,high_net_worth,mail,2020-05-20
+00110860c2b4807,Karen,Watson,karen.watson88@aol.com,+19685476583,5673 Oak Blvd,Pittsburgh,PA,66985,147512,mass_affluent,branch,2023-12-08
+001b72f5fbab92c,Joshua,Brooks,joshua.brooks474@protonmail.com,+15145017343,1049 Maple Ln,Madison,IN,20322,69252,mass_market,phone,2018-01-03
+00197d0948b25a3,Lisa,King,lisa.king16@yahoo.com,+14302074176,5639 Main Ln,Madison,IN,82603,127296,mass_affluent,web,2025-12-30
+001e3eb1a2c43c3,Elizabeth,Rogers,elizabeth.rogers85@icloud.com,+15628106470,6835 Park Ct,Savannah,GA,17100,128354,mass_affluent,partner_referral,2020-09-22
+001dcd3939a4216,Laura,Moore,laura.moore12@protonmail.com,+14423790237,6758 Park Dr,Phoenix,AZ,38016,36416,mass_market,branch,2024-03-04
+001a64e7cec3a3d,Brenda,James,brenda.james8@aol.com,+12824117625,1222 River St,Springfield,TN,98501,33746,mass_market,phone,2021-07-08
+001a09e16b50fa5,Justin,Reed,justin.reed59@outlook.com,+19692217071,252 Park Ln,Columbus,IN,83792,652159,high_net_worth,branch,2020-09-04
+001425aca2a7b26,Melissa,Torres,melissa.torres18@outlook.com,+13182795765,9164 Elm Blvd,Pittsburgh,PA,46930,228480,affluent,partner_referral,2018-02-02
+00113440d248e91,Barbara,Brooks,barbara.brooks15@gmail.com,+19073500715,9038 Main Ct,Tucson,AZ,58393,58956,mass_market,web,2019-10-24
+0012d9a97d65cf5,Ashley,Bennett,ashley.bennett955@outlook.com,+16215163555,4471 Elm Ct,Orlando,FL,24168,258080,affluent,branch,2020-08-27
+001961bf5ede0b3,Mark,Brown,mark.brown15@outlook.com,+13825453786,726 Oak Ln,Cleveland,OH,66959,63384,mass_market,social_media,2025-03-12
+001c26d3b7d5168,Jennifer,Price,jennifer.price936@outlook.com,+17196188935,6791 Cedar Dr,Phoenix,AZ,48752,118279,mass_affluent,web,2022-11-02
+001227a069fea9c,Stephen,Smith,stephen.smith95@yahoo.com,+18742422633,4749 Lake Way,Grand Rapids,MI,92960,58952,mass_market,branch,2023-03-20
+001634762e2c181,Jennifer,Young,jennifer.young84@hotmail.com,+12052788238,7065 Maple Ave,Madison,TN,77889,254766,affluent,mail,2025-10-23
+0019f931bb14d80,Kenneth,Long,kenneth.long81@yahoo.com,+14818379837,1369 Pine Ave,Cambridge,MA,45614,222695,affluent,mail,2023-01-18
+001723a9302cf6d,Edward,Nelson,edward.nelson398@protonmail.com,+15998030010,8918 Lake Ct,Columbus,MO,89069,124857,mass_affluent,phone,2024-07-20
+001362b3d9d5c0c,Patrick,Perez,patrick.perez7@outlook.com,+15886492066,3567 Park Blvd,Boston,MA,54236,2274453,ultra_hnw,phone,2018-12-10
+0017492940dae1c,Michael,Hall,michael.hall61@hotmail.com,+13174656838,7719 Pine Ct,Atlanta,GA,58351,189946,affluent,mail,2020-10-09
+001f14462748587,Patricia,Flores,patricia.flores882@aol.com,+13231689025,5788 Lake Dr,Madison,MD,96706,665529,high_net_worth,mail,2018-11-08
+001654c927d3dec,Ryan,Price,ryan.price42@protonmail.com,+14512453962,4669 Park Ave,Springfield,IL,70910,65269,mass_market,partner_referral,2024-11-27
+001d947432308b5,Amanda,Scott,amanda.scott89@icloud.com,+18619234615,7442 Main St,Madison,WI,48566,591072,high_net_worth,partner_referral,2018-12-17
+001b9be3dacc30f,Kevin,Rivera,kevin.rivera95@icloud.com,+14839801946,9877 Pine St,Cambridge,MA,35443,37835,mass_market,mobile_app,2021-07-16
+00158876afc4fe0,Donna,Hughes,donna.hughes33@protonmail.com,+16892914064,1170 Walnut Dr,Naperville,IL,19710,396659,high_net_worth,partner_referral,2023-04-07
+001327b8bfc1bce,Brenda,Ross,brenda.ross79@hotmail.com,+13014486102,3557 Pine Way,Phoenix,AZ,20641,299062,affluent,web,2024-08-07
+001540f2386f45e,Alexander,Torres,alexander.torres10@gmail.com,+13696160869,9849 River Blvd,Boston,MA,67560,104466,mass_affluent,partner_referral,2019-04-16
+001dd89662ae708,Sharon,Patel,sharon.patel36@yahoo.com,+17998312936,8156 Oak Dr,Jersey City,NJ,55607,47662,mass_market,mobile_app,2025-07-16
+0010fa978572c1d,John,Collins,john.collins258@aol.com,+15709363326,7342 Main Ave,Rochester,NY,45003,30075,mass_market,mobile_app,2023-10-09
+001942154383264,Mary,Peterson,mary.peterson66@hotmail.com,+14797970771,8005 Park Ave,Phoenix,AZ,69871,72448,mass_market,phone,2019-04-27
+001fc06a1ad75ec,Amanda,Powell,amanda.powell71@protonmail.com,+17567328534,7560 Cedar Ct,Columbus,IN,34727,276967,affluent,web,2019-09-01
+0010a2e4a321d50,Timothy,Roberts,timothy.roberts93@yahoo.com,+16193589751,1325 Park Ct,Springfield,IL,44737,878744,ultra_hnw,partner_referral,2019-02-16
+001254c9ac7c99a,Maria,Morales,maria.morales57@yahoo.com,+19106024207,574 Main Blvd,Springfield,MO,17355,131881,mass_affluent,mobile_app,2020-07-20
+001c5571432badd,Timothy,Richardson,timothy.richardson10@icloud.com,+15536018975,7051 Pine Dr,Savannah,GA,49599,450801,high_net_worth,phone,2023-02-26
+001ea45c55e1c49,Robert,James,robert.james80@outlook.com,+18943294774,1691 Main Blvd,Tacoma,WA,67779,45081,mass_market,mobile_app,2021-03-18
+00110666cad13a7,George,Ortiz,george.ortiz87@hotmail.com,+18907667458,9231 Cedar St,Columbus,IN,61717,169739,affluent,mail,2021-10-19
+0015636e4cfcef6,Melissa,Wilson,melissa.wilson155@yahoo.com,+12461624312,5086 Park St,Savannah,GA,22739,34142,mass_market,mail,2025-04-06
+0010ad8184bd347,Rebecca,Wood,rebecca.wood47@gmail.com,+19027162857,9020 Cedar St,Jacksonville,FL,62184,103477,mass_affluent,branch,2025-09-28
+00110147f67093e,Michael,Powell,michael.powell77@gmail.com,+14833427461,2229 Lake Blvd,Newark,NJ,32871,1987774,ultra_hnw,social_media,2024-03-20
+0012e4924f7b201,Kimberly,Miller,kimberly.miller29@aol.com,+12449748499,5041 Park Way,Naperville,IL,14082,142271,mass_affluent,phone,2023-01-11
+001119fc927c12e,Nicole,Jackson,nicole.jackson78@icloud.com,+13012919549,9133 Maple Dr,Buffalo,NY,69186,69150,mass_market,phone,2022-04-10
+001ffd7314f1b59,Steven,Mitchell,steven.mitchell76@aol.com,+17756530541,2102 Walnut Blvd,Naperville,IL,97207,591698,high_net_worth,phone,2022-11-04
+001b427309863eb,Margaret,Martin,margaret.martin787@hotmail.com,+19105487028,574 Elm Blvd,Springfield,TN,50499,262489,affluent,mobile_app,2019-04-16
+0014f978b56d50b,Patricia,Lopez,patricia.lopez21@protonmail.com,+18321834876,1436 Pine Dr,Springfield,IN,96761,51258,mass_market,mail,2021-06-30
+0015b8fede42210,Gregory,Gray,gregory.gray999@yahoo.com,+19825286905,4842 Cedar St,Columbus,MD,11013,76007,mass_affluent,phone,2024-09-20
+0016202d1545806,Jennifer,Parker,jennifer.parker3@outlook.com,+13758719145,6028 Oak Dr,Sacramento,CA,23875,360384,high_net_worth,mail,2025-12-16
+0018426030cf787,Elizabeth,Rogers,elizabeth.rogers78@yahoo.com,+19782264218,3002 Park Dr,Tampa,FL,83889,403427,high_net_worth,phone,2020-08-25
+001145ddb49fa9d,Karen,Cruz,karen.cruz5@gmail.com,+15775816353,1357 Oak Ln,Albany,NY,87867,84724,mass_affluent,phone,2021-12-12
+001958f04f21f17,Katherine,Harris,katherine.harris91@icloud.com,+16499792411,8664 River Ave,Jersey City,NJ,57696,141132,mass_affluent,mobile_app,2021-11-07
+001cb00c326cde3,David,Nelson,david.nelson17@aol.com,+19252421349,5172 Lake Dr,Jacksonville,FL,94343,35341,mass_market,social_media,2021-09-27
+001bbee4af2f7ad,George,Williams,george.williams135@aol.com,+19899833734,718 Cedar Ct,Virginia Beach,VA,91006,44846,mass_market,phone,2020-02-26
+0017c80be206f97,George,Gray,george.gray483@hotmail.com,+17848391993,7664 Pine Ct,Savannah,GA,60052,115562,mass_affluent,phone,2023-12-28
+0012804f4e48008,Kathleen,Mitchell,kathleen.mitchell56@gmail.com,+14278568671,5827 Main Dr,Springfield,MO,16980,267786,affluent,mobile_app,2018-12-10
+001ef6abefb827e,Katherine,Nelson,katherine.nelson33@yahoo.com,+13539854536,7034 Oak Ct,Chicago,IL,47762,60743,mass_market,branch,2025-11-29
+001f280b3fd3f85,Scott,Morgan,scott.morgan68@outlook.com,+12699825812,9014 Lake Ct,Los Angeles,CA,76535,199103,affluent,phone,2020-09-12
+0010de81f645af8,David,Hall,david.hall88@icloud.com,+19129028420,3086 Elm St,Atlanta,GA,69988,238748,affluent,web,2018-07-01
+00196bbf587646d,Jacob,Allen,jacob.allen50@outlook.com,+13919324908,8251 Cedar Ct,Dallas,TX,78062,38157,mass_market,branch,2021-01-24
+0013399bf49212a,William,Adams,william.adams36@hotmail.com,+12582258981,6755 Cedar Ln,Grand Rapids,MI,99051,80551,mass_affluent,branch,2021-12-10
+00156be73aa3710,George,Campbell,george.campbell41@hotmail.com,+14855187788,1958 Main Way,Seattle,WA,34385,93047,mass_affluent,phone,2022-12-24
+001ec15ce5b25ea,Frank,Morales,frank.morales71@aol.com,+14976032437,2680 Elm Ct,Columbus,OH,57381,74690,mass_market,branch,2018-12-26
+001554ee864a7f8,Melissa,Reyes,melissa.reyes17@outlook.com,+18572244282,7472 Park Way,Springfield,MO,77811,128843,mass_affluent,social_media,2023-05-15
+001b3e8f6aa7ed8,Jessica,Gutierrez,jessica.gutierrez82@aol.com,+14813100009,5061 River Ln,Springfield,IL,22245,64006,mass_market,web,2021-11-18
+0019a48173fde3a,Patricia,Hernandez,patricia.hernandez62@yahoo.com,+19017813102,4973 Park St,Austin,TX,17852,146509,mass_affluent,phone,2023-08-02
+001a520194163eb,Brian,Phillips,brian.phillips7@outlook.com,+15938015136,4167 Elm Ct,Springfield,IL,52917,133929,mass_affluent,partner_referral,2019-05-17
+00199958cf74ca8,Robert,Lopez,robert.lopez14@icloud.com,+13375437118,6092 Walnut Blvd,Tacoma,WA,15930,818597,ultra_hnw,mail,2018-07-27
+00193546766971b,Emily,Richardson,emily.richardson65@gmail.com,+12461652868,2345 Cedar Ct,Springfield,WI,72094,53960,mass_market,web,2024-04-03
+001c4b5766ac95e,Joshua,Ramos,joshua.ramos93@protonmail.com,+19041447065,9879 Park Blvd,Jersey City,NJ,95929,259193,affluent,social_media,2021-09-18
+00196fbf1efe3d5,Helen,Jimenez,helen.jimenez53@hotmail.com,+14087884990,8321 River Dr,Seattle,WA,18163,232232,affluent,mail,2020-02-21
+0017ae1ec8148d5,Jonathan,Baker,jonathan.baker39@protonmail.com,+14954477544,8111 Cedar Dr,Columbus,MO,55718,111569,mass_affluent,social_media,2020-02-27
+001f0f62be4e41e,Jerry,Jackson,jerry.jackson72@hotmail.com,+14783303058,1889 River Way,Detroit,MI,86917,46806,mass_market,branch,2025-05-10
+0019e9aee42f487,Jacob,Gonzalez,jacob.gonzalez42@outlook.com,+18611992583,1565 River Ave,Chicago,IL,80143,3159586,ultra_hnw,social_media,2025-04-28
+00146e23dfe7e70,Amy,White,amy.white656@icloud.com,+14794234838,1945 Cedar Ave,Detroit,MI,70150,59776,mass_market,partner_referral,2021-03-11
+001fd6fe3540fdd,Stephanie,Diaz,stephanie.diaz31@icloud.com,+19715479421,5500 Pine Ln,Columbus,IN,85088,51207,mass_market,partner_referral,2023-05-10
+001259cfa42932f,Nicholas,Price,nicholas.price548@hotmail.com,+17628899184,8906 Maple Ct,Detroit,MI,42435,137676,mass_affluent,mail,2020-06-16
+001a2c6033263c5,Linda,Peterson,linda.peterson8@icloud.com,+13359610867,6906 Park Ln,Springfield,IN,17567,101922,mass_affluent,partner_referral,2022-12-15
+0017f8cccb9fcf9,Jennifer,Diaz,jennifer.diaz99@hotmail.com,+19468052509,6235 Walnut Dr,Richmond,VA,59479,128591,mass_affluent,partner_referral,2018-05-10
+0014842439dcbf0,Shirley,Taylor,shirley.taylor209@outlook.com,+13932893218,627 Walnut Ln,Atlanta,GA,12050,214883,affluent,branch,2023-12-19
+001fffbad507f43,Jeffrey,Robinson,jeffrey.robinson19@hotmail.com,+17334708481,6875 Pine Blvd,Springfield,MO,17989,234060,affluent,mail,2021-03-30
+001867d565a14b4,Samuel,Bennett,samuel.bennett39@protonmail.com,+19243421820,7686 Main Ln,Tacoma,WA,64090,137065,mass_affluent,mail,2020-01-24
+001d54fa412ec36,Melissa,Lopez,melissa.lopez43@outlook.com,+12154553544,3213 Oak Way,Madison,MO,72773,206889,affluent,partner_referral,2018-10-26
+001f9e94f6eec37,Jonathan,Wood,jonathan.wood53@gmail.com,+17764712360,2490 Main Blvd,Virginia Beach,VA,82523,60768,mass_market,mail,2019-02-08
+001654e7b779981,Amy,Peterson,amy.peterson24@aol.com,+18571985360,8684 Main Ct,Jersey City,NJ,19742,194371,affluent,partner_referral,2023-03-03
+001b22e7b429c0a,Margaret,Cook,margaret.cook2@gmail.com,+17425609384,8877 Pine St,Cambridge,MA,75826,61972,mass_market,partner_referral,2025-05-24
+001e3e0c39bfbd5,Helen,Ortiz,helen.ortiz84@protonmail.com,+18651531577,1631 Walnut Dr,Raleigh,NC,59436,67027,mass_market,branch,2023-02-24
+001a8f1f397cd53,Richard,Ortiz,richard.ortiz231@protonmail.com,+15221262699,3494 River Ave,Dallas,TX,62205,34872,mass_market,mobile_app,2018-07-10
+001a56feadbf2e4,Deborah,Long,deborah.long42@gmail.com,+18495585666,7481 Park Ave,Naperville,IL,56636,169927,affluent,phone,2019-02-05
+001af17a1838886,Carolyn,Martinez,carolyn.martinez401@icloud.com,+15685525929,1774 Elm St,Rochester,NY,34561,50753,mass_market,mail,2022-05-15
+001bc00939a22c6,Carol,Roberts,carol.roberts35@outlook.com,+14749273246,2490 Oak Ave,San Diego,CA,66973,97227,mass_affluent,mobile_app,2024-05-31
+001ba936db6ec09,Brandon,Sanchez,brandon.sanchez84@aol.com,+13396040467,5353 River Way,Boston,MA,36326,54896,mass_market,web,2024-12-15
+00174e9c095761b,Carol,Carter,carol.carter571@protonmail.com,+14982160289,6803 Park Ave,Raleigh,NC,93012,66051,mass_market,mobile_app,2025-08-24
+001ccc546909072,Justin,Phillips,justin.phillips85@hotmail.com,+15633790696,825 River Way,Madison,MO,98797,703153,high_net_worth,social_media,2022-01-12
+001ba50c5173401,Eric,Bailey,eric.bailey62@gmail.com,+15027978909,1506 Oak Ct,Madison,MD,28569,140597,mass_affluent,mobile_app,2025-08-15
+001f6055b44d7fe,Laura,Green,laura.green71@yahoo.com,+15388153291,7670 Maple Ct,Rochester,NY,63090,37167,mass_market,web,2025-04-08
+001444496ef19f0,James,Price,james.price15@outlook.com,+18869212178,8746 Cedar Ln,Columbus,OH,60939,42252,mass_market,mail,2024-01-09
+001015d65ea2573,Brandon,Ramos,brandon.ramos74@icloud.com,+16334116429,8073 Lake Way,Buffalo,NY,94575,39264,mass_market,web,2022-03-10
+0013e4bbca2deaf,Dorothy,Johnson,dorothy.johnson63@yahoo.com,+12841517756,3713 Pine St,Springfield,TN,46025,62438,mass_market,mobile_app,2025-04-28
+00173973d37dab0,Joseph,Wright,joseph.wright39@protonmail.com,+12338545256,4405 Cedar Ct,Columbus,MO,21401,130725,mass_affluent,branch,2024-02-16
+0011b7e08d102bf,Jason,Perez,jason.perez382@aol.com,+14739630451,1660 Elm Ct,Springfield,WI,63948,194139,affluent,mobile_app,2023-12-21
+00131305889fba7,Maria,Gray,maria.gray89@outlook.com,+16659188027,5462 River St,Tacoma,WA,22208,59621,mass_market,phone,2022-03-17
+001034f3816818b,Amy,Wright,amy.wright3@gmail.com,+13618403549,7579 Main Dr,Jersey City,NJ,36518,74731,mass_market,web,2021-11-08
+001ae87456d2806,William,Mitchell,william.mitchell62@gmail.com,+13354794852,8610 Park St,Philadelphia,PA,11056,72957,mass_market,social_media,2022-10-25
+0017cce95695253,Janet,Wilson,janet.wilson79@hotmail.com,+13688383643,5853 Maple Way,Orlando,FL,29840,74376,mass_market,mail,2025-03-12
+001748cde6bb286,Janet,Roberts,janet.roberts27@aol.com,+18219548370,3190 Walnut Blvd,Virginia Beach,VA,94694,66267,mass_market,social_media,2020-10-13
+0019509000619b3,Mary,Campbell,mary.campbell3@aol.com,+12691231415,4395 Maple St,Newark,NJ,17925,74757,mass_market,phone,2024-02-16
+001b37a59bea8e8,Samantha,Morgan,samantha.morgan40@hotmail.com,+16475003671,1048 Maple St,Madison,MO,66948,40182,mass_market,mail,2020-04-12
+0010b178394382e,Rachel,Johnson,rachel.johnson99@gmail.com,+15438202871,4556 Lake St,Pittsburgh,PA,44465,1740331,ultra_hnw,mail,2019-11-15
+00168c690f6a8f3,Melissa,Lee,melissa.lee61@outlook.com,+15923518002,3032 Main Ln,Charlotte,NC,95944,428215,high_net_worth,mobile_app,2023-09-16
+0015f53f45c1684,Gregory,Miller,gregory.miller2@outlook.com,+14055892153,9337 Pine Way,Philadelphia,PA,91620,235799,affluent,mobile_app,2023-03-21
+001dd41ab8a40cd,Karen,Smith,karen.smith68@yahoo.com,+16299254874,1081 Elm Way,Phoenix,AZ,46677,30095,mass_market,web,2021-10-04
+001c5040629e97d,Justin,Gonzalez,justin.gonzalez41@protonmail.com,+16026473593,5311 Park Blvd,Springfield,IN,40619,92132,mass_affluent,web,2022-11-17
+0014c2776480458,Edward,Thomas,edward.thomas91@hotmail.com,+18171676621,3622 Cedar Ave,Columbus,MO,21955,3301940,ultra_hnw,mobile_app,2020-12-21
+001e0ac748ba43b,Brenda,Myers,brenda.myers48@hotmail.com,+18452409947,9640 River Blvd,Springfield,MO,19828,34041,mass_market,branch,2018-02-18
+001459fa76a4b8d,Jessica,Garcia,jessica.garcia28@yahoo.com,+14815695180,7407 Elm St,Boston,MA,90492,31932,mass_market,web,2023-07-26
+0012793042e322d,Sarah,Turner,sarah.turner45@aol.com,+17146395626,6463 Pine Ave,Columbus,OH,13416,137873,mass_affluent,web,2025-12-31
+00184c3e681e5ba,Sandra,Lee,sandra.lee23@yahoo.com,+18066335227,5978 River St,Tampa,FL,56095,125911,mass_affluent,mail,2020-06-17
+001fcac0777852a,John,Lopez,john.lopez425@gmail.com,+12223478196,9711 Elm Ct,Dallas,TX,24538,101406,mass_affluent,social_media,2021-09-20
+0013a132da25e89,Carol,Moore,carol.moore49@outlook.com,+19515941179,2186 Elm Way,Pittsburgh,PA,10235,208520,affluent,mail,2025-12-06
+0017777edf60436,Mark,Brooks,mark.brooks91@hotmail.com,+18546632941,7417 Main Blvd,Springfield,MD,37483,633545,high_net_worth,branch,2020-09-01
+001e7ab6b759a74,Lisa,Evans,lisa.evans41@outlook.com,+13072244877,5700 Elm Dr,Columbus,TN,31090,59575,mass_market,mail,2019-10-29
+00168783a793ffd,Lisa,Cox,lisa.cox39@yahoo.com,+12981832744,6537 River Ln,Phoenix,AZ,74349,66314,mass_market,mobile_app,2025-10-26
+001d0c07c721fca,Lisa,Brooks,lisa.brooks24@outlook.com,+15907197531,3156 Park St,Detroit,MI,44510,109734,mass_affluent,mobile_app,2023-04-13
+00137c1720bdccb,Edward,Long,edward.long51@protonmail.com,+19311582647,8326 River Ln,Springfield,MD,84905,105886,mass_affluent,mail,2024-01-03
+00179df87ccb0ea,Thomas,Garcia,thomas.garcia72@icloud.com,+17656471499,4625 Lake Dr,Phoenix,AZ,11620,4005611,ultra_hnw,mail,2024-09-03
+0014a047b4edb0f,Maria,Gonzalez,maria.gonzalez5@yahoo.com,+14827760781,2456 River Ln,Miami,FL,99235,299952,affluent,branch,2020-12-17
+00118c31d2615e8,Melissa,Williams,melissa.williams78@hotmail.com,+12914153037,7337 Maple Ct,Jersey City,NJ,63368,49692,mass_market,social_media,2019-07-05
+00121894382c337,Stephanie,Moore,stephanie.moore36@outlook.com,+16759474614,6603 Oak Way,Madison,IN,14005,32167,mass_market,phone,2020-10-18
+00189b8f8706d3b,Catherine,Ruiz,catherine.ruiz66@gmail.com,+19991149283,7867 Elm Way,Rochester,NY,32701,72426,mass_market,branch,2020-06-25
+001723c02efaea9,Ryan,Allen,ryan.allen72@hotmail.com,+18085742531,4990 Oak Dr,Cleveland,OH,18367,36705,mass_market,mobile_app,2024-07-22
+001d53a1acc4d1a,Linda,Kim,linda.kim75@hotmail.com,+17854186247,5722 Maple Way,Tacoma,WA,80075,129862,mass_affluent,phone,2021-04-25
+00124366d932c58,Nancy,Nguyen,nancy.nguyen96@protonmail.com,+15148054359,5528 Cedar Blvd,Jacksonville,FL,86751,51996,mass_market,social_media,2025-08-16
+0019066a74178c3,Jessica,Mendoza,jessica.mendoza41@protonmail.com,+19324025884,1424 Park Blvd,Tacoma,WA,92710,128633,mass_affluent,mobile_app,2020-03-31
+0010f6ffc4abb4e,Maria,Jimenez,maria.jimenez94@outlook.com,+12146405839,8800 Maple St,Buffalo,NY,98702,75611,mass_affluent,partner_referral,2023-05-10
+001a76b10e0a594,Michelle,Perez,michelle.perez44@icloud.com,+15674161264,2801 Walnut St,New York,NY,39939,64348,mass_market,web,2024-09-08
+00196c7d03cc7cd,Timothy,Brooks,timothy.brooks718@outlook.com,+16853569046,3466 Main Blvd,Charlotte,NC,65164,129627,mass_affluent,partner_referral,2018-07-17
+00113336abf3f47,Patrick,Richardson,patrick.richardson38@yahoo.com,+12409327450,3502 Park Blvd,Orlando,FL,40737,64284,mass_market,partner_referral,2020-12-13
+00183e1b8217016,Elizabeth,Castillo,elizabeth.castillo47@protonmail.com,+18936246354,7079 Oak St,Orlando,FL,16014,88082,mass_affluent,web,2023-03-17
+0017b2dd70078e9,Barbara,Mitchell,barbara.mitchell90@hotmail.com,+12603674211,1799 Walnut Ln,Newark,NJ,73265,61342,mass_market,partner_referral,2022-04-29
+001aa2a3c8a7d2c,Thomas,Morris,thomas.morris86@protonmail.com,+15469709047,8670 River St,Springfield,TN,66734,702406,high_net_worth,web,2025-05-06
+0017269a70303cf,Michael,Johnson,michael.johnson71@hotmail.com,+15877765865,3950 Oak Dr,Pittsburgh,PA,68220,326398,high_net_worth,phone,2021-08-06
+001c6fd5ae29da7,Stephanie,Evans,stephanie.evans7@protonmail.com,+14288624573,5539 Lake Ct,Houston,TX,91232,269592,affluent,partner_referral,2023-09-14
+001e37e57b93f67,Donna,Peterson,donna.peterson251@gmail.com,+16024616991,7588 Maple Way,Columbus,IN,54293,216660,affluent,phone,2019-07-30
+0019e9a7b8d4456,Raymond,Ramos,raymond.ramos89@aol.com,+13773153888,1796 Walnut Way,Springfield,IN,88714,2236481,ultra_hnw,mobile_app,2024-03-16
+00131ab864d6918,Laura,Moore,laura.moore26@yahoo.com,+18395875114,5757 Elm Way,Springfield,IL,95208,116144,mass_affluent,web,2025-11-13
+001dad819b0207d,Justin,Kelly,justin.kelly26@outlook.com,+19683700047,4795 Pine Ave,Tucson,AZ,18130,327821,high_net_worth,mobile_app,2019-03-13
+0012c191986838c,Jack,Bailey,jack.bailey88@outlook.com,+17651902651,312 Pine Ave,Savannah,GA,91338,73548,mass_market,social_media,2025-10-09
+00148525ec3181c,Nicole,Sanchez,nicole.sanchez36@aol.com,+14703182154,2736 River Ct,Cleveland,OH,43425,90643,mass_affluent,phone,2019-12-13
+0013150cff27a5a,Brandon,James,brandon.james21@icloud.com,+17567768215,1606 Cedar Ave,Grand Rapids,MI,37964,286473,affluent,mobile_app,2023-11-23
+001be7c9e834229,Mary,Anderson,mary.anderson50@outlook.com,+17535745083,504 Lake Ct,Virginia Beach,VA,59146,74731,mass_market,mail,2018-06-13
+001d7120b1f7dd9,Lisa,Foster,lisa.foster83@protonmail.com,+12733579573,489 Park Way,Madison,MO,53478,57800,mass_market,branch,2025-09-08
+00128322c0d1d6c,Laura,Watson,laura.watson46@aol.com,+13085862651,5037 River St,Tacoma,WA,46899,72036,mass_market,phone,2018-01-25
+001fad45530b963,Ronald,Cooper,ronald.cooper741@aol.com,+16032428191,5092 Maple Way,Detroit,MI,55069,66377,mass_market,partner_referral,2024-03-17
+00113207bd9905f,Larry,Miller,larry.miller17@hotmail.com,+18714934808,1739 Pine Ln,Columbus,MO,19149,100875,mass_affluent,mobile_app,2020-10-23
+0010e80b9f7aafc,Jason,Perez,jason.perez58@outlook.com,+19936124966,8078 Lake St,San Diego,CA,33038,53559,mass_market,branch,2021-02-07
+001a6e86fecf342,Elizabeth,Sanders,elizabeth.sanders842@protonmail.com,+13527137418,6530 Maple Ct,New York,NY,87280,294597,affluent,mobile_app,2024-08-13
+001df0659fb21d6,Brandon,Mendoza,brandon.mendoza30@gmail.com,+14707198093,3934 Main Way,Philadelphia,PA,37102,80297,mass_affluent,social_media,2023-06-04
+0014e07f5f6b211,Susan,Price,susan.price677@outlook.com,+15854739628,8560 Walnut Blvd,Madison,IN,55224,245760,affluent,phone,2022-03-23
+001b0d3c4c05f29,Samuel,Scott,samuel.scott62@hotmail.com,+16909036641,3552 River Ave,Columbus,OH,94837,45095,mass_market,branch,2025-05-31
+001ef4722686c72,Christopher,Davis,christopher.davis622@yahoo.com,+14247891524,9944 Elm Ct,Pittsburgh,PA,86368,535511,high_net_worth,web,2025-06-03
+00108fa48a83a30,David,Robinson,david.robinson794@aol.com,+12399915915,8346 Oak St,Tacoma,WA,73208,57511,mass_market,mail,2025-09-04
+00149fdd8949c29,Rachel,Ortiz,rachel.ortiz629@protonmail.com,+14382406225,4741 River Ln,Phoenix,AZ,63562,370193,high_net_worth,branch,2021-12-06
+001d824ebf91c32,Anthony,Ruiz,anthony.ruiz88@icloud.com,+19734417416,6870 Lake Ct,Jersey City,NJ,83080,65134,mass_market,mobile_app,2020-12-06
+001362691ab7884,Sarah,James,sarah.james21@icloud.com,+18511088762,1592 Elm Dr,Tampa,FL,88675,127502,mass_affluent,branch,2020-05-28
+00187bda898d2da,Katherine,Gutierrez,katherine.gutierrez77@aol.com,+17284886793,2876 Main Blvd,Detroit,MI,41359,402103,high_net_worth,web,2018-02-13
+0014e8f476340d2,Mary,Patel,mary.patel74@gmail.com,+14673936596,6770 Lake St,New York,NY,83220,104661,mass_affluent,mobile_app,2021-11-24
+00172ff69535329,Steven,Ruiz,steven.ruiz34@gmail.com,+15914697401,3867 Cedar Dr,Cambridge,MA,56281,135387,mass_affluent,branch,2023-02-23
+001fea9c201a72a,Elizabeth,Peterson,elizabeth.peterson311@hotmail.com,+14475452763,3487 Maple Ave,Pittsburgh,PA,42728,74768,mass_market,mobile_app,2020-01-19
+001f19c8ce8e31f,Jennifer,Morris,jennifer.morris7@aol.com,+16339024879,8959 Main Ln,Virginia Beach,VA,55519,111735,mass_affluent,partner_referral,2020-01-20
+001cd29770f7454,Gregory,Clark,gregory.clark47@yahoo.com,+17108112581,3549 Walnut Way,Seattle,WA,58799,47226,mass_market,phone,2024-02-25
+001669f7c70e59d,Donald,Bailey,donald.bailey636@outlook.com,+14561800429,6627 Oak Way,Tucson,AZ,31409,41574,mass_market,social_media,2018-02-09
+001314bca13b9c3,Brenda,Allen,brenda.allen46@outlook.com,+18899563838,8087 Park St,Richmond,VA,59947,145574,mass_affluent,phone,2024-06-20
+0014aab89cd5624,Stephanie,Martinez,stephanie.martinez96@aol.com,+17338554590,6882 Elm Ave,Buffalo,NY,13027,47529,mass_market,web,2025-12-19
+0013134fc219e76,Richard,Rodriguez,richard.rodriguez40@yahoo.com,+14535767670,7360 Elm Ave,Madison,TN,79041,47200,mass_market,branch,2019-03-02
+0018eaf256db9cb,Paul,Peterson,paul.peterson45@icloud.com,+17524810582,1567 Park Blvd,Boston,MA,57943,3347627,ultra_hnw,web,2025-01-28
+0017e2b91a7e011,Mary,Ruiz,mary.ruiz51@yahoo.com,+13677538471,6299 Maple Blvd,Columbus,TN,20382,65927,mass_market,web,2018-01-30
+001ccbdabda08d4,Paul,Evans,paul.evans3@yahoo.com,+12509975319,462 Elm St,Columbus,OH,46977,59672,mass_market,partner_referral,2024-12-05
+00125e941e73e75,Michelle,Powell,michelle.powell24@yahoo.com,+14567401806,306 Oak Ct,Columbus,TN,42631,109931,mass_affluent,phone,2019-08-22
+0015fb8a00609f6,Deborah,Mendoza,deborah.mendoza7@protonmail.com,+18824653880,1950 Maple Way,Grand Rapids,MI,66906,46601,mass_market,web,2019-05-16
+0016ad2ebd0f598,Frank,Stewart,frank.stewart83@yahoo.com,+19189998515,1859 Elm Dr,Springfield,WI,40497,74954,mass_market,mail,2019-01-10
+0019d95a8072776,Timothy,Rivera,timothy.rivera42@hotmail.com,+16795619172,9908 Lake Ave,Springfield,IL,19027,397846,high_net_worth,phone,2024-02-02
+001ae0cb1cc01cb,Janet,White,janet.white99@aol.com,+13575750117,5385 Walnut Way,San Diego,CA,52208,199773,affluent,mail,2025-05-20
+00180c9ab92337c,Gary,Harris,gary.harris78@hotmail.com,+12721219541,3519 Park Ct,Miami,FL,20480,108546,mass_affluent,partner_referral,2024-12-30
+00192e3f2730357,Linda,Ward,linda.ward25@yahoo.com,+17385173551,9439 Elm Ln,Charlotte,NC,83156,210559,affluent,branch,2023-10-29
+001e04354cb6e6c,Stephen,Phillips,stephen.phillips53@protonmail.com,+18488224069,5399 River Ave,Columbus,IN,83812,147100,mass_affluent,phone,2021-12-14
+001b3292f1c9faa,Patrick,Jones,patrick.jones719@aol.com,+17693595683,1644 Main Dr,Detroit,MI,56616,103157,mass_affluent,mobile_app,2021-05-15
+001a481a6e690ce,Margaret,Sanders,margaret.sanders11@protonmail.com,+12576610127,5800 Walnut Dr,Rochester,NY,25799,159796,affluent,web,2024-09-04
+00106bdae2b8a12,Kenneth,Cooper,kenneth.cooper56@outlook.com,+16033483236,2265 Cedar St,Springfield,MD,72371,55747,mass_market,branch,2025-07-22
+0011d4c27fa2cca,Kathleen,Bailey,kathleen.bailey42@hotmail.com,+17892503148,1943 Walnut Dr,Cleveland,OH,57876,45880,mass_market,mobile_app,2020-10-05
+00163a3a6aac2fe,Helen,Jackson,helen.jackson37@gmail.com,+15512866934,5099 Park Dr,Boston,MA,12981,427427,high_net_worth,partner_referral,2019-10-01
+0017721e9d82d2b,Christopher,Ruiz,christopher.ruiz7@icloud.com,+18701139824,1191 Walnut Way,Sacramento,CA,45561,112226,mass_affluent,partner_referral,2019-11-29
+001c4306cba2120,Alexander,Gonzalez,alexander.gonzalez68@outlook.com,+15419219709,6545 Elm St,Jersey City,NJ,55453,320841,high_net_worth,mobile_app,2023-08-13
+001a38c92a09b51,Deborah,Brown,deborah.brown74@yahoo.com,+16366240913,5495 Park Ln,Columbus,MO,27271,55048,mass_market,web,2018-12-26
+0016d33b834a072,Sarah,Parker,sarah.parker944@gmail.com,+19836346688,6883 Walnut Blvd,Naperville,IL,68065,466512,high_net_worth,social_media,2024-04-01
+001091d837da01d,Maria,Ward,maria.ward18@aol.com,+18198864546,6226 Elm Ct,Columbus,WI,60785,122089,mass_affluent,web,2020-08-03
+00133542777ab1f,Catherine,Bennett,catherine.bennett6@aol.com,+19527381619,5226 Walnut Ln,Columbus,OH,84964,51292,mass_market,mail,2025-09-18
+001ca61f70758cc,Ashley,Gutierrez,ashley.gutierrez39@protonmail.com,+14928740121,2827 Walnut Blvd,Columbus,MO,90364,4089000,ultra_hnw,partner_referral,2025-01-27
+001a2068315b83c,Nancy,Jimenez,nancy.jimenez335@outlook.com,+19083751363,2124 Oak St,Madison,MD,68903,134464,mass_affluent,branch,2018-04-13
+0018ac329aaa1cf,Jerry,Perez,jerry.perez16@yahoo.com,+14071059272,4246 Main Dr,Newark,NJ,75225,50189,mass_market,mail,2022-09-15
+001dfb2523d9ed7,Edward,Cruz,edward.cruz5@yahoo.com,+12336007018,5524 Oak St,New York,NY,24272,42113,mass_market,web,2018-07-20
+0015c033d78a75b,George,Jones,george.jones89@protonmail.com,+14816523202,8735 Walnut Ln,Rochester,NY,37504,34254,mass_market,mail,2024-03-04
+0011fd6a794f6c0,Alexander,Torres,alexander.torres64@protonmail.com,+13844904421,4859 Maple St,Tucson,AZ,25493,70258,mass_market,partner_referral,2019-06-16
+00122b27fb89586,Brenda,Brooks,brenda.brooks15@hotmail.com,+15416727097,6588 River Ln,Columbus,OH,13816,141412,mass_affluent,web,2021-06-14
+001e524dd9e8dde,Kathleen,Martin,kathleen.martin27@aol.com,+19016565326,5893 Oak Ave,Cambridge,MA,46760,116353,mass_affluent,mobile_app,2021-05-11
+001da3412d15174,Alexander,Green,alexander.green153@outlook.com,+12384390648,1617 Park Ln,Austin,TX,13268,103329,mass_affluent,mail,2023-01-26
+001b3b790652bb8,Eric,Gray,eric.gray43@icloud.com,+12472729778,8629 Pine St,Chicago,IL,85701,161542,affluent,partner_referral,2019-04-20
+001a0a1c998b37d,Christine,Thomas,christine.thomas35@yahoo.com,+19215752443,9505 Maple Ave,Charlotte,NC,19337,43538,mass_market,mobile_app,2019-02-24
+0019625f3d68a9b,Jason,Gomez,jason.gomez13@icloud.com,+15178808058,7809 Maple Ave,Pittsburgh,PA,28837,149421,mass_affluent,mail,2018-11-18
+00176f653c38b70,Ryan,Morales,ryan.morales921@protonmail.com,+13096467186,9211 Oak Ct,San Francisco,CA,49599,91697,mass_affluent,phone,2021-03-02
+0019c7e484ea15a,Amanda,Clark,amanda.clark42@aol.com,+12998469484,2986 Pine Dr,Columbus,MD,19123,277567,affluent,partner_referral,2019-12-10
+001d979cb42d1d3,Margaret,Moore,margaret.moore26@yahoo.com,+18976311628,5010 River Ct,Madison,MD,99071,252231,affluent,phone,2023-01-30
+0014ec165e38cb3,Thomas,Nguyen,thomas.nguyen817@outlook.com,+19287422144,6752 Walnut Dr,Austin,TX,81449,526343,high_net_worth,web,2019-03-26
+0014b809847111d,Christine,Taylor,christine.taylor59@protonmail.com,+19128142130,3045 Park Ln,Chicago,IL,65590,58621,mass_market,phone,2025-05-18
+0011304f8229458,Donald,Alvarez,donald.alvarez89@gmail.com,+13459831661,4678 Park Ln,Columbus,IN,20254,138342,mass_affluent,mail,2018-06-05
+00189129fdf96f1,Michelle,Ward,michelle.ward38@yahoo.com,+12366101462,9335 Pine St,Austin,TX,92483,118452,mass_affluent,web,2023-04-06
+001e0a474db921f,Nicholas,Martinez,nicholas.martinez48@protonmail.com,+13795383091,3969 Park Ave,Raleigh,NC,79125,69572,mass_market,mobile_app,2019-04-02
+001ed8cb5e1ec0d,Jerry,Roberts,jerry.roberts60@icloud.com,+16876056101,7903 Lake Ave,Savannah,GA,59781,180407,affluent,phone,2018-08-11
+0011bbea2fd00cb,Timothy,Gray,timothy.gray13@outlook.com,+18707562471,7654 Maple Way,Newark,NJ,98065,72733,mass_market,web,2024-11-05
+001aa3e31d5ef9c,David,Johnson,david.johnson8@aol.com,+18724637718,9920 Oak Way,Phoenix,AZ,25725,100307,mass_affluent,mail,2021-03-06
+0017777c6f65d80,Steven,Nguyen,steven.nguyen36@protonmail.com,+12637422301,6466 Cedar St,Boston,MA,43847,117389,mass_affluent,mobile_app,2025-10-06
+0015f66cec42e57,Gary,Wilson,gary.wilson74@hotmail.com,+14568480652,407 Park Ave,Naperville,IL,95572,159138,affluent,branch,2022-12-14
+001d749e67aa91d,Jerry,Morales,jerry.morales43@hotmail.com,+15107721201,1004 Oak Blvd,Columbus,TN,80074,138185,mass_affluent,mobile_app,2018-01-14
+001a3244963e691,Raymond,Harris,raymond.harris25@gmail.com,+19375001116,8115 Walnut St,Grand Rapids,MI,80851,373370,high_net_worth,phone,2018-12-14
+001f45756c9ba5c,Patrick,Garcia,patrick.garcia95@yahoo.com,+17001319821,7820 River St,Seattle,WA,41808,65164,mass_market,web,2025-08-09
+001ea8452a1b6e6,David,Wilson,david.wilson421@protonmail.com,+14181764815,9817 Elm Blvd,Jacksonville,FL,18286,127692,mass_affluent,web,2022-10-12
+001770273d88b05,Jennifer,Moore,jennifer.moore54@hotmail.com,+19918986164,2179 Maple Ave,Jacksonville,FL,93863,173367,affluent,phone,2018-01-27
+001f7e4401ef9ba,Brandon,Lopez,brandon.lopez603@protonmail.com,+18414491484,4628 Main Ave,Grand Rapids,MI,24769,122435,mass_affluent,partner_referral,2023-12-12
+0018d77799ddc79,Samuel,Campbell,samuel.campbell4@icloud.com,+17272947246,1260 Maple Way,Detroit,MI,68303,81875,mass_affluent,mobile_app,2018-06-27
+001bbef7976618c,Richard,Walker,richard.walker23@icloud.com,+15823288484,7599 Maple Way,Phoenix,AZ,57001,58564,mass_market,web,2018-08-11
+0012d588b6e3c3c,Ryan,Turner,ryan.turner28@aol.com,+16848763873,4673 Main Way,Pittsburgh,PA,66113,66225,mass_market,web,2024-06-25
+001930ecf20d80e,Rebecca,Garcia,rebecca.garcia11@aol.com,+19711208423,6762 Maple Ave,San Antonio,TX,56976,268604,affluent,partner_referral,2022-06-04
+001afaea5ca8bc2,Catherine,Howard,catherine.howard50@hotmail.com,+15409907368,635 Pine Dr,Sacramento,CA,45361,135856,mass_affluent,mail,2020-01-28
+0011b0c2d5d2f7c,Linda,Rogers,linda.rogers72@hotmail.com,+19924434507,2367 Cedar Ave,Richmond,VA,80730,54014,mass_market,phone,2022-02-06
+00133a7fa67e05c,Carol,Rivera,carol.rivera58@aol.com,+15762101040,3185 Park St,Raleigh,NC,20508,62863,mass_market,web,2023-06-15
+0010f02268b9f3d,Karen,Clark,karen.clark38@yahoo.com,+12641369713,3906 Lake Way,Madison,IN,54024,52721,mass_market,mobile_app,2023-04-26
+001b68018ca9210,Michelle,Perez,michelle.perez92@aol.com,+14924058159,2973 Elm Ave,Charlotte,NC,41182,134759,mass_affluent,mobile_app,2021-12-17
+0015f0d5e1c1c03,Kenneth,Hall,kenneth.hall594@outlook.com,+13591072046,9048 Lake Blvd,Springfield,IL,94835,128026,mass_affluent,phone,2019-05-13
+0015485ec0182e2,Amanda,Ruiz,amanda.ruiz12@outlook.com,+12564274069,9658 Lake Ave,Jacksonville,FL,46428,533818,high_net_worth,branch,2021-06-15
+0015ea3cb86c6b3,Gary,Green,gary.green2@outlook.com,+15536894759,5147 Park Ct,Madison,WI,83535,131051,mass_affluent,partner_referral,2022-06-17
+0014ab024e0f841,Jason,Sanders,jason.sanders12@gmail.com,+16195585697,6891 Elm Ln,Phoenix,AZ,70570,237927,affluent,social_media,2021-05-27
+00183add15c6b8f,Justin,Hill,justin.hill54@yahoo.com,+17035106228,566 Oak Ct,Madison,TN,46335,182552,affluent,branch,2020-12-11
+001eebe9293b847,Jacob,Ruiz,jacob.ruiz46@yahoo.com,+12545574649,6017 Walnut Way,Orlando,FL,56659,94154,mass_affluent,mobile_app,2024-07-10
+0013eaa54dc9967,Anna,Adams,anna.adams67@outlook.com,+15819135255,6850 Cedar Ave,Jersey City,NJ,23424,68013,mass_market,mail,2023-12-29
+001c249adc48c17,Joseph,Taylor,joseph.taylor4@hotmail.com,+13214730545,2208 Elm Way,Sacramento,CA,39697,64283,mass_market,web,2024-09-13
+001b080853cfc05,Dennis,Parker,dennis.parker86@gmail.com,+19722619061,2128 River Ave,Dallas,TX,87018,37793,mass_market,web,2023-04-06
+001fc48f146d58b,Charles,Cook,charles.cook93@gmail.com,+14199458992,7877 Cedar Way,Springfield,WI,87251,100106,mass_affluent,partner_referral,2023-12-07
+0013e6f326efa06,Edward,Anderson,edward.anderson64@gmail.com,+15945758210,7586 River Way,Newark,NJ,50895,148024,mass_affluent,social_media,2025-11-26
+001fd21c1a72a07,Gregory,Mitchell,gregory.mitchell52@hotmail.com,+18042706614,2864 Oak Blvd,Philadelphia,PA,36094,4061918,ultra_hnw,mail,2022-11-30
+001d0712f953d13,Jerry,Howard,jerry.howard19@protonmail.com,+16652812554,2101 Pine Dr,Columbus,MD,75178,277017,affluent,web,2023-05-03
+001b700f247b6ea,Nicole,Gray,nicole.gray85@icloud.com,+17029469050,4387 Lake Blvd,Newark,NJ,80848,64075,mass_market,social_media,2025-05-31
+00142718396ea39,Jeffrey,Collins,jeffrey.collins927@icloud.com,+16992835125,9420 Park Way,Houston,TX,82585,40757,mass_market,mail,2025-12-02
+001c4247773a909,Timothy,Ward,timothy.ward55@outlook.com,+15657911031,5855 Main Way,Virginia Beach,VA,42011,52863,mass_market,partner_referral,2022-02-09
+0011078d6e6211d,Jonathan,Adams,jonathan.adams74@icloud.com,+15302639564,8101 Oak Way,San Antonio,TX,98488,136564,mass_affluent,phone,2020-12-28
+0018af1f1f5000a,Amy,Brooks,amy.brooks355@gmail.com,+17809909769,7886 Walnut Ave,Buffalo,NY,55523,70931,mass_market,partner_referral,2020-07-14
+00146c8efcd6e16,Helen,Rogers,helen.rogers73@hotmail.com,+18412004647,8656 Maple Blvd,Boston,MA,70619,440475,high_net_worth,web,2024-06-20
+00160614ca01cb7,Samantha,Clark,samantha.clark32@protonmail.com,+15178787307,8052 Lake Dr,Tucson,AZ,65314,189311,affluent,branch,2022-07-21
+00118308e3d7a50,Jennifer,Castillo,jennifer.castillo31@gmail.com,+17849392777,2076 Lake Way,Springfield,TN,86076,56673,mass_market,mail,2018-09-18
+0016c1945ef56f5,Justin,Patel,justin.patel63@aol.com,+15832895176,5285 Lake Dr,Seattle,WA,72240,433329,high_net_worth,mobile_app,2020-05-26
+00100a8ecabd552,Nicole,Jones,nicole.jones50@gmail.com,+16025287143,5029 Oak Ct,Dallas,TX,40862,37998,mass_market,social_media,2025-09-07
+001d46d536eb3f2,Heather,Morales,heather.morales78@hotmail.com,+17606482268,7526 Main Ct,Madison,TN,16828,141366,mass_affluent,web,2019-10-19
+001ab54f2228b0b,Pamela,Hernandez,pamela.hernandez952@yahoo.com,+14663910495,9816 Cedar Ct,Tampa,FL,46935,74941,mass_market,phone,2024-08-30
+00146b1765a5959,Samuel,Ward,samuel.ward48@yahoo.com,+17802968815,331 Lake Dr,Atlanta,GA,69468,1497100,ultra_hnw,phone,2018-07-23
+00192d94c03e7ae,Thomas,Parker,thomas.parker347@yahoo.com,+18328566133,4168 Cedar Ln,Columbus,OH,99688,3184314,ultra_hnw,branch,2022-09-10
+0015a93bd5e5e09,Alexander,Diaz,alexander.diaz658@aol.com,+15906075231,6566 Cedar Ave,Columbus,WI,83342,60863,mass_market,web,2020-08-19
+0018983164427c1,Shirley,Parker,shirley.parker67@outlook.com,+16463767969,5269 Park Ct,Springfield,IL,29826,53631,mass_market,partner_referral,2021-02-24
+001483506fbd514,Kimberly,Lee,kimberly.lee15@protonmail.com,+19373483929,2125 Cedar St,Cambridge,MA,36703,53364,mass_market,web,2022-12-14
+0010d290c0a9d62,Jerry,Kelly,jerry.kelly76@gmail.com,+15313579924,573 Oak Dr,Pittsburgh,PA,96447,506658,high_net_worth,partner_referral,2021-09-08
+001cebcfecb281d,Janet,Sanders,janet.sanders12@icloud.com,+14613986525,4033 Walnut St,Springfield,MD,12688,33639,mass_market,web,2021-08-16
+0017fe718f13fce,Jack,Flores,jack.flores73@aol.com,+16332513679,7022 Cedar Ln,Springfield,WI,34426,62087,mass_market,phone,2020-03-29
+00130b0cc58f318,Amy,Ortiz,amy.ortiz38@aol.com,+12482284002,838 Lake St,Springfield,IN,76932,38374,mass_market,branch,2019-09-01
+001321a1fbd0e0e,Robert,Anderson,robert.anderson80@protonmail.com,+14716726640,3166 Maple Ave,Boston,MA,20252,269275,affluent,mail,2022-09-01
+001c3d13fc7634e,Lisa,Wood,lisa.wood122@yahoo.com,+13381232799,3226 Oak Ct,Columbus,TN,12082,122281,mass_affluent,web,2024-12-08
+001e0d99171b9b2,Matthew,Lopez,matthew.lopez75@yahoo.com,+14065946450,9429 Walnut St,Grand Rapids,MI,53758,59180,mass_market,partner_referral,2019-09-17
+00162b736ad6f39,Stephen,Nguyen,stephen.nguyen71@gmail.com,+14747998405,7855 Oak Dr,San Antonio,TX,91618,33978,mass_market,mobile_app,2020-08-07
+0010e97e3c4f00e,Nicholas,Lewis,nicholas.lewis61@protonmail.com,+13654476383,4727 Oak Way,Madison,MD,73293,49227,mass_market,web,2019-06-22
+00119a6247aeb50,Michael,Williams,michael.williams163@aol.com,+14299159855,4324 Cedar Ct,Virginia Beach,VA,56562,52133,mass_market,social_media,2018-09-18
+0013a1f30033b7d,Ryan,Long,ryan.long21@hotmail.com,+14998407441,8388 Park Way,Miami,FL,23014,180948,affluent,mobile_app,2023-09-09
+001b59716505c37,Ashley,Stewart,ashley.stewart30@yahoo.com,+16397935859,6806 Park Ct,Jersey City,NJ,77653,107171,mass_affluent,mobile_app,2022-01-17
+0019223971c8f8d,Jerry,Perez,jerry.perez88@hotmail.com,+17666105693,5239 Cedar St,Phoenix,AZ,46671,33788,mass_market,mail,2024-06-11
+0019d0ab945ff7c,Katherine,Cruz,katherine.cruz28@gmail.com,+17236238726,8641 Cedar Ct,Virginia Beach,VA,93320,183031,affluent,branch,2024-01-11
+001d1bd6132ae89,Janet,Davis,janet.davis96@aol.com,+17799947098,9857 Maple Blvd,Virginia Beach,VA,49216,75683,mass_affluent,social_media,2023-01-13
+0018a9144fc19eb,Carol,Gutierrez,carol.gutierrez55@yahoo.com,+16874603484,7409 Oak Blvd,Springfield,MD,98712,171481,affluent,mail,2025-12-24
+00192df9bc5ffe9,Gary,Sanders,gary.sanders596@icloud.com,+12333631333,9259 Cedar St,Phoenix,AZ,88852,63632,mass_market,branch,2019-06-14
+00160fdb28983f7,Joshua,Nguyen,joshua.nguyen1@gmail.com,+17606849358,1206 Main Dr,Springfield,TN,73068,206513,affluent,mail,2018-07-19
+00171b164393693,Ryan,Ross,ryan.ross864@icloud.com,+19535653581,1550 Elm Way,Cambridge,MA,13251,45258,mass_market,social_media,2022-05-06
+00136f83bdde63d,Pamela,Long,pamela.long32@protonmail.com,+19228452933,1486 Lake Ln,Dallas,TX,51999,154973,affluent,branch,2025-05-20
+0014a7c2ea0b0d3,Kenneth,Carter,kenneth.carter533@hotmail.com,+13731988408,5429 Elm St,Charlotte,NC,17667,41971,mass_market,branch,2019-08-13
+0019d129759736f,Michael,Sanchez,michael.sanchez93@icloud.com,+12297836611,3929 Main Blvd,Atlanta,GA,82623,116724,mass_affluent,partner_referral,2021-01-08
+001412bfd3c4ef3,William,Brooks,william.brooks1@protonmail.com,+16755852800,2842 Main St,Springfield,IN,73201,295529,affluent,mobile_app,2020-10-01
+001c42d134c2466,Jennifer,Lee,jennifer.lee41@hotmail.com,+15505384902,7517 Pine Ave,Madison,MO,96805,66469,mass_market,mobile_app,2019-07-27
+0012ba2230f3c97,Jacob,Smith,jacob.smith87@gmail.com,+15617314548,9951 Cedar Dr,Los Angeles,CA,33224,85161,mass_affluent,social_media,2024-01-14
+001e1e46446797d,Robert,Ross,robert.ross91@hotmail.com,+18204507886,216 Maple Ct,Raleigh,NC,93681,62362,mass_market,social_media,2020-08-17
+0019003c3a1030c,Debra,Cox,debra.cox25@protonmail.com,+18941387847,8831 River Blvd,Springfield,MD,99218,67349,mass_market,phone,2020-11-29
+0017aad796ebf79,Edward,Scott,edward.scott1@icloud.com,+13996615431,1440 River Ct,Jacksonville,FL,13325,130058,mass_affluent,web,2018-07-12
+001bd767dc998e3,David,Watson,david.watson43@aol.com,+14422223240,9929 River Dr,Miami,FL,22539,137072,mass_affluent,mail,2020-10-09
+0015d3458b63516,David,Powell,david.powell49@icloud.com,+12987897247,3919 River Ct,Chicago,IL,96471,327369,high_net_worth,phone,2018-09-27
+001b0483f590615,Ryan,Gutierrez,ryan.gutierrez54@icloud.com,+19428459558,3146 Maple Ave,Newark,NJ,15776,42688,mass_market,mobile_app,2024-08-25
+001da12f2b1634d,Heather,Jackson,heather.jackson55@outlook.com,+14004361682,3397 Oak Blvd,Springfield,IL,34819,68432,mass_market,partner_referral,2023-10-22
+001bc21146bb1d7,Charles,Wilson,charles.wilson95@icloud.com,+14107716131,3118 Main Blvd,Boston,MA,11296,102936,mass_affluent,branch,2023-03-26
+001862b8f9d1753,Betty,Torres,betty.torres13@gmail.com,+18933302564,6308 Oak Blvd,Philadelphia,PA,37556,741912,high_net_worth,web,2020-01-02
+0018862b36983dc,Christopher,Taylor,christopher.taylor20@outlook.com,+14531893537,4688 Elm Ct,Columbus,OH,76619,81054,mass_affluent,phone,2025-02-18
+001d73230f011f4,Dennis,Rogers,dennis.rogers82@protonmail.com,+17971614121,3494 Maple Ave,Virginia Beach,VA,69255,139853,mass_affluent,phone,2023-11-23
+00106da4359b5ca,Stephen,Hernandez,stephen.hernandez56@icloud.com,+15769347387,5294 Pine Dr,Chicago,IL,13239,63571,mass_market,web,2023-03-21
+00110aef5110ac0,Samuel,Hernandez,samuel.hernandez25@hotmail.com,+18183312992,8998 Pine St,Charlotte,NC,49252,42887,mass_market,mobile_app,2021-09-29
+001cb1787d64838,Ronald,Robinson,ronald.robinson552@protonmail.com,+19148007639,3533 Park Dr,Atlanta,GA,83196,86255,mass_affluent,web,2023-03-05
+0013ee9f4ca8f74,Amanda,Lewis,amanda.lewis18@yahoo.com,+15387557976,6347 Maple Dr,Tucson,AZ,18350,78046,mass_affluent,web,2021-08-28
+00142de4271e18e,Stephen,Thompson,stephen.thompson8@outlook.com,+17301185339,2915 Cedar Ct,San Antonio,TX,63852,45272,mass_market,branch,2020-04-23
+0018819adb6ce95,Thomas,Clark,thomas.clark1@yahoo.com,+16562073239,6641 River Ct,Grand Rapids,MI,42353,270312,affluent,mail,2024-08-03
+0016a086773a26c,Brian,Hughes,brian.hughes903@aol.com,+12977602695,815 Maple Ct,Grand Rapids,MI,30700,131633,mass_affluent,partner_referral,2020-10-17
+001882f95ad3779,Jessica,Mitchell,jessica.mitchell4@gmail.com,+18548749462,6344 Cedar Way,New York,NY,62342,102180,mass_affluent,phone,2019-11-07
+00186e7e131f6b8,Gary,Reyes,gary.reyes783@gmail.com,+13815934929,2134 Lake Way,New York,NY,61229,96150,mass_affluent,partner_referral,2023-04-13
+00142464fe1932d,Gregory,Morgan,gregory.morgan7@protonmail.com,+15864384602,4191 Cedar Ave,Cleveland,OH,36212,133194,mass_affluent,phone,2022-05-19
+00134e1536da03a,Christine,Perez,christine.perez55@gmail.com,+14374586633,1834 Cedar Blvd,Philadelphia,PA,32756,99844,mass_affluent,partner_referral,2024-04-21
+001e98e954da049,Helen,Mitchell,helen.mitchell77@outlook.com,+18467519046,2277 Cedar Ave,Houston,TX,93277,432089,high_net_worth,partner_referral,2019-02-22
+0016a7e69862153,Laura,Carter,laura.carter97@yahoo.com,+18342331937,1081 Elm Blvd,Madison,IN,75369,230962,affluent,web,2020-08-10
+001256104bcab2f,Emily,Green,emily.green86@yahoo.com,+19034731991,6350 Lake Blvd,San Antonio,TX,34057,106752,mass_affluent,branch,2021-09-18
+001dc07c5045258,Thomas,Lopez,thomas.lopez78@yahoo.com,+15105787427,9544 Park Way,Philadelphia,PA,36398,40758,mass_market,social_media,2021-06-29
+001cb829cb9dad0,Nicholas,Ward,nicholas.ward33@icloud.com,+16746131265,7531 Pine Dr,Phoenix,AZ,83681,290823,affluent,branch,2022-10-17
+001abd42ca91a40,Janet,Castillo,janet.castillo16@icloud.com,+17793723988,3282 Walnut Blvd,Virginia Beach,VA,55688,115345,mass_affluent,phone,2022-04-23
+001233e6943fed8,Ashley,Morris,ashley.morris78@aol.com,+18783708302,302 Oak Ct,Austin,TX,22098,134699,mass_affluent,phone,2020-12-06
+0010628f4421a6f,Steven,Ruiz,steven.ruiz96@icloud.com,+19156169061,205 Elm Ct,Grand Rapids,MI,74451,120140,mass_affluent,branch,2019-03-24
+0018ce616222549,Melissa,White,melissa.white98@yahoo.com,+14657858398,7320 River St,Chicago,IL,93418,99331,mass_affluent,mobile_app,2024-05-11
+001b04248444853,Gregory,Ross,gregory.ross637@icloud.com,+19756654424,7136 Cedar Blvd,Miami,FL,99372,43832,mass_market,mobile_app,2019-02-01
+001f5be40b00429,Richard,Smith,richard.smith487@icloud.com,+18338972523,8536 Walnut Way,Cambridge,MA,34633,223260,affluent,partner_referral,2024-10-01
+00184a5ea951420,Carol,Gray,carol.gray38@aol.com,+13993401850,8620 River Ct,Boston,MA,76143,137406,mass_affluent,phone,2021-11-27
+0016bb517d44853,Kathleen,James,kathleen.james99@outlook.com,+14255322289,7903 Oak Way,Springfield,MO,27793,58501,mass_market,partner_referral,2019-03-09
+0017ff612259be4,David,Chavez,david.chavez298@outlook.com,+13185881775,1536 Oak St,Jersey City,NJ,54595,723859,high_net_worth,web,2025-05-02
+001a4db758469be,James,Flores,james.flores2@aol.com,+16716300362,2470 Pine Ct,Dallas,TX,38692,208233,affluent,phone,2025-08-14
+0016b240fd640b6,Frank,Thomas,frank.thomas90@hotmail.com,+12534003461,8087 Walnut Blvd,Raleigh,NC,96409,95014,mass_affluent,web,2018-08-29
+0015465afdd9e84,Ronald,Martinez,ronald.martinez595@hotmail.com,+13673307889,7339 Park Blvd,Madison,IN,28982,38578,mass_market,social_media,2019-02-03
+001fe37611f0df8,Timothy,Diaz,timothy.diaz32@gmail.com,+13215040883,6598 Park Blvd,Philadelphia,PA,88139,63779,mass_market,partner_referral,2019-04-26
+001d37ff89ac9e5,Timothy,Scott,timothy.scott36@hotmail.com,+19632586340,9813 Elm Dr,Cambridge,MA,73463,73829,mass_market,partner_referral,2025-03-12
+001af37262a5119,Nancy,Phillips,nancy.phillips85@gmail.com,+13854018851,187 Lake Dr,Sacramento,CA,51195,145645,mass_affluent,web,2018-09-19
+001820b39742427,Jessica,Cook,jessica.cook85@aol.com,+16553346378,9554 Park Way,Grand Rapids,MI,51017,3211190,ultra_hnw,mobile_app,2020-10-14
+001c35aec8b0a43,Joshua,Ramirez,joshua.ramirez49@hotmail.com,+13677711882,7572 Oak Blvd,Naperville,IL,98673,84746,mass_affluent,partner_referral,2024-12-23
+001de9bcb102e05,Matthew,Alvarez,matthew.alvarez69@gmail.com,+19007824657,1180 Cedar Way,Richmond,VA,21662,107440,mass_affluent,mobile_app,2022-04-02
+00154f793231428,Timothy,Wilson,timothy.wilson787@gmail.com,+12493864666,5310 Walnut Ave,Tampa,FL,55242,149993,mass_affluent,partner_referral,2023-12-07
+001c2d7e2288b91,Mary,Mendoza,mary.mendoza91@icloud.com,+13878364526,5899 Park Ln,Madison,IN,47594,71890,mass_market,phone,2018-08-05
+00141b22831a537,Michelle,Evans,michelle.evans71@icloud.com,+12108113264,8434 Elm Dr,Newark,NJ,75248,82525,mass_affluent,partner_referral,2019-11-08
+00128e5fe97d5d5,Carolyn,Diaz,carolyn.diaz10@outlook.com,+13369618195,5888 Main Dr,Madison,MO,74947,59402,mass_market,mobile_app,2024-10-23
+0016668e6935417,Kimberly,Ramirez,kimberly.ramirez79@icloud.com,+15366005493,5898 Oak St,Sacramento,CA,55838,60346,mass_market,web,2018-05-26
+001304b842e00f7,Edward,Thomas,edward.thomas69@protonmail.com,+14752823599,7285 Park Ave,Springfield,TN,28333,54530,mass_market,phone,2022-06-08
+001e2bf6bbf0714,Ronald,Turner,ronald.turner42@protonmail.com,+19827708806,8322 Walnut Ave,Newark,NJ,24382,57596,mass_market,social_media,2019-05-02
+0010da75bb5ddbd,Jason,Kim,jason.kim36@protonmail.com,+13175421311,4152 Walnut Ave,Sacramento,CA,72114,94987,mass_affluent,social_media,2020-10-11
+001b78b5082223f,Samantha,Martin,samantha.martin53@aol.com,+15134882711,3733 Cedar Dr,Atlanta,GA,72809,31157,mass_market,phone,2022-10-13
+0018755cf5bd915,Ashley,Green,ashley.green561@yahoo.com,+14589242417,6056 Cedar Blvd,Dallas,TX,24618,48698,mass_market,branch,2020-05-18
+00128f75b816f29,Heather,Ramos,heather.ramos25@hotmail.com,+16562654861,1326 Lake Ln,Madison,IN,54944,36970,mass_market,phone,2018-12-24
+0015977c99d272d,Carolyn,Allen,carolyn.allen38@yahoo.com,+18135599450,2212 Pine St,Columbus,MO,84209,574602,high_net_worth,partner_referral,2022-11-22
+0010adaf05cff01,Deborah,Bailey,deborah.bailey91@hotmail.com,+17375342524,5071 Maple Blvd,Tacoma,WA,45194,76161,mass_affluent,web,2024-05-31
+00170f9ff267988,Paul,Miller,paul.miller53@aol.com,+15016446477,1038 Main Ct,Atlanta,GA,56593,146994,mass_affluent,mobile_app,2021-08-22
+00185a0e5ebc4c6,Katherine,Allen,katherine.allen94@hotmail.com,+16447184753,2530 Park St,Madison,WI,75006,68119,mass_market,web,2020-04-15
+0017b22ca8eb3c6,Charles,Thompson,charles.thompson78@gmail.com,+15867442292,439 Oak Ct,Seattle,WA,11776,56378,mass_market,partner_referral,2025-03-27
+001504eb7864f95,Mary,Johnson,mary.johnson20@yahoo.com,+12575487177,9006 Oak St,Orlando,FL,15836,473935,high_net_worth,mobile_app,2024-04-24
+001814370fb2e99,Jason,Roberts,jason.roberts14@outlook.com,+15652279932,5567 Oak Blvd,Springfield,IL,21115,139463,mass_affluent,mail,2025-09-13
+001eaae120471d9,Debra,Hill,debra.hill41@yahoo.com,+15998494305,7938 Oak St,Columbus,WI,85739,35004,mass_market,partner_referral,2020-12-23
+0015c4eeceb4135,Amy,Diaz,amy.diaz69@aol.com,+17049933438,8885 Maple Dr,Madison,TN,20959,4919996,ultra_hnw,phone,2019-07-21
+001260b9ea2b3e9,James,Clark,james.clark71@icloud.com,+14484535586,3779 Main Way,San Diego,CA,28061,93264,mass_affluent,partner_referral,2021-12-01
+001c8cde9b01b61,Raymond,Howard,raymond.howard73@protonmail.com,+16263511838,3088 Park Way,Albany,NY,28364,214237,affluent,partner_referral,2022-02-05
+00143b9da0733bc,Andrew,Anderson,andrew.anderson88@icloud.com,+17675329435,9472 Lake Blvd,Chicago,IL,39794,736564,high_net_worth,web,2023-08-24
+00190680587e01d,Linda,Lewis,linda.lewis48@hotmail.com,+16344267037,4522 Oak St,Seattle,WA,20198,249737,affluent,social_media,2023-05-10
+0017de219b4c59b,Dennis,Flores,dennis.flores6@gmail.com,+15222563819,5156 Main Blvd,Columbus,OH,47015,80881,mass_affluent,mail,2024-05-24
+001024d63f4e95f,Edward,Patel,edward.patel88@icloud.com,+12802565160,3894 Maple Ct,Springfield,IN,99320,79903,mass_affluent,social_media,2023-05-08
+001ce9ccbe3ef96,Donna,Campbell,donna.campbell13@protonmail.com,+12153392800,5171 Lake Ct,Columbus,WI,21425,43685,mass_market,phone,2020-09-06
+001d64c5a2d5d57,Elizabeth,Thompson,elizabeth.thompson526@icloud.com,+18343163996,7322 Cedar Ln,Cambridge,MA,91871,3154385,ultra_hnw,mobile_app,2019-05-23
+0012eb920400529,Jack,Young,jack.young86@gmail.com,+15578816129,7775 Lake Ct,Springfield,MO,70929,56167,mass_market,web,2024-05-24
+001c22870e4d423,Kenneth,Baker,kenneth.baker82@yahoo.com,+15271525516,9948 Walnut St,Columbus,WI,57381,32508,mass_market,phone,2023-02-05
+001a5a9ee5c50db,William,Jackson,william.jackson12@icloud.com,+15505981239,2795 Maple Blvd,Rochester,NY,64932,103063,mass_affluent,mail,2022-09-16
+00130f44b6cd009,Mary,Bailey,mary.bailey19@icloud.com,+15242906007,6758 Pine Ln,Springfield,WI,10481,73520,mass_market,social_media,2021-08-19
+001db75c7a4efaf,Rebecca,Hughes,rebecca.hughes3@outlook.com,+15149423591,2143 Park Way,Springfield,MO,69768,76883,mass_affluent,mobile_app,2025-08-15
+0012efbc894d09a,Jason,Mitchell,jason.mitchell12@hotmail.com,+12167900127,1798 Park Way,Philadelphia,PA,91766,88005,mass_affluent,branch,2025-02-10
+00135d2bcc3b32d,Heather,Collins,heather.collins651@outlook.com,+14745437558,5136 Walnut Way,Columbus,MO,41661,57062,mass_market,phone,2023-03-16
+00184be5dfe2fa4,Donald,Bailey,donald.bailey67@yahoo.com,+16474875025,1731 Elm Ln,Seattle,WA,25515,126172,mass_affluent,social_media,2019-06-12
+001222c987b8030,Barbara,Brown,barbara.brown24@yahoo.com,+18684720435,4964 Maple Ln,Phoenix,AZ,42145,78314,mass_affluent,social_media,2024-05-31
+001d0763dbc7878,Robert,Brooks,robert.brooks64@protonmail.com,+15704489198,6502 Oak Dr,Springfield,MD,12877,48511,mass_market,phone,2019-08-04
+001c79fa85ca59f,Charles,White,charles.white21@aol.com,+19595269818,2092 Maple Ln,Detroit,MI,13873,621915,high_net_worth,mail,2019-04-26
+0012973443ff039,Sarah,Lewis,sarah.lewis56@aol.com,+16094238912,4197 Elm Ave,Buffalo,NY,46842,66142,mass_market,branch,2025-12-10
+00141592f4adbae,Laura,Diaz,laura.diaz58@yahoo.com,+12349579143,4246 River Dr,Madison,WI,48466,43088,mass_market,partner_referral,2022-10-25
+001638839993d7d,Nancy,Rivera,nancy.rivera28@icloud.com,+17816394902,3911 Lake St,Atlanta,GA,60540,30631,mass_market,web,2019-05-16
+001f9550930b52b,Debra,Long,debra.long58@yahoo.com,+18156484043,9785 Walnut Ave,Tucson,AZ,85551,260424,affluent,branch,2023-08-05
+001c1ae1f1bf1b4,John,Morgan,john.morgan524@gmail.com,+17696254198,8190 River St,Springfield,IN,61554,49726,mass_market,phone,2022-08-28
+00104fbcf2800d2,Mark,Miller,mark.miller69@gmail.com,+19041880652,4354 Main St,Los Angeles,CA,16291,41153,mass_market,branch,2020-07-16
+0012a65da67ea77,Justin,Collins,justin.collins74@icloud.com,+18779222577,4696 Cedar Ct,Tampa,FL,73269,59280,mass_market,mobile_app,2025-02-21
+0017617269ab3f9,Frank,Martinez,frank.martinez76@protonmail.com,+17409622269,5234 Pine Way,Albany,NY,69509,42315,mass_market,social_media,2022-04-27
+001dd60070ae6d7,Angela,Sanchez,angela.sanchez96@gmail.com,+14461278299,7650 Elm Blvd,Seattle,WA,13746,72492,mass_market,mail,2024-06-22
+001a8ecf6e58d6f,Ronald,Cook,ronald.cook52@yahoo.com,+18085629265,8776 River Dr,Tucson,AZ,77976,55068,mass_market,partner_referral,2025-04-10
+001d5426218f51d,Paul,Walker,paul.walker22@protonmail.com,+14086832315,4818 River Blvd,New York,NY,10407,36639,mass_market,mail,2022-05-29
+001762ed830f02c,Lisa,White,lisa.white87@protonmail.com,+12096907989,7863 River St,Jersey City,NJ,74003,31364,mass_market,phone,2021-09-30
+001a3f866ecdb2f,Lisa,Long,lisa.long33@outlook.com,+16691227516,5877 Pine Way,Chicago,IL,53743,52988,mass_market,social_media,2023-07-03
+001cece4f4ec9f9,Janet,Brooks,janet.brooks96@gmail.com,+13987338067,1868 Pine Way,Los Angeles,CA,98971,2480632,ultra_hnw,phone,2023-08-02
+0017cc35866404a,Rebecca,Scott,rebecca.scott2@icloud.com,+19013468450,7740 Elm Ln,Detroit,MI,47982,59820,mass_market,partner_referral,2022-11-11
+001ff34b76a5460,Andrew,Ramos,andrew.ramos86@protonmail.com,+17743601089,1509 Pine Ave,Miami,FL,35785,93051,mass_affluent,branch,2018-07-24
+0016698d3a3bab7,Jason,Phillips,jason.phillips54@aol.com,+14046050986,5097 Oak Blvd,Orlando,FL,84273,431082,high_net_worth,phone,2025-08-12
+001ea90c1ec77ea,Frank,Green,frank.green998@icloud.com,+12903358634,5054 Maple Ln,Madison,IN,77135,157254,affluent,mail,2022-09-19
+001c41afb62489a,Cynthia,Ross,cynthia.ross89@outlook.com,+12623037470,9678 Lake Way,Columbus,IN,16949,226172,affluent,mail,2021-09-27
+00194148f44670d,Joshua,Watson,joshua.watson32@yahoo.com,+13068948078,503 Lake Dr,Detroit,MI,61211,181728,affluent,branch,2018-10-03
+0019d063168f90d,Brandon,Mendoza,brandon.mendoza61@icloud.com,+14965856140,1738 River Dr,Boston,MA,58147,97383,mass_affluent,phone,2025-05-16
+001ed7bea6d52a1,Jessica,Reed,jessica.reed36@gmail.com,+13627002009,8302 Lake Ave,Seattle,WA,55722,93258,mass_affluent,mail,2018-06-24
+001156d812df2f0,Ryan,Alvarez,ryan.alvarez745@hotmail.com,+17199815318,4347 Elm Way,Springfield,IL,52477,273667,affluent,mail,2025-03-27
+001ec795ed84f3d,Sandra,Gonzalez,sandra.gonzalez9@gmail.com,+18265202421,1975 Main Ct,Jacksonville,FL,19552,696264,high_net_worth,mobile_app,2020-08-27
+00121dc8cb96a9e,Sarah,Brooks,sarah.brooks12@aol.com,+12242614070,3434 Main Ct,Madison,MD,28423,43185,mass_market,mobile_app,2020-07-12
+001d294a1f97ef2,Samuel,Ortiz,samuel.ortiz571@icloud.com,+18407310216,1261 River St,Springfield,TN,26671,186142,affluent,mobile_app,2021-12-13
+001550a20aae29a,Steven,Roberts,steven.roberts40@icloud.com,+18331950399,9044 Oak Ln,Richmond,VA,71732,620469,high_net_worth,mobile_app,2023-12-29
+001adf911a10b5c,Sarah,Clark,sarah.clark54@aol.com,+19572352134,9134 Park Ave,Madison,MO,45456,34778,mass_market,branch,2023-07-15
+0015746bfd3b4db,Robert,Davis,robert.davis71@yahoo.com,+13188347629,2033 River Blvd,Los Angeles,CA,56109,124444,mass_affluent,phone,2018-08-02
+001a4ea0449dd59,Larry,Garcia,larry.garcia38@yahoo.com,+18207674289,7943 Oak Way,Los Angeles,CA,20066,232346,affluent,mail,2020-01-10
+001c38e6920d97c,Heather,Peterson,heather.peterson36@gmail.com,+14083300680,8635 Maple Blvd,Detroit,MI,82478,120434,mass_affluent,mobile_app,2019-03-04
+001c0863d73639c,Joseph,Williams,joseph.williams50@icloud.com,+12454765620,3470 Walnut Ave,Springfield,TN,96497,48290,mass_market,branch,2018-09-02
+001768f525605f0,Kimberly,Long,kimberly.long69@icloud.com,+16349705913,4361 Elm Dr,Springfield,MD,71254,295042,affluent,web,2022-10-18
+001271207f50ed3,Donna,Baker,donna.baker34@protonmail.com,+13838445874,7681 Main Dr,Columbus,MD,11162,69845,mass_market,mobile_app,2025-04-28
+00155a21ab8393e,Brandon,Peterson,brandon.peterson30@gmail.com,+18701645952,3118 Lake Ct,Newark,NJ,67712,104808,mass_affluent,branch,2023-07-21
+001695aaa34caf1,Dorothy,Cooper,dorothy.cooper889@icloud.com,+12738155068,4738 Elm St,Dallas,TX,52800,35075,mass_market,mobile_app,2023-09-25
+00158eaabb1fde5,Patricia,Lee,patricia.lee28@icloud.com,+17961546929,2558 Walnut Ct,Richmond,VA,95093,69913,mass_market,branch,2019-03-12
+001c0d39eccbec2,Michael,Cox,michael.cox30@icloud.com,+15222936374,4049 Park Way,Madison,TN,63729,106985,mass_affluent,mobile_app,2024-06-14
+00194e13f959ad7,Sandra,Reed,sandra.reed54@aol.com,+13519291304,3345 Elm Dr,Naperville,IL,12033,52385,mass_market,phone,2021-03-21
+0013f0493a6ab4d,Patricia,Ruiz,patricia.ruiz16@outlook.com,+15442808110,841 Oak Way,Philadelphia,PA,56525,38352,mass_market,phone,2021-12-22
+001a3b806701ee6,Patrick,Foster,patrick.foster99@gmail.com,+14375988680,8182 Cedar St,Madison,MD,83941,51000,mass_market,mail,2022-04-03
+001c326ce349673,Christopher,Garcia,christopher.garcia36@icloud.com,+16494751945,2874 Pine Blvd,Cleveland,OH,89451,112328,mass_affluent,web,2019-02-12
+0016e57ac8786f8,Anna,Morgan,anna.morgan59@outlook.com,+13123012269,7381 Walnut Dr,Columbus,OH,44479,130902,mass_affluent,web,2021-02-28
+0017dc58a4797a2,Janet,Martinez,janet.martinez91@protonmail.com,+17336327222,3219 Lake Way,Newark,NJ,92061,116262,mass_affluent,partner_referral,2025-07-15
+0010877a0bb7faf,Karen,Morales,karen.morales91@yahoo.com,+12398015549,4410 River Dr,Pittsburgh,PA,92709,30209,mass_market,partner_referral,2020-05-27
+00198d07fc017e3,Christine,Morales,christine.morales42@yahoo.com,+18788128056,1997 Elm Dr,Madison,TN,51799,44347,mass_market,mobile_app,2019-01-31
+00113cddd421b53,Scott,Evans,scott.evans57@icloud.com,+16085373809,995 Pine Dr,Atlanta,GA,38697,51180,mass_market,social_media,2024-04-22
+001f95ec09acf37,Joseph,Ward,joseph.ward84@gmail.com,+17314530989,6032 Lake Ave,Columbus,WI,30577,35914,mass_market,phone,2022-04-03
+0012a88abf39480,Janet,Young,janet.young39@gmail.com,+14355149152,653 Pine Way,San Francisco,CA,26206,161084,affluent,phone,2023-08-17
+0018cbd54f2c61d,Nicholas,Castillo,nicholas.castillo55@aol.com,+19611393122,5050 Pine Dr,Phoenix,AZ,36563,55632,mass_market,partner_referral,2024-08-06
+00117b49d5d1068,Kathleen,Torres,kathleen.torres51@protonmail.com,+14378500846,6159 Park Ln,Madison,MO,24280,65820,mass_market,mobile_app,2022-03-07
+0015e403edd0393,Ashley,Hernandez,ashley.hernandez20@gmail.com,+15297820513,191 Pine Way,Springfield,IL,37423,108033,mass_affluent,social_media,2018-08-30
+00101af47af18c5,Angela,Bailey,angela.bailey15@gmail.com,+16349307817,2897 Lake Dr,New York,NY,28332,90922,mass_affluent,mail,2019-10-26
+001af4d824bc645,Paul,Gutierrez,paul.gutierrez61@icloud.com,+14156539453,2317 Elm Ln,Jersey City,NJ,72111,123660,mass_affluent,phone,2025-09-06
+001ed204c53d7f8,Frank,Gonzalez,frank.gonzalez25@outlook.com,+14918149873,9675 Pine Blvd,Columbus,MO,91854,52967,mass_market,mobile_app,2018-10-01
+00175017b25dac0,Daniel,King,daniel.king1@protonmail.com,+14374631318,1596 River Ave,Springfield,MD,28786,67726,mass_market,social_media,2021-09-14
+0019b4267e8d9ab,Christine,Stewart,christine.stewart68@gmail.com,+18194588635,2821 Pine Way,Jersey City,NJ,28728,137190,mass_affluent,mail,2022-03-26
+0013da3638fbb4d,Brian,Thompson,brian.thompson23@hotmail.com,+12104285583,7343 Cedar Ln,San Diego,CA,35544,500517,high_net_worth,mobile_app,2020-05-25
+0013cded55dd8ff,Emily,Chavez,emily.chavez78@hotmail.com,+16659225877,2947 Park Way,Columbus,TN,94875,33750,mass_market,social_media,2025-01-05
+00157b71c0e19d6,William,Turner,william.turner919@yahoo.com,+18007144765,8559 Main Way,Miami,FL,62844,100451,mass_affluent,partner_referral,2024-02-07
+001407354a5f542,Jeffrey,Garcia,jeffrey.garcia60@aol.com,+19132444438,9376 Park St,Charlotte,NC,25238,148473,mass_affluent,web,2021-06-28
+001ccfd94bb9ed0,Margaret,Brooks,margaret.brooks49@hotmail.com,+14933986412,4670 Elm Ln,Virginia Beach,VA,51358,72094,mass_market,social_media,2025-08-20
+0014052062211ce,Barbara,Morales,barbara.morales90@icloud.com,+15555843390,3498 Cedar Way,Virginia Beach,VA,76029,68353,mass_market,partner_referral,2018-05-31
+001aa1b627d261c,Joseph,Gutierrez,joseph.gutierrez81@outlook.com,+12083663391,7004 Park Blvd,Pittsburgh,PA,54128,68560,mass_market,branch,2025-05-20
+001c0037df05563,Ryan,Ramos,ryan.ramos39@gmail.com,+14399505390,1867 Walnut Dr,Madison,MD,45305,119286,mass_affluent,phone,2022-03-09
+0019f0a9c7fbbb4,Betty,Reed,betty.reed59@gmail.com,+18743474488,3383 Elm Blvd,Chicago,IL,50308,120364,mass_affluent,web,2021-06-20
+001005f5975f186,James,Morris,james.morris983@gmail.com,+15963155912,5315 Elm Dr,Pittsburgh,PA,52875,73806,mass_market,social_media,2023-04-19
+001cec73b821117,Emma,Brown,emma.brown18@icloud.com,+13921742356,3560 Pine Dr,Atlanta,GA,22170,170255,affluent,partner_referral,2018-01-07
+001980c34da0f7d,Charles,Gomez,charles.gomez74@aol.com,+15938628467,289 Park Way,Springfield,IN,97843,76602,mass_affluent,social_media,2025-05-10
+0015e145eceaff2,Nicholas,Mitchell,nicholas.mitchell20@gmail.com,+15455325779,3337 Lake Ct,Madison,TN,90546,57791,mass_market,phone,2020-01-03
+001c3cf05f76ae5,Debra,Mitchell,debra.mitchell42@outlook.com,+18511597521,9861 Oak Blvd,Raleigh,NC,14798,49217,mass_market,phone,2020-01-03
+001303e4efa4024,Brian,Collins,brian.collins78@hotmail.com,+18532696557,6357 Lake Way,Springfield,WI,20323,320073,high_net_worth,partner_referral,2018-06-16
+00174a792d66a26,Sharon,Anderson,sharon.anderson36@hotmail.com,+19054115755,4635 Lake Way,Cleveland,OH,15995,4415365,ultra_hnw,web,2025-10-14
+001abe01e37ef4d,Emily,Wright,emily.wright82@aol.com,+15367526999,7892 Lake St,Cambridge,MA,54951,34176,mass_market,mobile_app,2020-06-24
+001524036cfaa97,Gregory,Roberts,gregory.roberts398@outlook.com,+19686290497,7497 Park St,Raleigh,NC,30434,52629,mass_market,web,2024-04-18
+0014311f39136ed,Catherine,Morales,catherine.morales23@protonmail.com,+13627729610,9112 Walnut Blvd,Savannah,GA,38541,358003,high_net_worth,mail,2019-02-02
+001a947d9c02349,Mark,Phillips,mark.phillips98@icloud.com,+18713890220,1710 Walnut Ln,Columbus,TN,95603,48901,mass_market,phone,2022-06-27
+0018c525f1a7fa9,Scott,Kelly,scott.kelly71@aol.com,+13973707494,7600 Cedar Way,Phoenix,AZ,41367,35961,mass_market,partner_referral,2025-09-04
+001b603551170eb,Ashley,Mendoza,ashley.mendoza93@gmail.com,+12071542284,6757 Lake Dr,Columbus,WI,60504,4627317,ultra_hnw,phone,2025-03-12
+0018c9cf82248ce,Linda,Nguyen,linda.nguyen98@protonmail.com,+17932875419,2868 Cedar Dr,Seattle,WA,96053,38130,mass_market,web,2022-10-22
+001d886a323a703,Dennis,Young,dennis.young4@yahoo.com,+15797085502,4871 Pine Way,Raleigh,NC,30749,48041,mass_market,mobile_app,2024-05-16
+00169e89d2ec8cd,Steven,Brooks,steven.brooks80@yahoo.com,+15523615179,9719 Lake Blvd,Atlanta,GA,78594,512779,high_net_worth,social_media,2020-11-28
+0010391a36e3e29,Mary,Bennett,mary.bennett73@hotmail.com,+12129793240,3841 Maple Blvd,Rochester,NY,97063,37837,mass_market,partner_referral,2024-10-28
+0019fd73af809ea,Larry,Gutierrez,larry.gutierrez711@outlook.com,+12934187908,1143 Elm Ln,Atlanta,GA,49683,59888,mass_market,web,2020-07-24
+0014a0f3f425a4c,Kenneth,Brooks,kenneth.brooks754@icloud.com,+13148426292,3291 River Ct,Buffalo,NY,93221,103179,mass_affluent,phone,2019-02-14
+0018184ca00a9a0,Nicholas,Morris,nicholas.morris15@protonmail.com,+13869180242,206 Cedar Ln,Columbus,IN,71670,4441354,ultra_hnw,web,2021-10-29
+0018af2044827de,Nancy,Harris,nancy.harris42@yahoo.com,+13967647800,2914 Elm Ln,Tampa,FL,96847,36744,mass_market,mail,2023-04-17
+00142565169db36,Joshua,Mitchell,joshua.mitchell14@protonmail.com,+16131927904,6797 Cedar Way,Springfield,IL,28340,50186,mass_market,social_media,2023-01-17
+001bd0cad34d076,Carol,Diaz,carol.diaz42@hotmail.com,+16918883139,853 Walnut Way,Tacoma,WA,73837,89003,mass_affluent,mail,2022-12-08
+001b62bb78f5830,Andrew,Anderson,andrew.anderson579@yahoo.com,+15355374141,9220 Lake Ct,Springfield,TN,48196,594564,high_net_worth,web,2019-09-14
+001011aaf338cd9,Catherine,Ramirez,catherine.ramirez83@icloud.com,+16377648944,8068 Main Ct,Pittsburgh,PA,79258,108470,mass_affluent,mail,2025-08-07
+00126b66f2280ba,Pamela,Nelson,pamela.nelson97@gmail.com,+19858230086,4636 Park Dr,New York,NY,29949,86498,mass_affluent,branch,2019-10-11
+0016038d552cb3d,Donna,Smith,donna.smith995@protonmail.com,+17886949960,9551 Elm Ave,Columbus,WI,29435,44607,mass_market,web,2020-11-26
+00115fb597c9f9b,David,Adams,david.adams57@gmail.com,+15841426542,7373 Maple Dr,Newark,NJ,16450,103473,mass_affluent,phone,2021-01-15
+00143f1b8bb16ee,Justin,Castillo,justin.castillo62@outlook.com,+17202878919,7586 Main St,Springfield,IN,59811,57205,mass_market,phone,2021-07-21
+001f4414504d479,Joshua,Robinson,joshua.robinson17@aol.com,+13593352507,7797 Main St,Albany,NY,88145,596002,high_net_worth,social_media,2018-07-05
+001f70f118b8a08,Karen,Patel,karen.patel34@aol.com,+15281477784,523 Cedar St,Pittsburgh,PA,71669,627843,high_net_worth,social_media,2023-07-31
+001d310a9ad5b99,Mark,Lopez,mark.lopez33@yahoo.com,+15307133460,1679 Park Dr,Phoenix,AZ,84873,69535,mass_market,web,2019-07-05
+001db183e657f3b,Andrew,Ward,andrew.ward98@yahoo.com,+15358080336,6240 Elm Ln,Tampa,FL,14485,60287,mass_market,social_media,2021-09-08
+001465739c4b3b9,Donald,Lee,donald.lee80@outlook.com,+17588379676,2030 Pine Way,Tacoma,WA,77435,67827,mass_market,mobile_app,2025-01-19
+001d93f6295b82b,Richard,Bennett,richard.bennett16@aol.com,+19295961248,2169 Cedar Blvd,Jersey City,NJ,69318,38272,mass_market,branch,2024-02-04
+001bebe0bcc9e22,Heather,Williams,heather.williams89@aol.com,+13707282599,2700 Oak Way,Cleveland,OH,31710,144881,mass_affluent,social_media,2023-11-21
+001c9218d5e56f2,Betty,Scott,betty.scott33@hotmail.com,+17696227870,3520 River Ln,San Antonio,TX,18757,51097,mass_market,phone,2023-04-01
+00190bafc58527e,Rebecca,Gomez,rebecca.gomez19@hotmail.com,+14826494025,276 Oak Ln,Springfield,MD,50784,56308,mass_market,social_media,2019-07-30
+001c364fde8509e,Brandon,Collins,brandon.collins55@aol.com,+13729175606,4869 Maple Ln,Chicago,IL,23506,359159,high_net_worth,partner_referral,2021-01-19
+00157cd4b324037,Linda,Brooks,linda.brooks13@hotmail.com,+16975072572,9697 Park Ave,Orlando,FL,87474,243496,affluent,mobile_app,2021-09-08
+00156350cc1ceea,Timothy,Garcia,timothy.garcia923@hotmail.com,+12406826801,7312 Park Ln,Springfield,WI,78519,122277,mass_affluent,phone,2019-04-27
+001195fa7f6c291,Benjamin,Nelson,benjamin.nelson58@protonmail.com,+12486444418,7607 Pine Ct,Orlando,FL,31049,430390,high_net_worth,social_media,2022-01-08
+001734b584f9d88,Barbara,Nelson,barbara.nelson97@icloud.com,+14075440600,8053 Cedar Blvd,Richmond,VA,67379,56611,mass_market,social_media,2025-03-04
+00160764d316f43,Rachel,Chavez,rachel.chavez19@hotmail.com,+15489939366,5896 Walnut Ave,Columbus,MO,60494,256073,affluent,partner_referral,2020-03-24
+001f30f90241196,Jennifer,Young,jennifer.young19@gmail.com,+15035088275,440 River Dr,Springfield,MO,67534,107158,mass_affluent,mail,2025-10-18
+001beb99a8e60fd,Catherine,King,catherine.king698@aol.com,+13312621038,8414 Park Ln,Virginia Beach,VA,51089,85097,mass_affluent,social_media,2024-01-23
+001389873b8e9ce,Ryan,Richardson,ryan.richardson91@yahoo.com,+12656946051,1171 Pine Ln,Cambridge,MA,43031,148268,mass_affluent,partner_referral,2024-04-12
+0010fcddb843347,Laura,Flores,laura.flores92@protonmail.com,+15663007956,1263 River St,Madison,MO,79438,145728,mass_affluent,web,2022-07-26
+00140ed47bdfec0,Amy,Sanders,amy.sanders40@outlook.com,+13818220257,4228 Park St,Orlando,FL,34191,61090,mass_market,web,2022-04-11
+001629a3fc25bc0,Steven,Williams,steven.williams50@outlook.com,+12287288704,1236 Elm Ave,Springfield,WI,93424,3491897,ultra_hnw,web,2019-11-22
+001e6101b0c848f,Jeffrey,Price,jeffrey.price88@yahoo.com,+18049698799,2842 Oak Dr,Philadelphia,PA,35317,226396,affluent,mail,2024-01-11
+001319ac01d951c,Stephen,Rodriguez,stephen.rodriguez67@gmail.com,+18796377987,8739 River Ln,Newark,NJ,79720,32725,mass_market,social_media,2022-07-14
+001db3648cf5f82,Jason,Phillips,jason.phillips99@hotmail.com,+19151924685,8743 Main Ave,Tucson,AZ,21689,61726,mass_market,mail,2024-04-17
+0014c7aa86408aa,Michael,Hill,michael.hill28@gmail.com,+16684115619,3730 Cedar St,Seattle,WA,36687,64339,mass_market,mail,2023-09-14
+001b4149cca4eff,James,Walker,james.walker55@hotmail.com,+17846196562,3456 Pine Dr,Newark,NJ,11340,2915815,ultra_hnw,phone,2018-07-03
+001cdeae0ff0f45,Frank,Gomez,frank.gomez22@hotmail.com,+14627680763,4766 Lake Blvd,San Antonio,TX,47316,40415,mass_market,mobile_app,2019-04-18
+00109961d147118,Betty,Taylor,betty.taylor79@outlook.com,+16483395093,7342 River Ct,Springfield,IN,15380,85958,mass_affluent,mail,2022-05-09
+001216394d454fc,Amanda,Allen,amanda.allen24@hotmail.com,+13996635276,7290 Main Ct,Pittsburgh,PA,67741,113247,mass_affluent,web,2022-04-06
+001e0c9633d6427,Edward,Gutierrez,edward.gutierrez1@aol.com,+12597501628,9388 Oak Ct,Springfield,MO,39428,88604,mass_affluent,branch,2018-06-07
+001d61c05eca19a,Andrew,Mendoza,andrew.mendoza59@aol.com,+15684755409,2465 Pine Way,Columbus,WI,32852,120239,mass_affluent,phone,2024-11-14
+0015310c147af88,Jennifer,Collins,jennifer.collins57@icloud.com,+16747099529,5634 Cedar Way,Phoenix,AZ,62282,4544266,ultra_hnw,mail,2020-05-02
+001f594250aac46,Helen,Campbell,helen.campbell7@yahoo.com,+14226665383,9138 Elm Way,Cambridge,MA,60369,37120,mass_market,phone,2023-04-11
+0019410fb1ca51d,Catherine,Mendoza,catherine.mendoza98@icloud.com,+15239901791,678 Oak Ct,Springfield,MD,18566,136417,mass_affluent,branch,2022-08-12
+001d81753acf612,Betty,Myers,betty.myers38@outlook.com,+13033681207,2590 Elm Dr,Chicago,IL,25524,59269,mass_market,mail,2024-07-17
+001db02781c252e,Joseph,James,joseph.james578@aol.com,+17854050662,7429 Main Dr,Springfield,IL,98049,61252,mass_market,mobile_app,2022-04-03
+00188f1fa849604,Karen,Anderson,karen.anderson33@yahoo.com,+17255701744,8626 Main Dr,Cleveland,OH,51755,62423,mass_market,branch,2024-10-05
+00123c45e8bac3c,Maria,James,maria.james494@icloud.com,+12365534607,6246 Cedar Blvd,Boston,MA,77185,31259,mass_market,social_media,2024-06-07
+00117066caa3985,Gary,Torres,gary.torres32@gmail.com,+13817264416,1164 Elm Ln,Charlotte,NC,41056,722694,high_net_worth,social_media,2023-09-16
+001f10b8a997381,Karen,Howard,karen.howard92@gmail.com,+12038264020,3918 Maple St,Cambridge,MA,20408,171274,affluent,partner_referral,2025-11-24
+0019655822409ac,Andrew,Sanders,andrew.sanders90@gmail.com,+19192271373,3183 Elm Ct,Springfield,MD,52127,93860,mass_affluent,web,2020-03-20
+0017e2fd9e3ac6c,Jason,Allen,jason.allen45@hotmail.com,+12618215793,1409 Park St,Richmond,VA,98408,83474,mass_affluent,mail,2021-02-26
+001fcb079e90536,Laura,Rivera,laura.rivera53@icloud.com,+16726441988,6706 Park Ct,Columbus,TN,70868,97354,mass_affluent,web,2020-07-23
+001dd080cecbfa6,Karen,Phillips,karen.phillips61@yahoo.com,+14776659210,3340 Main Dr,Richmond,VA,61410,103441,mass_affluent,social_media,2024-08-25
+0010679a822e0e9,Sharon,Lee,sharon.lee284@icloud.com,+17021217560,5146 Elm Blvd,Madison,TN,92635,61241,mass_market,mail,2025-12-01
+001a47cc8918f64,Thomas,Mitchell,thomas.mitchell36@aol.com,+15486554277,3284 Elm Blvd,Columbus,MD,92926,51377,mass_market,web,2020-05-07
+00191ea47d4cdb8,Kenneth,Rogers,kenneth.rogers25@protonmail.com,+19885634040,2444 Cedar Ct,Jacksonville,FL,17736,167544,affluent,web,2023-07-04
+0013fe4da3bbad5,Kenneth,Morales,kenneth.morales37@yahoo.com,+15858096616,278 Pine Blvd,Newark,NJ,36770,287232,affluent,branch,2021-04-25
+0018c5a95157fda,Laura,Watson,laura.watson76@yahoo.com,+15301284478,2130 Main Ct,Seattle,WA,52799,100923,mass_affluent,mobile_app,2023-02-11
+0011ad867246912,Ronald,Thompson,ronald.thompson18@yahoo.com,+13049770802,2776 Maple St,Newark,NJ,57227,92284,mass_affluent,mobile_app,2023-09-27
+001e440c91d17f4,Samuel,Gomez,samuel.gomez74@hotmail.com,+19144783595,7942 Main St,Naperville,IL,38704,212721,affluent,web,2019-04-18
+001c77fcfbf6ce7,Robert,Rogers,robert.rogers1@outlook.com,+19182352703,9628 Cedar Ln,Grand Rapids,MI,31519,43115,mass_market,web,2018-06-14
+00176ac5fb37a38,Deborah,Lee,deborah.lee78@hotmail.com,+18879586664,6746 Maple Ave,Cleveland,OH,24770,72628,mass_market,social_media,2019-05-04
+00192f2d1cad4ba,Emma,Hill,emma.hill24@protonmail.com,+15414462023,8285 Walnut Way,Virginia Beach,VA,52907,63495,mass_market,phone,2020-06-07
+0016e5cfde31294,Elizabeth,Ward,elizabeth.ward13@gmail.com,+15764612272,3225 Walnut Way,Miami,FL,58866,682073,high_net_worth,phone,2018-01-01
+00185fd9a8bf01e,Anthony,Thomas,anthony.thomas90@aol.com,+16912061726,2611 Maple St,Sacramento,CA,62106,67996,mass_market,branch,2023-02-08
+0015acbb355e7a0,Raymond,Rodriguez,raymond.rodriguez1@hotmail.com,+12458303868,9257 Park Ct,Raleigh,NC,40345,211556,affluent,partner_referral,2025-07-12
+001f8c4093a43fb,Melissa,James,melissa.james19@protonmail.com,+18889296512,8984 Walnut Blvd,Richmond,VA,66585,56331,mass_market,mobile_app,2024-07-04
+001a04f3b597d17,Lisa,Garcia,lisa.garcia15@aol.com,+17571704281,8612 Oak Ln,Newark,NJ,10529,101976,mass_affluent,mail,2024-06-07
+001caff49cc3353,Melissa,Peterson,melissa.peterson92@gmail.com,+17162808598,8213 Elm St,Tacoma,WA,50180,71973,mass_market,phone,2020-07-13
+001097190478d9f,Jessica,Clark,jessica.clark449@icloud.com,+15834497183,5077 Walnut Ln,Philadelphia,PA,87291,73357,mass_market,partner_referral,2022-01-04
+001a2e2b313d1bf,Steven,Hughes,steven.hughes98@gmail.com,+16865230482,9008 Oak St,Columbus,TN,42163,249606,affluent,partner_referral,2025-09-06
+001ac9e08476f2e,Carol,Flores,carol.flores9@aol.com,+13858770870,4601 River Dr,Madison,MO,80210,565444,high_net_worth,branch,2018-02-12
+001a64225902a00,Jennifer,Nguyen,jennifer.nguyen99@icloud.com,+12446071360,3092 Maple Blvd,Columbus,WI,99526,107642,mass_affluent,phone,2023-05-29
+00171a711ccaba2,Jack,Cox,jack.cox61@gmail.com,+14858319750,9230 Walnut St,Springfield,MD,18542,123272,mass_affluent,partner_referral,2018-03-26
+00187306dd3d502,Pamela,White,pamela.white303@yahoo.com,+13506038921,2282 Walnut St,Cleveland,OH,58740,99315,mass_affluent,social_media,2023-05-12
+001a797cb145f9a,Kenneth,Young,kenneth.young19@hotmail.com,+13309554164,2482 Oak Dr,Springfield,TN,77290,41299,mass_market,branch,2019-02-10
+0010386dd6e31e5,Edward,Davis,edward.davis96@yahoo.com,+16909548784,6760 Elm Ave,Phoenix,AZ,88509,617947,high_net_worth,phone,2025-07-14
+00115825fe4777e,Jerry,Chavez,jerry.chavez66@icloud.com,+15953302963,7789 Cedar St,Austin,TX,74182,65080,mass_market,mail,2021-05-28
+0011d66a7895700,Scott,Rogers,scott.rogers36@outlook.com,+18128110991,3185 River Ct,Savannah,GA,28255,571409,high_net_worth,partner_referral,2021-11-28
+001978580d4edfb,Eric,Thompson,eric.thompson62@hotmail.com,+14778702071,8904 Cedar Ave,Orlando,FL,43387,140136,mass_affluent,mobile_app,2020-01-20
+001852118066c72,Amy,Collins,amy.collins61@icloud.com,+15966253650,2056 Elm Ave,Madison,MO,26110,278335,affluent,social_media,2020-12-24
+0010fd4945b0f0b,Richard,Myers,richard.myers30@yahoo.com,+18335475083,9154 Cedar Ct,Phoenix,AZ,40980,52125,mass_market,mail,2019-04-02
+001aacc98dde435,Charles,Lopez,charles.lopez798@yahoo.com,+13774696718,4678 Oak St,Madison,MD,41296,128267,mass_affluent,phone,2019-01-27
+001575694ab57d7,Edward,Alvarez,edward.alvarez42@gmail.com,+17119515432,6455 Park Ln,Cambridge,MA,36931,47807,mass_market,partner_referral,2024-01-27
+00195c8e58ce1fb,Kenneth,Rivera,kenneth.rivera58@hotmail.com,+12227524153,9466 Cedar Blvd,Tacoma,WA,59934,60783,mass_market,phone,2024-09-25
+0012d783e4fdd61,Kimberly,Morris,kimberly.morris12@hotmail.com,+13622549825,9157 Main Blvd,Philadelphia,PA,20388,32378,mass_market,mobile_app,2020-03-12
+001362e9b4c1dfb,Edward,Flores,edward.flores3@protonmail.com,+14002292642,1203 Oak Blvd,Philadelphia,PA,33426,65909,mass_market,social_media,2021-03-26
+001e6525833eb6d,Mary,Adams,mary.adams17@yahoo.com,+18237160440,9502 Pine Dr,Pittsburgh,PA,42216,96889,mass_affluent,partner_referral,2022-06-02
+00123ae7ba2ff86,James,Torres,james.torres97@outlook.com,+17367839706,2834 Lake Ct,Cambridge,MA,75500,143112,mass_affluent,branch,2023-11-21
+0016cc1340430c8,Timothy,Carter,timothy.carter84@protonmail.com,+15097649830,4105 Elm St,Grand Rapids,MI,39762,58543,mass_market,mobile_app,2020-06-01
+001977c8df65efe,Ashley,Jackson,ashley.jackson6@protonmail.com,+16902136751,5875 Cedar Ave,Orlando,FL,50677,69206,mass_market,web,2018-11-16
+0010f637c017e1e,Benjamin,Gutierrez,benjamin.gutierrez67@aol.com,+13268355095,8087 Walnut Ct,Richmond,VA,77367,117800,mass_affluent,social_media,2021-11-22
+001b19eaefda014,Raymond,Alvarez,raymond.alvarez6@outlook.com,+12123230397,3286 Walnut Ln,Cambridge,MA,35383,55158,mass_market,social_media,2024-12-01
+0011e5d3aaac95d,John,King,john.king61@outlook.com,+17906546545,5449 Lake Ave,Springfield,TN,97523,35240,mass_market,partner_referral,2019-04-13
+0012c9f041f6c65,Kathleen,Wright,kathleen.wright72@yahoo.com,+14245173133,7707 Elm St,Jersey City,NJ,81068,108769,mass_affluent,phone,2024-08-20
+0012f3f9b6993de,Raymond,Rodriguez,raymond.rodriguez312@icloud.com,+17037649560,9740 Maple Dr,Newark,NJ,66374,118749,mass_affluent,mobile_app,2023-04-23
+001b883b401e7c0,Richard,Hernandez,richard.hernandez38@protonmail.com,+15756993668,9471 Oak St,New York,NY,31655,30136,mass_market,mobile_app,2018-07-30
+001caa45ad862a8,Lisa,Gomez,lisa.gomez212@hotmail.com,+19949638445,1674 Park Ln,Springfield,TN,39332,48641,mass_market,branch,2024-11-14
+0019d16eafcbc82,Michelle,Nguyen,michelle.nguyen52@gmail.com,+12602974985,2519 Oak Dr,Tacoma,WA,26529,188986,affluent,branch,2020-05-12
+0017386b2ce6d0a,Jessica,Chavez,jessica.chavez45@gmail.com,+12501526460,4231 Walnut Ave,Madison,MO,75223,122737,mass_affluent,phone,2025-05-11
+0013ebe30f18d1d,Raymond,Green,raymond.green18@yahoo.com,+17259310722,4652 Maple Way,Madison,MD,33660,36109,mass_market,social_media,2022-08-31
+001c32db6395e32,Jerry,Cook,jerry.cook562@protonmail.com,+19481661445,7553 River Ln,Columbus,OH,48036,64791,mass_market,social_media,2021-01-25
+00148e1454bdd1c,Cynthia,Cox,cynthia.cox51@outlook.com,+12049904386,3855 Main Ave,Springfield,MD,68884,650450,high_net_worth,branch,2020-12-20
+00141713101ff1f,Rebecca,Williams,rebecca.williams15@protonmail.com,+14407526782,9287 Cedar Ave,Madison,IN,81442,290008,affluent,branch,2023-07-28
+0012f65c578c286,Janet,King,janet.king102@yahoo.com,+13241055838,4024 Oak Ct,Pittsburgh,PA,45396,87793,mass_affluent,branch,2019-11-03
+0013bac125831ae,Brandon,Scott,brandon.scott19@outlook.com,+13649759161,8862 Maple Dr,Rochester,NY,92781,172655,affluent,mobile_app,2024-02-12
+0019b3ed28e7c5f,Samantha,Morris,samantha.morris26@gmail.com,+12378598559,3181 Main Ln,Madison,MD,56585,125760,mass_affluent,partner_referral,2024-04-02
+001ececd30f5da8,William,Moore,william.moore69@protonmail.com,+16355923296,737 Oak St,Miami,FL,49348,79257,mass_affluent,web,2019-05-06
+00105ae4cdcdf45,Shirley,Campbell,shirley.campbell47@gmail.com,+12975432533,5568 Cedar St,Albany,NY,33936,51479,mass_market,mail,2021-03-13
+00183565c04a0cd,Frank,Cooper,frank.cooper18@gmail.com,+12961067267,1850 Park St,Grand Rapids,MI,71502,36092,mass_market,phone,2022-09-18
+001f1cfd28b1390,Katherine,Reed,katherine.reed74@protonmail.com,+19474146566,8171 Lake Ave,Miami,FL,17781,106272,mass_affluent,mail,2025-08-27
+0015666838139cb,Justin,Torres,justin.torres76@yahoo.com,+19645243565,2200 River Ave,Charlotte,NC,93993,140231,mass_affluent,partner_referral,2025-04-09
+0018bd38c06d03b,Debra,Gomez,debra.gomez58@yahoo.com,+13503067693,6141 Cedar Dr,Chicago,IL,59640,30901,mass_market,partner_referral,2019-03-30
+001c4649b4ee850,Christine,James,christine.james96@icloud.com,+17365849832,3439 Walnut St,Savannah,GA,47645,135762,mass_affluent,mobile_app,2018-01-13
+001eff632089285,Samuel,Lewis,samuel.lewis3@protonmail.com,+14409152092,6400 Maple Ln,Boston,MA,76807,137960,mass_affluent,web,2021-01-09
+001d2b978c27ea8,Michelle,Myers,michelle.myers81@icloud.com,+17411056553,2542 Main Blvd,Seattle,WA,82597,46521,mass_market,mobile_app,2021-03-04
+001c733832a7a82,Rachel,Wright,rachel.wright6@protonmail.com,+15446987463,7823 Maple Ln,Springfield,MD,53703,136846,mass_affluent,phone,2019-01-29
+00106bbc4db0e44,Anthony,Reyes,anthony.reyes33@gmail.com,+18017864199,2070 Pine Way,Phoenix,AZ,87152,44059,mass_market,web,2020-06-23
+00153774ede0365,Jonathan,Myers,jonathan.myers65@aol.com,+14345658528,101 Walnut Way,Atlanta,GA,55738,128976,mass_affluent,social_media,2023-06-29
+0016ceb7e6fcf40,Christine,Scott,christine.scott8@hotmail.com,+16604785362,2303 Main St,Columbus,OH,36760,184767,affluent,social_media,2020-03-13
+001160eb3a9c70d,Jacob,Carter,jacob.carter54@gmail.com,+16454846296,2822 Pine Way,Los Angeles,CA,78191,35559,mass_market,partner_referral,2019-03-21
+001f081b9b6a84b,Jonathan,James,jonathan.james26@icloud.com,+15027300282,8872 Park St,Springfield,MD,86205,918004,ultra_hnw,partner_referral,2021-02-17
+001449500fd2ebf,Justin,Alvarez,justin.alvarez69@aol.com,+12856689354,8702 Lake St,Chicago,IL,44033,141639,mass_affluent,mail,2020-09-12
+001cd71fde13f9b,Rachel,Brooks,rachel.brooks48@gmail.com,+19831193434,547 Main Ct,Buffalo,NY,13977,96578,mass_affluent,web,2021-08-11
+0018d1640ccf90c,Jeffrey,Powell,jeffrey.powell65@hotmail.com,+14965901261,4373 Elm St,Madison,MO,81535,53156,mass_market,mail,2019-09-06
+001bbe3d71b411d,Nicholas,Richardson,nicholas.richardson32@icloud.com,+15536729237,1553 Cedar Way,Austin,TX,77618,32893,mass_market,web,2018-04-18
+001762c9ccb42ea,Carol,Mitchell,carol.mitchell27@yahoo.com,+16208717919,5917 Main Ct,Austin,TX,91841,66211,mass_market,social_media,2018-06-21
+00167c390c24dfb,Ronald,Allen,ronald.allen326@aol.com,+13987343262,3175 Lake Way,Springfield,IN,18410,548324,high_net_worth,web,2025-01-06
+0015b484668e838,Samuel,Bennett,samuel.bennett33@gmail.com,+16731684156,6492 Pine Way,Grand Rapids,MI,61102,64624,mass_market,social_media,2022-02-17
+001fe2ddf510320,Gregory,Mitchell,gregory.mitchell38@aol.com,+17899897879,8377 Main Ct,Newark,NJ,39604,54724,mass_market,mobile_app,2023-04-09
+001ecff8d502ebc,Brandon,Hughes,brandon.hughes25@protonmail.com,+17385323775,9719 Cedar Way,Austin,TX,26014,43411,mass_market,web,2020-09-05
+001db32ba0de60b,Anna,Miller,anna.miller29@gmail.com,+16161583133,1358 Oak Ct,Springfield,WI,90199,44207,mass_market,phone,2023-07-11
+001efe1aad4c1f8,Heather,Peterson,heather.peterson77@aol.com,+12135100113,6281 Cedar Dr,Springfield,IN,93471,36995,mass_market,mobile_app,2024-07-28
+0015f860a84b0b5,Debra,Ramirez,debra.ramirez14@aol.com,+14994789035,3890 Walnut Ln,Tacoma,WA,72566,84294,mass_affluent,branch,2021-06-28
+00105074cf2cead,Nicole,Cox,nicole.cox175@aol.com,+17487832486,802 Cedar Way,Springfield,IN,12785,35029,mass_market,mobile_app,2022-09-10
+001da91e7cd4cfe,Catherine,Taylor,catherine.taylor98@gmail.com,+15953583553,7565 Oak Blvd,Phoenix,AZ,37899,618466,high_net_worth,web,2020-04-12
+001a19c9db04acb,Nancy,Parker,nancy.parker156@yahoo.com,+15111083198,8747 Park Ct,Springfield,MD,35437,143746,mass_affluent,web,2024-12-19
+00193bf062fe145,Samuel,Mitchell,samuel.mitchell38@outlook.com,+17874049729,358 Park Blvd,Madison,WI,86401,31183,mass_market,phone,2025-10-01
+001de1b79949f88,Heather,James,heather.james73@gmail.com,+15011356907,8299 Pine Ln,Grand Rapids,MI,91105,55172,mass_market,social_media,2024-06-30
+00195fbaae5597b,Donna,Jimenez,donna.jimenez82@gmail.com,+16688007904,600 Park Ave,Springfield,IL,38299,148126,mass_affluent,partner_referral,2024-12-23
+001a64eb7126293,Sarah,James,sarah.james44@gmail.com,+17623470317,6755 River Ct,Springfield,MO,57018,187344,affluent,web,2022-07-28
+00129d758fcde6e,Benjamin,Martinez,benjamin.martinez33@protonmail.com,+13965480306,6631 Lake Ave,Columbus,OH,41536,116116,mass_affluent,social_media,2020-02-19
+001c26cc8ab89af,Kathleen,Long,kathleen.long65@yahoo.com,+12762362546,3267 River Blvd,Atlanta,GA,13340,34102,mass_market,branch,2022-05-14
+001f847ccf58f24,Jack,Adams,jack.adams7@hotmail.com,+15774699556,4684 Pine St,San Antonio,TX,74915,133106,mass_affluent,mail,2020-03-13
+0012487fc0cd9bf,Maria,Evans,maria.evans99@protonmail.com,+14691381433,6609 Lake Way,Naperville,IL,79931,61073,mass_market,web,2025-01-05
+0012bdab9a1090b,Carolyn,Perez,carolyn.perez118@aol.com,+13671007790,6323 Oak Ave,Cleveland,OH,65299,655484,high_net_worth,mail,2023-03-17
+00144ce41346a5e,Laura,Martinez,laura.martinez66@gmail.com,+12968233660,4612 Pine St,Columbus,MO,40999,51169,mass_market,partner_referral,2024-06-28
+001a250214e12f9,Jack,Murphy,jack.murphy343@aol.com,+16293879299,9480 Lake Blvd,Springfield,IN,74396,353654,high_net_worth,partner_referral,2023-07-07
+001d8435dffa8cb,Joseph,Rogers,joseph.rogers59@icloud.com,+19162024902,6697 Park Ave,Pittsburgh,PA,63095,146381,mass_affluent,social_media,2018-04-04
+001a0c44b46af25,Raymond,Perez,raymond.perez70@icloud.com,+13075444428,6734 River Ave,Philadelphia,PA,19550,122977,mass_affluent,social_media,2022-05-31
+001ddf1c42616a5,Jennifer,Bailey,jennifer.bailey5@aol.com,+19084855388,8984 Walnut Way,Madison,MD,88410,183259,affluent,mobile_app,2024-02-18
+001f9fd0adcd0a5,Stephen,Watson,stephen.watson31@aol.com,+16118509139,6497 Park Ave,New York,NY,80683,32346,mass_market,partner_referral,2023-02-19
+001cac18952f82c,Patrick,Watson,patrick.watson17@outlook.com,+17284290911,8192 Main Ct,Cambridge,MA,94319,132208,mass_affluent,partner_referral,2024-12-29
+0013d5240a53291,Patricia,James,patricia.james70@yahoo.com,+19976748400,6236 Pine Blvd,Virginia Beach,VA,33927,32511,mass_market,phone,2024-05-20
+00193a6dda184aa,Sarah,Mendoza,sarah.mendoza34@gmail.com,+19006500926,3157 Lake Ct,Madison,MO,54287,88513,mass_affluent,phone,2020-03-07
+001e2495b327ee8,Frank,Lewis,frank.lewis67@outlook.com,+15956442132,356 River Blvd,Jersey City,NJ,73932,55638,mass_market,mobile_app,2024-04-12
+0018bb9f3d8767f,Pamela,Martinez,pamela.martinez12@protonmail.com,+15724526333,6563 Pine St,Jacksonville,FL,52630,105935,mass_affluent,branch,2025-11-26
+0017a616a3b5e3d,Rebecca,Stewart,rebecca.stewart37@protonmail.com,+12891590426,5897 Elm Dr,Springfield,IN,60191,70682,mass_market,branch,2018-03-07
+00138b20c07594e,George,Taylor,george.taylor69@icloud.com,+14866010518,2845 Elm Dr,Savannah,GA,54287,117526,mass_affluent,partner_referral,2022-09-01
+001929c0224b3e6,Carolyn,Ward,carolyn.ward6@gmail.com,+13596147942,6203 Maple Ln,Detroit,MI,94848,118554,mass_affluent,branch,2018-12-06
+001319effbbaa48,David,Clark,david.clark67@aol.com,+18317426807,6421 River Ln,San Diego,CA,74307,41937,mass_market,social_media,2024-03-25
+00158a435c5396e,Edward,Martin,edward.martin23@hotmail.com,+17562776056,2290 Maple Ct,Los Angeles,CA,18246,48868,mass_market,mail,2022-02-19
+001407517c2ae9f,Jack,Johnson,jack.johnson523@aol.com,+19232461159,7571 Elm Ct,Buffalo,NY,33680,144797,mass_affluent,phone,2021-11-14
+001073b18a50209,Pamela,Jones,pamela.jones51@gmail.com,+17624047623,7301 Oak Way,Newark,NJ,71442,147587,mass_affluent,phone,2022-04-16
+001a1c2e18cee3d,Nancy,Brown,nancy.brown854@protonmail.com,+17992264370,5067 Maple Ln,Newark,NJ,82175,41219,mass_market,web,2022-08-15
+00149a96ef07f41,Rebecca,Thomas,rebecca.thomas34@protonmail.com,+14599357022,2008 Elm Dr,Madison,TN,89116,112990,mass_affluent,social_media,2019-10-24
+001e8adfdbe7143,Ashley,Bennett,ashley.bennett17@yahoo.com,+12282653502,2307 Cedar Dr,Columbus,WI,17115,296358,affluent,web,2023-07-02
+001b79c983705e2,Eric,Cook,eric.cook8@protonmail.com,+19681678433,3409 Main Blvd,Madison,IN,49597,121840,mass_affluent,phone,2025-06-26
+001e77360aaff62,Charles,Clark,charles.clark62@outlook.com,+18699579549,3259 Main Ln,Springfield,MD,35733,52822,mass_market,mail,2024-07-31
+00173afaca9a3bb,Ronald,Miller,ronald.miller15@gmail.com,+15917756122,1812 Elm Ave,Naperville,IL,15485,60576,mass_market,partner_referral,2022-08-07
+00158738233390e,Catherine,Sanders,catherine.sanders67@gmail.com,+13535731929,2985 Oak St,Columbus,OH,47283,65137,mass_market,mail,2020-05-03
+0014ed9ad60447c,Carol,Moore,carol.moore95@hotmail.com,+18701020737,3616 River Ln,Naperville,IL,55251,54033,mass_market,partner_referral,2025-11-09
+001ef696c161906,Emily,Harris,emily.harris4@yahoo.com,+16931902879,7021 Oak Blvd,Tucson,AZ,90511,78544,mass_affluent,web,2019-06-18
+001e2c554d82511,Sharon,Diaz,sharon.diaz88@hotmail.com,+18571127122,3734 Pine St,Springfield,MD,42728,119877,mass_affluent,branch,2025-04-16
+001dcd5b314bb68,Laura,Mitchell,laura.mitchell62@protonmail.com,+13083296115,4214 Park Dr,Tucson,AZ,10358,130727,mass_affluent,mail,2022-03-04
+001fe14f7d597a7,Edward,Peterson,edward.peterson674@gmail.com,+19447144552,7436 Oak Ave,Atlanta,GA,87692,142669,mass_affluent,partner_referral,2019-10-26
+001758d102741bc,Laura,Wilson,laura.wilson26@protonmail.com,+16103935687,1971 Maple St,Atlanta,GA,12284,144559,mass_affluent,web,2021-03-24
+0017fee83cceb9c,Steven,Murphy,steven.murphy51@icloud.com,+13522324282,5887 River St,Los Angeles,CA,78762,56383,mass_market,web,2024-10-22
+001ff7d323c23e0,Michelle,Nelson,michelle.nelson3@hotmail.com,+18705407277,9693 Maple Ln,Springfield,MD,82356,182590,affluent,partner_referral,2024-08-07
+00112e829c7cb9a,Christine,Price,christine.price82@yahoo.com,+18632092509,3354 Park Ln,Rochester,NY,67542,280260,affluent,social_media,2018-06-05
+00194f16b624ee3,Karen,Ramirez,karen.ramirez27@hotmail.com,+19059646777,9782 River Blvd,Columbus,TN,86397,2285243,ultra_hnw,branch,2020-10-13
+001c49da9326d4e,Sarah,Brown,sarah.brown85@hotmail.com,+18751460189,4351 Oak Ct,Cleveland,OH,81532,35834,mass_market,social_media,2019-03-09
+0018b122838fbdd,William,Cruz,william.cruz58@outlook.com,+17349609150,3919 River Dr,San Diego,CA,76433,384261,high_net_worth,branch,2020-12-01
+001e26617fdbb33,Christine,Lopez,christine.lopez87@protonmail.com,+18045536824,2809 River Way,Philadelphia,PA,65505,72464,mass_market,mail,2019-01-10
+001b630de793555,Jennifer,Ramos,jennifer.ramos23@icloud.com,+14904760289,5560 Walnut Blvd,Richmond,VA,24025,161539,affluent,phone,2019-04-06
+0012cfa60d50f78,Nicole,Turner,nicole.turner9@icloud.com,+12113566062,9288 Cedar St,Grand Rapids,MI,60585,47409,mass_market,mobile_app,2018-04-15
+001dfb4d727ce22,Nicholas,Kelly,nicholas.kelly628@yahoo.com,+19709845104,7393 River Ln,Savannah,GA,18932,132135,mass_affluent,mail,2024-11-20
+00171ec387f16db,Ashley,Rivera,ashley.rivera17@outlook.com,+13915171241,817 Pine Blvd,Madison,WI,82914,274547,affluent,phone,2019-03-19
+0012ab0ff4abc58,Amy,Jackson,amy.jackson52@protonmail.com,+12648886066,8033 Oak Ct,Charlotte,NC,77605,110861,mass_affluent,mobile_app,2020-03-02
+001b391b3bada3d,James,Phillips,james.phillips51@hotmail.com,+15855446406,9044 Walnut Ln,Boston,MA,96922,36854,mass_market,social_media,2023-10-19
+0019d9a6236c30b,Larry,Flores,larry.flores475@yahoo.com,+19137400338,828 Cedar St,Rochester,NY,19225,38134,mass_market,phone,2019-03-30
+0019579b9cdeeaa,Edward,Price,edward.price18@outlook.com,+17435197957,3031 Main Blvd,Chicago,IL,59327,76006,mass_affluent,partner_referral,2022-04-02
+001befb99668501,Carol,Parker,carol.parker74@icloud.com,+15156350795,3716 Maple Ct,Charlotte,NC,76377,53867,mass_market,branch,2022-10-02
+00110850c7c2b2d,Thomas,Brooks,thomas.brooks89@hotmail.com,+16353688788,3159 Oak Ave,Pittsburgh,PA,29943,51889,mass_market,social_media,2025-02-04
+001d76fccbb9339,Brandon,Rodriguez,brandon.rodriguez8@gmail.com,+19781251893,1875 Park Ln,Seattle,WA,77668,54412,mass_market,phone,2019-01-14
+00163ec6ab0b9a7,Jeffrey,Powell,jeffrey.powell22@gmail.com,+14089871152,4216 Maple Way,San Diego,CA,72747,130704,mass_affluent,phone,2019-11-04
+0017a471bba9113,Lisa,Mitchell,lisa.mitchell7@gmail.com,+18928201406,4269 Pine Way,Charlotte,NC,58159,51253,mass_market,phone,2023-08-25
+001af471b3c667d,Carolyn,Edwards,carolyn.edwards83@hotmail.com,+18943791018,8116 Elm St,Grand Rapids,MI,35117,102037,mass_affluent,mail,2022-12-01
+001b821cd985cbd,Anna,Davis,anna.davis423@hotmail.com,+17589439632,2472 Pine Ln,Albany,NY,40072,2675558,ultra_hnw,web,2026-01-06
+0016b86a790a3d8,Jeffrey,Stewart,jeffrey.stewart343@outlook.com,+16371897366,8811 Maple Ct,Columbus,IN,80134,108305,mass_affluent,partner_referral,2019-12-07
+0010199f7cf186e,Dennis,Castillo,dennis.castillo80@aol.com,+17938140130,9706 Lake Ln,Newark,NJ,30316,108483,mass_affluent,social_media,2023-08-20
+0016d34eaecf588,Kathleen,Wilson,kathleen.wilson23@outlook.com,+13354418107,9221 Maple Ln,Raleigh,NC,68920,145837,mass_affluent,web,2019-01-02
+0011a818710b380,Amy,Brown,amy.brown16@gmail.com,+13191250028,3132 Maple Ave,Seattle,WA,10276,387966,high_net_worth,partner_referral,2023-10-10
+00133ee4128c7c5,Scott,Bennett,scott.bennett376@gmail.com,+19414946534,9160 Pine Blvd,Madison,MO,95180,123846,mass_affluent,branch,2021-04-25
+0014366ca7a3e62,Samuel,Moore,samuel.moore24@gmail.com,+15785679965,5497 River Dr,Cleveland,OH,67348,30239,mass_market,mobile_app,2018-05-23
+001539a2b2467c9,Mary,Chavez,mary.chavez52@aol.com,+18055510798,7791 Main Ln,Tacoma,WA,90632,30103,mass_market,social_media,2021-03-01
+0010fbcba211f81,Jonathan,Castillo,jonathan.castillo61@aol.com,+18989141900,1290 Cedar St,Madison,MD,58627,105681,mass_affluent,phone,2018-03-05
+00109ce1f6c8227,Scott,Walker,scott.walker49@gmail.com,+15092319684,9165 Main Ct,Chicago,IL,84925,735702,high_net_worth,web,2023-02-05
+00106be9024553e,Gary,Collins,gary.collins36@gmail.com,+18237758079,2357 Walnut Blvd,Detroit,MI,33203,84781,mass_affluent,mail,2024-10-02
+001adbae5dadc81,Patrick,Sanders,patrick.sanders41@icloud.com,+19989485875,2171 Main Ct,Virginia Beach,VA,85756,736962,high_net_worth,social_media,2025-08-21
+001fada0c68730c,Benjamin,Phillips,benjamin.phillips21@aol.com,+18256504576,4687 Main St,Savannah,GA,21660,111496,mass_affluent,partner_referral,2020-05-15
+001336778a5b523,Sarah,Turner,sarah.turner726@hotmail.com,+19141989886,1598 Oak Ln,Albany,NY,58732,712248,high_net_worth,mail,2018-01-26
+0010b4d3470b7ee,Catherine,Garcia,catherine.garcia10@protonmail.com,+16406266537,340 Main Dr,Richmond,VA,43610,317211,high_net_worth,social_media,2024-05-21
+0012c72d39522f5,Donna,Robinson,donna.robinson99@gmail.com,+16232477917,8532 Elm Dr,Naperville,IL,36500,92236,mass_affluent,social_media,2022-08-16
+0015be46778ff8c,Karen,Rivera,karen.rivera68@protonmail.com,+14476660550,2580 Walnut Ln,Madison,MO,17926,102962,mass_affluent,mobile_app,2023-04-03
+0015c4038d09f05,Carolyn,Allen,carolyn.allen43@outlook.com,+12548474519,7379 Pine Way,Detroit,MI,16569,114048,mass_affluent,phone,2022-04-17
+001496236b2ac28,Janet,Johnson,janet.johnson86@aol.com,+13044918671,1733 Oak St,Springfield,WI,70646,139668,mass_affluent,phone,2019-03-15
+0010540997669db,Debra,Roberts,debra.roberts1@gmail.com,+18823268836,3085 Park Blvd,Dallas,TX,84172,50652,mass_market,branch,2020-08-15
+001c5cbc18c11dc,Margaret,Castillo,margaret.castillo6@protonmail.com,+17042675927,7357 Maple Ct,Pittsburgh,PA,26926,3119945,ultra_hnw,mail,2022-12-08
+00111678f3f1527,Christine,Long,christine.long45@yahoo.com,+12324598930,7119 Main Ln,New York,NY,90160,30799,mass_market,social_media,2021-05-30
+001aaf9a86031fd,Brandon,Ward,brandon.ward8@icloud.com,+16981218918,414 Walnut Ln,Pittsburgh,PA,66160,32995,mass_market,social_media,2019-08-24
+0018a7b8b1f3335,Donald,Morris,donald.morris1@icloud.com,+17028691955,6276 Elm Blvd,Columbus,IN,53003,115207,mass_affluent,web,2024-05-24
+0015719706efa4a,Thomas,Gomez,thomas.gomez40@outlook.com,+12972170110,349 Main Ln,Pittsburgh,PA,15221,42240,mass_market,phone,2025-01-15
+001ed7e5f98a89b,Karen,Anderson,karen.anderson42@protonmail.com,+17794121703,1537 Elm Ln,Albany,NY,87803,74455,mass_market,mobile_app,2021-02-27
+0014d0d2429d8e0,Mary,Ruiz,mary.ruiz15@gmail.com,+15523719631,3797 Lake St,Springfield,IL,33715,60367,mass_market,partner_referral,2023-03-08
+001a6a4b0b2c84b,Jessica,Gutierrez,jessica.gutierrez69@outlook.com,+15402368232,9742 Cedar Ln,Columbus,MD,70784,281893,affluent,phone,2022-11-12
+0013c2a1d937921,Donald,Morris,donald.morris43@outlook.com,+12542610184,8519 Elm Ave,Madison,MO,72491,141652,mass_affluent,branch,2024-10-29
+001c03db00066db,Sarah,James,sarah.james9@icloud.com,+15684293083,267 Elm Way,Chicago,IL,92221,43855,mass_market,web,2025-05-06
+001bc75742bfc52,Carolyn,Cruz,carolyn.cruz547@outlook.com,+12487830977,4252 Walnut Ave,Columbus,TN,10378,563894,high_net_worth,social_media,2022-03-08
+0018f1b52081356,Justin,Gonzalez,justin.gonzalez61@outlook.com,+15871685796,2707 River Way,Madison,WI,79584,40610,mass_market,social_media,2025-04-23
+00183edb05f7aaa,Charles,Martin,charles.martin72@outlook.com,+16277597744,7644 Main Dr,Springfield,MD,40653,164647,affluent,web,2023-06-18
+001ea79968e18a2,Heather,Ross,heather.ross73@icloud.com,+15521143212,5052 River Dr,Raleigh,NC,31925,115130,mass_affluent,web,2020-03-15
+00105a915c9835e,Margaret,Powell,margaret.powell69@hotmail.com,+17042645611,6777 Elm Way,Phoenix,AZ,41470,656084,high_net_worth,social_media,2020-12-27
+001d4db3a988926,Amanda,Walker,amanda.walker29@yahoo.com,+14664394146,669 Maple St,Naperville,IL,20313,2728455,ultra_hnw,mobile_app,2022-02-06
+0019747ce5befb0,Cynthia,Jimenez,cynthia.jimenez48@aol.com,+16835544184,6539 Walnut Way,Tacoma,WA,87941,101131,mass_affluent,phone,2025-02-16
+0011b9f3006e648,Andrew,Mitchell,andrew.mitchell42@protonmail.com,+15807396931,6605 Pine Ct,San Francisco,CA,68547,99296,mass_affluent,social_media,2018-12-25
+001bc8ac648ec17,Emma,Thomas,emma.thomas54@protonmail.com,+13196049898,5289 Pine Ave,Charlotte,NC,17318,47352,mass_market,phone,2025-06-27
+0018a09865db876,Janet,Thomas,janet.thomas41@yahoo.com,+14147085903,4677 Elm Dr,Madison,TN,76255,267082,affluent,mobile_app,2018-11-22
+001d15f33858439,Samuel,Lee,samuel.lee527@hotmail.com,+15317823925,3185 Maple Dr,Sacramento,CA,10446,184617,affluent,branch,2022-12-27
+001f5f185fae2f9,Jonathan,Rodriguez,jonathan.rodriguez9@outlook.com,+13906365162,7687 Maple St,San Diego,CA,65760,39960,mass_market,mobile_app,2018-04-14
+001c4c2493a2bcb,Frank,Lopez,frank.lopez23@hotmail.com,+12274128732,9530 Park Ct,Springfield,TN,42260,571632,high_net_worth,partner_referral,2024-12-24
+001f436d3601d66,Karen,Brooks,karen.brooks468@yahoo.com,+13324802340,7034 Walnut St,Boston,MA,76489,122656,mass_affluent,branch,2018-01-06
+0014d520f451244,Nicole,Murphy,nicole.murphy46@hotmail.com,+17664728927,9246 Lake Way,Tampa,FL,33971,190886,affluent,social_media,2018-02-27
+001fc912d6cc1bd,Kathleen,Sanchez,kathleen.sanchez82@gmail.com,+19725899566,4257 Elm Blvd,Jersey City,NJ,83428,192306,affluent,social_media,2025-09-30
+00155a3e623d1bb,Linda,Carter,linda.carter69@gmail.com,+14787657530,8157 Pine St,Pittsburgh,PA,40974,61377,mass_market,partner_referral,2025-02-15
+0018ec3c273ce10,Mary,James,mary.james853@outlook.com,+15952061285,5241 Pine Ct,Buffalo,NY,72409,210093,affluent,mobile_app,2023-09-15
+00104aa9b918eec,Paul,Martinez,paul.martinez465@protonmail.com,+13892009956,7917 Main Ct,Rochester,NY,27968,54639,mass_market,web,2024-06-18
+0011e26396f2ae7,Barbara,Martin,barbara.martin52@gmail.com,+17799778172,7875 Maple St,Detroit,MI,31623,597024,high_net_worth,phone,2024-12-15
+0015ba9e2aa7a69,Gregory,Ross,gregory.ross82@yahoo.com,+18466180257,3426 Oak Ln,Sacramento,CA,22018,2740041,ultra_hnw,phone,2024-12-21
+00145da7c9adc1b,Jennifer,Lee,jennifer.lee37@icloud.com,+12071837882,119 Elm Dr,Miami,FL,83565,47844,mass_market,mobile_app,2022-03-29
+001d2652b761c47,Laura,Flores,laura.flores53@yahoo.com,+15616280372,3714 Park Ave,Albany,NY,14932,236671,affluent,phone,2025-09-29
+001e9cd76cdc543,Larry,Wood,larry.wood451@gmail.com,+13659875419,2739 Park Dr,Richmond,VA,98397,136073,mass_affluent,mobile_app,2018-07-22
+001680e2ffe2690,Larry,Ross,larry.ross401@hotmail.com,+14632224634,5102 River St,Jersey City,NJ,61841,49564,mass_market,mail,2020-10-12
+00146d24ecf4393,Mark,Kelly,mark.kelly17@aol.com,+19409003202,3680 River Way,Raleigh,NC,79884,44714,mass_market,mail,2019-08-22
+001d6d23a505b14,Laura,Taylor,laura.taylor81@hotmail.com,+16227216697,5616 Park Ct,Dallas,TX,86756,49749,mass_market,social_media,2021-08-31
+0010d5f5a5269fe,Timothy,Rodriguez,timothy.rodriguez436@protonmail.com,+16026976699,8763 River Dr,Naperville,IL,34944,92873,mass_affluent,mobile_app,2021-12-28
+0011340c7099c52,Brandon,Ramirez,brandon.ramirez10@yahoo.com,+17557224122,887 Maple Blvd,Rochester,NY,34060,251682,affluent,phone,2025-10-20
+0018f042026fee4,Nancy,King,nancy.king70@protonmail.com,+12281548103,9146 Cedar Way,Phoenix,AZ,28463,129484,mass_affluent,mobile_app,2026-01-04
+001316cf8975f25,Andrew,Rodriguez,andrew.rodriguez7@yahoo.com,+13655703172,7016 Walnut Blvd,Cambridge,MA,33746,40168,mass_market,mobile_app,2018-08-28
+001188e5213f2ca,Helen,Robinson,helen.robinson26@outlook.com,+16188859220,7324 Oak Way,Los Angeles,CA,26102,43396,mass_market,phone,2020-06-01
+001e18ec47626b2,Brandon,Ward,brandon.ward30@hotmail.com,+17955333808,8089 Elm Ave,Virginia Beach,VA,13806,54261,mass_market,partner_referral,2025-03-13
+001cb985986655c,Jack,Foster,jack.foster34@hotmail.com,+17598760632,1764 Park Way,San Francisco,CA,93369,123929,mass_affluent,mobile_app,2021-04-13
+001e498f167e23f,George,Brooks,george.brooks20@outlook.com,+18131672820,9683 Cedar Dr,Springfield,MO,61668,119496,mass_affluent,mobile_app,2025-01-20
+0018fed843f1a00,Benjamin,Harris,benjamin.harris31@hotmail.com,+15547978124,919 Oak Dr,Boston,MA,16485,270033,affluent,phone,2018-07-13
+0019cee59a36a43,Emma,Richardson,emma.richardson50@hotmail.com,+14605190501,3709 Lake Dr,Columbus,WI,33827,97631,mass_affluent,mobile_app,2023-07-17
+001b54b217bece2,Kimberly,Ramos,kimberly.ramos408@aol.com,+17319373437,8432 River Ln,Seattle,WA,53331,532164,high_net_worth,phone,2020-04-08
+001bc961ababcae,Elizabeth,Ward,elizabeth.ward542@yahoo.com,+14744103558,7511 Park Dr,Newark,NJ,51799,191932,affluent,web,2022-06-16
+0010f3cb6d801e8,William,Jackson,william.jackson997@icloud.com,+14231705339,2584 River Blvd,Springfield,WI,51393,68831,mass_market,partner_referral,2019-09-11
+001eb369b229cd7,Patrick,Nguyen,patrick.nguyen257@yahoo.com,+19412794648,3754 Lake Ct,Philadelphia,PA,15301,78547,mass_affluent,mail,2024-12-28
+001028ffe18305a,Daniel,Martin,daniel.martin70@icloud.com,+17489380278,6677 Pine St,Tampa,FL,23629,291119,affluent,branch,2025-06-07
+001740ddb48fd73,Gregory,Smith,gregory.smith67@outlook.com,+19947504808,6681 Pine Ct,San Antonio,TX,62336,64368,mass_market,social_media,2025-02-27
+0017f2a7e7d6301,Brandon,Jackson,brandon.jackson69@yahoo.com,+13155721184,8056 Lake Ln,Phoenix,AZ,24669,34191,mass_market,social_media,2025-09-27
+001c35629c45524,Katherine,Lee,katherine.lee91@gmail.com,+12631090305,5798 Maple Way,Madison,IN,31141,58310,mass_market,web,2020-06-17
+001032540fa345e,Paul,Young,paul.young8@icloud.com,+16079958729,7181 Elm Ct,Springfield,IN,69950,97402,mass_affluent,web,2022-09-08
+001b8225736712b,Deborah,Gray,deborah.gray239@icloud.com,+16652757494,4160 Walnut Ln,Columbus,OH,49938,292168,affluent,branch,2023-09-03
+001b979b84e3724,Nicole,Martin,nicole.martin64@icloud.com,+12971728949,7022 Cedar Ct,Tampa,FL,86284,61252,mass_market,partner_referral,2023-12-05
+001245fd42cf37c,Thomas,Reyes,thomas.reyes70@hotmail.com,+15066871077,8250 Elm Way,Columbus,WI,98546,2821565,ultra_hnw,partner_referral,2021-12-14
+001651ba5a70f87,Jonathan,Roberts,jonathan.roberts42@yahoo.com,+18165577306,7229 Main Ct,Pittsburgh,PA,68240,141483,mass_affluent,web,2020-04-16
+001f5d2cc62e13d,Jason,Ramos,jason.ramos40@hotmail.com,+18969355565,4276 Lake Blvd,Detroit,MI,99860,295030,affluent,mail,2018-03-30
+00136eec83d8d89,Joshua,Anderson,joshua.anderson38@protonmail.com,+17989954070,558 Pine Blvd,Tucson,AZ,51423,56127,mass_market,mail,2020-04-24
+001d8297a5a8fee,John,Lee,john.lee35@aol.com,+14587015793,8621 Oak Ct,Seattle,WA,39024,2252747,ultra_hnw,mail,2024-03-14
+001b839799b944d,Anna,Peterson,anna.peterson2@gmail.com,+12004571098,852 Cedar Way,Savannah,GA,61167,45503,mass_market,phone,2022-08-31
+0014cd30dd92d12,Deborah,Nguyen,deborah.nguyen93@gmail.com,+18692984998,8796 Park Ave,Orlando,FL,64322,163575,affluent,social_media,2022-11-05
+001923c51637157,Michael,Robinson,michael.robinson48@yahoo.com,+15081647925,6290 Elm Ct,Raleigh,NC,26521,61716,mass_market,mobile_app,2022-05-31
+001180e1d2a5f44,Nancy,White,nancy.white50@outlook.com,+17545841463,5435 Cedar Ln,Miami,FL,39207,31926,mass_market,mobile_app,2022-12-06
+001c37a451e4d9a,Sarah,Torres,sarah.torres12@protonmail.com,+12698923901,3980 Elm Way,Jersey City,NJ,70727,46327,mass_market,phone,2018-01-14
+0016a2f3fa3560b,Carolyn,Gray,carolyn.gray157@aol.com,+15359208312,6133 River St,Jersey City,NJ,68802,52693,mass_market,mobile_app,2025-08-22
+001afc254a98907,Laura,Collins,laura.collins15@protonmail.com,+16722997872,5939 River Blvd,Grand Rapids,MI,84852,114002,mass_affluent,mobile_app,2021-12-31
+001c7ca1d29240a,Patricia,Lewis,patricia.lewis66@icloud.com,+17189974936,2968 Lake St,Columbus,OH,56219,143310,mass_affluent,phone,2020-09-08
+001ee39217020f4,Kenneth,White,kenneth.white66@aol.com,+13096976722,7060 Park Ave,Jacksonville,FL,48343,138259,mass_affluent,phone,2021-09-03
+001d1f820da0379,Emma,Rodriguez,emma.rodriguez79@aol.com,+17881486424,705 Oak St,Detroit,MI,79765,71229,mass_market,mobile_app,2022-03-21
+001af46e72fa63f,Amanda,Lee,amanda.lee80@protonmail.com,+18868680964,9649 Cedar Dr,Miami,FL,32373,113641,mass_affluent,mobile_app,2021-03-23
+00102e51f817ed5,Jack,Anderson,jack.anderson825@aol.com,+16622374880,7671 Main Blvd,Springfield,MD,86100,69924,mass_market,mobile_app,2024-01-16
+0018cfb8d53ad58,Eric,Gomez,eric.gomez69@gmail.com,+19932374322,9571 Maple Ln,Springfield,IN,74446,64613,mass_market,branch,2020-05-09
+001e9300adc6014,Patrick,Kelly,patrick.kelly29@protonmail.com,+15822500390,5229 Lake Ln,Philadelphia,PA,12708,130735,mass_affluent,phone,2019-08-29
+001a56e771fe792,Robert,Myers,robert.myers83@protonmail.com,+15226864672,2086 Maple Way,Miami,FL,65914,91469,mass_affluent,branch,2020-10-15
+0012b93d89ada36,Jennifer,Torres,jennifer.torres27@icloud.com,+19757745396,2391 Park St,Newark,NJ,38446,665512,high_net_worth,mail,2020-04-26
+001a82ab1735375,Alexander,Smith,alexander.smith12@hotmail.com,+15427473220,6253 Maple Ln,Jersey City,NJ,73877,2816200,ultra_hnw,mobile_app,2022-02-11
+001cf4ff75bb357,Jennifer,James,jennifer.james53@gmail.com,+15515183801,4933 Elm Ln,Naperville,IL,20775,701452,high_net_worth,mobile_app,2018-04-26
+001bad0f9c25087,Rachel,Reyes,rachel.reyes86@aol.com,+17591020508,2317 Park Ave,Newark,NJ,11084,32808,mass_market,phone,2020-12-23
+0016c7199433fbc,Paul,Collins,paul.collins89@protonmail.com,+18751060293,9433 Elm Ave,Tampa,FL,76277,129839,mass_affluent,social_media,2024-06-13
+001a1eecd0ece77,Joseph,Price,joseph.price718@aol.com,+13222772652,6387 Pine Ct,Savannah,GA,14602,109849,mass_affluent,web,2019-05-20
+001ecfa03abf0e7,Katherine,Myers,katherine.myers78@gmail.com,+18372891070,5819 Maple Ln,Richmond,VA,93481,174718,affluent,branch,2023-01-16
+00177303c0ff03d,David,Wood,david.wood9@gmail.com,+12579300492,9792 Pine St,Philadelphia,PA,84059,440787,high_net_worth,mobile_app,2023-01-19
+0011efbdd83baa6,Brandon,Flores,brandon.flores33@protonmail.com,+17887826210,3453 Elm Ave,Tampa,FL,58915,66570,mass_market,phone,2024-08-02
+0016721a41014c8,Samuel,Gray,samuel.gray13@hotmail.com,+15904608984,923 Park St,Columbus,OH,29570,115039,mass_affluent,phone,2018-05-26
+001c32b2b92a03a,Kevin,Jimenez,kevin.jimenez2@outlook.com,+16768982533,5228 Main St,Savannah,GA,22554,585056,high_net_worth,web,2024-05-28
+00129ac7a920b54,Cynthia,Lopez,cynthia.lopez10@hotmail.com,+15999315025,2435 Elm St,Columbus,OH,13270,124895,mass_affluent,mobile_app,2020-04-16
+001c425e7f91fee,Larry,Perez,larry.perez98@outlook.com,+15003210305,3109 Cedar Ave,Springfield,MO,22169,82050,mass_affluent,branch,2020-09-30
+0014d0046a8ba9e,Christine,Sanders,christine.sanders54@hotmail.com,+18406924408,5274 Oak Ave,San Diego,CA,27111,70437,mass_market,branch,2022-03-20
+00162484ceac776,Paul,Hall,paul.hall22@protonmail.com,+16407788118,4778 River Ct,Virginia Beach,VA,80236,73739,mass_market,mobile_app,2024-06-13
+00139249d8196af,Linda,Johnson,linda.johnson74@gmail.com,+17025891832,9393 Elm St,Madison,IN,67302,58725,mass_market,branch,2020-08-03
+0010ab42e35a617,Thomas,Sanchez,thomas.sanchez745@aol.com,+16206344568,4594 Walnut Ave,Newark,NJ,29403,32560,mass_market,branch,2023-01-14
+00141fbb0072564,Mary,Rivera,mary.rivera38@hotmail.com,+19317766351,7529 Maple Ln,Newark,NJ,24579,497605,high_net_worth,branch,2018-03-26
+001d30573268a82,James,Williams,james.williams955@hotmail.com,+18321750435,6460 Main Ln,Springfield,MD,54150,39100,mass_market,social_media,2020-08-20
+0011526bf290aa6,Ashley,Garcia,ashley.garcia93@protonmail.com,+14508477088,1451 Oak Ln,Houston,TX,21162,362254,high_net_worth,partner_referral,2025-09-03
+0011b5f6f249c16,Michelle,Martin,michelle.martin53@gmail.com,+16576396419,6245 River Ln,Los Angeles,CA,88280,117459,mass_affluent,mail,2022-01-26
+001a62f0aa259a9,Linda,Peterson,linda.peterson66@icloud.com,+18105848379,118 Elm Dr,Springfield,IL,28446,642159,high_net_worth,mobile_app,2025-09-21
+00171cb270f737c,Dorothy,Brooks,dorothy.brooks80@gmail.com,+19903340240,9138 Cedar St,Cleveland,OH,81952,31140,mass_market,phone,2023-02-05
+00135df106fc93e,Christine,Gomez,christine.gomez17@aol.com,+14489763941,2448 Park St,Miami,FL,13882,57949,mass_market,partner_referral,2020-12-19
+00145e072472c5c,Patricia,Wood,patricia.wood407@hotmail.com,+13813421397,7305 Walnut Ave,Raleigh,NC,93101,46944,mass_market,social_media,2020-07-08
+001686b0a451aa0,Catherine,Watson,catherine.watson21@outlook.com,+19752703840,2167 Park Way,Cleveland,OH,34021,85888,mass_affluent,branch,2024-04-05
+001c80a3827e208,Stephanie,Martin,stephanie.martin61@icloud.com,+12823678376,9572 Main Way,Springfield,IL,37222,3211652,ultra_hnw,branch,2024-02-14
+001fbd3991bdefd,Christopher,Taylor,christopher.taylor20@gmail.com,+15448261575,4241 River Way,Savannah,GA,56698,379880,high_net_worth,mobile_app,2021-06-12
+001525acf6e13f0,Jerry,Thomas,jerry.thomas304@outlook.com,+14306660017,9713 Pine Ln,Jacksonville,FL,75888,150660,affluent,partner_referral,2019-08-25
+001ea8631c024df,Kimberly,Jimenez,kimberly.jimenez11@protonmail.com,+19434128750,4149 Main St,San Diego,CA,62618,231527,affluent,mail,2019-01-09
+00199e2764c17f1,Janet,Chavez,janet.chavez11@gmail.com,+14821544147,316 Maple Blvd,Columbus,IN,72238,43214,mass_market,web,2025-11-02
+0018e1f4b108a9a,Jennifer,Jimenez,jennifer.jimenez682@outlook.com,+15731158135,2073 Oak Ave,Jacksonville,FL,67350,743233,high_net_worth,mobile_app,2023-09-10
+0010e2fa6637e3a,Eric,Myers,eric.myers557@gmail.com,+17659589694,1919 River Dr,Sacramento,CA,30267,44856,mass_market,web,2026-01-07
+0017dd63ed2356f,Jonathan,Sanchez,jonathan.sanchez46@icloud.com,+17121528110,341 Elm Way,Columbus,TN,43671,293400,affluent,mobile_app,2018-01-29
+001fd855ac62c42,Ronald,Howard,ronald.howard57@hotmail.com,+18996981200,1186 Walnut Ln,San Antonio,TX,25518,127220,mass_affluent,social_media,2023-02-11
+0012b7d405bb210,Joseph,Evans,joseph.evans21@outlook.com,+14162887541,8917 Maple Ln,Detroit,MI,27950,53853,mass_market,social_media,2020-03-20
+00144a46f02d603,Scott,Martinez,scott.martinez90@outlook.com,+16135111559,3886 River Ct,San Diego,CA,53253,700372,high_net_worth,mail,2018-10-19
+001a9b20f6cdbbc,Rebecca,King,rebecca.king96@protonmail.com,+13133295387,9045 Oak Dr,Springfield,IL,74576,107346,mass_affluent,branch,2021-08-03
+001275d369a6e3c,Kimberly,Martin,kimberly.martin56@protonmail.com,+19557204411,4690 Walnut Ct,Seattle,WA,70630,190241,affluent,branch,2020-07-19
+001198c58950e83,Jessica,Campbell,jessica.campbell418@outlook.com,+14339893204,361 Elm Dr,Tacoma,WA,48863,206757,affluent,social_media,2023-05-25
+001a644be64ae55,Daniel,Nelson,daniel.nelson54@icloud.com,+14563283492,268 Park Way,Raleigh,NC,59446,142658,mass_affluent,web,2020-02-01
+00146bdc033f634,Stephen,Phillips,stephen.phillips538@hotmail.com,+19101506832,4413 Lake Ln,Columbus,TN,61561,141053,mass_affluent,web,2023-12-07
+001c670183a17ff,Debra,Ortiz,debra.ortiz41@yahoo.com,+18986396710,6841 Park St,Springfield,WI,72087,133900,mass_affluent,phone,2021-09-02
+001bd371dcd8213,Patricia,Walker,patricia.walker23@hotmail.com,+13509089056,1792 Oak Ct,Columbus,IN,19831,59847,mass_market,social_media,2019-06-18
+0012aa354abce68,Lisa,Davis,lisa.davis48@yahoo.com,+13068127485,9579 Main Ave,Detroit,MI,86613,127972,mass_affluent,web,2021-01-03
+001d796173fb792,Nancy,Gray,nancy.gray52@yahoo.com,+16561659976,5710 Main St,Tacoma,WA,48168,135889,mass_affluent,web,2018-10-20
+001fce873afee6f,Jeffrey,Lee,jeffrey.lee97@outlook.com,+14662021154,2660 Cedar Ln,Columbus,MD,90314,158522,affluent,mail,2024-01-21
+001d33668704112,Maria,Murphy,maria.murphy8@yahoo.com,+16408042761,7514 Walnut Way,Philadelphia,PA,53401,72743,mass_market,phone,2021-11-26
+001b853a984bc00,Catherine,Watson,catherine.watson3@yahoo.com,+12451171623,1792 River Ct,Columbus,MD,32512,30182,mass_market,web,2021-05-19
+001772202a1bc27,John,Scott,john.scott32@outlook.com,+12681683453,2622 Cedar Way,Charlotte,NC,53435,102038,mass_affluent,branch,2020-02-28
+001fa7d1c2cb221,Debra,Jones,debra.jones32@icloud.com,+13678159750,2266 Main Ct,Savannah,GA,80438,107191,mass_affluent,mail,2024-12-30
+0015d502730d6b0,Dennis,Wright,dennis.wright19@yahoo.com,+17087735859,3345 Oak Dr,Buffalo,NY,70265,329591,high_net_worth,mobile_app,2024-09-17
+0010dc62e31445f,Samuel,Lopez,samuel.lopez13@icloud.com,+15814894318,6666 Elm Dr,Springfield,MD,45922,668569,high_net_worth,web,2020-01-11
+001d82bfcc23f92,Rachel,Brown,rachel.brown18@outlook.com,+12624205318,2823 Oak St,Columbus,WI,56377,67426,mass_market,social_media,2018-01-19
+00115b798f08d86,Justin,Brooks,justin.brooks78@yahoo.com,+15835216521,2251 Elm St,Orlando,FL,75761,68750,mass_market,partner_referral,2023-06-11
+0017b247b730a5e,Joshua,Foster,joshua.foster768@aol.com,+17718214175,5904 Oak Blvd,Columbus,MO,90938,102390,mass_affluent,web,2024-06-11
+001b94868269cf8,Kevin,Brooks,kevin.brooks3@hotmail.com,+17205464844,6619 Park Ave,Columbus,IN,96305,185383,affluent,web,2021-08-06
+001ac0db36862fd,Ronald,Perez,ronald.perez58@yahoo.com,+17657898603,3191 River Ct,Springfield,MO,43023,42016,mass_market,partner_referral,2023-12-25
+0018075958f6b82,Andrew,Reed,andrew.reed52@gmail.com,+14686749403,962 River Blvd,Springfield,MD,66401,133115,mass_affluent,branch,2022-06-04
+00137d755c71d4d,Maria,Hernandez,maria.hernandez761@yahoo.com,+15911097123,866 Walnut St,Springfield,MD,79320,40506,mass_market,phone,2019-07-05
+0012ad920a90f46,Linda,Stewart,linda.stewart26@outlook.com,+16332512151,7385 Walnut Way,Phoenix,AZ,29216,30965,mass_market,partner_referral,2018-02-12
+001b6c835d6f6cb,Kimberly,Torres,kimberly.torres598@yahoo.com,+16758883082,6462 Lake Blvd,Albany,NY,72470,48089,mass_market,social_media,2021-11-30
+0014dbf73a9a888,Jennifer,Scott,jennifer.scott80@aol.com,+17784167297,2925 Pine Way,Phoenix,AZ,33953,77591,mass_affluent,web,2024-03-04
+0012a5302c4cde3,Mark,Wright,mark.wright22@outlook.com,+15009993695,6157 Maple Dr,Virginia Beach,VA,27932,299493,affluent,mail,2024-06-03
+0010adb380de0c0,Katherine,Johnson,katherine.johnson31@outlook.com,+19981268493,632 River Ct,San Diego,CA,38884,41428,mass_market,branch,2021-01-02
+0011907361c61ea,Ryan,Cook,ryan.cook547@protonmail.com,+16783204083,6452 Maple Dr,Columbus,IN,82542,65535,mass_market,social_media,2018-12-04
+001859821348c57,Catherine,Cox,catherine.cox6@hotmail.com,+16657460213,434 Pine Ave,Springfield,MD,57623,461515,high_net_worth,phone,2024-06-20
+001a135e3e738b6,Emma,Rogers,emma.rogers24@hotmail.com,+13878056995,6822 Park Ln,Atlanta,GA,94197,56512,mass_market,branch,2018-04-02
+0015fd0c974ad7e,Gregory,Kim,gregory.kim97@icloud.com,+16091403834,5259 Cedar Ct,San Antonio,TX,12871,97172,mass_affluent,partner_referral,2021-06-01
+001a4f7b84b0d4e,Jason,Ross,jason.ross74@hotmail.com,+12158961905,3240 River Ln,Albany,NY,33240,83020,mass_affluent,mail,2020-04-23
+00127f4a653d84a,Rebecca,Hughes,rebecca.hughes22@icloud.com,+18015897885,2684 Main Ave,Newark,NJ,87510,230730,affluent,partner_referral,2018-01-25
+0015fae9c2d2a27,Samantha,Kim,samantha.kim69@icloud.com,+13941033416,6127 Pine Ln,San Francisco,CA,79533,31755,mass_market,mobile_app,2023-01-16
+0013fb979def01c,Rachel,Jackson,rachel.jackson87@gmail.com,+15519853402,9601 Main St,Albany,NY,59756,221061,affluent,mobile_app,2018-01-23
+0018d2bf17ec1d6,Barbara,Nelson,barbara.nelson6@icloud.com,+12494415624,609 Lake Way,Los Angeles,CA,80703,630726,high_net_worth,partner_referral,2018-08-11
+001bd952a0f7e13,Scott,Turner,scott.turner73@yahoo.com,+18568833729,4615 Oak St,Springfield,MO,64912,77521,mass_affluent,phone,2021-08-29
+00119272ac62f55,Stephanie,Gomez,stephanie.gomez547@yahoo.com,+18885438623,4697 Pine Ave,Chicago,IL,52737,134806,mass_affluent,phone,2025-01-03
+001b2ccf755e757,Mary,Patel,mary.patel59@outlook.com,+14541150238,3092 Lake Blvd,Detroit,MI,84694,69103,mass_market,social_media,2022-07-29
+001a6fa3025bbab,Thomas,Long,thomas.long33@aol.com,+19712328070,8829 Park Ct,Detroit,MI,58131,53064,mass_market,mobile_app,2018-06-22
+00115c33f5f4e7f,Anna,Jackson,anna.jackson26@yahoo.com,+14368178761,729 Walnut Dr,Orlando,FL,70764,515542,high_net_worth,mail,2023-10-22
+001460c1ebd092c,Gary,Bennett,gary.bennett2@icloud.com,+16267679934,1290 Park Ln,Philadelphia,PA,86468,257670,affluent,web,2022-05-04
+001a57b77b62ed0,Janet,Peterson,janet.peterson48@protonmail.com,+16441207321,5033 Oak Ave,Atlanta,GA,43398,63735,mass_market,branch,2024-03-27
+0010a20d27743e3,Shirley,Myers,shirley.myers528@yahoo.com,+18312129753,5096 Maple Ct,Columbus,OH,14424,34358,mass_market,partner_referral,2018-01-19
+001a81b66e27ea4,Amy,Adams,amy.adams389@gmail.com,+15373538924,1011 Lake Ave,Naperville,IL,40609,227888,affluent,web,2025-03-24
+001231623f0553f,Helen,King,helen.king11@icloud.com,+18747115217,4130 Main Dr,Madison,MO,90699,127730,mass_affluent,branch,2025-04-12
+001ff9984fde71e,Janet,Chavez,janet.chavez85@yahoo.com,+16936297381,6730 Oak St,Detroit,MI,16793,37898,mass_market,phone,2020-11-21
+001bdb52949709e,Dennis,Kelly,dennis.kelly59@gmail.com,+13946004139,3112 Pine Ct,Philadelphia,PA,50699,42994,mass_market,phone,2024-08-16
+001cc25c2668021,Jonathan,Turner,jonathan.turner812@gmail.com,+19046994162,1571 Park Way,Chicago,IL,41312,51060,mass_market,web,2022-08-21
+001e5e67f468ee1,Nicole,Martinez,nicole.martinez86@outlook.com,+14542962483,6626 Main Way,Columbus,MO,74473,134230,mass_affluent,branch,2019-01-26
+0015a4ae9a57cdb,Jessica,Cooper,jessica.cooper76@icloud.com,+16033689700,753 Maple Ln,Charlotte,NC,58725,2503270,ultra_hnw,mail,2019-12-31
+0011589076e37d4,Mary,Martin,mary.martin44@hotmail.com,+16273217128,3378 Main Ave,Tacoma,WA,89285,58660,mass_market,mobile_app,2021-03-03
+00186b9ca4d4a92,Gary,Garcia,gary.garcia29@gmail.com,+12944350278,2479 Walnut Dr,Madison,IN,23141,3116824,ultra_hnw,mail,2018-06-18
+00124a360c922d6,Raymond,Thomas,raymond.thomas617@icloud.com,+14797096143,4663 Pine Dr,Jacksonville,FL,17432,50548,mass_market,partner_referral,2018-03-16
+0014927d58d4df4,Donna,Roberts,donna.roberts42@hotmail.com,+19777307007,145 Cedar Ave,Rochester,NY,11783,256809,affluent,phone,2022-05-07
+001cce3e972850e,James,Ramirez,james.ramirez25@outlook.com,+12453168718,8798 Oak Way,Tacoma,WA,93006,32721,mass_market,social_media,2020-08-26
+0012bacd3484293,Lisa,Davis,lisa.davis73@icloud.com,+19127151669,3889 Oak Ln,Atlanta,GA,95100,40359,mass_market,phone,2021-10-20
+0018d49093bab70,Amy,Nguyen,amy.nguyen43@yahoo.com,+17262519394,2137 Lake St,Jersey City,NJ,92656,223797,affluent,partner_referral,2021-07-30
+00188653eaf3b4a,Maria,Nelson,maria.nelson90@icloud.com,+15891202528,3945 Walnut St,Tacoma,WA,65050,38083,mass_market,mobile_app,2019-09-04
+001d65bfe48d30b,Stephanie,Williams,stephanie.williams9@icloud.com,+14352512736,7033 Park Ct,Chicago,IL,22306,31780,mass_market,branch,2022-02-04
+001c9c94655883e,Anthony,Young,anthony.young89@icloud.com,+17971912919,5331 Park St,Columbus,MD,85060,53944,mass_market,branch,2020-12-18
+001185f34a726ad,Carolyn,Phillips,carolyn.phillips51@aol.com,+12077278962,7779 Main Ct,Springfield,MD,34344,139867,mass_affluent,partner_referral,2020-03-08
+0013c405b2bfebc,Samuel,Gonzalez,samuel.gonzalez28@protonmail.com,+18983235755,3546 River Ct,Springfield,MD,63067,44222,mass_market,branch,2020-09-17
+001523f5de841e3,Ryan,Carter,ryan.carter847@yahoo.com,+12473292789,4004 Elm St,Madison,WI,85396,95899,mass_affluent,partner_referral,2020-08-27
+001b918758af767,Emily,Nguyen,emily.nguyen11@outlook.com,+14756739427,2178 Walnut St,Chicago,IL,68007,3443432,ultra_hnw,mail,2019-09-04
+001705ce8bd8889,Ronald,Powell,ronald.powell60@yahoo.com,+14082265544,6885 Lake Way,Detroit,MI,14426,39866,mass_market,phone,2025-01-05
+0010c9664a6bcbf,Michael,Walker,michael.walker821@icloud.com,+19255991409,978 Elm Dr,Seattle,WA,45422,38865,mass_market,partner_referral,2021-05-31
+00190d659494587,Melissa,Reed,melissa.reed82@protonmail.com,+16135401874,6844 Oak Blvd,Sacramento,CA,85192,283262,affluent,mobile_app,2025-12-04
+00118e42c1e1a0e,Gregory,Morales,gregory.morales41@gmail.com,+14884481895,2441 Walnut Ct,Madison,MD,67215,159012,affluent,web,2024-09-18
+001f90366ae3261,Carolyn,Peterson,carolyn.peterson30@outlook.com,+12161068514,1299 Elm Way,Madison,MD,69038,594851,high_net_worth,partner_referral,2025-05-29
+0019a67db1ec7a9,Joshua,Murphy,joshua.murphy682@yahoo.com,+13314439824,7476 Lake Way,Detroit,MI,81570,278894,affluent,branch,2022-06-17
+001eb8e68ff5055,Rachel,Martinez,rachel.martinez97@hotmail.com,+15329645532,7118 Park Ln,Cleveland,OH,45302,145317,mass_affluent,social_media,2024-06-13
+001752925cd091b,Karen,Sanchez,karen.sanchez13@icloud.com,+15306978202,5320 Park Way,Seattle,WA,76396,35483,mass_market,mobile_app,2022-09-05
+00168289fdf3297,Amy,Rivera,amy.rivera68@protonmail.com,+13355885024,1041 Cedar St,Tampa,FL,64358,55324,mass_market,mobile_app,2018-08-03
+0017e26a463b034,Emma,Ward,emma.ward41@protonmail.com,+16811702907,1140 Park St,Columbus,TN,42132,56642,mass_market,branch,2023-12-08
+001c4dab62cde94,Edward,Davis,edward.davis86@aol.com,+12128268869,1184 River Dr,Philadelphia,PA,88168,168130,affluent,social_media,2020-07-03
+00173f9c54e0f12,Brenda,Wright,brenda.wright97@protonmail.com,+15869256789,5001 Lake St,Tampa,FL,85109,50825,mass_market,partner_referral,2021-05-08
+001e36edb96fb96,Maria,Peterson,maria.peterson68@aol.com,+19813347334,5541 Lake Blvd,Dallas,TX,90022,80805,mass_affluent,branch,2021-01-12
+001929fa5e12c09,Christine,Collins,christine.collins95@outlook.com,+19039769129,2704 Maple St,Columbus,TN,75648,115470,mass_affluent,partner_referral,2019-04-11
+001b6ad43015886,Susan,Kelly,susan.kelly22@icloud.com,+16309062552,4892 Lake Ave,Phoenix,AZ,22931,72128,mass_market,phone,2018-05-08
+00142432bdb397e,Barbara,Mitchell,barbara.mitchell80@aol.com,+18071392646,6987 Elm Ave,New York,NY,27500,119549,mass_affluent,web,2022-04-12
+0019f0f7c975f3e,Sandra,Stewart,sandra.stewart60@icloud.com,+17946418382,4351 Oak Way,Springfield,MD,68349,65530,mass_market,mobile_app,2021-01-22
+001f8cbadb660d2,Cynthia,Rogers,cynthia.rogers22@icloud.com,+17634524857,8382 Pine Ln,Rochester,NY,77073,114649,mass_affluent,web,2024-04-03
+00104c7b911f847,Emma,Phillips,emma.phillips206@aol.com,+18629774395,6440 Oak Ln,Tampa,FL,27539,51871,mass_market,branch,2025-02-01
+001422b4d5991c3,John,Thomas,john.thomas293@outlook.com,+19239579547,7254 Pine Ln,San Antonio,TX,69522,93871,mass_affluent,web,2024-08-11
+00188f437ba0e82,Janet,Lewis,janet.lewis43@outlook.com,+18471716522,5314 Park Way,Cleveland,OH,14290,36655,mass_market,partner_referral,2020-08-25
+0017189a11e1b0d,Kimberly,Garcia,kimberly.garcia97@yahoo.com,+14326414076,906 Maple Dr,Grand Rapids,MI,80222,1609016,ultra_hnw,branch,2021-06-29
+0011314b820af37,Jeffrey,Edwards,jeffrey.edwards34@icloud.com,+16845923189,505 Maple Ct,Columbus,WI,65477,109997,mass_affluent,phone,2025-03-01
+001abe876016922,Kathleen,Ramirez,kathleen.ramirez30@gmail.com,+17217601881,9267 Maple Way,Madison,TN,14947,95993,mass_affluent,social_media,2022-02-08
+001af805d43f8cd,Sandra,Thompson,sandra.thompson50@gmail.com,+16774477983,5013 Pine Ct,Detroit,MI,60371,52738,mass_market,partner_referral,2024-03-02
+00179cd87798c6d,Benjamin,Morales,benjamin.morales52@aol.com,+17652204692,4796 Oak Ave,Charlotte,NC,49302,85082,mass_affluent,partner_referral,2019-10-24
+0019119ec87794d,Gary,Edwards,gary.edwards20@icloud.com,+18496836472,584 River Way,Detroit,MI,94647,213272,affluent,partner_referral,2024-01-05
+0015039d9cb5ebb,Scott,Myers,scott.myers18@protonmail.com,+13313242098,3707 Pine Ln,Tacoma,WA,87120,106524,mass_affluent,branch,2021-07-07
+0011d8e70c0a46d,Gary,Rivera,gary.rivera16@outlook.com,+15001451336,2790 Maple Ave,Madison,WI,55935,39812,mass_market,mobile_app,2021-09-03
+0011671aeaf05fa,Michael,Anderson,michael.anderson46@aol.com,+19763649973,3093 Park Way,Columbus,MO,67497,67198,mass_market,mobile_app,2018-09-30
+0017a2fb0419344,Carol,Smith,carol.smith198@yahoo.com,+17469991642,3846 River St,Pittsburgh,PA,49412,74783,mass_market,web,2021-03-27
+001877b0514f6f5,William,Mitchell,william.mitchell76@protonmail.com,+15244584557,1140 Elm Ct,Columbus,TN,11058,135029,mass_affluent,mail,2019-04-14
+001abb23b4445ce,Michael,Hughes,michael.hughes424@gmail.com,+12665197166,3849 Walnut Dr,Columbus,IN,80105,115897,mass_affluent,partner_referral,2020-09-23
+00161265dfaec7c,Brandon,Bennett,brandon.bennett75@hotmail.com,+14025100205,1281 Cedar Blvd,Tacoma,WA,33488,146816,mass_affluent,web,2018-08-05
+001578c4c6ee49d,Kevin,Chavez,kevin.chavez4@icloud.com,+16189059768,700 Oak Blvd,Newark,NJ,19881,87561,mass_affluent,partner_referral,2021-03-26
+001f316c56e2954,Jack,Gutierrez,jack.gutierrez78@outlook.com,+15863346094,551 Oak Way,Chicago,IL,90471,45211,mass_market,social_media,2021-08-01
+001a3a22cfa8693,Matthew,Robinson,matthew.robinson87@outlook.com,+15413117968,3648 Pine Ave,Pittsburgh,PA,75614,45942,mass_market,social_media,2019-10-11
+00197af57fbfc89,Sharon,Diaz,sharon.diaz364@hotmail.com,+17867048575,3005 River Dr,Cleveland,OH,40415,58656,mass_market,social_media,2020-10-10
+00191b2497dc82e,Kevin,Reed,kevin.reed54@outlook.com,+13075472823,7845 Cedar Ave,Rochester,NY,42664,141964,mass_affluent,mail,2020-10-05
+0010678abe7278a,Patrick,Green,patrick.green20@outlook.com,+14077513875,8191 River Ave,Savannah,GA,49034,71536,mass_market,phone,2019-06-06
+00196887016e7ba,Stephen,Lewis,stephen.lewis51@hotmail.com,+17513468179,4950 River Dr,Jersey City,NJ,87363,58125,mass_market,mail,2023-08-11
+00146f2b63a902a,Gregory,Cook,gregory.cook647@protonmail.com,+14138952128,2243 Walnut St,New York,NY,71804,60271,mass_market,social_media,2025-10-16
+0016b38d1fbf178,Robert,Bailey,robert.bailey99@icloud.com,+16064086060,5397 Pine Ct,Springfield,IL,28894,201500,affluent,social_media,2019-05-17
+0012470c84eb567,Scott,Wilson,scott.wilson866@gmail.com,+13857939248,6379 Pine Ln,Boston,MA,70314,218751,affluent,phone,2018-02-16
+00137be84f81954,Joseph,Jones,joseph.jones942@aol.com,+12342364051,3289 Maple Ave,Jacksonville,FL,45674,56303,mass_market,web,2019-04-11
+001292fe4c06d7c,Richard,Torres,richard.torres70@gmail.com,+13067718548,270 Pine Ln,Austin,TX,95780,69354,mass_market,partner_referral,2023-07-15
+001573841550f99,John,Martin,john.martin32@outlook.com,+13473046717,3386 Pine Ln,Madison,IN,53139,168967,affluent,mobile_app,2022-07-14
+0013c0e5f4c997b,Kathleen,Reed,kathleen.reed13@protonmail.com,+19182449725,8218 Oak Ave,Jacksonville,FL,27725,170928,affluent,branch,2024-02-05
+001c3f573adcefb,Christine,Smith,christine.smith99@aol.com,+14188317211,7905 Lake Blvd,Philadelphia,PA,74337,49600,mass_market,social_media,2025-02-01
+0011810578204cd,Joshua,Ward,joshua.ward7@gmail.com,+19274984061,1450 Cedar Ave,Jacksonville,FL,53449,72035,mass_market,mail,2020-10-18
+0015ca2ed620f05,Amanda,Perez,amanda.perez91@icloud.com,+17975629123,8629 Lake Blvd,Newark,NJ,65826,224185,affluent,mobile_app,2018-01-09
+0016f0d41f2531f,Benjamin,Hughes,benjamin.hughes58@hotmail.com,+19412449920,7565 Elm Dr,Jersey City,NJ,62980,141173,mass_affluent,partner_referral,2022-02-06
+001d687e6d24d44,William,Nguyen,william.nguyen14@gmail.com,+12037909697,6803 Lake Ln,Charlotte,NC,17732,218334,affluent,social_media,2025-04-09
+001a25c3c6275a4,Nicholas,Castillo,nicholas.castillo723@yahoo.com,+14901220972,8882 Pine Dr,Miami,FL,52826,39360,mass_market,mail,2020-07-28
+001598529df64b6,John,Castillo,john.castillo41@yahoo.com,+15268432244,2485 Elm Ct,Columbus,MO,94296,107279,mass_affluent,web,2019-02-21
+0012b5bbf3e2ec7,George,Morales,george.morales14@aol.com,+14946526890,4074 Pine St,Springfield,MO,90381,77253,mass_affluent,social_media,2019-06-07
+0019c951c2fdaca,Jacob,Bailey,jacob.bailey3@icloud.com,+14276777286,8254 Lake Way,Tucson,AZ,13268,35570,mass_market,web,2019-12-19
+001fd3d34f9a37c,Helen,Castillo,helen.castillo48@aol.com,+17856134852,441 Lake Ct,Cambridge,MA,46471,480607,high_net_worth,partner_referral,2021-07-30
+00173622ac06a5f,Eric,Cox,eric.cox97@outlook.com,+15808449959,808 Oak Dr,Columbus,MO,51726,57549,mass_market,phone,2021-09-20
+001a9ae0292b73b,Linda,Moore,linda.moore392@icloud.com,+19929370105,3054 Cedar Ct,Richmond,VA,11199,96067,mass_affluent,partner_referral,2022-06-21
+001e0de256eb089,Jerry,Jones,jerry.jones41@icloud.com,+14881483087,6394 Elm Ct,Charlotte,NC,75403,127208,mass_affluent,phone,2021-11-01
+001de5d00d64a28,Mark,James,mark.james68@icloud.com,+14311773264,4679 Main Ct,Naperville,IL,28326,234451,affluent,phone,2020-01-13
+0014ad1ba9cdd87,Donna,Lee,donna.lee763@yahoo.com,+16157416441,9997 Maple Dr,Springfield,WI,10649,181253,affluent,web,2023-03-16
+00107185690fb89,Nicholas,Garcia,nicholas.garcia836@yahoo.com,+14167269172,3797 Park Ln,Grand Rapids,MI,73860,68341,mass_market,branch,2025-07-13
+001141e4657026c,Nancy,Baker,nancy.baker75@aol.com,+13464806825,107 Pine Ct,Tacoma,WA,55105,150644,affluent,web,2021-12-20
+00182974a9080bb,Jerry,Martinez,jerry.martinez26@hotmail.com,+18292751710,1415 Park Dr,Grand Rapids,MI,66086,30842,mass_market,partner_referral,2022-12-24
+00109a17ef96187,David,Taylor,david.taylor20@yahoo.com,+14512161779,1965 Walnut Dr,Los Angeles,CA,92059,128317,mass_affluent,phone,2024-02-21
+0015ccc79769429,Karen,Sanchez,karen.sanchez542@yahoo.com,+17092405730,1461 Pine Ct,Springfield,TN,29952,142740,mass_affluent,web,2022-03-31
+00126d03a0aa327,Larry,Long,larry.long49@icloud.com,+18274501267,2177 Park Ct,Madison,MO,80172,480658,high_net_worth,branch,2020-04-28
+00148ba5b515d87,Amanda,Clark,amanda.clark24@icloud.com,+16554696501,6142 Oak Ct,Springfield,IN,28939,53140,mass_market,mobile_app,2022-05-08
+0016d38ba7a8209,Gregory,Gomez,gregory.gomez36@protonmail.com,+17915831487,6122 Oak St,Jersey City,NJ,50216,113470,mass_affluent,web,2022-12-13
+0018d03d0eb2dc8,Joseph,Jackson,joseph.jackson79@icloud.com,+17984615672,4317 Pine Ct,San Antonio,TX,28151,233775,affluent,mail,2020-01-05
+00181464432761e,Betty,Nguyen,betty.nguyen48@gmail.com,+17325887315,950 Park St,Columbus,TN,36687,149348,mass_affluent,mail,2021-11-13
+001768ce44afe74,Samuel,Sanders,samuel.sanders2@icloud.com,+14017828262,3699 Elm Ct,Naperville,IL,78186,34196,mass_market,branch,2021-07-21
+001cb12a4d7680a,Patrick,Gray,patrick.gray87@aol.com,+15901384885,8447 Elm Way,Columbus,IN,80812,101816,mass_affluent,phone,2024-02-03
+001f9c8d557fb80,Gregory,Allen,gregory.allen15@protonmail.com,+13923442281,4385 River Blvd,Columbus,WI,22265,597931,high_net_worth,web,2024-04-22
+001e9de48b7f244,Donna,Gomez,donna.gomez82@gmail.com,+12625728583,1106 Pine Ave,Jacksonville,FL,18372,64335,mass_market,phone,2020-06-06
+0010ead002d5303,Susan,Scott,susan.scott14@icloud.com,+17286331147,6349 Pine Dr,Madison,IN,24416,33272,mass_market,social_media,2023-09-03
+00129a2daf694a3,Susan,Phillips,susan.phillips672@icloud.com,+16349679845,7020 Oak St,Madison,WI,84547,132138,mass_affluent,social_media,2025-11-14
+0011c78f4b20b22,David,Stewart,david.stewart765@outlook.com,+16326488650,7304 Elm Ln,Austin,TX,58446,637444,high_net_worth,web,2022-03-16
+001994ffe5e1e8c,Raymond,Jackson,raymond.jackson55@icloud.com,+17619134892,3508 Main Ct,Jacksonville,FL,36528,726971,high_net_worth,social_media,2018-09-30
+001f49ba02e8c59,Sharon,Ramos,sharon.ramos39@icloud.com,+13095002258,172 Lake Dr,Madison,MO,34961,34012,mass_market,branch,2025-12-18
+001a161d1e9257e,Brenda,Alvarez,brenda.alvarez89@hotmail.com,+16929454950,6488 Maple St,Pittsburgh,PA,88976,186754,affluent,phone,2019-05-11
+00126272d6760d1,Matthew,Nguyen,matthew.nguyen16@hotmail.com,+17938964761,1874 Walnut Blvd,Grand Rapids,MI,89942,61681,mass_market,social_media,2025-05-21
+0018462f535da3d,Timothy,Ortiz,timothy.ortiz88@hotmail.com,+15734292975,7618 River Ave,Atlanta,GA,33894,40582,mass_market,branch,2019-09-16
+001bd36f442d2ef,Andrew,Morris,andrew.morris51@hotmail.com,+13558030642,246 Main Ln,Savannah,GA,14285,51545,mass_market,mobile_app,2018-12-05
+001ba1366c5420b,Brenda,Clark,brenda.clark61@aol.com,+12935230360,6398 Maple Way,Savannah,GA,76238,35849,mass_market,partner_referral,2023-07-09
+00162405deaa74c,Amy,Ruiz,amy.ruiz768@yahoo.com,+19379356056,2205 Pine St,Naperville,IL,15163,126491,mass_affluent,partner_referral,2019-08-05
+001e5fd56f5348b,Christine,Myers,christine.myers84@yahoo.com,+19471956637,3346 Maple Blvd,Seattle,WA,65156,43662,mass_market,web,2021-02-20
+001dc372c475f9a,Linda,Castillo,linda.castillo40@protonmail.com,+17441752540,2942 Lake Way,Houston,TX,40230,143293,mass_affluent,mobile_app,2024-03-15
+001adcf8057ba2e,Jack,Robinson,jack.robinson66@protonmail.com,+12843354355,2346 Walnut Ln,Austin,TX,18752,253260,affluent,social_media,2018-12-29
+001e5b1e17d4065,Brian,Alvarez,brian.alvarez2@protonmail.com,+18278258669,8246 Maple Ln,Atlanta,GA,68702,2801072,ultra_hnw,mobile_app,2021-11-29
+00122201007535b,Jason,Cox,jason.cox66@icloud.com,+16907679487,2152 Lake Ln,Savannah,GA,38409,1574546,ultra_hnw,web,2019-03-02
+0016405f7a98028,Ronald,Jimenez,ronald.jimenez73@hotmail.com,+19044266796,7432 Walnut St,Pittsburgh,PA,61796,569863,high_net_worth,mobile_app,2022-10-08
+0015a73a49935f0,Donald,Green,donald.green496@outlook.com,+12254153461,9226 Cedar Way,Madison,MD,79756,60464,mass_market,branch,2023-05-22
+001f4e2ec74f1ef,Heather,Roberts,heather.roberts69@aol.com,+16512346854,1970 Pine Ln,Jersey City,NJ,66168,126967,mass_affluent,social_media,2024-08-14
+001dbf02aea7330,Samantha,White,samantha.white76@yahoo.com,+12183071839,1765 Elm Blvd,Columbus,IN,93049,105528,mass_affluent,partner_referral,2018-07-23
+001c211f3fc9d08,Stephanie,James,stephanie.james50@yahoo.com,+12421228842,8267 Maple St,Columbus,WI,27839,69631,mass_market,social_media,2022-07-30
+0015a8f39e50b7c,Laura,Campbell,laura.campbell40@icloud.com,+18797165267,6784 Park Blvd,Savannah,GA,16514,722974,high_net_worth,mail,2025-10-27
+001f0516f769633,Steven,Nelson,steven.nelson38@aol.com,+19594835957,5886 Lake Dr,Rochester,NY,92572,63692,mass_market,phone,2021-12-20
+001bfc15c715aa3,Patricia,James,patricia.james392@yahoo.com,+19468224664,9882 Cedar Ct,Cambridge,MA,80198,40424,mass_market,branch,2020-09-25
+0017fcaf0a8f366,Scott,Thompson,scott.thompson734@gmail.com,+19138842351,7420 Maple Way,Columbus,MO,74228,111747,mass_affluent,social_media,2023-02-19
+001ec15ca57f45a,Donald,Bailey,donald.bailey32@hotmail.com,+13892580634,5206 Maple Blvd,San Francisco,CA,39750,92387,mass_affluent,web,2021-12-22
+001fa5955d57a79,Helen,Ross,helen.ross52@outlook.com,+13898729585,4428 Elm Ln,Newark,NJ,66902,45663,mass_market,phone,2019-08-06
+00148f4dc658c76,Shirley,Harris,shirley.harris75@yahoo.com,+15312573148,1384 Park Way,Madison,MO,49903,131543,mass_affluent,mobile_app,2020-11-29
+0019a7e277bd4c5,Jacob,White,jacob.white61@outlook.com,+16333798207,7069 Pine St,Springfield,MO,32780,93402,mass_affluent,branch,2022-04-28
+001bcb2f6c34cd9,Helen,Davis,helen.davis8@outlook.com,+15431545026,5505 River Ct,Phoenix,AZ,87355,70531,mass_market,social_media,2020-08-20
+001d10525d60348,Daniel,Ross,daniel.ross85@outlook.com,+18653554392,1036 Elm Blvd,Cleveland,OH,89666,240218,affluent,phone,2018-06-07
+001448dbae77b7f,Ashley,Allen,ashley.allen384@aol.com,+12245785492,4339 Maple St,Springfield,IL,78332,69739,mass_market,web,2020-01-27
+001b05c102c5592,John,Mendoza,john.mendoza78@yahoo.com,+15996699757,1152 Park Ave,Pittsburgh,PA,31197,94277,mass_affluent,social_media,2018-03-06
+001a18a1ac8c88c,Helen,Martin,helen.martin15@protonmail.com,+12277022766,2343 River Ln,Philadelphia,PA,99449,103551,mass_affluent,branch,2021-08-12
+0016407f192ca14,Steven,Scott,steven.scott72@aol.com,+12354574334,5173 Cedar St,Newark,NJ,32295,54725,mass_market,mail,2025-03-31
+001c2e63addd473,Anthony,Wright,anthony.wright10@yahoo.com,+17623217318,7413 Elm St,Tucson,AZ,16352,146002,mass_affluent,mobile_app,2020-09-10
+001d4d3b03e27fc,James,Gonzalez,james.gonzalez29@icloud.com,+12094985579,8905 River Way,Atlanta,GA,97499,35032,mass_market,partner_referral,2025-09-07
+001f135776d991b,Angela,Ramos,angela.ramos76@icloud.com,+12098663027,1970 Walnut Ave,Grand Rapids,MI,45257,85589,mass_affluent,social_media,2021-12-19
+0012f5ced7b862f,James,Ortiz,james.ortiz78@icloud.com,+13457634179,5738 Cedar Dr,Richmond,VA,25058,218037,affluent,phone,2025-03-17
+00124b38eda64ac,Nicholas,Turner,nicholas.turner48@outlook.com,+17064480823,7616 Oak Ave,Springfield,IL,81364,55013,mass_market,mail,2022-07-04
+0014cfe157b699a,Katherine,Alvarez,katherine.alvarez17@outlook.com,+18962853043,1273 Park Dr,Grand Rapids,MI,22682,2582175,ultra_hnw,web,2019-12-22
+00130b93f36e7fc,Jack,Turner,jack.turner3@yahoo.com,+15864881016,148 Main Blvd,Cleveland,OH,80947,54714,mass_market,partner_referral,2021-07-06
+0017653969fc850,Pamela,White,pamela.white36@gmail.com,+12445432916,917 Walnut Way,Naperville,IL,99861,2621114,ultra_hnw,branch,2023-05-31
+00173ec7471ac29,Matthew,Williams,matthew.williams74@icloud.com,+14918529542,9934 Main Blvd,New York,NY,31132,133746,mass_affluent,web,2023-05-22
+0013df51d391569,Eric,Patel,eric.patel13@icloud.com,+14042579044,2855 River Dr,Miami,FL,58040,2790562,ultra_hnw,phone,2018-11-12
+0013cb5c673385d,Edward,Ramirez,edward.ramirez90@gmail.com,+13164475928,312 Park St,Madison,TN,65839,82019,mass_affluent,mobile_app,2025-09-26
+001063cbe7cb0d6,Rebecca,Thomas,rebecca.thomas32@icloud.com,+18883740427,9952 Cedar Way,Atlanta,GA,48778,80951,mass_affluent,social_media,2024-06-27
+0018698db2e8725,Stephen,Ross,stephen.ross145@icloud.com,+14782170040,9933 Elm Blvd,Tampa,FL,83092,95201,mass_affluent,branch,2024-10-08
+001fe9d78dfd1e4,Daniel,Wilson,daniel.wilson27@hotmail.com,+19915222642,5315 Maple St,Philadelphia,PA,51150,109225,mass_affluent,social_media,2020-08-13
+00141468808a26c,Jack,Baker,jack.baker94@gmail.com,+17753950139,1863 Park Dr,Springfield,WI,93368,145566,mass_affluent,web,2022-01-24
+001bc0c0f88599c,Anthony,Ramirez,anthony.ramirez91@outlook.com,+12114024251,5107 Elm Way,Columbus,WI,32498,38918,mass_market,partner_referral,2025-10-07
+0015ec6e78b276d,Gregory,Young,gregory.young38@protonmail.com,+17665542450,2644 Main Ave,Philadelphia,PA,46636,115632,mass_affluent,social_media,2024-02-08
+001fb7543176e68,Jessica,Bennett,jessica.bennett45@yahoo.com,+18352089741,3254 Park St,Columbus,IN,51932,112356,mass_affluent,partner_referral,2018-02-03
+00104f3676be282,Deborah,Martinez,deborah.martinez31@icloud.com,+15917402264,7190 River Way,New York,NY,65499,97993,mass_affluent,social_media,2020-01-13
+001a42120cea7c4,David,Watson,david.watson49@icloud.com,+18893980886,8494 Maple Blvd,Springfield,MO,63754,111758,mass_affluent,social_media,2021-06-05
+00139bc637b8286,Susan,Patel,susan.patel32@hotmail.com,+17753962773,6386 River Ave,Columbus,IN,82677,122444,mass_affluent,branch,2023-09-11
+00110d5b5dd0048,Maria,Bailey,maria.bailey27@outlook.com,+18152612728,7805 Walnut Blvd,Madison,IN,15872,3491054,ultra_hnw,branch,2020-10-15
+001e71c61771089,Ryan,Ramirez,ryan.ramirez59@gmail.com,+16182786634,7596 Main Ct,Raleigh,NC,66784,267957,affluent,branch,2023-10-16
+001f6d2e1afd5fd,Shirley,King,shirley.king55@gmail.com,+19022609302,6397 Park Way,Boston,MA,48342,51351,mass_market,partner_referral,2022-11-06
+001c387f17d80aa,Pamela,Gutierrez,pamela.gutierrez63@outlook.com,+15181764389,2323 Pine Ave,Newark,NJ,83530,514186,high_net_worth,phone,2018-03-10
+00197a3394a3124,John,Taylor,john.taylor39@aol.com,+12737900000,4185 Lake Way,Newark,NJ,47686,3907405,ultra_hnw,social_media,2025-11-30
+0011f0cebf6b103,Mark,Williams,mark.williams1@protonmail.com,+15019450936,6143 Elm Ct,New York,NY,74189,237415,affluent,mail,2024-02-28
+00180ad54081abb,Matthew,Myers,matthew.myers69@gmail.com,+18903525628,3314 Maple Blvd,Phoenix,AZ,67638,63336,mass_market,branch,2022-07-09
+00178296d2d5577,Laura,Hill,laura.hill90@gmail.com,+17219193739,8224 Pine Ct,Raleigh,NC,74984,107113,mass_affluent,social_media,2019-07-11
+001c2f9d364727c,Carolyn,Nelson,carolyn.nelson54@aol.com,+16865720983,509 Pine Ct,Naperville,IL,29699,31802,mass_market,social_media,2020-11-05
+0013271379d0e79,Elizabeth,Green,elizabeth.green95@gmail.com,+16187251201,6627 Cedar Way,Springfield,TN,76353,81096,mass_affluent,partner_referral,2018-05-13
+0012885695ef9bf,Ashley,Baker,ashley.baker4@protonmail.com,+17842320054,1249 Main Way,Philadelphia,PA,42180,436434,high_net_worth,mail,2018-05-11
+001d3a6dc13c51e,Nicholas,Reed,nicholas.reed36@icloud.com,+16362283471,5211 Pine Dr,Madison,MD,68809,36671,mass_market,branch,2024-02-22
+001ebe7e554fe30,Cynthia,Sanders,cynthia.sanders48@icloud.com,+15517290235,374 Lake Way,Columbus,MD,91110,70246,mass_market,partner_referral,2025-12-10
+001cce547b275fb,Jason,Torres,jason.torres464@gmail.com,+14212480411,8815 Walnut Dr,San Diego,CA,14224,41451,mass_market,mobile_app,2022-09-26
+00166fafb0e1d1c,Nicholas,Baker,nicholas.baker967@protonmail.com,+18883793128,3801 Lake Dr,Pittsburgh,PA,94559,109400,mass_affluent,mobile_app,2020-02-09
+001fd55ffb84e6c,Kathleen,Hill,kathleen.hill66@outlook.com,+14005488504,6955 Cedar Ln,Tampa,FL,20293,74191,mass_market,mail,2023-09-02
+0010493e9526c2f,Nicole,Adams,nicole.adams49@icloud.com,+15533983232,3624 Lake Ave,Newark,NJ,22727,236584,affluent,mobile_app,2019-12-01
+001570101b71001,David,King,david.king98@protonmail.com,+12532704646,2940 Oak Ln,Seattle,WA,51208,36736,mass_market,web,2019-10-06
+0015862944b4852,Kevin,Chavez,kevin.chavez38@gmail.com,+16608397931,8829 Oak Way,Virginia Beach,VA,23082,32555,mass_market,mail,2020-07-04
+001550bfd20b9e1,Ryan,Evans,ryan.evans44@yahoo.com,+12567995697,5126 Oak Ln,Phoenix,AZ,23497,187056,affluent,branch,2024-04-06
+00193b2ffd274d4,Linda,Long,linda.long17@yahoo.com,+19032404566,8279 Cedar Way,Madison,IN,62705,65097,mass_market,social_media,2022-07-15
+001e9b35deb16aa,Paul,Murphy,paul.murphy714@hotmail.com,+16661824706,3397 Elm Ave,Madison,MD,13998,73388,mass_market,partner_referral,2019-07-24
+001a447df180a6d,Steven,Harris,steven.harris91@yahoo.com,+18469657186,6644 Main Ct,Columbus,MO,59820,473635,high_net_worth,mail,2021-04-24
+001a434ac707f49,Joshua,Morris,joshua.morris94@aol.com,+17176544568,7237 Walnut Way,Raleigh,NC,44024,4966755,ultra_hnw,branch,2018-06-20
+001619f194ad1f3,Brenda,Morales,brenda.morales85@gmail.com,+16263147096,2361 River St,Madison,IN,21558,408005,high_net_worth,social_media,2022-10-10
+00151b4272e04c4,Christine,Long,christine.long67@aol.com,+19836413204,4128 Lake Ave,Boston,MA,84650,181785,affluent,branch,2018-03-10
+0019b9f5e0825af,Jeffrey,Taylor,jeffrey.taylor17@hotmail.com,+19477607599,8184 Main Ct,Springfield,MO,82953,82378,mass_affluent,mail,2020-05-30
+0013da8ad11b4c0,Frank,James,frank.james98@protonmail.com,+13139840625,3677 Elm Ave,Naperville,IL,58957,386376,high_net_worth,phone,2025-06-10
+00187124cfeef85,Gary,Evans,gary.evans74@outlook.com,+17888968236,5584 Elm St,Madison,TN,40284,44339,mass_market,web,2024-03-09
+0017520fb8cc675,Rachel,Richardson,rachel.richardson558@icloud.com,+15303018304,2030 River Ln,Columbus,TN,74621,113159,mass_affluent,mobile_app,2025-09-10
+0016cf28dcd67af,Sharon,Flores,sharon.flores24@gmail.com,+13127643820,3240 Main St,Jacksonville,FL,52897,102072,mass_affluent,partner_referral,2018-07-24
+001d40b6266f901,Catherine,Ramirez,catherine.ramirez52@outlook.com,+12084422237,3320 Pine Ln,Detroit,MI,10656,81463,mass_affluent,social_media,2020-11-06
+0017155a7692e06,Stephanie,Myers,stephanie.myers79@icloud.com,+16965484943,6701 Elm Dr,Springfield,TN,27830,506019,high_net_worth,mobile_app,2018-03-06
+0017aaa61105a71,Scott,Ruiz,scott.ruiz22@gmail.com,+15656385189,3663 Lake Ave,Naperville,IL,12570,95127,mass_affluent,phone,2025-01-10
+0011ff9a5b0fcb8,Margaret,Cox,margaret.cox44@gmail.com,+18822678642,8371 Oak Dr,Virginia Beach,VA,73343,148554,mass_affluent,branch,2018-01-11
+0014478446ac795,Amanda,Clark,amanda.clark35@icloud.com,+16558287570,5842 Walnut Ct,Jacksonville,FL,51843,647583,high_net_worth,branch,2025-07-19
+001375280bb4177,Samantha,Flores,samantha.flores75@outlook.com,+19861902080,8076 Walnut Way,Savannah,GA,41587,97901,mass_affluent,branch,2022-08-09
+001271728ab12cb,Joseph,Thomas,joseph.thomas18@yahoo.com,+15607128423,7772 Lake Blvd,Jersey City,NJ,62597,84405,mass_affluent,web,2020-09-11
+001a37652c31d7d,Kevin,Wood,kevin.wood87@hotmail.com,+17966771537,8062 River Blvd,Virginia Beach,VA,73936,65153,mass_market,mail,2019-08-16
+001d1c5d3472cce,Edward,Perez,edward.perez33@icloud.com,+18078458954,1673 Pine Way,Atlanta,GA,74579,154782,affluent,phone,2022-12-24
+00149d9bf0a6714,Kenneth,Kelly,kenneth.kelly251@aol.com,+15972690689,416 Oak Dr,Newark,NJ,55604,79860,mass_affluent,branch,2026-01-03
+001c942d0116134,Samuel,Wright,samuel.wright152@hotmail.com,+15734965307,9105 River Dr,Springfield,MD,68349,116132,mass_affluent,web,2023-12-07
+0015e0fcf34b285,Alexander,Ortiz,alexander.ortiz28@yahoo.com,+15532786278,3276 River St,Columbus,WI,19753,65280,mass_market,branch,2023-12-28
+00186486d71d6ad,Sharon,Phillips,sharon.phillips91@protonmail.com,+18831184614,944 Park Way,Savannah,GA,39927,110131,mass_affluent,social_media,2022-12-14
+0014ca7bbb15624,Daniel,Baker,daniel.baker55@aol.com,+13062484123,2168 Elm Ave,Pittsburgh,PA,31790,34476,mass_market,partner_referral,2025-12-08
+001ff333af43ca4,Gary,Chavez,gary.chavez49@outlook.com,+19164603245,3063 Cedar Way,Madison,MO,51553,219233,affluent,branch,2022-06-04
+0013abab50459d7,Matthew,Rogers,matthew.rogers66@outlook.com,+19992672973,8899 Pine Ct,San Diego,CA,75097,68870,mass_market,mobile_app,2025-09-27
+0017247704f26e3,Betty,Young,betty.young26@gmail.com,+17209081305,6569 Pine Dr,Jersey City,NJ,73295,845780,ultra_hnw,mail,2022-12-20
+0018d4dbab291ff,Heather,Reyes,heather.reyes64@yahoo.com,+12425730150,9039 Lake Ct,Seattle,WA,77652,259061,affluent,branch,2025-05-03
+001ea2aeec56710,Charles,Roberts,charles.roberts92@hotmail.com,+19704870352,434 Walnut Ct,Grand Rapids,MI,42790,255192,affluent,mail,2021-05-07
+001e49e0c8c64ee,Thomas,Baker,thomas.baker755@icloud.com,+16751180768,7675 Pine Ave,Jacksonville,FL,25448,88086,mass_affluent,web,2024-04-07
+0010f770d144886,Stephanie,Smith,stephanie.smith66@gmail.com,+13444890720,3360 Cedar Ln,Chicago,IL,40250,63426,mass_market,social_media,2024-03-04
+0019e7ab5328197,Donald,Adams,donald.adams39@gmail.com,+19832483564,2566 Lake Ave,Albany,NY,34824,52620,mass_market,mobile_app,2025-09-28
+001897d794dceca,Amanda,Ross,amanda.ross65@icloud.com,+12586091294,1307 Elm Blvd,Columbus,WI,60067,31758,mass_market,branch,2025-11-04
+001977ee6bb4ffc,Brenda,King,brenda.king42@hotmail.com,+19318634414,3920 Oak Way,Jacksonville,FL,71920,223351,affluent,branch,2018-09-06
+0011429ccb0754d,Laura,Nelson,laura.nelson90@protonmail.com,+16494644289,2018 Lake St,Columbus,TN,55146,3295695,ultra_hnw,social_media,2021-05-22
+00110598b8f5698,George,Howard,george.howard47@outlook.com,+18896890368,6953 Cedar Dr,Grand Rapids,MI,29642,136952,mass_affluent,social_media,2023-06-06
+0019ebed1a98a4b,Debra,Brown,debra.brown49@hotmail.com,+18044053391,6780 Oak Ave,Columbus,OH,78079,129638,mass_affluent,phone,2023-12-05
+00124cfb2293475,Jeffrey,Kim,jeffrey.kim963@protonmail.com,+19778449742,1242 Oak St,Virginia Beach,VA,67383,54657,mass_market,mobile_app,2019-08-15
+001a1616144b236,Anna,Wood,anna.wood499@gmail.com,+16101461875,6290 River Blvd,Pittsburgh,PA,39696,39378,mass_market,branch,2018-08-01
+0014fd7181733d8,Carol,Jimenez,carol.jimenez68@protonmail.com,+17696642710,4806 Lake Dr,Naperville,IL,54648,33182,mass_market,branch,2023-05-30
+001c566ee8b1eda,Michelle,Jackson,michelle.jackson71@aol.com,+18528493210,9018 Walnut St,Springfield,IN,98963,53931,mass_market,web,2019-06-25
+001d95f2ec553af,John,Lopez,john.lopez736@aol.com,+19959120779,2712 Lake Dr,Madison,WI,36605,725255,high_net_worth,partner_referral,2024-08-21
+001efba1acc5d1c,Joseph,Stewart,joseph.stewart61@gmail.com,+12196438861,1387 Main Ave,Columbus,MD,79084,41976,mass_market,mobile_app,2020-03-08
+0017ec1027d48ed,William,Castillo,william.castillo8@protonmail.com,+14757808038,6900 Elm Ct,Columbus,TN,71140,64722,mass_market,partner_referral,2021-02-02
+00125fa92dd4169,Sandra,Castillo,sandra.castillo653@icloud.com,+13454991428,9199 Maple Dr,Seattle,WA,80111,101432,mass_affluent,branch,2024-02-02
+001c45a49c5b78e,Sandra,Moore,sandra.moore6@hotmail.com,+13098252546,8232 River Ct,Tacoma,WA,73358,36535,mass_market,branch,2023-08-11
+001fe6cb6e26780,Stephen,Castillo,stephen.castillo65@yahoo.com,+18072730412,5730 Lake Way,Richmond,VA,58752,47606,mass_market,social_media,2018-01-16
+001a7070adb7ce4,Robert,Powell,robert.powell31@aol.com,+16213658377,6415 Elm Blvd,Cambridge,MA,88812,297138,affluent,mail,2021-06-22
+001c8de7d96816d,Sharon,Price,sharon.price67@icloud.com,+13687314805,6029 Park St,Cambridge,MA,54244,50035,mass_market,social_media,2025-02-15
+0016989c96e564d,Michael,Ross,michael.ross93@gmail.com,+17815816416,255 River St,Savannah,GA,64912,326510,high_net_worth,phone,2019-05-29
+00110323297e8cb,Sarah,Taylor,sarah.taylor81@gmail.com,+13026571507,2529 Park Ave,Virginia Beach,VA,24251,81953,mass_affluent,branch,2024-09-21
+001c9deac088b90,Kevin,Turner,kevin.turner58@protonmail.com,+15133744482,2687 River Ln,Springfield,MD,93541,472993,high_net_worth,social_media,2019-05-31
+001433cb0ebeb04,Kathleen,Powell,kathleen.powell60@hotmail.com,+19984964080,6697 Cedar St,Springfield,TN,15597,3276605,ultra_hnw,web,2019-11-23
+00142f9a873e354,Edward,Rodriguez,edward.rodriguez16@icloud.com,+18349266290,9908 Elm Way,Grand Rapids,MI,18017,47026,mass_market,phone,2021-07-26
+001c95598cd7a8e,Debra,Kelly,debra.kelly431@icloud.com,+14025162762,8471 Oak Ave,Seattle,WA,42279,63645,mass_market,phone,2019-12-16
+001dece803e0aa2,Michelle,Gonzalez,michelle.gonzalez21@gmail.com,+14474861301,5782 Main Blvd,Philadelphia,PA,19518,67359,mass_market,web,2025-02-07
+001aba95ab2cb41,Dorothy,Adams,dorothy.adams40@gmail.com,+12803621766,6183 Cedar Ct,Columbus,MO,21482,39953,mass_market,web,2021-01-24
+0011e6f7df99e7f,Janet,Hall,janet.hall89@icloud.com,+19746269035,5964 Park St,San Diego,CA,61423,273324,affluent,web,2024-11-08
+0017e61407db5ce,Jessica,Myers,jessica.myers59@icloud.com,+12746245578,780 Pine Ave,Phoenix,AZ,17174,184451,affluent,mail,2022-11-07
+001557e5e8e9be4,Michelle,Harris,michelle.harris94@gmail.com,+12514633090,9928 Elm Dr,Cleveland,OH,77298,32892,mass_market,mail,2019-03-24
+0016743340e4d61,Brenda,Gutierrez,brenda.gutierrez45@hotmail.com,+12367405699,5573 Walnut Ct,Jacksonville,FL,82981,1133744,ultra_hnw,web,2018-12-29
+001fb5ac26ae82a,Charles,Smith,charles.smith54@outlook.com,+12188820028,8550 Maple Way,Springfield,MO,13772,100317,mass_affluent,web,2019-09-25
+001402f222e434f,Andrew,Cox,andrew.cox68@aol.com,+19408010465,7463 Cedar St,Springfield,MO,83555,148963,mass_affluent,phone,2023-05-24
+001f7b1e2be330c,George,Phillips,george.phillips3@hotmail.com,+12333259936,5826 Lake Ct,Cleveland,OH,55364,72979,mass_market,social_media,2025-01-07
+001a3b6c3019d4a,Gregory,Sanchez,gregory.sanchez87@yahoo.com,+12122736381,2452 Pine Way,Jacksonville,FL,17546,123650,mass_affluent,mobile_app,2022-08-30
+001e27cda983d37,John,Cook,john.cook49@gmail.com,+16014599637,316 Maple Ct,Dallas,TX,46975,141846,mass_affluent,web,2020-08-28
+001c59dacbec40d,Brandon,Flores,brandon.flores41@outlook.com,+16237500937,2600 Lake Ln,Springfield,WI,75081,4212620,ultra_hnw,mobile_app,2019-03-12
+001d4075b456f86,Benjamin,Phillips,benjamin.phillips58@protonmail.com,+13044094594,5988 Oak Way,Houston,TX,58360,32552,mass_market,partner_referral,2021-03-21
+001979ce3cecd83,Amanda,Rodriguez,amanda.rodriguez99@outlook.com,+16971564471,9663 Lake Dr,Tucson,AZ,35388,91657,mass_affluent,mobile_app,2020-06-09
+0016e40a66eb15c,Christopher,Lee,christopher.lee39@outlook.com,+12424797753,1307 Oak Ln,Charlotte,NC,14137,46011,mass_market,phone,2018-10-16
+001bad6cdf13e3d,Christine,Kelly,christine.kelly945@outlook.com,+15873399386,5077 Park Dr,Phoenix,AZ,83426,67215,mass_market,social_media,2023-08-16
+001d8b355e3ac15,Dennis,Rodriguez,dennis.rodriguez82@gmail.com,+16551037353,5174 Pine Dr,Springfield,IN,15053,52400,mass_market,phone,2018-02-09
+0016053eff61843,Nicholas,Collins,nicholas.collins59@outlook.com,+18778925498,9924 Pine Ct,Springfield,IN,17163,47810,mass_market,mobile_app,2022-05-16
+001ad649152a993,Justin,Ward,justin.ward81@icloud.com,+15072187967,170 Walnut St,Columbus,IN,39379,44991,mass_market,social_media,2025-12-10
+001d561b8877739,Donald,Lopez,donald.lopez51@gmail.com,+15975842247,449 Main Blvd,Houston,TX,67778,56673,mass_market,mail,2021-04-24
+001737e8f1b9c54,Eric,Ramos,eric.ramos19@protonmail.com,+12738457737,8067 Maple Way,Raleigh,NC,72976,78323,mass_affluent,mobile_app,2022-07-19
+001bd23d3f2361e,Elizabeth,Cruz,elizabeth.cruz46@outlook.com,+18068094649,7435 Pine Ave,Jacksonville,FL,40456,225134,affluent,partner_referral,2019-11-29
+00124353b97005d,Larry,Wilson,larry.wilson507@hotmail.com,+16136838196,3613 Walnut Way,Madison,TN,24636,30082,mass_market,mail,2020-09-25
+0016a797ac5dfd9,Maria,Diaz,maria.diaz85@yahoo.com,+18363574192,7950 Walnut Ln,Springfield,IL,69406,143950,mass_affluent,mobile_app,2024-04-13
+001f70c52a867cf,Maria,Morris,maria.morris609@aol.com,+13282987132,2089 Walnut Ave,Columbus,WI,54433,88273,mass_affluent,partner_referral,2022-01-30
+001fd1c03cbadab,Stephanie,Clark,stephanie.clark30@aol.com,+19344981852,4204 Elm Dr,Madison,MD,22983,117946,mass_affluent,phone,2025-06-07
+001bc4d450f8bbf,Linda,Nelson,linda.nelson559@gmail.com,+16252181337,9691 Park Ave,Los Angeles,CA,83642,73727,mass_market,mobile_app,2019-04-01
+001926b279cb264,James,Miller,james.miller62@yahoo.com,+14014658293,1305 Main Blvd,Madison,MO,97203,54606,mass_market,branch,2025-06-20
+00135c221185bfe,Kenneth,Castillo,kenneth.castillo97@gmail.com,+17387671212,4809 Oak Dr,Phoenix,AZ,60384,93311,mass_affluent,partner_referral,2024-02-19
+00193dfe83a113d,Frank,Watson,frank.watson19@yahoo.com,+17912136149,9464 Maple Way,Phoenix,AZ,33551,131956,mass_affluent,web,2022-08-23
+0016ee6377020b2,Daniel,Carter,daniel.carter98@outlook.com,+14646054719,8623 Pine Ct,Springfield,WI,42546,116028,mass_affluent,partner_referral,2019-11-09
+001cdeb692d3a42,Elizabeth,Flores,elizabeth.flores43@outlook.com,+19196833773,9829 Main Ct,Atlanta,GA,93926,51002,mass_market,partner_referral,2018-04-11
+001666b504ee91d,Richard,Ruiz,richard.ruiz51@hotmail.com,+12234629987,2488 Maple Blvd,Chicago,IL,76678,258122,affluent,mail,2023-04-01
+001c7e23243082b,Ryan,Kelly,ryan.kelly351@hotmail.com,+12872232965,1154 Park Way,Cleveland,OH,38386,4536944,ultra_hnw,phone,2018-10-04
+0015d047faa3c46,Sharon,Wilson,sharon.wilson47@icloud.com,+14551538101,8425 Elm Ln,Tampa,FL,31774,43631,mass_market,partner_referral,2020-04-20
+001ebd156654a81,Debra,Alvarez,debra.alvarez24@gmail.com,+16833243689,207 Oak Ln,Madison,IN,68876,53143,mass_market,mail,2022-10-15
+0018f310efde770,Gary,Ward,gary.ward11@gmail.com,+17252926417,5073 Lake Ct,Phoenix,AZ,43545,86976,mass_affluent,web,2021-12-18
+001a812c6908a36,Sarah,Taylor,sarah.taylor26@icloud.com,+15384434487,9509 Oak Dr,Savannah,GA,85120,42478,mass_market,mail,2018-01-12
+001560181cdd66f,Brandon,Roberts,brandon.roberts3@icloud.com,+13018313089,6505 Pine Ln,Columbus,MO,70857,222993,affluent,partner_referral,2018-01-06
+001b162438c2613,Richard,Morales,richard.morales46@gmail.com,+15251304647,6783 River Ln,Tucson,AZ,64486,68426,mass_market,partner_referral,2018-01-15
+00153e6d6d95e43,Rachel,Lee,rachel.lee82@outlook.com,+14406869365,4540 Main Way,Naperville,IL,50116,269545,affluent,phone,2023-08-24
+00181ce9a3d17c2,Barbara,Anderson,barbara.anderson52@gmail.com,+14262383382,7393 Pine Ln,Newark,NJ,87012,292422,affluent,web,2020-01-14
+00175cbeb448e8c,Jessica,Cooper,jessica.cooper89@protonmail.com,+15027114714,9869 Elm St,Phoenix,AZ,52727,246462,affluent,mobile_app,2019-12-31
+001d20f7e6c305e,Emma,Peterson,emma.peterson12@icloud.com,+12006983512,8793 River Dr,Atlanta,GA,15108,235233,affluent,branch,2019-08-08
+0019e981c8cebe3,Timothy,Price,timothy.price1@hotmail.com,+17075710426,6496 Oak Way,Madison,IN,25313,168441,affluent,partner_referral,2021-01-20
+001ece24106a3d0,Rachel,Gomez,rachel.gomez661@hotmail.com,+13075331925,3947 River Dr,Dallas,TX,61894,53118,mass_market,branch,2025-08-03
+00158ae066e351f,Andrew,Ward,andrew.ward65@icloud.com,+16123858105,7080 Elm Dr,Madison,MD,93918,231187,affluent,mobile_app,2021-07-04
+0012b1d62363c60,Ronald,Brown,ronald.brown608@protonmail.com,+18208200668,6061 Lake Ct,Charlotte,NC,51186,63798,mass_market,social_media,2024-11-08
+00164d2699db760,Margaret,Flores,margaret.flores13@hotmail.com,+18524243122,5282 Main Way,San Antonio,TX,92105,272151,affluent,mail,2025-04-25
+0016f5716cc30ce,Carol,Torres,carol.torres29@gmail.com,+19833319359,6532 Cedar Ave,Los Angeles,CA,30790,681705,high_net_worth,mobile_app,2019-06-17
+00113eb0b9f85c1,Scott,Ruiz,scott.ruiz5@aol.com,+14486988374,5243 Cedar Blvd,Dallas,TX,69176,34904,mass_market,branch,2023-06-19
+0014f4418c0189a,Rebecca,Flores,rebecca.flores82@yahoo.com,+16891239396,6956 Cedar St,Raleigh,NC,67357,147222,mass_affluent,branch,2019-10-18
+00182c685a52174,George,Roberts,george.roberts75@outlook.com,+12523115090,6782 Maple Way,Grand Rapids,MI,53624,123459,mass_affluent,phone,2020-11-17
+001d87fe915b11c,Samuel,Moore,samuel.moore896@hotmail.com,+14507716043,9366 Walnut Way,Columbus,TN,96597,315325,high_net_worth,social_media,2020-12-12
+001e2a84165cdf9,Karen,Davis,karen.davis4@hotmail.com,+12686717009,1866 Elm St,Columbus,MD,17316,60009,mass_market,social_media,2019-03-03
+00122facf51bd8a,Joseph,Carter,joseph.carter84@aol.com,+13502887015,140 Cedar Ave,Philadelphia,PA,13262,84511,mass_affluent,web,2024-08-06
+001103fe47521ea,Katherine,Reyes,katherine.reyes22@aol.com,+13482042521,6657 Maple Ave,Cambridge,MA,30811,66677,mass_market,mail,2024-12-16
+0015a723eab332f,Pamela,Peterson,pamela.peterson2@protonmail.com,+17817995360,418 Walnut Ct,Austin,TX,44769,51236,mass_market,partner_referral,2024-07-02
+001270bba29a194,Stephen,Reyes,stephen.reyes601@icloud.com,+19941886805,7210 Oak Ave,Raleigh,NC,90585,110728,mass_affluent,mail,2022-12-14
+001d3f44c3c625b,Sarah,Rogers,sarah.rogers26@protonmail.com,+17042250436,8553 Walnut St,Springfield,IL,53868,132350,mass_affluent,partner_referral,2020-11-19
+00130f0b080e622,Timothy,Flores,timothy.flores18@aol.com,+19017055966,4003 Cedar Way,Madison,TN,99872,182298,affluent,social_media,2024-07-14
+001c2c4b45db191,Kimberly,Bailey,kimberly.bailey22@gmail.com,+16918840652,1795 Main Dr,Sacramento,CA,47385,63714,mass_market,web,2025-10-06
+001f323ea506c20,Karen,Chavez,karen.chavez7@protonmail.com,+13089327575,9197 Cedar St,Grand Rapids,MI,33148,67398,mass_market,branch,2018-05-24
+0014867522fc838,Sandra,Price,sandra.price87@hotmail.com,+18696599609,3869 River Dr,Springfield,WI,52112,60845,mass_market,partner_referral,2024-12-14
+001cb70195d53ca,Gregory,Mendoza,gregory.mendoza57@outlook.com,+12407146970,1622 Maple Ave,Madison,WI,70107,56506,mass_market,mail,2018-12-08
+0010562530abe0a,Nicole,Edwards,nicole.edwards394@aol.com,+18731778906,6050 Lake Blvd,Seattle,WA,90658,173174,affluent,mail,2021-08-04
+001bc9158afd22f,Nicholas,Phillips,nicholas.phillips27@yahoo.com,+14647272751,4089 Cedar Ave,Pittsburgh,PA,67851,298094,affluent,branch,2020-12-23
+00171908cd2cadd,Frank,Martinez,frank.martinez74@icloud.com,+13209389951,3534 Main Ct,Columbus,MO,96386,96750,mass_affluent,partner_referral,2024-09-09
+0013c92424586d6,Christopher,James,christopher.james74@aol.com,+16952710850,2408 Oak Ct,Tucson,AZ,46951,51951,mass_market,partner_referral,2018-02-05
+0012d126fbe6abb,Justin,Young,justin.young24@icloud.com,+15449981436,876 Pine Blvd,Boston,MA,28881,109373,mass_affluent,web,2020-01-09
+0012895882ea108,Cynthia,Stewart,cynthia.stewart93@aol.com,+19084574029,6914 Main Way,Jersey City,NJ,53030,45440,mass_market,phone,2018-10-11
+001046c6411d3f2,Steven,Carter,steven.carter53@gmail.com,+12717042169,6810 Lake Ct,Atlanta,GA,62699,61360,mass_market,web,2021-04-21
+0011c8753c6ae22,Brandon,Allen,brandon.allen31@yahoo.com,+12544576563,7308 Elm Ct,Springfield,IN,95271,633271,high_net_worth,phone,2018-05-24
+001038c42cba4d9,Rebecca,Harris,rebecca.harris51@icloud.com,+12796351092,4995 Cedar Ln,New York,NY,76932,65686,mass_market,phone,2023-07-07
+0011c2b6da5afbd,Lisa,Watson,lisa.watson41@protonmail.com,+18285571940,6491 River Way,Madison,MO,89393,145817,mass_affluent,mobile_app,2025-06-07
+001a456955c3750,Karen,Garcia,karen.garcia56@icloud.com,+17358322898,4900 Elm Ct,Atlanta,GA,68001,102473,mass_affluent,partner_referral,2019-01-09
+001b089285dba92,Cynthia,Patel,cynthia.patel96@gmail.com,+16164053398,8897 Maple Ct,Seattle,WA,39080,220421,affluent,partner_referral,2023-01-13
+0010d9cac5a2ead,Daniel,Harris,daniel.harris917@aol.com,+16814662869,1097 Elm Ct,Springfield,IL,70592,102913,mass_affluent,partner_referral,2020-11-09
+001d5c50d15946c,Alexander,Lee,alexander.lee75@protonmail.com,+16608686537,733 Pine St,Charlotte,NC,23631,286631,affluent,mail,2021-10-15
+00169802921989a,Stephanie,Chavez,stephanie.chavez96@hotmail.com,+16419379565,3839 Maple Ave,Boston,MA,33372,113931,mass_affluent,branch,2024-10-29
+0010891ebd6faef,Jeffrey,Brown,jeffrey.brown5@icloud.com,+16221403147,9195 River Blvd,Sacramento,CA,37043,521116,high_net_worth,web,2021-07-05
+001f8ad8325291c,Jessica,Walker,jessica.walker42@aol.com,+19932269974,725 Lake Way,Columbus,IN,12216,53321,mass_market,mobile_app,2020-10-11
+001e9c2b9a9d0e1,Thomas,Brooks,thomas.brooks46@icloud.com,+15486758942,9439 Cedar Blvd,Cambridge,MA,13331,53974,mass_market,mobile_app,2022-04-10
+001f268666c9a25,Jeffrey,Anderson,jeffrey.anderson17@hotmail.com,+18787156788,2449 Main Dr,Grand Rapids,MI,97652,661590,high_net_worth,partner_referral,2024-04-09
+00140612a71ad9b,Brandon,Watson,brandon.watson65@protonmail.com,+18803273417,7859 Walnut Ct,Philadelphia,PA,91652,49388,mass_market,phone,2025-12-20
+0013cef2133537d,Janet,Campbell,janet.campbell302@outlook.com,+18591369976,9535 Pine St,Atlanta,GA,33072,202500,affluent,branch,2021-03-16
+00161b9ef6dcd9a,Justin,Reed,justin.reed53@gmail.com,+12882458953,1965 Maple Ct,Houston,TX,49662,72952,mass_market,partner_referral,2019-07-13
+001d37dc8893a0e,Scott,Foster,scott.foster15@protonmail.com,+13193528952,524 Elm Ln,Columbus,WI,21313,139693,mass_affluent,partner_referral,2018-12-24
+0016d137eb16a77,Brenda,Jones,brenda.jones212@yahoo.com,+13192806778,9532 River St,Philadelphia,PA,77257,129023,mass_affluent,partner_referral,2024-06-27
+00167e283799ab0,Maria,Parker,maria.parker809@gmail.com,+17189038528,4860 Main Blvd,Tacoma,WA,13954,35575,mass_market,partner_referral,2023-06-07
+001612a49fc506c,Emma,Mitchell,emma.mitchell97@hotmail.com,+13577008021,7624 Elm Ave,Phoenix,AZ,19862,3658770,ultra_hnw,social_media,2022-05-20
+0010dad330f183c,Janet,Martinez,janet.martinez52@protonmail.com,+16721381009,323 Cedar Ln,New York,NY,89630,67573,mass_market,mail,2020-02-09
+001b8a57eb5ee65,Margaret,Ruiz,margaret.ruiz84@gmail.com,+17728060795,3342 Maple Ave,Boston,MA,38338,30583,mass_market,social_media,2023-11-12
+0010803aafc10aa,Anna,Ruiz,anna.ruiz68@protonmail.com,+15323371841,6224 Lake Blvd,Madison,IN,45959,51958,mass_market,social_media,2023-04-02
+001d3c7083bbf46,Eric,Perez,eric.perez699@gmail.com,+12335330159,3956 Walnut Blvd,Savannah,GA,67537,148740,mass_affluent,mobile_app,2020-03-11
+0012082ab99aa7f,Richard,Gomez,richard.gomez62@icloud.com,+12383043939,4362 Cedar Ln,Savannah,GA,49571,240493,affluent,branch,2019-03-09
+001b6785db0a650,Joseph,Price,joseph.price4@protonmail.com,+14037292330,1347 Oak Ln,Detroit,MI,89635,176732,affluent,partner_referral,2024-01-17
+001147b04a51546,Daniel,Patel,daniel.patel26@outlook.com,+18925574991,5257 Pine Blvd,Seattle,WA,84265,59627,mass_market,phone,2023-08-10
+0010b06f4db089a,Edward,Chavez,edward.chavez89@gmail.com,+18678466201,3502 Walnut Ct,Chicago,IL,79517,136810,mass_affluent,mobile_app,2022-03-22
+0019fbe4f97ad5f,Robert,Howard,robert.howard9@yahoo.com,+16215355728,415 Maple Blvd,Cleveland,OH,79165,74759,mass_market,mail,2022-07-23
+001863fa49afd51,Daniel,Morales,daniel.morales55@aol.com,+15375927194,2364 Oak Way,Columbus,MD,72387,216868,affluent,partner_referral,2021-06-02
+0016685b206af79,Joseph,Turner,joseph.turner536@hotmail.com,+14174824416,2759 Walnut Blvd,Albany,NY,77421,50901,mass_market,partner_referral,2025-10-26
+0015262128b5b97,Brenda,Wilson,brenda.wilson73@outlook.com,+17725728519,1572 Pine Ave,Naperville,IL,91987,212759,affluent,partner_referral,2023-01-11
+0017eb14ab9781e,Betty,Brooks,betty.brooks7@yahoo.com,+16246464531,6299 Pine Way,Cleveland,OH,69814,73151,mass_market,phone,2022-07-19
+0016eac95c5fdeb,Shirley,Reyes,shirley.reyes399@icloud.com,+14635271121,6355 Oak St,Austin,TX,86352,37918,mass_market,web,2024-06-20
+001ead9d1e83331,Gary,Ramirez,gary.ramirez59@gmail.com,+12578864423,9280 Lake St,Madison,IN,92906,593374,high_net_worth,web,2020-09-14
+0015a2becd5a001,Stephanie,Morris,stephanie.morris71@yahoo.com,+17847056694,7626 Oak Dr,Madison,MD,50296,39725,mass_market,social_media,2018-03-21
+001c651f546a507,Catherine,Stewart,catherine.stewart97@protonmail.com,+17934771454,2790 Main Dr,San Francisco,CA,14603,142124,mass_affluent,mail,2018-09-06
+001e2db0db0f740,Jeffrey,Evans,jeffrey.evans611@icloud.com,+15695633475,1571 River Ln,Pittsburgh,PA,30992,55884,mass_market,phone,2021-10-25
+0013a9051b1ee4c,Matthew,Flores,matthew.flores963@icloud.com,+18795289751,5757 Elm Blvd,Newark,NJ,68104,165295,affluent,branch,2022-06-15
+001aa72cf8973d8,Heather,Ross,heather.ross96@icloud.com,+15763049700,2150 Cedar Way,San Antonio,TX,83135,72421,mass_market,social_media,2019-08-24
+001b1cf09f4b7f0,Stephanie,Castillo,stephanie.castillo21@protonmail.com,+19899718036,3882 Park Ave,Phoenix,AZ,38719,38488,mass_market,web,2020-11-22
+0019f7dc187f5f5,Jacob,Foster,jacob.foster26@yahoo.com,+14384299288,2128 Lake Ct,Houston,TX,77454,101792,mass_affluent,mobile_app,2020-10-25
+0010f68bf1adf0a,Benjamin,Johnson,benjamin.johnson70@gmail.com,+18687478733,4946 Cedar Ct,Raleigh,NC,56732,74402,mass_market,partner_referral,2025-09-15
+001e5dd16a7a684,Sharon,Nguyen,sharon.nguyen79@yahoo.com,+14693227782,8720 Lake Ave,San Diego,CA,93317,69487,mass_market,branch,2025-04-06
+001158350a21e51,Eric,Ramirez,eric.ramirez11@hotmail.com,+19011500857,2193 Cedar St,Columbus,OH,61920,124038,mass_affluent,partner_referral,2024-08-29
+001e2ad0532832d,Joshua,Murphy,joshua.murphy93@aol.com,+12911016268,3886 Lake Blvd,Tucson,AZ,34274,46162,mass_market,social_media,2022-10-22
+001144642c06bfe,Gregory,Cruz,gregory.cruz42@protonmail.com,+19615798227,6895 Cedar Dr,Detroit,MI,96838,112883,mass_affluent,web,2024-11-24
+0015691151f293e,Robert,James,robert.james85@protonmail.com,+16724437446,3145 Elm Way,Naperville,IL,36804,193973,affluent,mail,2025-07-13
+001bf3ed1cf17d8,Richard,Howard,richard.howard53@outlook.com,+15118504012,9236 River Way,Miami,FL,35913,132981,mass_affluent,mail,2022-06-12
+0016a9779be0051,Brandon,Bennett,brandon.bennett97@icloud.com,+14525561727,6956 Walnut Ln,Los Angeles,CA,49340,89082,mass_affluent,phone,2025-02-28
+001a801a1e3d7d0,Catherine,Foster,catherine.foster57@aol.com,+15108539008,7350 Oak Ln,Newark,NJ,79293,120189,mass_affluent,mail,2022-05-13
+001875305eb66cd,Angela,Green,angela.green36@icloud.com,+18223774944,4445 Maple Blvd,Springfield,WI,40434,106423,mass_affluent,mail,2018-08-25
+0011c323d70671a,Deborah,Jones,deborah.jones1@outlook.com,+18011983115,3572 Park Dr,Savannah,GA,44020,50338,mass_market,phone,2021-09-14
+00191d01064ad18,Joseph,Baker,joseph.baker827@aol.com,+18541745151,794 Pine St,Dallas,TX,51137,281782,affluent,web,2021-12-09
+001a8c49159a04e,James,Gonzalez,james.gonzalez14@gmail.com,+12704093038,4921 Cedar Ct,Savannah,GA,71039,52199,mass_market,mail,2024-07-28
+0015e99eb1b02b6,Jerry,Howard,jerry.howard86@protonmail.com,+19574734796,9543 Walnut Ln,Tampa,FL,67412,601773,high_net_worth,phone,2018-05-29
+001c0c0ce05d615,Scott,Clark,scott.clark10@protonmail.com,+13995688368,9545 Cedar Ave,Pittsburgh,PA,27664,40072,mass_market,social_media,2018-12-09
+0012e7e69b511c5,Kathleen,Gray,kathleen.gray52@gmail.com,+12694041928,6891 Elm Way,Albany,NY,14302,108408,mass_affluent,branch,2019-09-25
+0015f09f062adb3,Barbara,Perez,barbara.perez873@aol.com,+18234718703,3305 Main Ave,Miami,FL,52538,90917,mass_affluent,social_media,2024-01-30
+0016f38d89e5a04,Mark,Anderson,mark.anderson82@gmail.com,+17847787413,9071 Main Blvd,Grand Rapids,MI,57095,88822,mass_affluent,web,2025-11-11

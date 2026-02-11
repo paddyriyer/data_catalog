@@ -1,0 +1,770 @@
+{
+  "table_name": "fact_transactions",
+  "layer": "gold",
+  "file_path": "/home/claude/data-catalogue/data/gold/fact_transactions.csv",
+  "total_rows": 30000,
+  "total_columns": 16,
+  "file_size_bytes": 4661099,
+  "file_size_human": "4.4 MB",
+  "profiled_at": "2026-02-11T05:41:50Z",
+  "quality_score": 100.0,
+  "pii_summary": {
+    "PUBLIC": 12,
+    "CONFIDENTIAL": 3,
+    "PII": 1
+  },
+  "columns": [
+    {
+      "column_name": "transaction_id",
+      "data_type": "identifier",
+      "pii_classification": "PUBLIC",
+      "total_count": 30000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 30000,
+      "cardinality_ratio": 100.0,
+      "is_unique": true,
+      "top_values": [
+        {
+          "value": "TXN-00001",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "TXN-00002",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "TXN-00003",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "TXN-00004",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "TXN-00005",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "TXN-00006",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "TXN-00007",
+          "count": 1,
+          "pct": 0.0
+        },
+        {
+          "value": "TXN-00008",
+          "count": 1,
+          "pct": 0.0
+        }
+      ],
+      "sample_values": [
+        "TXN-26710",
+        "TXN-18630",
+        "TXN-24407",
+        "TXN-24585",
+        "TXN-13509"
+      ],
+      "min_length": 9,
+      "max_length": 9,
+      "avg_length": 9.0,
+      "quality_score": 100,
+      "glossary": {
+        "term": "Transaction Identifier",
+        "definition": "Unique identifier for each financial transaction. Immutable once created.",
+        "domain": "Payments",
+        "steward": "Payment Operations"
+      }
+    },
+    {
+      "column_name": "account_id",
+      "data_type": "identifier",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 30000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1377,
+      "cardinality_ratio": 4.59,
+      "is_unique": false,
+      "sample_values": [
+        "ACCT-10918",
+        "ACCT-10605",
+        "ACCT-13343",
+        "ACCT-12846",
+        "ACCT-13363"
+      ],
+      "min_length": 10,
+      "max_length": 10,
+      "avg_length": 10.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "customer_id",
+      "data_type": "identifier",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 30000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1067,
+      "cardinality_ratio": 3.56,
+      "is_unique": false,
+      "sample_values": [
+        "CUST-00840",
+        "CUST-00002",
+        "CUST-01915",
+        "CUST-01252",
+        "CUST-00645"
+      ],
+      "min_length": 10,
+      "max_length": 10,
+      "avg_length": 10.0,
+      "quality_score": 100,
+      "glossary": {
+        "term": "Customer Identifier",
+        "definition": "Unique golden record identifier for a customer entity, MDM-assigned after deduplication across source systems.",
+        "domain": "MDM",
+        "steward": "Data Governance Team"
+      }
+    },
+    {
+      "column_name": "transaction_date",
+      "data_type": "datetime",
+      "pii_classification": "PUBLIC",
+      "total_count": 30000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 29989,
+      "cardinality_ratio": 99.96,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "2025-06-10T11:00:48Z",
+          "count": 2,
+          "pct": 0.0
+        },
+        {
+          "value": "2025-11-15T21:45:27Z",
+          "count": 2,
+          "pct": 0.0
+        },
+        {
+          "value": "2025-07-29T03:52:44Z",
+          "count": 2,
+          "pct": 0.0
+        },
+        {
+          "value": "2025-06-09T19:53:29Z",
+          "count": 2,
+          "pct": 0.0
+        },
+        {
+          "value": "2025-08-19T13:58:06Z",
+          "count": 2,
+          "pct": 0.0
+        },
+        {
+          "value": "2025-05-12T17:56:21Z",
+          "count": 2,
+          "pct": 0.0
+        },
+        {
+          "value": "2025-04-02T10:09:28Z",
+          "count": 2,
+          "pct": 0.0
+        },
+        {
+          "value": "2025-10-08T08:06:32Z",
+          "count": 2,
+          "pct": 0.0
+        }
+      ],
+      "sample_values": [
+        "2025-07-23T07:36:49Z",
+        "2025-02-12T05:33:01Z",
+        "2025-02-23T17:49:30Z",
+        "2025-12-02T18:03:50Z",
+        "2025-07-14T07:13:27Z"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "post_date",
+      "data_type": "date",
+      "pii_classification": "PUBLIC",
+      "total_count": 30000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 368,
+      "cardinality_ratio": 1.23,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "2025-11-07",
+          "count": 118,
+          "pct": 0.4
+        },
+        {
+          "value": "2025-04-20",
+          "count": 111,
+          "pct": 0.4
+        },
+        {
+          "value": "2025-09-24",
+          "count": 107,
+          "pct": 0.4
+        },
+        {
+          "value": "2025-04-24",
+          "count": 105,
+          "pct": 0.4
+        },
+        {
+          "value": "2025-06-11",
+          "count": 102,
+          "pct": 0.3
+        },
+        {
+          "value": "2025-12-22",
+          "count": 102,
+          "pct": 0.3
+        },
+        {
+          "value": "2025-10-23",
+          "count": 101,
+          "pct": 0.3
+        },
+        {
+          "value": "2025-06-15",
+          "count": 100,
+          "pct": 0.3
+        }
+      ],
+      "sample_values": [
+        "2025-12-23",
+        "2025-12-25",
+        "2025-02-11",
+        "2025-11-27",
+        "2025-09-20"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "amount",
+      "data_type": "decimal",
+      "pii_classification": "CONFIDENTIAL",
+      "total_count": 30000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 15060,
+      "cardinality_ratio": 50.2,
+      "is_unique": false,
+      "min": 1.0,
+      "max": 855.25,
+      "mean": 90.21,
+      "median": 51.41,
+      "std_dev": 105.89,
+      "sample_values": [
+        "79.31",
+        "53.31",
+        "100.38",
+        "115.05",
+        "66.29"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "transaction_type",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 30000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 6,
+      "cardinality_ratio": 0.02,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "purchase",
+          "count": 21083,
+          "pct": 70.3
+        },
+        {
+          "value": "payment",
+          "count": 4432,
+          "pct": 14.8
+        },
+        {
+          "value": "refund",
+          "count": 1523,
+          "pct": 5.1
+        },
+        {
+          "value": "interest",
+          "count": 1223,
+          "pct": 4.1
+        },
+        {
+          "value": "fee",
+          "count": 1126,
+          "pct": 3.8
+        },
+        {
+          "value": "cash_advance",
+          "count": 613,
+          "pct": 2.0
+        }
+      ],
+      "sample_values": [
+        "refund",
+        "payment",
+        "purchase",
+        "fee",
+        "interest"
+      ],
+      "min_length": 3,
+      "max_length": 12,
+      "avg_length": 7.6,
+      "quality_score": 100
+    },
+    {
+      "column_name": "mcc_code",
+      "data_type": "integer",
+      "pii_classification": "PUBLIC",
+      "total_count": 30000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 16,
+      "cardinality_ratio": 0.05,
+      "is_unique": false,
+      "min": 4121.0,
+      "max": 8011.0,
+      "mean": 6018.24,
+      "median": 5812.0,
+      "std_dev": 1058.62,
+      "top_values": [
+        {
+          "value": "5541",
+          "count": 1978,
+          "pct": 6.6
+        },
+        {
+          "value": "8011",
+          "count": 1967,
+          "pct": 6.6
+        },
+        {
+          "value": "4511",
+          "count": 1935,
+          "pct": 6.5
+        },
+        {
+          "value": "5812",
+          "count": 1927,
+          "pct": 6.4
+        },
+        {
+          "value": "7523",
+          "count": 1914,
+          "pct": 6.4
+        },
+        {
+          "value": "7832",
+          "count": 1910,
+          "pct": 6.4
+        },
+        {
+          "value": "5691",
+          "count": 1910,
+          "pct": 6.4
+        },
+        {
+          "value": "5311",
+          "count": 1871,
+          "pct": 6.2
+        }
+      ],
+      "sample_values": [
+        "7523",
+        "5732",
+        "8011",
+        "5411",
+        "5691"
+      ],
+      "quality_score": 100,
+      "glossary": {
+        "term": "Merchant Category Code",
+        "definition": "ISO 18245 four-digit code classifying the merchant's business type for card transactions.",
+        "domain": "Payments",
+        "steward": "Merchant Services"
+      }
+    },
+    {
+      "column_name": "merchant_category",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 30000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 16,
+      "cardinality_ratio": 0.05,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "Gas Stations",
+          "count": 1978,
+          "pct": 6.6
+        },
+        {
+          "value": "Medical",
+          "count": 1967,
+          "pct": 6.6
+        },
+        {
+          "value": "Airlines",
+          "count": 1935,
+          "pct": 6.5
+        },
+        {
+          "value": "Restaurants",
+          "count": 1927,
+          "pct": 6.4
+        },
+        {
+          "value": "Parking",
+          "count": 1914,
+          "pct": 6.4
+        },
+        {
+          "value": "Entertainment",
+          "count": 1910,
+          "pct": 6.4
+        },
+        {
+          "value": "Clothing",
+          "count": 1910,
+          "pct": 6.4
+        },
+        {
+          "value": "Department Stores",
+          "count": 1871,
+          "pct": 6.2
+        }
+      ],
+      "sample_values": [
+        "Online Shopping",
+        "Restaurants",
+        "Pharmacy",
+        "Rideshare/Taxi",
+        "Department Stores"
+      ],
+      "min_length": 6,
+      "max_length": 17,
+      "avg_length": 10.2,
+      "quality_score": 100
+    },
+    {
+      "column_name": "merchant_name",
+      "data_type": "string",
+      "pii_classification": "PII",
+      "total_count": 30000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 12614,
+      "cardinality_ratio": 42.05,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "***MASKED***",
+          "count": 30000,
+          "pct": 100
+        }
+      ],
+      "sample_values": [
+        "***MASKED***",
+        "***MASKED***",
+        "***MASKED***"
+      ],
+      "min_length": 17,
+      "max_length": 28,
+      "avg_length": 21.2,
+      "quality_score": 100
+    },
+    {
+      "column_name": "channel",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 30000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 5,
+      "cardinality_ratio": 0.02,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "online",
+          "count": 9012,
+          "pct": 30.0
+        },
+        {
+          "value": "pos_chip",
+          "count": 8911,
+          "pct": 29.7
+        },
+        {
+          "value": "pos_contactless",
+          "count": 7512,
+          "pct": 25.0
+        },
+        {
+          "value": "mobile_wallet",
+          "count": 3021,
+          "pct": 10.1
+        },
+        {
+          "value": "atm",
+          "count": 1544,
+          "pct": 5.1
+        }
+      ],
+      "sample_values": [
+        "online",
+        "atm",
+        "mobile_wallet",
+        "pos_chip",
+        "pos_contactless"
+      ],
+      "min_length": 3,
+      "max_length": 15,
+      "avg_length": 9.4,
+      "quality_score": 100
+    },
+    {
+      "column_name": "currency",
+      "data_type": "string",
+      "pii_classification": "PUBLIC",
+      "total_count": 30000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1,
+      "cardinality_ratio": 0.0,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "USD",
+          "count": 30000,
+          "pct": 100.0
+        }
+      ],
+      "sample_values": [
+        "USD"
+      ],
+      "min_length": 3,
+      "max_length": 3,
+      "avg_length": 3.0,
+      "quality_score": 100
+    },
+    {
+      "column_name": "rewards_earned",
+      "data_type": "decimal",
+      "pii_classification": "PUBLIC",
+      "total_count": 30000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 1833,
+      "cardinality_ratio": 6.11,
+      "is_unique": false,
+      "min": 0.01,
+      "max": 38.95,
+      "mean": 2.71,
+      "median": 1.45,
+      "std_dev": 3.56,
+      "top_values": [
+        {
+          "value": "0.49",
+          "count": 173,
+          "pct": 0.6
+        },
+        {
+          "value": "0.6",
+          "count": 165,
+          "pct": 0.5
+        },
+        {
+          "value": "0.46",
+          "count": 157,
+          "pct": 0.5
+        },
+        {
+          "value": "0.39",
+          "count": 153,
+          "pct": 0.5
+        },
+        {
+          "value": "0.45",
+          "count": 149,
+          "pct": 0.5
+        },
+        {
+          "value": "0.58",
+          "count": 148,
+          "pct": 0.5
+        },
+        {
+          "value": "0.47",
+          "count": 148,
+          "pct": 0.5
+        },
+        {
+          "value": "0.53",
+          "count": 148,
+          "pct": 0.5
+        }
+      ],
+      "sample_values": [
+        "5.51",
+        "9.49",
+        "20.92",
+        "5.56",
+        "3.45"
+      ],
+      "quality_score": 100,
+      "glossary": {
+        "term": "Rewards Earned",
+        "definition": "Dollar value of rewards points/cashback earned on a transaction, calculated by product-specific reward rates.",
+        "domain": "Loyalty",
+        "steward": "Loyalty Program"
+      }
+    },
+    {
+      "column_name": "is_international",
+      "data_type": "boolean",
+      "pii_classification": "PUBLIC",
+      "total_count": 30000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 2,
+      "cardinality_ratio": 0.01,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "False",
+          "count": 27575,
+          "pct": 91.9
+        },
+        {
+          "value": "True",
+          "count": 2425,
+          "pct": 8.1
+        }
+      ],
+      "sample_values": [
+        "False",
+        "True"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "is_disputed",
+      "data_type": "boolean",
+      "pii_classification": "PUBLIC",
+      "total_count": 30000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 2,
+      "cardinality_ratio": 0.01,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "False",
+          "count": 29378,
+          "pct": 97.9
+        },
+        {
+          "value": "True",
+          "count": 622,
+          "pct": 2.1
+        }
+      ],
+      "sample_values": [
+        "False",
+        "True"
+      ],
+      "quality_score": 100
+    },
+    {
+      "column_name": "fraud_flag",
+      "data_type": "boolean",
+      "pii_classification": "PUBLIC",
+      "total_count": 30000,
+      "null_count": 0,
+      "null_rate": 0.0,
+      "distinct_count": 2,
+      "cardinality_ratio": 0.01,
+      "is_unique": false,
+      "top_values": [
+        {
+          "value": "False",
+          "count": 29748,
+          "pct": 99.2
+        },
+        {
+          "value": "True",
+          "count": 252,
+          "pct": 0.8
+        }
+      ],
+      "sample_values": [
+        "False",
+        "True"
+      ],
+      "quality_score": 100,
+      "glossary": {
+        "term": "Fraud Flag",
+        "definition": "Boolean indicator set by the real-time fraud detection engine when a transaction triggers ML model or rules-based alerts.",
+        "domain": "Fraud",
+        "steward": "Fraud Operations"
+      }
+    }
+  ],
+  "lineage": {
+    "layer": "gold",
+    "upstream": [
+      {
+        "table": "dim_account",
+        "layer": "gold",
+        "join": "account_id",
+        "transform": "Account enrichment"
+      },
+      {
+        "table": "dim_customer",
+        "layer": "gold",
+        "join": "customer_id",
+        "transform": "Customer enrichment"
+      }
+    ],
+    "downstream": [
+      "fraud_alerts",
+      "partner_performance"
+    ],
+    "refresh": "Near real-time (streaming)",
+    "sla": "< 15 minutes"
+  },
+  "owner": "Data Engineering",
+  "refresh_frequency": "Near real-time (streaming)",
+  "sla": "< 15 minutes",
+  "tags": [
+    "contains_pii",
+    "transactional",
+    "financial",
+    "fact",
+    "gold"
+  ]
+}

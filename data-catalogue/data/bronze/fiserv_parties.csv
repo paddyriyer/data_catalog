@@ -1,0 +1,1001 @@
+PARTY_ID,FULL_NAME,EMAIL_ADDR,PHONE_NUM,STREET_ADDR,CITY_NAME,STATE_CODE,POSTAL_CODE,RISK_RATING,CREDIT_SCORE,ONBOARD_DATE
+FSV854235,Andrew Mendoza,andrew.mendoza59@aol.com,+15684755409,2465 Pine Way,Columbus,WI,32852,NEAR_PRIME,693,2024-11-14
+FSV998638,Jennifer Collins,jennifer.collins57@icloud.com,+16747099529,5634 Cedar Way,Phoenix,AZ,62282,SUPER_PRIME,830,2020-05-02
+FSV245140,H. Campbell,helen.campbell7@yahoo.com,+14226665383,9138 Elm Way,Cambridge,MA,60369,PRIME,725,2023-04-11
+FSV261098,Catherine Mendoza,catherine.mendoza98@icloud.com,+15239901791,678 Oak Ct,Springfield,MD,18566,PRIME,712,2022-08-12
+FSV825855,Betty Myers,BETTY.MYERS38@OUTLOOK.COM,+13033681207,2590 Elm Dr,Chicago,IL,25524,SUPER_PRIME,829,2024-07-17
+FSV852459,Joseph James,joseph.james57@aol.com,+17854050662,7429 Main Dr,Springfield,IL,98049,SUPER_PRIME,798,2022-04-03
+FSV410460,Karen Anderson,KAREN.ANDERSON33@YAHOO.COM,+17255701744,8626 Main Dr,Cleveland,OH,51755,NEAR_PRIME,655,2024-10-05
+FSV407569,Maria James,maria.james49@icloud.com,+12365534607,6246 Cedar Blvd,Boston,MA,77185,SUPER_PRIME,829,2024-06-07
+FSV157913,Gary Torres,gary.torres32@gmail.com,+13817264416,1164 Elm Ln,Charlotte,NC,41056,SUBPRIME,590,2023-09-16
+FSV185926,Karen Howard,karen.howard92@gmail.com,+12038264020,3918 Maple St,Cambridge,MA,20408,SUPER_PRIME,765,2025-11-24
+FSV763728,Andrew Sanders,andrew.sanders90@gmail.com,+19192271373,3183 Elm Ct,Springfield,MD,52127,PRIME,705,2020-03-20
+FSV768993,Jason Allen,JASON.ALLEN45@HOTMAIL.COM,+12618215793,1409 Park St,Richmond,VA,98408,NEAR_PRIME,693,2021-02-26
+FSV122088,Laura Rivera,laura.rivera53@icloud.com,+16726441988,6706 Park Ct,Columbus,TN,70868,NEAR_PRIME,670,2020-07-23
+FSV235441,Karen Phillips,karen.phillips61@yahoo.com,+14776659210,3340 Main Dr,Richmond,VA,61410,SUBPRIME,602,2024-08-25
+FSV111931,Sharon Lee,sharon.lee28@icloud.com,+17021217560,5146 Elm Blvd,Madison,TN,92635,DEEP_SUBPRIME,334,2025-12-01
+FSV815059,T. Mitchell,thomas.mitchell36@aol.com,+15486554277,3284 Elm Blvd,Columbus,MD,92926,PRIME,726,2020-05-07
+FSV662387,Kenneth Rogers,KENNETH.ROGERS25@PROTONMAIL.COM,+19885634040,2444 Cedar Ct,Jacksonville,FL,17736,NEAR_PRIME,655,2023-07-04
+FSV866244,Kenneth Morales,kenneth.morales37@yahoo.com,+15858096616,278 Pine Blvd,Newark,NJ,36770,NEAR_PRIME,688,2021-04-25
+FSV381119,Laura Watson,laura.watson76@yahoo.com,+15301284478,2130 Main Ct,Seattle,WA,52799,NEAR_PRIME,656,2023-02-11
+FSV312368,Ronald Thompson,RONALD.THOMPSON18@YAHOO.COM,+13049770802,2776 Maple St,Newark,NJ,57227,PRIME,748,2023-09-27
+FSV289774,Samuel Gomez,samuel.gomez7@hotmail.com,+19144783595,7942 Main St,Naperville,IL,38704,SUBPRIME,637,2019-04-18
+FSV638990,Robert Rogers,robert.rogers1@outlook.com,+19182352703,9628 Cedar Ln,Grand Rapids,MI,31519,NEAR_PRIME,676,2018-06-14
+FSV121892,Deborah Lee,deborah.lee78@hotmail.com,+18879586664,6746 Maple Ave,Cleveland,OH,24770,PRIME,716,2019-05-04
+FSV959407,Emma Hill,emma.hill24@protonmail.com,+15414462023,8285 Walnut Way,Virginia Beach,VA,52907,NEAR_PRIME,686,2020-06-07
+FSV283002,Elizabeth Ward,elizabeth.ward13@gmail.com,+15764612279,3225 Walnut Way,Miami,FL,58866,NEAR_PRIME,650,2018-01-01
+FSV274502,Anthony Thomas,anthony.thomas90@aol.com,+16912061726,2611 Maple St,Sacramento,CA,62106,SUPER_PRIME,842,2023-02-08
+FSV371627,Raymond Rodriguez,RAYMOND.RODRIGUEZ1@HOTMAIL.COM,+12458303868,9257 Park Ct,Raleigh,NC,40345,SUPER_PRIME,784,2025-07-12
+FSV906662,M. James,melissa.james19@protonmail.com,+18889296512,8984 Walnut Blvd,Richmond,VA,66585,NEAR_PRIME,676,2024-07-04
+FSV640803,Lisa Garcia,lisa.garcia15@aol.com,+17571704281,8612 Oak Ln,Newark,NJ,10529,PRIME,747,2024-06-07
+FSV775572,Melissa Peterson,melissa.peterson92@gmail.com,+17162808598,8213 Elm St,Tacoma,WA,50180,PRIME,726,2020-07-13
+FSV669668,Jessica Clark,jessica.clark44@icloud.com,+15834497183,5077 Walnut Ln,Philadelphia,PA,87291,PRIME,707,2022-01-04
+FSV668269,Steven Hughes,steven.hughes98@gmail.com,+16865230482,9008 Oak St,Columbus,TN,42163,NEAR_PRIME,677,2025-09-06
+FSV803025,Carol Flores,CAROL.FLORES9@AOL.COM,+13858770870,4601 River Dr,Madison,MO,80210,SUPER_PRIME,802,2018-02-12
+FSV300858,Jennifer Nguyen,JENNIFER.NGUYEN99@ICLOUD.COM,+12446071360,3092 Maple Blvd,Columbus,WI,99526,NEAR_PRIME,654,2023-05-29
+FSV862615,Jack Cox,jack.cox61@gmail.com,+14858319750,9230 Walnut St,Springfield,MD,18542,PRIME,744,2018-03-26
+FSV514387,Pamela White,PAMELA.WHITE30@YAHOO.COM,+13506038921,2282 Walnut St,Cleveland,OH,58740,PRIME,735,2023-05-12
+FSV566309,Kenneth Young,KENNETH.YOUNG19@HOTMAIL.COM,+13309554163,2482 Oak Dr,Springfield,TN,77290,PRIME,730,2019-02-10
+FSV198361,Edward Davis,edward.davis96@yahoo.com,+16909548784,6760 Elm Ave,Phoenix,AZ,88509,NEAR_PRIME,651,2025-07-14
+FSV253833,Jerry Chavez,jerry.chavez66@icloud.com,+15953302963,7789 Cedar St,Austin,TX,74182,PRIME,741,2021-05-28
+FSV351540,Scott Rogers,scott.rogers36@outlook.com,+18128110991,3185 River Ct,Savannah,GA,28255,PRIME,715,2021-11-28
+FSV889305,Eric Thompson,eric.thompson62@hotmail.com,+14778702071,8904 Cedar Ave,Orlando,FL,43387,SUPER_PRIME,831,2020-01-20
+FSV814004,Amy Collins,amy.collins61@icloud.com,+15966253650,2056 Elm Ave,Madison,MO,26110,PRIME,726,2020-12-24
+FSV372591,Richard Myers,richard.myers30@yahoo.com,+18335475083,9154 Cedar Ct,Phoenix,AZ,40980,NEAR_PRIME,653,2019-04-02
+FSV416586,Charles Lopez,charles.lopez79@yahoo.com,+13774696718,4678 Oak St,Madison,MD,41296,DEEP_SUBPRIME,548,2019-01-27
+FSV601299,Edward Alvarez,EDWARD.ALVAREZ42@GMAIL.COM,+17119515432,6455 Park Ln,Cambridge,MA,36931,SUBPRIME,628,2024-01-27
+FSV376962,K. Rivera,kenneth.rivera58@hotmail.com,+12227524153,9466 Cedar Blvd,Tacoma,WA,59934,PRIME,714,2024-09-25
+FSV814409,Kimberly Morris,kimberly.morris12@hotmail.com,+13622549825,9157 Main Blvd,Philadelphia,PA,20388,PRIME,733,2020-03-12
+FSV941104,Edward Flores,edward.flores3@protonmail.com,+14002292642,1203 Oak Blvd,Philadelphia,PA,33426,SUPER_PRIME,756,2021-03-26
+FSV283611,Mary Adams,mary.adams17@yahoo.com,+18237160440,9502 Pine Dr,Pittsburgh,PA,42216,SUPER_PRIME,814,2022-06-02
+FSV574420,James Torres,james.torres97@outlook.com,+17367839706,2834 Lake Ct,Cambridge,MA,75500,PRIME,734,2023-11-21
+FSV365358,Timothy Carter,timothy.carter84@protonmail.com,+15097649830,4105 Elm St,Grand Rapids,MI,39762,PRIME,748,2020-06-01
+FSV779216,Ashley Jackson,ASHLEY.JACKSON6@PROTONMAIL.COM,+16902136751,5875 Cedar Ave,Orlando,FL,50677,PRIME,724,2018-11-16
+FSV559221,Benjamin Gutierrez,benjamin.gutierrez67@aol.com,+13268355095,8087 Walnut Ct,Richmond,VA,77367,PRIME,739,2021-11-22
+FSV252104,Raymond Alvarez,raymond.alvarez6@outlook.com,+12123230397,3286 Walnut Ln,Cambridge,MA,35383,NEAR_PRIME,662,2024-12-01
+FSV154749,John King,john.king61@outlook.com,+17906546545,5449 Lake Ave,Springfield,TN,97523,SUBPRIME,601,2019-04-13
+FSV779597,K. Wright,kathleen.wright72@yahoo.com,+14245173131,7707 Elm St,Jersey City,NJ,81068,NEAR_PRIME,675,2024-08-20
+FSV770102,Raymond Rodriguez,raymond.rodriguez31@icloud.com,+17037649560,9740 Maple Dr,Newark,NJ,66374,SUBPRIME,599,2023-04-23
+FSV555826,Richard Hernandez,richard.hernandez38@protonmail.com,+15756993668,9471 Oak St,New York,NY,31655,PRIME,705,2018-07-30
+FSV897393,Lisa Gomez,lisa.gomez21@hotmail.com,+19949638445,1674 Park Ln,Springfield,TN,39332,PRIME,733,2024-11-14
+FSV709809,Michelle Nguyen,michelle.nguyen5@gmail.com,+12602974982,2519 Oak Dr,Tacoma,WA,26529,SUPER_PRIME,789,2020-05-12
+FSV198175,Jessica Chavez,jessica.chavez45@gmail.com,+12501526460,4231 Walnut Ave,Madison,MO,75223,SUBPRIME,606,2025-05-11
+FSV432587,Raymond Green,raymond.green18@yahoo.com,+17259310722,4652 Maple Way,Madison,MD,33660,SUBPRIME,601,2022-08-31
+FSV343911,Jerry Cook,jerry.cook56@protonmail.com,+19481661445,7553 River Ln,Columbus,OH,48036,NEAR_PRIME,697,2021-01-25
+FSV322163,Cynthia Cox,cynthia.cox51@outlook.com,+12049904386,3855 Main Ave,Springfield,MD,68884,SUBPRIME,608,2020-12-20
+FSV139084,Rebecca Williams,REBECCA.WILLIAMS15@PROTONMAIL.COM,+14407526781,9287 Cedar Ave,Madison,IN,81442,NEAR_PRIME,669,2023-07-28
+FSV884516,Janet King,janet.king10@yahoo.com,+13241055838,4024 Oak Ct,Pittsburgh,PA,45396,PRIME,727,2019-11-03
+FSV919282,Brandon Scott,brandon.scott19@outlook.com,+13649759161,8862 Maple Dr,Rochester,NY,92781,PRIME,724,2024-02-12
+FSV723004,Samantha Morris,samantha.morris26@gmail.com,+12378598559,3181 Main Ln,Madison,MD,56585,DEEP_SUBPRIME,416,2024-04-02
+FSV580769,William Moore,william.moore69@protonmail.com,+16355923296,737 Oak St,Miami,FL,49348,PRIME,735,2019-05-06
+FSV741644,Shirley Campbell,SHIRLEY.CAMPBELL47@GMAIL.COM,+12975432537,5568 Cedar St,Albany,NY,33936,PRIME,701,2021-03-13
+FSV649969,Frank Cooper,FRANK.COOPER18@GMAIL.COM,+12961067267,1850 Park St,Grand Rapids,MI,71502,PRIME,702,2022-09-18
+FSV146049,Katherine Reed,katherine.reed74@protonmail.com,+19474146566,8171 Lake Ave,Miami,FL,17781,NEAR_PRIME,658,2025-08-27
+FSV262261,Justin Torres,justin.torres76@yahoo.com,+19645243565,2200 River Ave,Charlotte,NC,93993,SUBPRIME,633,2025-04-09
+FSV702333,D. Gomez,debra.gomez58@yahoo.com,+13503067693,6141 Cedar Dr,Chicago,IL,59640,SUPER_PRIME,750,2019-03-30
+FSV267663,Christine James,christine.james96@icloud.com,+17365849838,3439 Walnut St,Savannah,GA,47645,PRIME,703,2018-01-13
+FSV576628,Samuel Lewis,samuel.lewis3@protonmail.com,+14409152092,6400 Maple Ln,Boston,MA,76807,PRIME,730,2021-01-09
+FSV571725,Michelle Myers,michelle.myers81@icloud.com,+17411056553,2542 Main Blvd,Seattle,WA,82597,DEEP_SUBPRIME,354,2021-03-04
+FSV568307,Rachel Wright,RACHEL.WRIGHT6@PROTONMAIL.COM,+15446987463,7823 Maple Ln,Springfield,MD,53703,NEAR_PRIME,688,2019-01-29
+FSV992430,A. Reyes,anthony.reyes33@gmail.com,+18017864199,2070 Pine Way,Phoenix,AZ,87152,DEEP_SUBPRIME,525,2020-06-23
+FSV123849,Jonathan Myers,JONATHAN.MYERS65@AOL.COM,+14345658528,101 Walnut Way,Atlanta,GA,55738,PRIME,710,2023-06-29
+FSV769055,Christine Scott,christine.scott8@hotmail.com,+16604785362,2303 Main St,Columbus,OH,36760,SUPER_PRIME,755,2020-03-13
+FSV576758,Jacob Carter,jacob.carter54@gmail.com,+16454846296,2822 Pine Way,Los Angeles,CA,78191,PRIME,743,2019-03-21
+FSV359832,Jonathan James,jonathan.james26@icloud.com,+15027300282,8872 Park St,Springfield,MD,86205,PRIME,739,2021-02-17
+FSV538968,J. Alvarez,justin.alvarez69@aol.com,+12856689354,8702 Lake St,Chicago,IL,44033,PRIME,714,2020-09-12
+FSV411526,Rachel Brooks,rachel.brooks4@gmail.com,+19831193434,547 Main Ct,Buffalo,NY,13977,SUPER_PRIME,842,2021-08-11
+FSV734905,Jeffrey Powell,jeffrey.powell65@hotmail.com,+14965901261,4373 Elm St,Madison,MO,81535,NEAR_PRIME,697,2019-09-06
+FSV144518,Nicholas Richardson,nicholas.richardson32@icloud.com,+15536729237,1553 Cedar Way,Austin,TX,77618,SUPER_PRIME,805,2018-04-18
+FSV230511,Carol Mitchell,carol.mitchell27@yahoo.com,+16208717916,5917 Main Ct,Austin,TX,91841,SUPER_PRIME,823,2018-06-21
+FSV615547,Ronald Allen,ronald.allen32@aol.com,+13987343262,3175 Lake Way,Springfield,IN,18410,SUBPRIME,580,2025-01-06
+FSV846243,Samuel Bennett,samuel.bennett33@gmail.com,+16731684155,6492 Pine Way,Grand Rapids,MI,61102,SUPER_PRIME,803,2022-02-17
+FSV949445,Gregory Mitchell,GREGORY.MITCHELL38@AOL.COM,+17899897879,8377 Main Ct,Newark,NJ,39604,DEEP_SUBPRIME,311,2023-04-09
+FSV887744,Brandon Hughes,brandon.hughes25@protonmail.com,+17385323775,9719 Cedar Way,Austin,TX,26014,NEAR_PRIME,653,2020-09-05
+FSV807275,Anna Miller,anna.miller29@gmail.com,+16161583133,1358 Oak Ct,Springfield,WI,90199,SUPER_PRIME,836,2023-07-11
+FSV110178,H. Peterson,heather.peterson77@aol.com,+12135100113,6281 Cedar Dr,Springfield,IN,93471,SUPER_PRIME,753,2024-07-28
+FSV226520,Debra Ramirez,debra.ramirez14@aol.com,+14994789035,3890 Walnut Ln,Tacoma,WA,72566,PRIME,703,2021-06-28
+FSV226256,Nicole Cox,nicole.cox17@aol.com,+17487832486,802 Cedar Way,Springfield,IN,12785,PRIME,721,2022-09-10
+FSV928383,Catherine Taylor,catherine.taylor98@gmail.com,+15953583553,7565 Oak Blvd,Phoenix,AZ,37899,SUBPRIME,587,2020-04-12
+FSV305492,Nancy Parker,nancy.parker15@yahoo.com,+15111083198,8747 Park Ct,Springfield,MD,35437,SUBPRIME,634,2024-12-19
+FSV915055,Samuel Mitchell,samuel.mitchell38@outlook.com,+17874049729,358 Park Blvd,Madison,WI,86401,SUPER_PRIME,797,2025-10-01
+FSV997629,Heather James,heather.james73@gmail.com,+15011356907,8299 Pine Ln,Grand Rapids,MI,91105,PRIME,709,2024-06-30
+FSV487110,Donna Jimenez,donna.jimenez82@gmail.com,+16688007904,600 Park Ave,Springfield,IL,38299,PRIME,703,2024-12-23
+FSV361396,Sarah James,sarah.james44@gmail.com,+17623470317,6755 River Ct,Springfield,MO,57018,DEEP_SUBPRIME,301,2022-07-28
+FSV258343,Benjamin Martinez,benjamin.martinez33@protonmail.com,+13965480306,6631 Lake Ave,Columbus,OH,41536,SUBPRIME,592,2020-02-19
+FSV934662,Kathleen Long,kathleen.long65@yahoo.com,+12762362546,3267 River Blvd,Atlanta,GA,13340,SUBPRIME,635,2022-05-14
+FSV383707,Jack Adams,jack.adams7@hotmail.com,+15774699556,4684 Pine St,San Antonio,TX,74915,SUPER_PRIME,830,2020-03-13
+FSV999842,Maria Evans,maria.evans99@protonmail.com,+14691381431,6609 Lake Way,Naperville,IL,79931,SUPER_PRIME,761,2025-01-05
+FSV213589,Carolyn Perez,carolyn.perez11@aol.com,+13671007792,6323 Oak Ave,Cleveland,OH,65299,PRIME,729,2023-03-17
+FSV835857,Laura Martinez,laura.martinez66@gmail.com,+12968233660,4612 Pine St,Columbus,MO,40999,PRIME,746,2024-06-28
+FSV693591,Jack Murphy,jack.murphy34@aol.com,+16293879299,9480 Lake Blvd,Springfield,IN,74396,SUPER_PRIME,770,2023-07-07
+FSV286032,Joseph Rogers,joseph.rogers59@icloud.com,+19162024902,6697 Park Ave,Pittsburgh,PA,63095,PRIME,736,2018-04-04
+FSV974043,Raymond Perez,raymond.perez70@icloud.com,+13075444428,6734 River Ave,Philadelphia,PA,19550,PRIME,710,2022-05-31
+FSV719117,J. Bailey,JENNIFER.BAILEY5@AOL.COM,+19084855388,8984 Walnut Way,Madison,MD,88410,PRIME,727,2024-02-18
+FSV940284,Stephen Watson,stephen.watson31@aol.com,+16118509132,6497 Park Ave,New York,NY,80683,PRIME,734,2023-02-19
+FSV665708,Patrick Watson,patrick.watson17@outlook.com,+17284290911,8192 Main Ct,Cambridge,MA,94319,PRIME,734,2024-12-29
+FSV198716,Patricia James,patricia.james70@yahoo.com,+19976748402,6236 Pine Blvd,Virginia Beach,VA,33927,NEAR_PRIME,693,2024-05-20
+FSV132745,Sarah Mendoza,sarah.mendoza34@gmail.com,+19006500924,3157 Lake Ct,Madison,MO,54287,PRIME,725,2020-03-07
+FSV582327,Frank Lewis,frank.lewis67@outlook.com,+15956442132,356 River Blvd,Jersey City,NJ,73932,SUBPRIME,644,2024-04-12
+FSV142268,Pamela Martinez,pamela.martinez12@protonmail.com,+15724526333,6563 Pine St,Jacksonville,FL,52630,SUPER_PRIME,775,2025-11-26
+FSV992969,Rebecca Stewart,rebecca.stewart37@protonmail.com,+12891590426,5897 Elm Dr,Springfield,IN,60191,PRIME,720,2018-03-07
+FSV699184,G. Taylor,george.taylor69@icloud.com,+14866010518,2845 Elm Dr,Savannah,GA,54287,SUBPRIME,622,2022-09-01
+FSV602976,Carolyn Ward,CAROLYN.WARD6@GMAIL.COM,+13596147942,6203 Maple Ln,Detroit,MI,94848,PRIME,739,2018-12-06
+FSV832449,David Clark,david.clark67@aol.com,+18317426807,6421 River Ln,San Diego,CA,74307,SUPER_PRIME,776,2024-03-25
+FSV526725,Edward Martin,edward.martin23@hotmail.com,+17562776056,2290 Maple Ct,Los Angeles,CA,18246,PRIME,747,2022-02-19
+FSV385805,Jack Johnson,jack.johnson52@aol.com,+19232461159,7571 Elm Ct,Buffalo,NY,33680,PRIME,713,2021-11-14
+FSV225829,Pamela Jones,pamela.jones51@gmail.com,+17624047623,7301 Oak Way,Newark,NJ,71442,PRIME,749,2022-04-16
+FSV210929,Nancy Brown,nancy.brown85@protonmail.com,+17992264379,5067 Maple Ln,Newark,NJ,82175,PRIME,736,2022-08-15
+FSV561741,Rebecca Thomas,rebecca.thomas34@protonmail.com,+14599357022,2008 Elm Dr,Madison,TN,89116,NEAR_PRIME,681,2019-10-24
+FSV450475,Ashley Bennett,ashley.bennett17@yahoo.com,+12282653502,2307 Cedar Dr,Columbus,WI,17115,SUBPRIME,594,2023-07-02
+FSV872321,Eric Cook,ERIC.COOK8@PROTONMAIL.COM,+19681678433,3409 Main Blvd,Madison,IN,49597,NEAR_PRIME,694,2025-06-26
+FSV148720,Charles Clark,charles.clark62@outlook.com,+18699579549,3259 Main Ln,Springfield,MD,35733,SUPER_PRIME,823,2024-07-31
+FSV627602,Ronald Miller,ronald.miller15@gmail.com,+15917756122,1812 Elm Ave,Naperville,IL,15485,SUPER_PRIME,765,2022-08-07
+FSV117301,Catherine Sanders,CATHERINE.SANDERS67@GMAIL.COM,+13535731929,2985 Oak St,Columbus,OH,47283,SUPER_PRIME,798,2020-05-03
+FSV598487,Carol Moore,carol.moore95@hotmail.com,+18701020737,3616 River Ln,Naperville,IL,55251,SUPER_PRIME,825,2025-11-09
+FSV288425,Emily Harris,emily.harris4@yahoo.com,+16931902872,7021 Oak Blvd,Tucson,AZ,90511,PRIME,724,2019-06-18
+FSV490418,Sharon Diaz,SHARON.DIAZ88@HOTMAIL.COM,+18571127128,3734 Pine St,Springfield,MD,42728,SUPER_PRIME,786,2025-04-16
+FSV983522,Laura Mitchell,laura.mitchell62@protonmail.com,+13083296115,4214 Park Dr,Tucson,AZ,10358,PRIME,737,2022-03-04
+FSV865138,Edward Peterson,edward.peterson67@gmail.com,+19447144552,7436 Oak Ave,Atlanta,GA,87692,PRIME,705,2019-10-26
+FSV254340,Laura Wilson,laura.wilson26@protonmail.com,+16103935687,1971 Maple St,Atlanta,GA,12284,SUPER_PRIME,760,2021-03-24
+FSV835117,Steven Murphy,steven.murphy51@icloud.com,+13522324282,5887 River St,Los Angeles,CA,78762,SUPER_PRIME,775,2024-10-22
+FSV863611,Michelle Nelson,michelle.nelson3@hotmail.com,+18705407277,9693 Maple Ln,Springfield,MD,82356,NEAR_PRIME,653,2024-08-07
+FSV345217,Christine Price,christine.price82@yahoo.com,+18632092509,3354 Park Ln,Rochester,NY,67542,SUPER_PRIME,828,2018-06-05
+FSV560457,Karen Ramirez,karen.ramirez27@hotmail.com,+19059646777,9782 River Blvd,Columbus,TN,86397,PRIME,736,2020-10-13
+FSV560504,Sarah Brown,SARAH.BROWN85@HOTMAIL.COM,+18751460189,4351 Oak Ct,Cleveland,OH,81532,PRIME,734,2019-03-09
+FSV214923,William Cruz,william.cruz58@outlook.com,+17349609150,3919 River Dr,San Diego,CA,76433,PRIME,704,2020-12-01
+FSV388474,Christine Lopez,christine.lopez87@protonmail.com,+18045536829,2809 River Way,Philadelphia,PA,65505,SUPER_PRIME,826,2019-01-10
+FSV836577,Jennifer Ramos,jennifer.ramos23@icloud.com,+14904760289,5560 Walnut Blvd,Richmond,VA,24025,PRIME,705,2019-04-06
+FSV866266,Nicole Turner,nicole.turner9@icloud.com,+12113566062,9288 Cedar St,Grand Rapids,MI,60585,SUPER_PRIME,783,2018-04-15
+FSV400351,Nicholas Kelly,nicholas.kelly62@yahoo.com,+19709845104,7393 River Ln,Savannah,GA,18932,PRIME,732,2024-11-20
+FSV743568,Ashley Rivera,ashley.rivera1@outlook.com,+13915171241,817 Pine Blvd,Madison,WI,82914,DEEP_SUBPRIME,404,2019-03-19
+FSV372172,Amy Jackson,amy.jackson52@protonmail.com,+12648886066,8033 Oak Ct,Charlotte,NC,77605,PRIME,741,2020-03-02
+FSV557862,James Phillips,james.phillips51@hotmail.com,+15855446406,9044 Walnut Ln,Boston,MA,96922,SUPER_PRIME,784,2023-10-19
+FSV613532,Larry Flores,LARRY.FLORES47@YAHOO.COM,+19137400338,828 Cedar St,Rochester,NY,19225,PRIME,720,2019-03-30
+FSV893394,Edward Price,edward.price18@outlook.com,+17435197957,3031 Main Blvd,Chicago,IL,59327,PRIME,723,2022-04-02
+FSV744086,Carol Parker,CAROL.PARKER74@ICLOUD.COM,+15156350795,3716 Maple Ct,Charlotte,NC,76377,NEAR_PRIME,669,2022-10-02
+FSV621670,Thomas Brooks,thomas.brooks89@hotmail.com,+16353688786,3159 Oak Ave,Pittsburgh,PA,29943,PRIME,706,2025-02-04
+FSV905858,Brandon Rodriguez,BRANDON.RODRIGUEZ8@GMAIL.COM,+19781251893,1875 Park Ln,Seattle,WA,77668,SUPER_PRIME,840,2019-01-14
+FSV967144,Jeffrey Powell,jeffrey.powell22@gmail.com,+14089871152,4216 Maple Way,San Diego,CA,72747,DEEP_SUBPRIME,509,2019-11-04
+FSV670133,Lisa Mitchell,lisa.mitchell7@gmail.com,+18928201406,4269 Pine Way,Charlotte,NC,58159,SUPER_PRIME,821,2023-08-25
+FSV113472,Carolyn Edwards,CAROLYN.EDWARDS83@HOTMAIL.COM,+18943791018,8116 Elm St,Grand Rapids,MI,35117,NEAR_PRIME,655,2022-12-01
+FSV837055,Anna Davis,anna.davis42@hotmail.com,+17589439632,2472 Pine Ln,Albany,NY,40072,SUBPRIME,612,2026-01-06
+FSV222592,Jeffrey Stewart,jeffrey.stewart34@outlook.com,+16371897366,8811 Maple Ct,Columbus,IN,80134,SUPER_PRIME,804,2019-12-07
+FSV264079,Dennis Castillo,dennis.castillo80@aol.com,+17938140130,9706 Lake Ln,Newark,NJ,30316,SUPER_PRIME,818,2023-08-20
+FSV770426,Kathleen Wilson,kathleen.wilson23@outlook.com,+13354418107,9221 Maple Ln,Raleigh,NC,68920,PRIME,714,2019-01-02
+FSV608211,Amy Brown,amy.brown16@gmail.com,+13191250028,3132 Maple Ave,Seattle,WA,10276,PRIME,711,2023-10-10
+FSV292332,S. Bennett,SCOTT.BENNETT37@GMAIL.COM,+19414946534,9160 Pine Blvd,Madison,MO,95180,PRIME,700,2021-04-25
+FSV640233,S. Moore,SAMUEL.MOORE24@GMAIL.COM,+15785679965,5497 River Dr,Cleveland,OH,67348,SUBPRIME,620,2018-05-23
+FSV755344,Mary Chavez,mary.chavez52@aol.com,+18055510798,7791 Main Ln,Tacoma,WA,90632,SUPER_PRIME,761,2021-03-01
+FSV370737,Jonathan Castillo,jonathan.castillo61@aol.com,+18989141900,1290 Cedar St,Madison,MD,58627,SUPER_PRIME,827,2018-03-05
+FSV377967,Scott Walker,scott.walker49@gmail.com,+15092319684,9165 Main Ct,Chicago,IL,84925,SUPER_PRIME,839,2023-02-05
+FSV397368,Gary Collins,gary.collins36@gmail.com,+18237758079,2357 Walnut Blvd,Detroit,MI,33203,SUPER_PRIME,787,2024-10-02
+FSV268090,Patrick Sanders,patrick.sanders41@icloud.com,+19989485875,2171 Main Ct,Virginia Beach,VA,85756,SUPER_PRIME,820,2025-08-21
+FSV843449,Benjamin Phillips,benjamin.phillips21@aol.com,+18256504576,4687 Main St,Savannah,GA,21660,DEEP_SUBPRIME,535,2020-05-15
+FSV396422,Sarah Turner,sarah.turner72@hotmail.com,+19141989886,1598 Oak Ln,Albany,NY,58732,PRIME,749,2018-01-26
+FSV864306,Catherine Garcia,catherine.garcia10@protonmail.com,+16406266537,340 Main Dr,Richmond,VA,43610,SUBPRIME,636,2024-05-21
+FSV179506,Donna Robinson,donna.robinson99@gmail.com,+16232477917,8532 Elm Dr,Naperville,IL,36500,PRIME,735,2022-08-16
+FSV510974,K. Rivera,karen.rivera68@protonmail.com,+14476660550,2580 Walnut Ln,Madison,MO,17926,SUPER_PRIME,773,2023-04-03
+FSV908147,Carolyn Allen,carolyn.allen43@outlook.com,+12548474519,7379 Pine Way,Detroit,MI,16569,DEEP_SUBPRIME,462,2022-04-17
+FSV106020,Janet Johnson,janet.johnson86@aol.com,+13044918671,1733 Oak St,Springfield,WI,70646,PRIME,749,2019-03-15
+FSV329323,Debra Roberts,debra.roberts1@gmail.com,+18823268836,3085 Park Blvd,Dallas,TX,84172,SUPER_PRIME,841,2020-08-15
+FSV657712,Margaret Castillo,margaret.castillo6@protonmail.com,+17042675927,7357 Maple Ct,Pittsburgh,PA,26926,NEAR_PRIME,693,2022-12-08
+FSV494092,Christine Long,CHRISTINE.LONG45@YAHOO.COM,+12324598930,7119 Main Ln,New York,NY,90160,PRIME,743,2021-05-30
+FSV432554,Brandon Ward,brandon.ward8@icloud.com,+16981218912,414 Walnut Ln,Pittsburgh,PA,66160,NEAR_PRIME,673,2019-08-24
+FSV980428,Donald Morris,donald.morris1@icloud.com,+17028691955,6276 Elm Blvd,Columbus,IN,53003,SUPER_PRIME,777,2024-05-24
+FSV671060,Thomas Gomez,thomas.gomez40@outlook.com,+12972170110,349 Main Ln,Pittsburgh,PA,15221,PRIME,711,2025-01-15
+FSV617733,Karen Anderson,karen.anderson42@protonmail.com,+17794121703,1537 Elm Ln,Albany,NY,87803,SUPER_PRIME,767,2021-02-27
+FSV285375,Mary Ruiz,mary.ruiz15@gmail.com,+15523719631,3797 Lake St,Springfield,IL,33715,PRIME,704,2023-03-08
+FSV186463,J. Gutierrez,jessica.gutierrez69@outlook.com,+15402368232,9742 Cedar Ln,Columbus,MD,70784,NEAR_PRIME,686,2022-11-12
+FSV327812,Donald Morris,donald.morris43@outlook.com,+12542610184,8519 Elm Ave,Madison,MO,72491,SUPER_PRIME,820,2024-10-29
+FSV849382,Sarah James,sarah.james9@icloud.com,+15684293083,267 Elm Way,Chicago,IL,92221,PRIME,731,2025-05-06
+FSV555424,Carolyn Cruz,carolyn.cruz54@outlook.com,+12487830977,4252 Walnut Ave,Columbus,TN,10378,SUPER_PRIME,763,2022-03-08
+FSV507658,J. Gonzalez,JUSTIN.GONZALEZ61@OUTLOOK.COM,+15871685796,2707 River Way,Madison,WI,79584,NEAR_PRIME,693,2025-04-23
+FSV892663,Charles Martin,charles.martin72@outlook.com,+16277597744,7644 Main Dr,Springfield,MD,40653,SUPER_PRIME,765,2023-06-18
+FSV309482,Heather Ross,HEATHER.ROSS73@ICLOUD.COM,+15521143212,5052 River Dr,Raleigh,NC,31925,PRIME,727,2020-03-15
+FSV935703,Margaret Powell,margaret.powell69@hotmail.com,+17042645611,6777 Elm Way,Phoenix,AZ,41470,NEAR_PRIME,691,2020-12-27
+FSV402129,Amanda Walker,amanda.walker29@yahoo.com,+14664394146,669 Maple St,Naperville,IL,20313,DEEP_SUBPRIME,535,2022-02-06
+FSV292191,Cynthia Jimenez,cynthia.jimenez48@aol.com,+16835544184,6539 Walnut Way,Tacoma,WA,87941,NEAR_PRIME,675,2025-02-16
+FSV624336,Andrew Mitchell,andrew.mitchell42@protonmail.com,+15807396931,6605 Pine Ct,San Francisco,CA,68547,SUBPRIME,619,2018-12-25
+FSV204134,Emma Thomas,emma.thomas54@protonmail.com,+13196049898,5289 Pine Ave,Charlotte,NC,17318,SUBPRIME,616,2025-06-27
+FSV831013,Janet Thomas,JANET.THOMAS41@YAHOO.COM,+14147085903,4677 Elm Dr,Madison,TN,76255,SUBPRIME,598,2018-11-22
+FSV357497,S. Lee,SAMUEL.LEE52@HOTMAIL.COM,+15317823925,3185 Maple Dr,Sacramento,CA,10446,SUBPRIME,598,2022-12-27
+FSV172947,Jonathan Rodriguez,jonathan.rodriguez9@outlook.com,+13906365162,7687 Maple St,San Diego,CA,65760,PRIME,702,2018-04-14
+FSV781294,Frank Lopez,FRANK.LOPEZ23@HOTMAIL.COM,+12274128733,9530 Park Ct,Springfield,TN,42260,SUPER_PRIME,775,2024-12-24
+FSV747814,Karen Brooks,karen.brooks46@yahoo.com,+13324802340,7034 Walnut St,Boston,MA,76489,SUPER_PRIME,816,2018-01-06
+FSV937440,Nicole Murphy,nicole.murphy46@hotmail.com,+17664728927,9246 Lake Way,Tampa,FL,33971,SUPER_PRIME,754,2018-02-27
+FSV127268,Kathleen Sanchez,KATHLEEN.SANCHEZ82@GMAIL.COM,+19725899566,4257 Elm Blvd,Jersey City,NJ,83428,SUPER_PRIME,776,2025-09-30
+FSV277723,Linda Carter,linda.carter69@gmail.com,+14787657530,8157 Pine St,Pittsburgh,PA,40974,NEAR_PRIME,674,2025-02-15
+FSV744907,Mary James,mary.james85@outlook.com,+15952061285,5241 Pine Ct,Buffalo,NY,72409,SUPER_PRIME,834,2023-09-15
+FSV598675,Paul Martinez,paul.martinez46@protonmail.com,+13892009956,7917 Main Ct,Rochester,NY,27968,PRIME,736,2024-06-18
+FSV536071,Barbara Martin,barbara.martin52@gmail.com,+17799778172,7875 Maple St,Detroit,MI,31623,PRIME,748,2024-12-15
+FSV941405,Gregory Ross,gregory.ross82@yahoo.com,+18466180257,3426 Oak Ln,Sacramento,CA,22018,NEAR_PRIME,683,2024-12-21
+FSV872566,Jennifer Lee,jennifer.lee37@icloud.com,+12071837882,119 Elm Dr,Miami,FL,83565,SUPER_PRIME,794,2022-03-29
+FSV872046,Laura Flores,laura.flores53@yahoo.com,+15616280372,3714 Park Ave,Albany,NY,14932,PRIME,722,2025-09-29
+FSV999821,Larry Wood,larry.wood45@gmail.com,+13659875419,2739 Park Dr,Richmond,VA,98397,PRIME,720,2018-07-22
+FSV404683,Larry Ross,larry.ross40@hotmail.com,+14632224634,5102 River St,Jersey City,NJ,61841,PRIME,742,2020-10-12
+FSV260813,M. Kelly,MARK.KELLY17@AOL.COM,+19409003202,3680 River Way,Raleigh,NC,79884,PRIME,743,2019-08-22
+FSV385019,Laura Taylor,laura.taylor81@hotmail.com,+16227216697,5616 Park Ct,Dallas,TX,86756,PRIME,702,2021-08-31
+FSV467289,Timothy Rodriguez,timothy.rodriguez43@protonmail.com,+16026976699,8763 River Dr,Naperville,IL,34944,PRIME,701,2021-12-28
+FSV195615,Brandon Ramirez,brandon.ramirez10@yahoo.com,+17557224122,887 Maple Blvd,Rochester,NY,34060,PRIME,712,2025-10-20
+FSV491339,Nancy King,nancy.king70@protonmail.com,+12281548103,9146 Cedar Way,Phoenix,AZ,28463,SUPER_PRIME,779,2026-01-04
+FSV890409,Andrew Rodriguez,andrew.rodriguez7@yahoo.com,+13655703172,7016 Walnut Blvd,Cambridge,MA,33746,SUPER_PRIME,776,2018-08-28
+FSV710231,Helen Robinson,helen.robinson26@outlook.com,+16188859220,7324 Oak Way,Los Angeles,CA,26102,PRIME,736,2020-06-01
+FSV157154,Brandon Ward,brandon.ward30@hotmail.com,+17955333808,8089 Elm Ave,Virginia Beach,VA,13806,NEAR_PRIME,661,2025-03-13
+FSV976253,Jack Foster,jack.foster34@hotmail.com,+17598760635,1764 Park Way,San Francisco,CA,93369,SUPER_PRIME,770,2021-04-13
+FSV675456,George Brooks,george.brooks20@outlook.com,+18131672820,9683 Cedar Dr,Springfield,MO,61668,SUBPRIME,599,2025-01-20
+FSV737923,Benjamin Harris,benjamin.harris31@hotmail.com,+15547978124,919 Oak Dr,Boston,MA,16485,SUPER_PRIME,760,2018-07-13
+FSV456178,Emma Richardson,emma.richardson50@hotmail.com,+14605190501,3709 Lake Dr,Columbus,WI,33827,SUPER_PRIME,790,2023-07-17
+FSV841175,Kimberly Ramos,kimberly.ramos40@aol.com,+17319373437,8432 River Ln,Seattle,WA,53331,NEAR_PRIME,650,2020-04-08
+FSV283187,Elizabeth Ward,elizabeth.ward54@yahoo.com,+14744103558,7511 Park Dr,Newark,NJ,51799,PRIME,716,2022-06-16
+FSV852742,William Jackson,william.jackson99@icloud.com,+14231705339,2584 River Blvd,Springfield,WI,51393,PRIME,746,2019-09-11
+FSV902464,Patrick Nguyen,PATRICK.NGUYEN25@YAHOO.COM,+19412794644,3754 Lake Ct,Philadelphia,PA,15301,SUPER_PRIME,834,2024-12-28
+FSV490928,Daniel Martin,daniel.martin70@icloud.com,+17489380278,6677 Pine St,Tampa,FL,23629,PRIME,718,2025-06-07
+FSV916837,Gregory Smith,gregory.smith67@outlook.com,+19947504808,6681 Pine Ct,San Antonio,TX,62336,SUBPRIME,643,2025-02-27
+FSV430143,Brandon Jackson,brandon.jackson69@yahoo.com,+13155721184,8056 Lake Ln,Phoenix,AZ,24669,SUPER_PRIME,752,2025-09-27
+FSV114008,Katherine Lee,katherine.lee91@gmail.com,+12631090305,5798 Maple Way,Madison,IN,31141,NEAR_PRIME,651,2020-06-17
+FSV238949,Paul Young,paul.young8@icloud.com,+16079958729,7181 Elm Ct,Springfield,IN,69950,SUPER_PRIME,795,2022-09-08
+FSV592216,Deborah Gray,deborah.gray23@icloud.com,+16652757494,4160 Walnut Ln,Columbus,OH,49938,PRIME,747,2023-09-03
+FSV748789,Nicole Martin,nicole.martin64@icloud.com,+12971728949,7022 Cedar Ct,Tampa,FL,86284,SUPER_PRIME,844,2023-12-05
+FSV645428,Thomas Reyes,THOMAS.REYES70@HOTMAIL.COM,+15066871077,8250 Elm Way,Columbus,WI,98546,SUPER_PRIME,814,2021-12-14
+FSV565365,J. Roberts,jonathan.roberts42@yahoo.com,+18165577306,7229 Main Ct,Pittsburgh,PA,68240,SUPER_PRIME,791,2020-04-16
+FSV311352,Jason Ramos,jason.ramos40@hotmail.com,+18969355565,4276 Lake Blvd,Detroit,MI,99860,PRIME,725,2018-03-30
+FSV289811,Joshua Anderson,joshua.anderson38@protonmail.com,+17989954070,558 Pine Blvd,Tucson,AZ,51423,SUBPRIME,646,2020-04-24
+FSV413455,John Lee,JOHN.LEE35@AOL.COM,+14587015793,8621 Oak Ct,Seattle,WA,39024,SUPER_PRIME,801,2024-03-14
+FSV976660,Anna Peterson,anna.peterson2@gmail.com,+12004571098,852 Cedar Way,Savannah,GA,61167,SUBPRIME,593,2022-08-31
+FSV318759,D. Nguyen,deborah.nguyen93@gmail.com,+18692984998,8796 Park Ave,Orlando,FL,64322,SUPER_PRIME,806,2022-11-05
+FSV747260,Michael Robinson,michael.robinson48@yahoo.com,+15081647925,6290 Elm Ct,Raleigh,NC,26521,DEEP_SUBPRIME,367,2022-05-31
+FSV509122,Nancy White,nancy.white50@outlook.com,+17545841463,5435 Cedar Ln,Miami,FL,39207,SUPER_PRIME,831,2022-12-06
+FSV519393,S. Torres,SARAH.TORRES12@PROTONMAIL.COM,+12698923903,3980 Elm Way,Jersey City,NJ,70727,SUPER_PRIME,826,2018-01-14
+FSV906924,Carolyn Gray,carolyn.gray15@aol.com,+15359208312,6133 River St,Jersey City,NJ,68802,PRIME,719,2025-08-22
+FSV811805,Laura Collins,laura.collins15@protonmail.com,+16722997872,5939 River Blvd,Grand Rapids,MI,84852,NEAR_PRIME,690,2021-12-31
+FSV741149,Patricia Lewis,patricia.lewis66@icloud.com,+17189974936,2968 Lake St,Columbus,OH,56219,PRIME,704,2020-09-08
+FSV797611,Kenneth White,kenneth.white66@aol.com,+13096976722,7060 Park Ave,Jacksonville,FL,48343,PRIME,742,2021-09-03
+FSV394415,Emma Rodriguez,emma.rodriguez79@aol.com,+17881486424,705 Oak St,Detroit,MI,79765,PRIME,737,2022-03-21
+FSV770255,A. Lee,amanda.lee80@protonmail.com,+18868680964,9649 Cedar Dr,Miami,FL,32373,PRIME,733,2021-03-23
+FSV232939,Jack Anderson,jack.anderson82@aol.com,+16622374880,7671 Main Blvd,Springfield,MD,86100,SUPER_PRIME,845,2024-01-16
+FSV847761,Eric Gomez,eric.gomez69@gmail.com,+19932374322,9571 Maple Ln,Springfield,IN,74446,NEAR_PRIME,690,2020-05-09
+FSV241378,Patrick Kelly,patrick.kelly29@protonmail.com,+15822500390,5229 Lake Ln,Philadelphia,PA,12708,PRIME,723,2019-08-29
+FSV473828,Robert Myers,robert.myers83@protonmail.com,+15226864672,2086 Maple Way,Miami,FL,65914,NEAR_PRIME,655,2020-10-15
+FSV611290,Jennifer Torres,jennifer.torres27@icloud.com,+19757745396,2391 Park St,Newark,NJ,38446,PRIME,745,2020-04-26
+FSV635885,Alexander Smith,alexander.smith12@hotmail.com,+15427473220,6253 Maple Ln,Jersey City,NJ,73877,DEEP_SUBPRIME,520,2022-02-11
+FSV751843,Jennifer James,jennifer.james53@gmail.com,+15515183801,4933 Elm Ln,Naperville,IL,20775,PRIME,711,2018-04-26
+FSV148431,Rachel Reyes,rachel.reyes86@aol.com,+17591020508,2317 Park Ave,Newark,NJ,11084,SUBPRIME,618,2020-12-23
+FSV134885,Paul Collins,paul.collins89@protonmail.com,+18751060293,9433 Elm Ave,Tampa,FL,76277,NEAR_PRIME,651,2024-06-13
+FSV932555,Joseph Price,joseph.price71@aol.com,+13222772652,6387 Pine Ct,Savannah,GA,14602,SUBPRIME,597,2019-05-20
+FSV803140,Katherine Myers,katherine.myers78@gmail.com,+18372891078,5819 Maple Ln,Richmond,VA,93481,SUPER_PRIME,786,2023-01-16
+FSV735680,David Wood,DAVID.WOOD9@GMAIL.COM,+12579300492,9792 Pine St,Philadelphia,PA,84059,NEAR_PRIME,696,2023-01-19
+FSV542593,Brandon Flores,brandon.flores33@protonmail.com,+17887826210,3453 Elm Ave,Tampa,FL,58915,PRIME,729,2024-08-02
+FSV134987,S. Gray,samuel.gray13@hotmail.com,+15904608984,923 Park St,Columbus,OH,29570,SUPER_PRIME,829,2018-05-26
+FSV442468,Kevin Jimenez,kevin.jimenez2@outlook.com,+16768982533,5228 Main St,Savannah,GA,22554,PRIME,708,2024-05-28
+FSV180114,Cynthia Lopez,cynthia.lopez10@hotmail.com,+15999315027,2435 Elm St,Columbus,OH,13270,SUPER_PRIME,761,2020-04-16
+FSV815308,Larry Perez,larry.perez98@outlook.com,+15003210308,3109 Cedar Ave,Springfield,MO,22169,SUPER_PRIME,782,2020-09-30
+FSV903683,Christine Sanders,CHRISTINE.SANDERS54@HOTMAIL.COM,+18406924408,5274 Oak Ave,San Diego,CA,27111,SUBPRIME,640,2022-03-20
+FSV653195,Paul Hall,paul.hall22@protonmail.com,+16407788118,4778 River Ct,Virginia Beach,VA,80236,SUPER_PRIME,763,2024-06-13
+FSV609964,Linda Johnson,linda.johnson74@gmail.com,+17025891832,9393 Elm St,Madison,IN,67302,PRIME,701,2020-08-03
+FSV953894,Thomas Sanchez,thomas.sanchez74@aol.com,+16206344568,4594 Walnut Ave,Newark,NJ,29403,PRIME,727,2023-01-14
+FSV719127,Mary Rivera,mary.rivera38@hotmail.com,+19317766353,7529 Maple Ln,Newark,NJ,24579,NEAR_PRIME,650,2018-03-26
+FSV665050,James Williams,james.williams95@hotmail.com,+18321750435,6460 Main Ln,Springfield,MD,54150,NEAR_PRIME,690,2020-08-20
+FSV546541,Ashley Garcia,ashley.garcia93@protonmail.com,+14508477088,1451 Oak Ln,Houston,TX,21162,SUBPRIME,645,2025-09-03
+FSV145241,Michelle Martin,michelle.martin53@gmail.com,+16576396419,6245 River Ln,Los Angeles,CA,88280,SUBPRIME,581,2022-01-26
+FSV209982,Linda Peterson,linda.peterson66@icloud.com,+18105848379,118 Elm Dr,Springfield,IL,28446,NEAR_PRIME,658,2025-09-21
+FSV632023,Dorothy Brooks,dorothy.brooks80@gmail.com,+19903340240,9138 Cedar St,Cleveland,OH,81952,DEEP_SUBPRIME,413,2023-02-05
+FSV417451,Christine Gomez,christine.gomez17@aol.com,+14489763941,2448 Park St,Miami,FL,13882,NEAR_PRIME,664,2020-12-19
+FSV289468,Patricia Wood,PATRICIA.WOOD40@HOTMAIL.COM,+13813421397,7305 Walnut Ave,Raleigh,NC,93101,NEAR_PRIME,677,2020-07-08
+FSV633579,Catherine Watson,catherine.watson21@outlook.com,+19752703840,2167 Park Way,Cleveland,OH,34021,SUPER_PRIME,780,2024-04-05
+FSV583789,Stephanie Martin,stephanie.martin61@icloud.com,+12823678376,9572 Main Way,Springfield,IL,37222,DEEP_SUBPRIME,526,2024-02-14
+FSV814847,Christopher Taylor,christopher.taylor20@gmail.com,+15448261575,4241 River Way,Savannah,GA,56698,SUBPRIME,619,2021-06-12
+FSV646220,Jerry Thomas,jerry.thomas30@outlook.com,+14306660014,9713 Pine Ln,Jacksonville,FL,75888,PRIME,705,2019-08-25
+FSV873459,Kimberly Jimenez,kimberly.jimenez11@protonmail.com,+19434128751,4149 Main St,San Diego,CA,62618,SUBPRIME,585,2019-01-09
+FSV802378,Janet Chavez,JANET.CHAVEZ11@GMAIL.COM,+14821544147,316 Maple Blvd,Columbus,IN,72238,SUPER_PRIME,770,2025-11-02
+FSV491380,Jennifer Jimenez,jennifer.jimenez68@outlook.com,+15731158135,2073 Oak Ave,Jacksonville,FL,67350,SUPER_PRIME,795,2023-09-10
+FSV854017,Eric Myers,eric.myers55@gmail.com,+17659589694,1919 River Dr,Sacramento,CA,30267,PRIME,748,2026-01-07
+FSV589062,Jonathan Sanchez,jonathan.sanchez46@icloud.com,+17121528110,341 Elm Way,Columbus,TN,43671,SUPER_PRIME,803,2018-01-29
+FSV174376,Ronald Howard,ronald.howard57@hotmail.com,+18996981200,1186 Walnut Ln,San Antonio,TX,25518,NEAR_PRIME,685,2023-02-11
+FSV481553,Joseph Evans,JOSEPH.EVANS21@OUTLOOK.COM,+14162887541,8917 Maple Ln,Detroit,MI,27950,SUPER_PRIME,751,2020-03-20
+FSV188545,Scott Martinez,scott.martinez90@outlook.com,+16135111559,3886 River Ct,San Diego,CA,53253,SUPER_PRIME,762,2018-10-19
+FSV501409,Rebecca King,REBECCA.KING96@PROTONMAIL.COM,+13133295387,9045 Oak Dr,Springfield,IL,74576,SUBPRIME,634,2021-08-03
+FSV893156,Kimberly Martin,kimberly.martin56@protonmail.com,+19557204411,4690 Walnut Ct,Seattle,WA,70630,SUBPRIME,639,2020-07-19
+FSV666054,Jessica Campbell,JESSICA.CAMPBELL41@OUTLOOK.COM,+14339893204,361 Elm Dr,Tacoma,WA,48863,PRIME,741,2023-05-25
+FSV572482,Daniel Nelson,daniel.nelson54@icloud.com,+14563283492,268 Park Way,Raleigh,NC,59446,PRIME,709,2020-02-01
+FSV127800,Stephen Phillips,STEPHEN.PHILLIPS53@HOTMAIL.COM,+19101506832,4413 Lake Ln,Columbus,TN,61561,PRIME,708,2023-12-07
+FSV517381,Debra Ortiz,debra.ortiz41@yahoo.com,+18986396710,6841 Park St,Springfield,WI,72087,PRIME,747,2021-09-02
+FSV853979,Patricia Walker,patricia.walker23@hotmail.com,+13509089056,1792 Oak Ct,Columbus,IN,19831,SUPER_PRIME,776,2019-06-18
+FSV847916,Lisa Davis,lisa.davis48@yahoo.com,+13068127485,9579 Main Ave,Detroit,MI,86613,PRIME,707,2021-01-03
+FSV819563,N. Gray,nancy.gray52@yahoo.com,+16561659976,5710 Main St,Tacoma,WA,48168,SUPER_PRIME,804,2018-10-20
+FSV916900,Jeffrey Lee,jeffrey.lee97@outlook.com,+14662021154,2660 Cedar Ln,Columbus,MD,90314,PRIME,715,2024-01-21
+FSV608405,Maria Murphy,maria.murphy8@yahoo.com,+16408042761,7514 Walnut Way,Philadelphia,PA,53401,PRIME,724,2021-11-26
+FSV664896,Catherine Watson,catherine.watson3@yahoo.com,+12451171623,1792 River Ct,Columbus,MD,32512,NEAR_PRIME,682,2021-05-19
+FSV860936,John Scott,john.scott32@outlook.com,+12681683453,2622 Cedar Way,Charlotte,NC,53435,SUPER_PRIME,770,2020-02-28
+FSV193216,Debra Jones,debra.jones32@icloud.com,+13678159756,2266 Main Ct,Savannah,GA,80438,SUBPRIME,616,2024-12-30
+FSV262180,Dennis Wright,dennis.wright19@yahoo.com,+17087735859,3345 Oak Dr,Buffalo,NY,70265,SUPER_PRIME,849,2024-09-17
+FSV440467,Samuel Lopez,samuel.lopez13@icloud.com,+15814894312,6666 Elm Dr,Springfield,MD,45922,PRIME,706,2020-01-11
+FSV626069,Rachel Brown,rachel.brown18@outlook.com,+12624205318,2823 Oak St,Columbus,WI,56377,SUBPRIME,609,2018-01-19
+FSV282302,Justin Brooks,justin.brooks78@yahoo.com,+15835216521,2251 Elm St,Orlando,FL,75761,SUBPRIME,646,2023-06-11
+FSV946014,Joshua Foster,joshua.foster76@aol.com,+17718214175,5904 Oak Blvd,Columbus,MO,90938,PRIME,740,2024-06-11
+FSV317727,Kevin Brooks,kevin.brooks3@hotmail.com,+17205464844,6619 Park Ave,Columbus,IN,96305,PRIME,747,2021-08-06
+FSV831755,Ronald Perez,ronald.perez58@yahoo.com,+17657898609,3191 River Ct,Springfield,MO,43023,SUBPRIME,581,2023-12-25
+FSV122303,A. Reed,ANDREW.REED52@GMAIL.COM,+14686749403,962 River Blvd,Springfield,MD,66401,NEAR_PRIME,688,2022-06-04
+FSV186428,Maria Hernandez,MARIA.HERNANDEZ76@YAHOO.COM,+15911097123,866 Walnut St,Springfield,MD,79320,NEAR_PRIME,684,2019-07-05
+FSV275955,L. Stewart,linda.stewart26@outlook.com,+16332512159,7385 Walnut Way,Phoenix,AZ,29216,SUPER_PRIME,817,2018-02-12
+FSV990325,Kimberly Torres,KIMBERLY.TORRES59@YAHOO.COM,+16758883082,6462 Lake Blvd,Albany,NY,72470,SUBPRIME,592,2021-11-30
+FSV632812,Jennifer Scott,jennifer.scott80@aol.com,+17784167297,2925 Pine Way,Phoenix,AZ,33953,SUBPRIME,592,2024-03-04
+FSV934830,Mark Wright,mark.wright22@outlook.com,+15009993698,6157 Maple Dr,Virginia Beach,VA,27932,NEAR_PRIME,682,2024-06-03
+FSV838363,Katherine Johnson,katherine.johnson31@outlook.com,+19981268493,632 River Ct,San Diego,CA,38884,SUBPRIME,620,2021-01-02
+FSV250622,R. Cook,ryan.cook54@protonmail.com,+16783204083,6452 Maple Dr,Columbus,IN,82542,PRIME,725,2018-12-04
+FSV915958,Catherine Cox,catherine.cox6@hotmail.com,+16657460213,434 Pine Ave,Springfield,MD,57623,SUPER_PRIME,810,2024-06-20
+FSV867858,E. Rogers,emma.rogers24@hotmail.com,+13878056995,6822 Park Ln,Atlanta,GA,94197,PRIME,728,2018-04-02
+FSV901588,Gregory Kim,GREGORY.KIM97@ICLOUD.COM,+16091403834,5259 Cedar Ct,San Antonio,TX,12871,SUPER_PRIME,803,2021-06-01
+FSV189208,J. Ross,JASON.ROSS74@HOTMAIL.COM,+12158961905,3240 River Ln,Albany,NY,33240,PRIME,726,2020-04-23
+FSV701774,Rebecca Hughes,REBECCA.HUGHES22@ICLOUD.COM,+18015897885,2684 Main Ave,Newark,NJ,87510,SUPER_PRIME,761,2018-01-25
+FSV486322,Samantha Kim,samantha.kim69@icloud.com,+13941033416,6127 Pine Ln,San Francisco,CA,79533,NEAR_PRIME,689,2023-01-16
+FSV713931,Rachel Jackson,rachel.jackson87@gmail.com,+15519853402,9601 Main St,Albany,NY,59756,SUPER_PRIME,810,2018-01-23
+FSV604521,Barbara Nelson,BARBARA.NELSON6@ICLOUD.COM,+12494415624,609 Lake Way,Los Angeles,CA,80703,NEAR_PRIME,657,2018-08-11
+FSV514326,Scott Turner,scott.turner73@yahoo.com,+18568833729,4615 Oak St,Springfield,MO,64912,NEAR_PRIME,669,2021-08-29
+FSV494225,Stephanie Gomez,STEPHANIE.GOMEZ54@YAHOO.COM,+18885438623,4697 Pine Ave,Chicago,IL,52737,PRIME,701,2025-01-03
+FSV888866,Mary Patel,mary.patel59@outlook.com,+14541150238,3092 Lake Blvd,Detroit,MI,84694,NEAR_PRIME,673,2022-07-29
+FSV126088,Thomas Long,THOMAS.LONG33@AOL.COM,+19712328070,8829 Park Ct,Detroit,MI,58131,SUPER_PRIME,847,2018-06-22
+FSV900947,Anna Jackson,anna.jackson26@yahoo.com,+14368178761,729 Walnut Dr,Orlando,FL,70764,PRIME,731,2023-10-22
+FSV146594,Gary Bennett,GARY.BENNETT2@ICLOUD.COM,+16267679934,1290 Park Ln,Philadelphia,PA,86468,DEEP_SUBPRIME,395,2022-05-04
+FSV407951,Janet Peterson,janet.peterson48@protonmail.com,+16441207321,5033 Oak Ave,Atlanta,GA,43398,PRIME,730,2024-03-27
+FSV331786,S. Myers,shirley.myers52@yahoo.com,+18312129757,5096 Maple Ct,Columbus,OH,14424,SUPER_PRIME,751,2018-01-19
+FSV493486,Amy Adams,amy.adams38@gmail.com,+15373538924,1011 Lake Ave,Naperville,IL,40609,PRIME,702,2025-03-24
+FSV879475,Helen King,helen.king11@icloud.com,+18747115217,4130 Main Dr,Madison,MO,90699,SUBPRIME,649,2025-04-12
+FSV895917,Janet Chavez,janet.chavez85@yahoo.com,+16936297381,6730 Oak St,Detroit,MI,16793,NEAR_PRIME,669,2020-11-21
+FSV238441,Dennis Kelly,dennis.kelly59@gmail.com,+13946004139,3112 Pine Ct,Philadelphia,PA,50699,PRIME,739,2024-08-16
+FSV998413,Jonathan Turner,jonathan.turner81@gmail.com,+19046994162,1571 Park Way,Chicago,IL,41312,SUPER_PRIME,750,2022-08-21
+FSV385957,Nicole Martinez,nicole.martinez86@outlook.com,+14542962483,6626 Main Way,Columbus,MO,74473,PRIME,734,2019-01-26
+FSV208062,Jessica Cooper,jessica.cooper76@icloud.com,+16033689700,753 Maple Ln,Charlotte,NC,58725,SUPER_PRIME,850,2019-12-31
+FSV769436,Mary Martin,MARY.MARTIN44@HOTMAIL.COM,+16273217128,3378 Main Ave,Tacoma,WA,89285,NEAR_PRIME,655,2021-03-03
+FSV768286,Gary Garcia,gary.garcia29@gmail.com,+12944350278,2479 Walnut Dr,Madison,IN,23141,PRIME,702,2018-06-18
+FSV412653,Raymond Thomas,RAYMOND.THOMAS61@ICLOUD.COM,+14797096143,4663 Pine Dr,Jacksonville,FL,17432,DEEP_SUBPRIME,381,2018-03-16
+FSV868424,Donna Roberts,donna.roberts42@hotmail.com,+19777307007,145 Cedar Ave,Rochester,NY,11783,PRIME,726,2022-05-07
+FSV653915,James Ramirez,james.ramirez2@outlook.com,+12453168718,8798 Oak Way,Tacoma,WA,93006,SUBPRIME,586,2020-08-26
+FSV298809,Lisa Davis,lisa.davis73@icloud.com,+19127151669,3889 Oak Ln,Atlanta,GA,95100,SUPER_PRIME,827,2021-10-20
+FSV302033,Amy Nguyen,amy.nguyen43@yahoo.com,+17262519394,2137 Lake St,Jersey City,NJ,92656,DEEP_SUBPRIME,370,2021-07-30
+FSV654876,Maria Nelson,maria.nelson90@icloud.com,+15891202528,3945 Walnut St,Tacoma,WA,65050,SUPER_PRIME,837,2019-09-04
+FSV651292,Stephanie Williams,stephanie.williams9@icloud.com,+14352512736,7033 Park Ct,Chicago,IL,22306,DEEP_SUBPRIME,487,2022-02-04
+FSV984249,Anthony Young,anthony.young89@icloud.com,+17971912919,5331 Park St,Columbus,MD,85060,PRIME,703,2020-12-18
+FSV477322,Carolyn Phillips,carolyn.phillips51@aol.com,+12077278962,7779 Main Ct,Springfield,MD,34344,PRIME,707,2020-03-08
+FSV798770,Samuel Gonzalez,samuel.gonzalez28@protonmail.com,+18983235755,3546 River Ct,Springfield,MD,63067,NEAR_PRIME,677,2020-09-17
+FSV169608,R. Carter,ryan.carter84@yahoo.com,+12473292785,4004 Elm St,Madison,WI,85396,PRIME,728,2020-08-27
+FSV694260,Emily Nguyen,emily.nguyen11@outlook.com,+14756739427,2178 Walnut St,Chicago,IL,68007,PRIME,704,2019-09-04
+FSV809621,Ronald Powell,ronald.powell60@yahoo.com,+14082265542,6885 Lake Way,Detroit,MI,14426,SUPER_PRIME,849,2025-01-05
+FSV235463,Michael Walker,michael.walker82@icloud.com,+19255991409,978 Elm Dr,Seattle,WA,45422,PRIME,739,2021-05-31
+FSV453245,Melissa Reed,melissa.reed82@protonmail.com,+16135401874,6844 Oak Blvd,Sacramento,CA,85192,SUPER_PRIME,755,2025-12-04
+FSV107917,Gregory Morales,GREGORY.MORALES41@GMAIL.COM,+14884481895,2441 Walnut Ct,Madison,MD,67215,SUBPRIME,589,2024-09-18
+FSV482517,Carolyn Peterson,carolyn.peterson30@outlook.com,+12161068514,1299 Elm Way,Madison,MD,69038,PRIME,741,2025-05-29
+FSV160906,Joshua Murphy,joshua.murphy68@yahoo.com,+13314439824,7476 Lake Way,Detroit,MI,81570,SUBPRIME,600,2022-06-17
+FSV404053,Rachel Martinez,rachel.martinez97@hotmail.com,+15329645532,7118 Park Ln,Cleveland,OH,45302,PRIME,719,2024-06-13
+FSV794719,Karen Sanchez,karen.sanchez13@icloud.com,+15306978202,5320 Park Way,Seattle,WA,76396,PRIME,736,2022-09-05
+FSV428253,Amy Rivera,AMY.RIVERA68@PROTONMAIL.COM,+13355885024,1041 Cedar St,Tampa,FL,64358,PRIME,700,2018-08-03
+FSV104743,Emma Ward,EMMA.WARD41@PROTONMAIL.COM,+16811702907,1140 Park St,Columbus,TN,42132,SUBPRIME,605,2023-12-08
+FSV314783,Edward Davis,edward.davis86@aol.com,+12128268869,1184 River Dr,Philadelphia,PA,88168,PRIME,703,2020-07-03
+FSV101724,Brenda Wright,brenda.wright97@protonmail.com,+15869256789,5001 Lake St,Tampa,FL,85109,NEAR_PRIME,683,2021-05-08
+FSV978001,M. Peterson,maria.peterson68@aol.com,+19813347334,5541 Lake Blvd,Dallas,TX,90022,PRIME,710,2021-01-12
+FSV988834,Christine Collins,christine.collins95@outlook.com,+19039769129,2704 Maple St,Columbus,TN,75648,PRIME,739,2019-04-11
+FSV248048,Susan Kelly,susan.kelly22@icloud.com,+16309062552,4892 Lake Ave,Phoenix,AZ,22931,NEAR_PRIME,660,2018-05-08
+FSV106454,Barbara Mitchell,BARBARA.MITCHELL80@AOL.COM,+18071392646,6987 Elm Ave,New York,NY,27500,PRIME,718,2022-04-12
+FSV608702,Sandra Stewart,sandra.stewart60@icloud.com,+17946418382,4351 Oak Way,Springfield,MD,68349,SUBPRIME,634,2021-01-22
+FSV184788,Cynthia Rogers,CYNTHIA.ROGERS22@ICLOUD.COM,+17634524857,8382 Pine Ln,Rochester,NY,77073,PRIME,738,2024-04-03
+FSV398229,E. Phillips,emma.phillips20@aol.com,+18629774395,6440 Oak Ln,Tampa,FL,27539,NEAR_PRIME,692,2025-02-01
+FSV283814,John Thomas,john.thomas29@outlook.com,+19239579547,7254 Pine Ln,San Antonio,TX,69522,SUPER_PRIME,849,2024-08-11
+FSV841981,Janet Lewis,janet.lewis43@outlook.com,+18471716522,5314 Park Way,Cleveland,OH,14290,PRIME,731,2020-08-25
+FSV502409,Kimberly Garcia,kimberly.garcia97@yahoo.com,+14326414076,906 Maple Dr,Grand Rapids,MI,80222,PRIME,706,2021-06-29
+FSV747318,Jeffrey Edwards,JEFFREY.EDWARDS34@ICLOUD.COM,+16845923181,505 Maple Ct,Columbus,WI,65477,SUBPRIME,598,2025-03-01
+FSV437888,Kathleen Ramirez,kathleen.ramirez30@gmail.com,+17217601881,9267 Maple Way,Madison,TN,14947,SUBPRIME,625,2022-02-08
+FSV199224,Sandra Thompson,sandra.thompson50@gmail.com,+16774477983,5013 Pine Ct,Detroit,MI,60371,DEEP_SUBPRIME,490,2024-03-02
+FSV501344,B. Morales,benjamin.morales52@aol.com,+17652204692,4796 Oak Ave,Charlotte,NC,49302,PRIME,721,2019-10-24
+FSV250539,Gary Edwards,gary.edwards20@icloud.com,+18496836472,584 River Way,Detroit,MI,94647,SUPER_PRIME,842,2024-01-05
+FSV947606,Scott Myers,scott.myers18@protonmail.com,+13313242098,3707 Pine Ln,Tacoma,WA,87120,DEEP_SUBPRIME,300,2021-07-07
+FSV976025,Gary Rivera,GARY.RIVERA16@OUTLOOK.COM,+15001451336,2790 Maple Ave,Madison,WI,55935,PRIME,728,2021-09-03
+FSV973680,Michael Anderson,michael.anderson46@aol.com,+19763649973,3093 Park Way,Columbus,MO,67497,NEAR_PRIME,674,2018-09-30
+FSV777510,Carol Smith,carol.smith19@yahoo.com,+17469991642,3846 River St,Pittsburgh,PA,49412,NEAR_PRIME,663,2021-03-27
+FSV450663,William Mitchell,william.mitchell76@protonmail.com,+15244584557,1140 Elm Ct,Columbus,TN,11058,SUPER_PRIME,795,2019-04-14
+FSV915898,Michael Hughes,michael.hughes42@gmail.com,+12665197166,3849 Walnut Dr,Columbus,IN,80105,SUPER_PRIME,842,2020-09-23
+FSV688821,Brandon Bennett,brandon.bennett75@hotmail.com,+14025100202,1281 Cedar Blvd,Tacoma,WA,33488,SUPER_PRIME,847,2018-08-05
+FSV791767,Kevin Chavez,kevin.chavez4@icloud.com,+16189059768,700 Oak Blvd,Newark,NJ,19881,SUBPRIME,597,2021-03-26
+FSV482047,Jack Gutierrez,jack.gutierrez7@outlook.com,+15863346094,551 Oak Way,Chicago,IL,90471,SUPER_PRIME,754,2021-08-01
+FSV587215,M. Robinson,matthew.robinson87@outlook.com,+15413117962,3648 Pine Ave,Pittsburgh,PA,75614,PRIME,707,2019-10-11
+FSV646369,S. Diaz,SHARON.DIAZ36@HOTMAIL.COM,+17867048575,3005 River Dr,Cleveland,OH,40415,SUPER_PRIME,824,2020-10-10
+FSV568358,K. Reed,kevin.reed54@outlook.com,+13075472823,7845 Cedar Ave,Rochester,NY,42664,SUBPRIME,600,2020-10-05
+FSV360739,Patrick Green,patrick.green20@outlook.com,+14077513876,8191 River Ave,Savannah,GA,49034,PRIME,744,2019-06-06
+FSV323636,Stephen Lewis,stephen.lewis51@hotmail.com,+17513468179,4950 River Dr,Jersey City,NJ,87363,NEAR_PRIME,676,2023-08-11
+FSV865234,Gregory Cook,gregory.cook64@protonmail.com,+14138952128,2243 Walnut St,New York,NY,71804,NEAR_PRIME,691,2025-10-16
+FSV263563,Robert Bailey,robert.bailey99@icloud.com,+16064086060,5397 Pine Ct,Springfield,IL,28894,PRIME,707,2019-05-17
+FSV935889,Scott Wilson,SCOTT.WILSON86@GMAIL.COM,+13857939248,6379 Pine Ln,Boston,MA,70314,PRIME,737,2018-02-16
+FSV161217,Joseph Jones,joseph.jones94@aol.com,+12342364051,3289 Maple Ave,Jacksonville,FL,45674,PRIME,749,2019-04-11
+FSV418850,Richard Torres,richard.torres70@gmail.com,+13067718548,270 Pine Ln,Austin,TX,95780,SUPER_PRIME,759,2023-07-15
+FSV882807,John Martin,john.martin32@outlook.com,+13473046717,3386 Pine Ln,Madison,IN,53139,PRIME,726,2022-07-14
+FSV343152,Kathleen Reed,kathleen.reed13@protonmail.com,+19182449725,8218 Oak Ave,Jacksonville,FL,27725,SUBPRIME,592,2024-02-05
+FSV530798,C. Smith,christine.smith99@aol.com,+14188317211,7905 Lake Blvd,Philadelphia,PA,74337,SUPER_PRIME,818,2025-02-01
+FSV916577,Joshua Ward,joshua.ward7@gmail.com,+19274984061,1450 Cedar Ave,Jacksonville,FL,53449,PRIME,718,2020-10-18
+FSV158926,Amanda Perez,amanda.perez91@icloud.com,+17975629123,8629 Lake Blvd,Newark,NJ,65826,PRIME,719,2018-01-09
+FSV875573,Benjamin Hughes,benjamin.hughes58@hotmail.com,+19412449920,7565 Elm Dr,Jersey City,NJ,62980,SUBPRIME,631,2022-02-06
+FSV667735,William Nguyen,william.nguyen14@gmail.com,+12037909697,6803 Lake Ln,Charlotte,NC,17732,SUPER_PRIME,798,2025-04-09
+FSV322395,Nicholas Castillo,nicholas.castillo72@yahoo.com,+14901220972,8882 Pine Dr,Miami,FL,52826,NEAR_PRIME,660,2020-07-28
+FSV145734,John Castillo,john.castillo41@yahoo.com,+15268432244,2485 Elm Ct,Columbus,MO,94296,SUBPRIME,609,2019-02-21
+FSV120565,George Morales,george.morales14@aol.com,+14946526890,4074 Pine St,Springfield,MO,90381,PRIME,715,2019-06-07
+FSV328395,Jacob Bailey,JACOB.BAILEY3@ICLOUD.COM,+14276777282,8254 Lake Way,Tucson,AZ,13268,SUBPRIME,596,2019-12-19
+FSV712275,Helen Castillo,helen.castillo48@aol.com,+17856134852,441 Lake Ct,Cambridge,MA,46471,SUBPRIME,631,2021-07-30
+FSV715993,Eric Cox,eric.cox97@outlook.com,+15808449959,808 Oak Dr,Columbus,MO,51726,SUPER_PRIME,756,2021-09-20
+FSV366515,Linda Moore,LINDA.MOORE39@ICLOUD.COM,+19929370105,3054 Cedar Ct,Richmond,VA,11199,PRIME,712,2022-06-21
+FSV528742,Jerry Jones,jerry.jones41@icloud.com,+14881483087,6394 Elm Ct,Charlotte,NC,75403,SUPER_PRIME,764,2021-11-01
+FSV654719,M. James,mark.james68@icloud.com,+14311773264,4679 Main Ct,Naperville,IL,28326,NEAR_PRIME,668,2020-01-13
+FSV523809,Donna Lee,donna.lee76@yahoo.com,+16157416441,9997 Maple Dr,Springfield,WI,10649,SUPER_PRIME,761,2023-03-16
+FSV511349,Nicholas Garcia,nicholas.garcia83@yahoo.com,+14167269172,3797 Park Ln,Grand Rapids,MI,73860,SUPER_PRIME,803,2025-07-13
+FSV417904,Nancy Baker,NANCY.BAKER75@AOL.COM,+13464806825,107 Pine Ct,Tacoma,WA,55105,SUPER_PRIME,844,2021-12-20
+FSV990790,Jerry Martinez,jerry.martinez26@hotmail.com,+18292751710,1415 Park Dr,Grand Rapids,MI,66086,PRIME,718,2022-12-24
+FSV468750,David Taylor,david.taylor20@yahoo.com,+14512161779,1965 Walnut Dr,Los Angeles,CA,92059,SUBPRIME,621,2024-02-21
+FSV555842,Karen Sanchez,karen.sanchez54@yahoo.com,+17092405730,1461 Pine Ct,Springfield,TN,29952,PRIME,704,2022-03-31
+FSV426859,Larry Long,larry.long49@icloud.com,+18274501267,2177 Park Ct,Madison,MO,80172,SUPER_PRIME,781,2020-04-28
+FSV618269,Amanda Clark,amanda.clark24@icloud.com,+16554696506,6142 Oak Ct,Springfield,IN,28939,SUPER_PRIME,785,2022-05-08
+FSV732294,G. Gomez,gregory.gomez36@protonmail.com,+17915831487,6122 Oak St,Jersey City,NJ,50216,DEEP_SUBPRIME,433,2022-12-13
+FSV236831,Joseph Jackson,joseph.jackson79@icloud.com,+17984615672,4317 Pine Ct,San Antonio,TX,28151,NEAR_PRIME,676,2020-01-05
+FSV427297,Betty Nguyen,betty.nguyen48@gmail.com,+17325887315,950 Park St,Columbus,TN,36687,SUBPRIME,580,2021-11-13
+FSV296111,Samuel Sanders,samuel.sanders2@icloud.com,+14017828262,3699 Elm Ct,Naperville,IL,78186,PRIME,745,2021-07-21
+FSV544981,Patrick Gray,patrick.gray87@aol.com,+15901384885,8447 Elm Way,Columbus,IN,80812,PRIME,724,2024-02-03
+FSV472552,Gregory Allen,GREGORY.ALLEN15@PROTONMAIL.COM,+13923442281,4385 River Blvd,Columbus,WI,22265,SUBPRIME,597,2024-04-22
+FSV207281,Donna Gomez,donna.gomez82@gmail.com,+12625728583,1106 Pine Ave,Jacksonville,FL,18372,SUBPRIME,587,2020-06-06
+FSV571940,Susan Scott,SUSAN.SCOTT14@ICLOUD.COM,+17286331147,6349 Pine Dr,Madison,IN,24416,PRIME,720,2023-09-03
+FSV882989,Susan Phillips,SUSAN.PHILLIPS67@ICLOUD.COM,+16349679845,7020 Oak St,Madison,WI,84547,NEAR_PRIME,663,2025-11-14
+FSV333207,David Stewart,david.stewart76@outlook.com,+16326488650,7304 Elm Ln,Austin,TX,58446,PRIME,734,2022-03-16
+FSV622966,Raymond Jackson,raymond.jackson55@icloud.com,+17619134892,3508 Main Ct,Jacksonville,FL,36528,NEAR_PRIME,671,2018-09-30
+FSV285406,Sharon Ramos,sharon.ramos39@icloud.com,+13095002258,172 Lake Dr,Madison,MO,34961,PRIME,740,2025-12-18
+FSV357303,Brenda Alvarez,brenda.alvarez89@hotmail.com,+16929454950,6488 Maple St,Pittsburgh,PA,88976,PRIME,747,2019-05-11
+FSV323497,Matthew Nguyen,matthew.nguyen16@hotmail.com,+17938964761,1874 Walnut Blvd,Grand Rapids,MI,89942,NEAR_PRIME,653,2025-05-21
+FSV171289,Timothy Ortiz,timothy.ortiz88@hotmail.com,+15734292975,7618 River Ave,Atlanta,GA,33894,PRIME,701,2019-09-16
+FSV468274,Andrew Morris,andrew.morris51@hotmail.com,+13558030643,246 Main Ln,Savannah,GA,14285,SUPER_PRIME,813,2018-12-05
+FSV309821,Brenda Clark,brenda.clark61@aol.com,+12935230360,6398 Maple Way,Savannah,GA,76238,PRIME,713,2023-07-09
+FSV590662,Amy Ruiz,amy.ruiz76@yahoo.com,+19379356059,2205 Pine St,Naperville,IL,15163,PRIME,749,2019-08-05
+FSV911581,Christine Myers,christine.myers84@yahoo.com,+19471956637,3346 Maple Blvd,Seattle,WA,65156,PRIME,735,2021-02-20
+FSV662362,Linda Castillo,linda.castillo40@protonmail.com,+17441752540,2942 Lake Way,Houston,TX,40230,PRIME,715,2024-03-15
+FSV942906,Jack Robinson,jack.robinson66@protonmail.com,+12843354355,2346 Walnut Ln,Austin,TX,18752,NEAR_PRIME,676,2018-12-29
+FSV950001,Brian Alvarez,brian.alvarez2@protonmail.com,+18278258669,8246 Maple Ln,Atlanta,GA,68702,SUBPRIME,591,2021-11-29
+FSV752236,Jason Cox,jason.cox66@icloud.com,+16907679487,2152 Lake Ln,Savannah,GA,38409,NEAR_PRIME,672,2019-03-02
+FSV808691,R. Jimenez,ronald.jimenez73@hotmail.com,+19044266796,7432 Walnut St,Pittsburgh,PA,61796,SUPER_PRIME,770,2022-10-08
+FSV613101,Donald Green,donald.green49@outlook.com,+12254153461,9226 Cedar Way,Madison,MD,79756,PRIME,739,2023-05-22
+FSV356737,H. Roberts,heather.roberts69@aol.com,+16512346854,1970 Pine Ln,Jersey City,NJ,66168,SUPER_PRIME,758,2024-08-14
+FSV436274,Samantha White,samantha.white76@yahoo.com,+12183071838,1765 Elm Blvd,Columbus,IN,93049,SUBPRIME,624,2018-07-23
+FSV381368,Stephanie James,stephanie.james50@yahoo.com,+12421228842,8267 Maple St,Columbus,WI,27839,SUPER_PRIME,779,2022-07-30
+FSV773588,Laura Campbell,laura.campbell40@icloud.com,+18797165267,6784 Park Blvd,Savannah,GA,16514,NEAR_PRIME,668,2025-10-27
+FSV694234,Steven Nelson,steven.nelson38@aol.com,+19594835957,5886 Lake Dr,Rochester,NY,92572,PRIME,735,2021-12-20
+FSV528064,Patricia James,patricia.james39@yahoo.com,+19468224664,9882 Cedar Ct,Cambridge,MA,80198,PRIME,732,2020-09-25
+FSV754376,Scott Thompson,SCOTT.THOMPSON73@GMAIL.COM,+19138842351,7420 Maple Way,Columbus,MO,74228,SUPER_PRIME,751,2023-02-19
+FSV432235,Donald Bailey,donald.bailey3@hotmail.com,+13892580636,5206 Maple Blvd,San Francisco,CA,39750,PRIME,722,2021-12-22
+FSV851407,Helen Ross,helen.ross52@outlook.com,+13898729583,4428 Elm Ln,Newark,NJ,66902,NEAR_PRIME,656,2019-08-06
+FSV481485,Shirley Harris,shirley.harris75@yahoo.com,+15312573148,1384 Park Way,Madison,MO,49903,PRIME,721,2020-11-29
+FSV413538,J. White,jacob.white61@outlook.com,+16333798207,7069 Pine St,Springfield,MO,32780,SUPER_PRIME,806,2022-04-28
+FSV228579,Helen Davis,helen.davis8@outlook.com,+15431545026,5505 River Ct,Phoenix,AZ,87355,SUBPRIME,610,2020-08-20
+FSV891906,Daniel Ross,daniel.ross85@outlook.com,+18653554392,1036 Elm Blvd,Cleveland,OH,89666,SUBPRIME,647,2018-06-07
+FSV209472,Ashley Allen,ASHLEY.ALLEN38@AOL.COM,+12245785492,4339 Maple St,Springfield,IL,78332,PRIME,724,2020-01-27
+FSV737717,John Mendoza,JOHN.MENDOZA78@YAHOO.COM,+15996699757,1152 Park Ave,Pittsburgh,PA,31197,NEAR_PRIME,656,2018-03-06
+FSV869641,Helen Martin,helen.martin15@protonmail.com,+12277022766,2343 River Ln,Philadelphia,PA,99449,SUPER_PRIME,822,2021-08-12
+FSV721476,Steven Scott,steven.scott72@aol.com,+12354574334,5173 Cedar St,Newark,NJ,32295,DEEP_SUBPRIME,303,2025-03-31
+FSV183037,A. Wright,anthony.wright10@yahoo.com,+17623217318,7413 Elm St,Tucson,AZ,16352,PRIME,704,2020-09-10
+FSV631640,James Gonzalez,james.gonzalez29@icloud.com,+12094985579,8905 River Way,Atlanta,GA,97499,SUPER_PRIME,754,2025-09-07
+FSV895164,Angela Ramos,angela.ramos7@icloud.com,+12098663027,1970 Walnut Ave,Grand Rapids,MI,45257,SUPER_PRIME,755,2021-12-19
+FSV373484,James Ortiz,JAMES.ORTIZ78@ICLOUD.COM,+13457634179,5738 Cedar Dr,Richmond,VA,25058,SUBPRIME,590,2025-03-17
+FSV492464,Nicholas Turner,nicholas.turner48@outlook.com,+17064480823,7616 Oak Ave,Springfield,IL,81364,PRIME,706,2022-07-04
+FSV915843,Katherine Alvarez,KATHERINE.ALVAREZ1@OUTLOOK.COM,+18962853043,1273 Park Dr,Grand Rapids,MI,22682,PRIME,725,2019-12-22
+FSV604847,Jack Turner,jack.turner3@yahoo.com,+15864881016,148 Main Blvd,Cleveland,OH,80947,SUPER_PRIME,782,2021-07-06
+FSV378568,P. White,pamela.white36@gmail.com,+12445432916,917 Walnut Way,Naperville,IL,99861,PRIME,742,2023-05-31
+FSV995871,Matthew Williams,matthew.williams74@icloud.com,+14918529542,9934 Main Blvd,New York,NY,31132,PRIME,725,2023-05-22
+FSV231468,Eric Patel,eric.patel13@icloud.com,+14042579044,2855 River Dr,Miami,FL,58040,SUBPRIME,581,2018-11-12
+FSV734007,Edward Ramirez,edward.ramirez90@gmail.com,+13164475928,312 Park St,Madison,TN,65839,SUPER_PRIME,777,2025-09-26
+FSV569241,Rebecca Thomas,REBECCA.THOMAS32@ICLOUD.COM,+18883740427,9952 Cedar Way,Atlanta,GA,48778,SUBPRIME,622,2024-06-27
+FSV826075,Stephen Ross,STEPHEN.ROSS14@ICLOUD.COM,+14782170040,9933 Elm Blvd,Tampa,FL,83092,PRIME,746,2024-10-08
+FSV620714,Daniel Wilson,daniel.wilson27@hotmail.com,+19915222642,5315 Maple St,Philadelphia,PA,51150,SUPER_PRIME,839,2020-08-13
+FSV955373,J. Baker,jack.baker94@gmail.com,+17753950139,1863 Park Dr,Springfield,WI,93368,PRIME,742,2022-01-24
+FSV232127,Anthony Ramirez,anthony.ramirez91@outlook.com,+12114024255,5107 Elm Way,Columbus,WI,32498,PRIME,701,2025-10-07
+FSV753737,Gregory Young,gregory.young38@protonmail.com,+17665542450,2644 Main Ave,Philadelphia,PA,46636,PRIME,700,2024-02-08
+FSV289731,Jessica Bennett,jessica.bennett45@yahoo.com,+18352089741,3254 Park St,Columbus,IN,51932,DEEP_SUBPRIME,513,2018-02-03
+FSV312673,D. Martinez,deborah.martinez31@icloud.com,+15917402264,7190 River Way,New York,NY,65499,PRIME,720,2020-01-13
+FSV691071,David Watson,david.watson49@icloud.com,+18893980886,8494 Maple Blvd,Springfield,MO,63754,SUPER_PRIME,829,2021-06-05
+FSV440398,Susan Patel,susan.patel32@hotmail.com,+17753962773,6386 River Ave,Columbus,IN,82677,NEAR_PRIME,696,2023-09-11
+FSV938556,Maria Bailey,maria.bailey27@outlook.com,+18152612728,7805 Walnut Blvd,Madison,IN,15872,NEAR_PRIME,680,2020-10-15
+FSV185606,Ryan Ramirez,ryan.ramirez59@gmail.com,+16182786634,7596 Main Ct,Raleigh,NC,66784,NEAR_PRIME,675,2023-10-16
+FSV182436,Shirley King,shirley.king55@gmail.com,+19022609302,6397 Park Way,Boston,MA,48342,PRIME,722,2022-11-06
+FSV393431,Pamela Gutierrez,pamela.gutierrez63@outlook.com,+15181764389,2323 Pine Ave,Newark,NJ,83530,DEEP_SUBPRIME,442,2018-03-10
+FSV908307,John Taylor,john.taylor39@aol.com,+12737900000,4185 Lake Way,Newark,NJ,47686,NEAR_PRIME,665,2025-11-30
+FSV650521,Mark Williams,mark.williams1@protonmail.com,+15019450936,6143 Elm Ct,New York,NY,74189,SUBPRIME,598,2024-02-28
+FSV865780,Matthew Myers,matthew.myers69@gmail.com,+18903525628,3314 Maple Blvd,Phoenix,AZ,67638,NEAR_PRIME,663,2022-07-09
+FSV169868,L. Hill,laura.hill90@gmail.com,+17219193739,8224 Pine Ct,Raleigh,NC,74984,SUBPRIME,602,2019-07-11
+FSV992209,Carolyn Nelson,carolyn.nelson54@aol.com,+16865720983,509 Pine Ct,Naperville,IL,29699,SUPER_PRIME,845,2020-11-05
+FSV434979,E. Green,elizabeth.green95@gmail.com,+16187251201,6627 Cedar Way,Springfield,TN,76353,SUPER_PRIME,829,2018-05-13
+FSV749486,Ashley Baker,ASHLEY.BAKER4@PROTONMAIL.COM,+17842320054,1249 Main Way,Philadelphia,PA,42180,SUPER_PRIME,802,2018-05-11
+FSV333146,Nicholas Reed,nicholas.reed36@icloud.com,+16362283470,5211 Pine Dr,Madison,MD,68809,PRIME,705,2024-02-22
+FSV406503,Cynthia Sanders,cynthia.sanders48@icloud.com,+15517290235,374 Lake Way,Columbus,MD,91110,NEAR_PRIME,674,2025-12-10
+FSV705412,J. Torres,jason.torres46@gmail.com,+14212480411,8815 Walnut Dr,San Diego,CA,14224,PRIME,715,2022-09-26
+FSV963067,Nicholas Baker,NICHOLAS.BAKER96@PROTONMAIL.COM,+18883793128,3801 Lake Dr,Pittsburgh,PA,94559,SUBPRIME,596,2020-02-09
+FSV987658,Kathleen Hill,kathleen.hill66@outlook.com,+14005488504,6955 Cedar Ln,Tampa,FL,20293,SUPER_PRIME,796,2023-09-02
+FSV391818,Nicole Adams,nicole.adams49@icloud.com,+15533983232,3624 Lake Ave,Newark,NJ,22727,PRIME,745,2019-12-01
+FSV995713,David King,david.king98@protonmail.com,+12532704646,2940 Oak Ln,Seattle,WA,51208,NEAR_PRIME,661,2019-10-06
+FSV606246,Kevin Chavez,KEVIN.CHAVEZ38@GMAIL.COM,+16608397931,8829 Oak Way,Virginia Beach,VA,23082,SUPER_PRIME,758,2020-07-04
+FSV814840,Ryan Evans,ryan.evans44@yahoo.com,+12567995697,5126 Oak Ln,Phoenix,AZ,23497,PRIME,719,2024-04-06
+FSV715829,Linda Long,linda.long17@yahoo.com,+19032404566,8279 Cedar Way,Madison,IN,62705,NEAR_PRIME,658,2022-07-15
+FSV823467,Paul Murphy,PAUL.MURPHY71@HOTMAIL.COM,+16661824706,3397 Elm Ave,Madison,MD,13998,SUPER_PRIME,794,2019-07-24
+FSV449216,Steven Harris,steven.harris91@yahoo.com,+18469657185,6644 Main Ct,Columbus,MO,59820,SUPER_PRIME,794,2021-04-24
+FSV890299,Joshua Morris,joshua.morris94@aol.com,+17176544568,7237 Walnut Way,Raleigh,NC,44024,PRIME,738,2018-06-20
+FSV108737,Brenda Morales,brenda.morales85@gmail.com,+16263147096,2361 River St,Madison,IN,21558,PRIME,724,2022-10-10
+FSV918983,Christine Long,CHRISTINE.LONG67@AOL.COM,+19836413204,4128 Lake Ave,Boston,MA,84650,NEAR_PRIME,663,2018-03-10
+FSV901635,Jeffrey Taylor,jeffrey.taylor17@hotmail.com,+19477607592,8184 Main Ct,Springfield,MO,82953,SUBPRIME,632,2020-05-30
+FSV463571,Frank James,frank.james98@protonmail.com,+13139840625,3677 Elm Ave,Naperville,IL,58957,PRIME,742,2025-06-10
+FSV445250,Gary Evans,gary.evans74@outlook.com,+17888968236,5584 Elm St,Madison,TN,40284,SUBPRIME,615,2024-03-09
+FSV238580,R. Richardson,RACHEL.RICHARDSON55@ICLOUD.COM,+15303018304,2030 River Ln,Columbus,TN,74621,PRIME,717,2025-09-10
+FSV497263,Sharon Flores,sharon.flores24@gmail.com,+13127643820,3240 Main St,Jacksonville,FL,52897,PRIME,715,2018-07-24
+FSV680918,Catherine Ramirez,catherine.ramirez5@outlook.com,+12084422237,3320 Pine Ln,Detroit,MI,10656,PRIME,703,2020-11-06
+FSV554849,Stephanie Myers,stephanie.myers79@icloud.com,+16965484943,6701 Elm Dr,Springfield,TN,27830,PRIME,717,2018-03-06
+FSV285429,Scott Ruiz,scott.ruiz22@gmail.com,+15656385189,3663 Lake Ave,Naperville,IL,12570,DEEP_SUBPRIME,509,2025-01-10
+FSV861972,Margaret Cox,margaret.cox44@gmail.com,+18822678642,8371 Oak Dr,Virginia Beach,VA,73343,PRIME,718,2018-01-11
+FSV384168,Amanda Clark,amanda.clark35@icloud.com,+16558287570,5842 Walnut Ct,Jacksonville,FL,51843,NEAR_PRIME,661,2025-07-19
+FSV846756,Samantha Flores,samantha.flores75@outlook.com,+19861902080,8076 Walnut Way,Savannah,GA,41587,NEAR_PRIME,656,2022-08-09
+FSV561429,J. Thomas,joseph.thomas18@yahoo.com,+15607128421,7772 Lake Blvd,Jersey City,NJ,62597,SUBPRIME,616,2020-09-11
+FSV168512,Kevin Wood,kevin.wood87@hotmail.com,+17966771537,8062 River Blvd,Virginia Beach,VA,73936,NEAR_PRIME,659,2019-08-16
+FSV895025,E. Perez,edward.perez33@icloud.com,+18078458954,1673 Pine Way,Atlanta,GA,74579,NEAR_PRIME,690,2022-12-24
+FSV536085,Kenneth Kelly,kenneth.kelly25@aol.com,+15972690689,416 Oak Dr,Newark,NJ,55604,SUPER_PRIME,786,2026-01-03
+FSV309611,Samuel Wright,samuel.wright15@hotmail.com,+15734965307,9105 River Dr,Springfield,MD,68349,PRIME,738,2023-12-07
+FSV120333,Alexander Ortiz,alexander.ortiz28@yahoo.com,+15532786278,3276 River St,Columbus,WI,19753,SUPER_PRIME,766,2023-12-28
+FSV275194,Sharon Phillips,sharon.phillips91@protonmail.com,+18831184614,944 Park Way,Savannah,GA,39927,NEAR_PRIME,686,2022-12-14
+FSV462663,Daniel Baker,daniel.baker55@aol.com,+13062484123,2168 Elm Ave,Pittsburgh,PA,31790,NEAR_PRIME,687,2025-12-08
+FSV340198,Gary Chavez,gary.chavez49@outlook.com,+19164603245,3063 Cedar Way,Madison,MO,51553,SUPER_PRIME,792,2022-06-04
+FSV320990,Matthew Rogers,matthew.rogers66@outlook.com,+19992672973,8899 Pine Ct,San Diego,CA,75097,SUPER_PRIME,832,2025-09-27
+FSV578421,Betty Young,BETTY.YOUNG26@GMAIL.COM,+17209081305,6569 Pine Dr,Jersey City,NJ,73295,SUBPRIME,594,2022-12-20
+FSV646910,Heather Reyes,heather.reyes64@yahoo.com,+12425730150,9039 Lake Ct,Seattle,WA,77652,PRIME,730,2025-05-03
+FSV634455,Charles Roberts,charles.roberts92@hotmail.com,+19704870352,434 Walnut Ct,Grand Rapids,MI,42790,PRIME,727,2021-05-07
+FSV885064,Thomas Baker,thomas.baker75@icloud.com,+16751180768,7675 Pine Ave,Jacksonville,FL,25448,SUPER_PRIME,758,2024-04-07
+FSV269151,Stephanie Smith,stephanie.smith66@gmail.com,+13444890720,3360 Cedar Ln,Chicago,IL,40250,PRIME,748,2024-03-04
+FSV919101,Donald Adams,donald.adams39@gmail.com,+19832483561,2566 Lake Ave,Albany,NY,34824,SUBPRIME,628,2025-09-28
+FSV290786,A. Ross,amanda.ross65@icloud.com,+12586091294,1307 Elm Blvd,Columbus,WI,60067,SUBPRIME,590,2025-11-04
+FSV782669,Brenda King,brenda.king42@hotmail.com,+19318634413,3920 Oak Way,Jacksonville,FL,71920,PRIME,729,2018-09-06
+FSV301810,Laura Nelson,laura.nelson90@protonmail.com,+16494644289,2018 Lake St,Columbus,TN,55146,PRIME,749,2021-05-22
+FSV216060,George Howard,george.howard47@outlook.com,+18896890368,6953 Cedar Dr,Grand Rapids,MI,29642,SUPER_PRIME,763,2023-06-06
+FSV109969,Debra Brown,debra.brown49@hotmail.com,+18044053391,6780 Oak Ave,Columbus,OH,78079,PRIME,743,2023-12-05
+FSV820087,Jeffrey Kim,jeffrey.kim96@protonmail.com,+19778449742,1242 Oak St,Virginia Beach,VA,67383,NEAR_PRIME,686,2019-08-15
+FSV247203,Anna Wood,ANNA.WOOD49@GMAIL.COM,+16101461875,6290 River Blvd,Pittsburgh,PA,39696,SUPER_PRIME,837,2018-08-01
+FSV990537,Carol Jimenez,carol.jimenez68@protonmail.com,+17696642710,4806 Lake Dr,Naperville,IL,54648,SUPER_PRIME,793,2023-05-30
+FSV267936,Michelle Jackson,michelle.jackson71@aol.com,+18528493210,9018 Walnut St,Springfield,IN,98963,DEEP_SUBPRIME,510,2019-06-25
+FSV135179,John Lopez,john.lopez73@aol.com,+19959120779,2712 Lake Dr,Madison,WI,36605,PRIME,726,2024-08-21
+FSV257605,J. Stewart,joseph.stewart61@gmail.com,+12196438861,1387 Main Ave,Columbus,MD,79084,SUPER_PRIME,751,2020-03-08
+FSV239314,William Castillo,william.castillo8@protonmail.com,+14757808038,6900 Elm Ct,Columbus,TN,71140,SUBPRIME,588,2021-02-02
+FSV296862,Sandra Castillo,sandra.castillo65@icloud.com,+13454991428,9199 Maple Dr,Seattle,WA,80111,SUBPRIME,623,2024-02-02
+FSV601823,Sandra Moore,sandra.moore6@hotmail.com,+13098252546,8232 River Ct,Tacoma,WA,73358,NEAR_PRIME,684,2023-08-11
+FSV491050,Stephen Castillo,stephen.castillo65@yahoo.com,+18072730412,5730 Lake Way,Richmond,VA,58752,NEAR_PRIME,686,2018-01-16
+FSV476346,Robert Powell,robert.powell31@aol.com,+16213658372,6415 Elm Blvd,Cambridge,MA,88812,PRIME,744,2021-06-22
+FSV231358,Sharon Price,SHARON.PRICE67@ICLOUD.COM,+13687314805,6029 Park St,Cambridge,MA,54244,NEAR_PRIME,669,2025-02-15
+FSV531353,Michael Ross,michael.ross93@gmail.com,+17815816411,255 River St,Savannah,GA,64912,NEAR_PRIME,691,2019-05-29
+FSV495921,Sarah Taylor,sarah.taylor81@gmail.com,+13026571507,2529 Park Ave,Virginia Beach,VA,24251,SUBPRIME,608,2024-09-21
+FSV892169,Kevin Turner,KEVIN.TURNER58@PROTONMAIL.COM,+15133744482,2687 River Ln,Springfield,MD,93541,NEAR_PRIME,683,2019-05-31
+FSV632417,Kathleen Powell,kathleen.powell60@hotmail.com,+19984964080,6697 Cedar St,Springfield,TN,15597,SUPER_PRIME,826,2019-11-23
+FSV418972,Edward Rodriguez,edward.rodriguez16@icloud.com,+18349266290,9908 Elm Way,Grand Rapids,MI,18017,PRIME,715,2021-07-26
+FSV602930,Debra Kelly,debra.kelly43@icloud.com,+14025162762,8471 Oak Ave,Seattle,WA,42279,SUBPRIME,603,2019-12-16
+FSV993401,Michelle Gonzalez,michelle.gonzalez21@gmail.com,+14474861301,5782 Main Blvd,Philadelphia,PA,19518,PRIME,716,2025-02-07
+FSV844216,Dorothy Adams,dorothy.adams40@gmail.com,+12803621766,6183 Cedar Ct,Columbus,MO,21482,PRIME,717,2021-01-24
+FSV940239,Janet Hall,janet.hall89@icloud.com,+19746269035,5964 Park St,San Diego,CA,61423,SUPER_PRIME,838,2024-11-08
+FSV830081,Jessica Myers,JESSICA.MYERS59@ICLOUD.COM,+12746245578,780 Pine Ave,Phoenix,AZ,17174,SUPER_PRIME,835,2022-11-07
+FSV621482,Michelle Harris,MICHELLE.HARRIS94@GMAIL.COM,+12514633090,9928 Elm Dr,Cleveland,OH,77298,SUBPRIME,585,2019-03-24
+FSV709790,Brenda Gutierrez,brenda.gutierrez45@hotmail.com,+12367405699,5573 Walnut Ct,Jacksonville,FL,82981,PRIME,734,2018-12-29
+FSV667934,Charles Smith,charles.smith54@outlook.com,+12188820028,8550 Maple Way,Springfield,MO,13772,SUBPRIME,617,2019-09-25
+FSV670032,Andrew Cox,andrew.cox68@aol.com,+19408010465,7463 Cedar St,Springfield,MO,83555,SUBPRIME,613,2023-05-24
+FSV516873,George Phillips,george.phillips3@hotmail.com,+12333259936,5826 Lake Ct,Cleveland,OH,55364,NEAR_PRIME,682,2025-01-07
+FSV355705,Gregory Sanchez,gregory.sanchez87@yahoo.com,+12122736381,2452 Pine Way,Jacksonville,FL,17546,PRIME,706,2022-08-30
+FSV637026,John Cook,john.cook49@gmail.com,+16014599637,316 Maple Ct,Dallas,TX,46975,PRIME,740,2020-08-28
+FSV202134,Brandon Flores,brandon.flores41@outlook.com,+16237500935,2600 Lake Ln,Springfield,WI,75081,PRIME,745,2019-03-12
+FSV497538,Benjamin Phillips,benjamin.phillips58@protonmail.com,+13044094594,5988 Oak Way,Houston,TX,58360,SUPER_PRIME,766,2021-03-21
+FSV932199,Amanda Rodriguez,amanda.rodriguez99@outlook.com,+16971564477,9663 Lake Dr,Tucson,AZ,35388,NEAR_PRIME,657,2020-06-09
+FSV473543,C. Lee,christopher.lee39@outlook.com,+12424797753,1307 Oak Ln,Charlotte,NC,14137,PRIME,725,2018-10-16
+FSV701745,Christine Kelly,CHRISTINE.KELLY94@OUTLOOK.COM,+15873399386,5077 Park Dr,Phoenix,AZ,83426,SUPER_PRIME,808,2023-08-16
+FSV808267,Dennis Rodriguez,dennis.rodriguez82@gmail.com,+16551037353,5174 Pine Dr,Springfield,IN,15053,SUBPRIME,593,2018-02-09
+FSV549444,N. Collins,nicholas.collins59@outlook.com,+18778925498,9924 Pine Ct,Springfield,IN,17163,SUPER_PRIME,783,2022-05-16
+FSV618047,Justin Ward,justin.ward81@icloud.com,+15072187967,170 Walnut St,Columbus,IN,39379,SUBPRIME,611,2025-12-10
+FSV290315,Donald Lopez,donald.lopez51@gmail.com,+15975842247,449 Main Blvd,Houston,TX,67778,PRIME,725,2021-04-24
+FSV817515,Eric Ramos,eric.ramos1@protonmail.com,+12738457737,8067 Maple Way,Raleigh,NC,72976,PRIME,741,2022-07-19
+FSV386795,Elizabeth Cruz,elizabeth.cruz46@outlook.com,+18068094649,7435 Pine Ave,Jacksonville,FL,40456,DEEP_SUBPRIME,442,2019-11-29
+FSV580272,Larry Wilson,larry.wilson50@hotmail.com,+16136838196,3613 Walnut Way,Madison,TN,24636,SUPER_PRIME,779,2020-09-25
+FSV206286,Maria Diaz,maria.diaz85@yahoo.com,+18363574192,7950 Walnut Ln,Springfield,IL,69406,NEAR_PRIME,659,2024-04-13
+FSV483461,Maria Morris,maria.morris60@aol.com,+13282987132,2089 Walnut Ave,Columbus,WI,54433,SUPER_PRIME,750,2022-01-30
+FSV326666,Stephanie Clark,stephanie.clark30@aol.com,+19344981854,4204 Elm Dr,Madison,MD,22983,PRIME,706,2025-06-07
+FSV441003,Linda Nelson,linda.nelson55@gmail.com,+16252181337,9691 Park Ave,Los Angeles,CA,83642,SUPER_PRIME,756,2019-04-01
+FSV450912,James Miller,james.miller62@yahoo.com,+14014658293,1305 Main Blvd,Madison,MO,97203,NEAR_PRIME,683,2025-06-20
+FSV839196,Kenneth Castillo,kenneth.castillo97@gmail.com,+17387671212,4809 Oak Dr,Phoenix,AZ,60384,SUPER_PRIME,759,2024-02-19
+FSV155274,Frank Watson,frank.watson19@yahoo.com,+17912136149,9464 Maple Way,Phoenix,AZ,33551,SUPER_PRIME,830,2022-08-23
+FSV610592,Daniel Carter,daniel.carter98@outlook.com,+14646054719,8623 Pine Ct,Springfield,WI,42546,PRIME,739,2019-11-09
+FSV547641,Elizabeth Flores,elizabeth.flores43@outlook.com,+19196833773,9829 Main Ct,Atlanta,GA,93926,PRIME,738,2018-04-11
+FSV958863,Richard Ruiz,richard.ruiz51@hotmail.com,+12234629987,2488 Maple Blvd,Chicago,IL,76678,PRIME,724,2023-04-01
+FSV187823,Ryan Kelly,RYAN.KELLY35@HOTMAIL.COM,+12872232965,1154 Park Way,Cleveland,OH,38386,SUBPRIME,620,2018-10-04
+FSV674806,Sharon Wilson,sharon.wilson47@icloud.com,+14551538101,8425 Elm Ln,Tampa,FL,31774,PRIME,746,2020-04-20
+FSV413032,Debra Alvarez,debra.alvarez24@gmail.com,+16833243689,207 Oak Ln,Madison,IN,68876,SUPER_PRIME,806,2022-10-15
+FSV609354,Gary Ward,gary.ward11@gmail.com,+17252926417,5073 Lake Ct,Phoenix,AZ,43545,PRIME,710,2021-12-18
+FSV709693,Sarah Taylor,sarah.taylor26@icloud.com,+15384434487,9509 Oak Dr,Savannah,GA,85120,NEAR_PRIME,683,2018-01-12
+FSV633987,Brandon Roberts,brandon.roberts3@icloud.com,+13018313089,6505 Pine Ln,Columbus,MO,70857,PRIME,715,2018-01-06
+FSV273022,Richard Morales,richard.morales46@gmail.com,+15251304647,6783 River Ln,Tucson,AZ,64486,SUBPRIME,601,2018-01-15
+FSV400167,Rachel Lee,rachel.lee82@outlook.com,+14406869365,4540 Main Way,Naperville,IL,50116,PRIME,703,2023-08-24
+FSV596436,Barbara Anderson,barbara.anderson52@gmail.com,+14262383382,7393 Pine Ln,Newark,NJ,87012,PRIME,743,2020-01-14
+FSV770222,Jessica Cooper,jessica.cooper89@protonmail.com,+15027114714,9869 Elm St,Phoenix,AZ,52727,SUBPRIME,619,2019-12-31
+FSV150009,Emma Peterson,emma.peterson12@icloud.com,+12006983510,8793 River Dr,Atlanta,GA,15108,NEAR_PRIME,679,2019-08-08
+FSV897488,Timothy Price,timothy.price1@hotmail.com,+17075710426,6496 Oak Way,Madison,IN,25313,SUPER_PRIME,815,2021-01-20
+FSV821841,Rachel Gomez,rachel.gomez66@hotmail.com,+13075331921,3947 River Dr,Dallas,TX,61894,NEAR_PRIME,697,2025-08-03
+FSV823335,Andrew Ward,andrew.ward6@icloud.com,+16123858105,7080 Elm Dr,Madison,MD,93918,SUBPRIME,618,2021-07-04
+FSV916469,Ronald Brown,ronald.brown60@protonmail.com,+18208200668,6061 Lake Ct,Charlotte,NC,51186,NEAR_PRIME,682,2024-11-08
+FSV558050,Margaret Flores,margaret.flores13@hotmail.com,+18524243122,5282 Main Way,San Antonio,TX,92105,NEAR_PRIME,653,2025-04-25
+FSV309094,Carol Torres,CAROL.TORRES29@GMAIL.COM,+19833319359,6532 Cedar Ave,Los Angeles,CA,30790,PRIME,737,2019-06-17
+FSV657732,Scott Ruiz,SCOTT.RUIZ5@AOL.COM,+14486988373,5243 Cedar Blvd,Dallas,TX,69176,SUPER_PRIME,784,2023-06-19
+FSV747118,Rebecca Flores,rebecca.flores82@yahoo.com,+16891239396,6956 Cedar St,Raleigh,NC,67357,NEAR_PRIME,675,2019-10-18
+FSV795378,George Roberts,george.roberts75@outlook.com,+12523115090,6782 Maple Way,Grand Rapids,MI,53624,NEAR_PRIME,665,2020-11-17
+FSV889484,Samuel Moore,samuel.moore89@hotmail.com,+14507716043,9366 Walnut Way,Columbus,TN,96597,SUPER_PRIME,842,2020-12-12
+FSV801774,Karen Davis,KAREN.DAVIS4@HOTMAIL.COM,+12686717009,1866 Elm St,Columbus,MD,17316,PRIME,701,2019-03-03
+FSV589620,Joseph Carter,joseph.carter84@aol.com,+13502887015,140 Cedar Ave,Philadelphia,PA,13262,SUPER_PRIME,780,2024-08-06
+FSV459487,Katherine Reyes,katherine.reyes22@aol.com,+13482042527,6657 Maple Ave,Cambridge,MA,30811,NEAR_PRIME,670,2024-12-16
+FSV805974,Pamela Peterson,pamela.peterson2@protonmail.com,+17817995360,418 Walnut Ct,Austin,TX,44769,NEAR_PRIME,673,2024-07-02
+FSV121973,Stephen Reyes,stephen.reyes60@icloud.com,+19941886805,7210 Oak Ave,Raleigh,NC,90585,SUBPRIME,613,2022-12-14
+FSV705725,Sarah Rogers,SARAH.ROGERS26@PROTONMAIL.COM,+17042250436,8553 Walnut St,Springfield,IL,53868,SUPER_PRIME,832,2020-11-19
+FSV898860,Timothy Flores,timothy.flores18@aol.com,+19017055966,4003 Cedar Way,Madison,TN,99872,NEAR_PRIME,659,2024-07-14
+FSV832187,Kimberly Bailey,kimberly.bailey22@gmail.com,+16918840652,1795 Main Dr,Sacramento,CA,47385,NEAR_PRIME,680,2025-10-06
+FSV788532,Karen Chavez,karen.chavez7@protonmail.com,+13089327575,9197 Cedar St,Grand Rapids,MI,33148,SUPER_PRIME,758,2018-05-24
+FSV604403,Sandra Price,sandra.price87@hotmail.com,+18696599609,3869 River Dr,Springfield,WI,52112,SUPER_PRIME,836,2024-12-14
+FSV426635,Gregory Mendoza,GREGORY.MENDOZA57@OUTLOOK.COM,+12407146970,1622 Maple Ave,Madison,WI,70107,NEAR_PRIME,653,2018-12-08
+FSV425368,Nicole Edwards,NICOLE.EDWARDS39@AOL.COM,+18731778906,6050 Lake Blvd,Seattle,WA,90658,SUBPRIME,580,2021-08-04
+FSV275976,Nicholas Phillips,nicholas.phillips27@yahoo.com,+14647272755,4089 Cedar Ave,Pittsburgh,PA,67851,NEAR_PRIME,678,2020-12-23
+FSV445052,Frank Martinez,frank.martinez74@icloud.com,+13209389951,3534 Main Ct,Columbus,MO,96386,PRIME,732,2024-09-09
+FSV625808,Christopher James,christopher.james74@aol.com,+16952710850,2408 Oak Ct,Tucson,AZ,46951,NEAR_PRIME,681,2018-02-05
+FSV329282,Justin Young,justin.young24@icloud.com,+15449981436,876 Pine Blvd,Boston,MA,28881,PRIME,716,2020-01-09
+FSV220871,C. Stewart,CYNTHIA.STEWART93@AOL.COM,+19084574029,6914 Main Way,Jersey City,NJ,53030,PRIME,728,2018-10-11
+FSV574889,Steven Carter,steven.carter53@gmail.com,+12717042169,6810 Lake Ct,Atlanta,GA,62699,SUBPRIME,647,2021-04-21
+FSV191565,Brandon Allen,brandon.allen31@yahoo.com,+12544576563,7308 Elm Ct,Springfield,IN,95271,DEEP_SUBPRIME,352,2018-05-24
+FSV138835,Rebecca Harris,REBECCA.HARRIS51@ICLOUD.COM,+12796351092,4995 Cedar Ln,New York,NY,76932,SUPER_PRIME,819,2023-07-07
+FSV710683,Lisa Watson,lisa.watson41@protonmail.com,+18285571940,6491 River Way,Madison,MO,89393,PRIME,704,2025-06-07
+FSV138274,Karen Garcia,karen.garcia56@icloud.com,+17358322898,4900 Elm Ct,Atlanta,GA,68001,SUBPRIME,601,2019-01-09
+FSV258016,Cynthia Patel,cynthia.patel96@gmail.com,+16164053398,8897 Maple Ct,Seattle,WA,39080,SUPER_PRIME,814,2023-01-13
+FSV799945,Daniel Harris,daniel.harris91@aol.com,+16814662869,1097 Elm Ct,Springfield,IL,70592,NEAR_PRIME,652,2020-11-09
+FSV935609,Alexander Lee,alexander.lee75@protonmail.com,+16608686537,733 Pine St,Charlotte,NC,23631,DEEP_SUBPRIME,469,2021-10-15
+FSV287375,Stephanie Chavez,stephanie.chavez96@hotmail.com,+16419379565,3839 Maple Ave,Boston,MA,33372,SUBPRIME,623,2024-10-29
+FSV205084,Jeffrey Brown,jeffrey.brown5@icloud.com,+16221403147,9195 River Blvd,Sacramento,CA,37043,SUPER_PRIME,828,2021-07-05
+FSV174758,J. Walker,JESSICA.WALKER42@AOL.COM,+19932269974,725 Lake Way,Columbus,IN,12216,NEAR_PRIME,659,2020-10-11
+FSV563847,Thomas Brooks,thomas.brooks46@icloud.com,+15486758942,9439 Cedar Blvd,Cambridge,MA,13331,NEAR_PRIME,654,2022-04-10
+FSV808825,Jeffrey Anderson,jeffrey.anderson17@hotmail.com,+18787156788,2449 Main Dr,Grand Rapids,MI,97652,DEEP_SUBPRIME,446,2024-04-09
+FSV476474,Brandon Watson,brandon.watson6@protonmail.com,+18803273417,7859 Walnut Ct,Philadelphia,PA,91652,SUBPRIME,642,2025-12-20
+FSV119350,Janet Campbell,janet.campbell30@outlook.com,+18591369971,9535 Pine St,Atlanta,GA,33072,SUPER_PRIME,771,2021-03-16
+FSV803335,Justin Reed,JUSTIN.REED53@GMAIL.COM,+12882458953,1965 Maple Ct,Houston,TX,49662,SUBPRIME,612,2019-07-13
+FSV384017,Scott Foster,SCOTT.FOSTER15@PROTONMAIL.COM,+13193528952,524 Elm Ln,Columbus,WI,21313,SUBPRIME,634,2018-12-24
+FSV266459,Brenda Jones,brenda.jones21@yahoo.com,+13192806778,9532 River St,Philadelphia,PA,77257,NEAR_PRIME,695,2024-06-27
+FSV989746,Maria Parker,maria.parker80@gmail.com,+17189038528,4860 Main Blvd,Tacoma,WA,13954,PRIME,745,2023-06-07
+FSV627148,Emma Mitchell,emma.mitchell97@hotmail.com,+13577008021,7624 Elm Ave,Phoenix,AZ,19862,SUPER_PRIME,816,2022-05-20
+FSV753256,Janet Martinez,janet.martinez52@protonmail.com,+16721381009,323 Cedar Ln,New York,NY,89630,SUBPRIME,636,2020-02-09
+FSV938891,Margaret Ruiz,margaret.ruiz84@gmail.com,+17728060795,3342 Maple Ave,Boston,MA,38338,SUPER_PRIME,837,2023-11-12
+FSV643575,Anna Ruiz,anna.ruiz68@protonmail.com,+15323371849,6224 Lake Blvd,Madison,IN,45959,SUBPRIME,601,2023-04-02
+FSV284259,Eric Perez,ERIC.PEREZ69@GMAIL.COM,+12335330159,3956 Walnut Blvd,Savannah,GA,67537,PRIME,713,2020-03-11
+FSV697149,Richard Gomez,richard.gomez62@icloud.com,+12383043939,4362 Cedar Ln,Savannah,GA,49571,SUPER_PRIME,801,2019-03-09
+FSV774420,Joseph Price,joseph.price4@protonmail.com,+14037292330,1347 Oak Ln,Detroit,MI,89635,SUBPRIME,589,2024-01-17
+FSV840349,Daniel Patel,daniel.patel26@outlook.com,+18925574998,5257 Pine Blvd,Seattle,WA,84265,NEAR_PRIME,699,2023-08-10
+FSV336771,Edward Chavez,edward.chavez89@gmail.com,+18678466209,3502 Walnut Ct,Chicago,IL,79517,SUPER_PRIME,778,2022-03-22
+FSV846617,Robert Howard,robert.howard9@yahoo.com,+16215355728,415 Maple Blvd,Cleveland,OH,79165,NEAR_PRIME,686,2022-07-23
+FSV193495,Daniel Morales,DANIEL.MORALES55@AOL.COM,+15375927194,2364 Oak Way,Columbus,MD,72387,PRIME,745,2021-06-02
+FSV643446,Joseph Turner,joseph.turner53@hotmail.com,+14174824416,2759 Walnut Blvd,Albany,NY,77421,PRIME,737,2025-10-26
+FSV160584,Brenda Wilson,brenda.wilson73@outlook.com,+17725728518,1572 Pine Ave,Naperville,IL,91987,PRIME,741,2023-01-11
+FSV985443,Betty Brooks,betty.brooks7@yahoo.com,+16246464531,6299 Pine Way,Cleveland,OH,69814,PRIME,730,2022-07-19
+FSV631531,Shirley Reyes,shirley.reyes39@icloud.com,+14635271120,6355 Oak St,Austin,TX,86352,NEAR_PRIME,650,2024-06-20
+FSV417038,Gary Ramirez,gary.ramirez59@gmail.com,+12578864423,9280 Lake St,Madison,IN,92906,NEAR_PRIME,695,2020-09-14
+FSV874327,Stephanie Morris,stephanie.morris71@yahoo.com,+17847056694,7626 Oak Dr,Madison,MD,50296,PRIME,725,2018-03-21
+FSV367359,Catherine Stewart,catherine.stewart97@protonmail.com,+17934771454,2790 Main Dr,San Francisco,CA,14603,SUBPRIME,642,2018-09-06
+FSV701195,Jeffrey Evans,jeffrey.evans61@icloud.com,+15695633475,1571 River Ln,Pittsburgh,PA,30992,SUBPRIME,616,2021-10-25
+FSV943999,Matthew Flores,matthew.flores96@icloud.com,+18795289751,5757 Elm Blvd,Newark,NJ,68104,SUPER_PRIME,805,2022-06-15
+FSV760737,Heather Ross,heather.ross96@icloud.com,+15763049700,2150 Cedar Way,San Antonio,TX,83135,SUPER_PRIME,815,2019-08-24
+FSV228326,Stephanie Castillo,stephanie.castillo21@protonmail.com,+19899718036,3882 Park Ave,Phoenix,AZ,38719,PRIME,714,2020-11-22
+FSV455011,Jacob Foster,jacob.foster26@yahoo.com,+14384299288,2128 Lake Ct,Houston,TX,77454,PRIME,709,2020-10-25
+FSV576598,Benjamin Johnson,benjamin.johnson70@gmail.com,+18687478733,4946 Cedar Ct,Raleigh,NC,56732,SUPER_PRIME,817,2025-09-15
+FSV732653,Sharon Nguyen,sharon.nguyen79@yahoo.com,+14693227787,8720 Lake Ave,San Diego,CA,93317,SUPER_PRIME,807,2025-04-06
+FSV421820,Eric Ramirez,eric.ramirez11@hotmail.com,+19011500857,2193 Cedar St,Columbus,OH,61920,SUPER_PRIME,771,2024-08-29
+FSV937680,Joshua Murphy,joshua.murphy93@aol.com,+12911016268,3886 Lake Blvd,Tucson,AZ,34274,PRIME,736,2022-10-22
+FSV337979,Gregory Cruz,gregory.cruz42@protonmail.com,+19615798227,6895 Cedar Dr,Detroit,MI,96838,DEEP_SUBPRIME,416,2024-11-24
+FSV741578,Robert James,robert.james85@protonmail.com,+16724437446,3145 Elm Way,Naperville,IL,36804,PRIME,713,2025-07-13
+FSV496437,Richard Howard,richard.howard53@outlook.com,+15118504013,9236 River Way,Miami,FL,35913,PRIME,733,2022-06-12
+FSV668069,Brandon Bennett,brandon.bennett97@icloud.com,+14525561727,6956 Walnut Ln,Los Angeles,CA,49340,SUBPRIME,617,2025-02-28
+FSV516365,Catherine Foster,catherine.foster57@aol.com,+15108539008,7350 Oak Ln,Newark,NJ,79293,PRIME,742,2022-05-13
+FSV856432,Angela Green,angela.green36@icloud.com,+18223774944,4445 Maple Blvd,Springfield,WI,40434,PRIME,747,2018-08-25
+FSV399257,Deborah Jones,deborah.jones1@outlook.com,+18011983115,3572 Park Dr,Savannah,GA,44020,PRIME,702,2021-09-14
+FSV980458,Joseph Baker,joseph.baker82@aol.com,+18541745151,794 Pine St,Dallas,TX,51137,SUBPRIME,631,2021-12-09
+FSV512046,James Gonzalez,james.gonzalez14@gmail.com,+12704093038,4921 Cedar Ct,Savannah,GA,71039,SUPER_PRIME,753,2024-07-28
+FSV649960,Jerry Howard,JERRY.HOWARD86@PROTONMAIL.COM,+19574734796,9543 Walnut Ln,Tampa,FL,67412,NEAR_PRIME,696,2018-05-29
+FSV183423,Scott Clark,scott.clark10@protonmail.com,+13995688368,9545 Cedar Ave,Pittsburgh,PA,27664,SUBPRIME,592,2018-12-09
+FSV437583,Kathleen Gray,kathleen.gray52@gmail.com,+12694041928,6891 Elm Way,Albany,NY,14302,PRIME,722,2019-09-25
+FSV578261,Barbara Perez,barbara.perez87@aol.com,+18234718703,3305 Main Ave,Miami,FL,52538,SUPER_PRIME,832,2024-01-30
+FSV221892,Mark Anderson,mark.anderson82@gmail.com,+17847787413,9071 Main Blvd,Grand Rapids,MI,57095,PRIME,744,2025-11-11
+FSV977382,J. Phillips,jessica.phillips89@aol.com,+17112714746,4305 Main Ct,Charlotte,NC,82326,SUBPRIME,581,2020-11-10
+FSV496195,Emma Mendoza,emma.mendoza74@hotmail.com,+12419172376,4325 Elm Ln,Newark,NJ,45937,SUPER_PRIME,808,2021-10-26
+FSV823898,Jeffrey Parker,jeffrey.parker77@protonmail.com,+15534275769,835 Oak Dr,Pittsburgh,PA,47446,NEAR_PRIME,690,2021-03-24
+FSV509726,Kenneth Howard,KENNETH.HOWARD50@YAHOO.COM,+19877694402,7233 Main Ct,Los Angeles,CA,34856,DEEP_SUBPRIME,498,2024-10-29
+FSV799727,Ronald Mitchell,ronald.mitchell17@yahoo.com,+12883474935,5380 Elm Blvd,Seattle,WA,33502,NEAR_PRIME,693,2018-07-03
+FSV749081,Eric Richardson,ERIC.RICHARDSON94@YAHOO.COM,+15384342325,1536 Maple Way,Grand Rapids,MI,25601,PRIME,706,2018-08-20
+FSV247360,Karen Taylor,karen.taylor69@protonmail.com,+16979589828,3744 Pine Way,Miami,FL,35799,SUBPRIME,614,2020-07-15
+FSV160940,Dennis Martin,dennis.martin14@hotmail.com,+12151715290,9387 Walnut Ave,Miami,FL,50728,PRIME,714,2020-06-07
+FSV291972,George Cook,GEORGE.COOK26@HOTMAIL.COM,+19759287783,2542 Cedar Blvd,Columbus,TN,48722,NEAR_PRIME,672,2022-09-05
+FSV723344,Dennis White,dennis.white21@gmail.com,+14688405140,6599 Park Dr,Springfield,MO,59766,DEEP_SUBPRIME,428,2022-02-06
+FSV675655,Nicholas Edwards,nicholas.edwards14@outlook.com,+19953286132,6590 Elm St,Buffalo,NY,96070,PRIME,713,2025-09-02
+FSV416922,James Brooks,james.brooks40@outlook.com,+14094582498,1232 River Ct,Miami,FL,90259,SUPER_PRIME,786,2019-08-07
+FSV851253,Justin Edwards,justin.edwards77@aol.com,+17087111882,8992 Cedar Ct,Pittsburgh,PA,82292,PRIME,705,2018-07-07
+FSV148183,Thomas Anderson,thomas.anderson27@yahoo.com,+13203687342,2842 Elm Ave,Richmond,VA,88916,PRIME,729,2020-06-18
+FSV343006,Janet Patel,janet.patel29@icloud.com,+15947897618,5887 Walnut St,Springfield,IN,10489,PRIME,719,2023-04-16
+FSV974003,Samuel Morgan,samuel.morgan98@icloud.com,+13368158195,4383 Maple Ln,Chicago,IL,36999,SUBPRIME,644,2024-01-10
+FSV880869,Stephanie Phillips,stephanie.phillips67@protonmail.com,+19445649256,9574 Lake St,Seattle,WA,24741,PRIME,714,2020-01-15
+FSV594037,Jessica Brown,jessica.brown11@hotmail.com,+16206671547,9592 Cedar Blvd,Seattle,WA,82415,NEAR_PRIME,680,2021-06-11
+FSV107172,Susan Clark,SUSAN.CLARK61@ICLOUD.COM,+15744516499,6012 Lake Dr,Phoenix,AZ,19424,PRIME,736,2019-12-28
+FSV718299,Patricia Peterson,patricia.peterson15@outlook.com,+12281556296,1639 Oak St,Columbus,MO,39352,NEAR_PRIME,658,2020-04-01
+FSV749160,Amy Richardson,AMY.RICHARDSON33@PROTONMAIL.COM,+16711311186,5209 River Ln,Philadelphia,PA,21739,PRIME,700,2018-01-11
+FSV345756,C. Bennett,cynthia.bennett40@yahoo.com,+18903910025,1036 Cedar Ln,Savannah,GA,60718,DEEP_SUBPRIME,501,2018-07-04
+FSV399690,G. Campbell,george.campbell60@hotmail.com,+17114449428,3096 Walnut St,Boston,MA,86839,SUBPRIME,639,2019-05-01
+FSV380103,Amanda Gray,amanda.gray36@outlook.com,+17081856650,2856 Walnut Ave,Columbus,WI,29710,PRIME,724,2024-08-18
+FSV437486,Jack Nelson,JACK.NELSON45@OUTLOOK.COM,+18435003268,4606 Park Blvd,Columbus,IN,51905,PRIME,739,2024-07-17
+FSV595453,Samuel Smith,samuel.smith57@protonmail.com,+15575691877,9176 Main Ct,Madison,MO,73181,SUBPRIME,647,2021-07-13
+FSV182081,Nancy Castillo,nancy.castillo27@gmail.com,+14812465676,5863 Main Way,Springfield,WI,60636,NEAR_PRIME,669,2018-06-25
+FSV336822,Edward Campbell,edward.campbell83@icloud.com,+14727611828,7175 Main Ave,Springfield,IN,38627,PRIME,737,2020-04-23
+FSV305837,Christopher Powell,christopher.powell69@gmail.com,+18986501214,1983 Walnut Blvd,Austin,TX,77862,SUPER_PRIME,761,2020-01-04
+FSV543058,Jason Lopez,jason.lopez3@protonmail.com,+15524077335,6815 Main Ave,Raleigh,NC,71255,PRIME,741,2021-01-09
+FSV672557,Rachel Cooper,rachel.cooper63@icloud.com,+14597105489,9901 River Ln,Tampa,FL,49006,SUPER_PRIME,842,2019-01-24
+FSV688215,Laura Johnson,laura.johnson35@gmail.com,+17071600836,7555 Lake Ave,Newark,NJ,80496,SUPER_PRIME,755,2025-03-11
+FSV114561,Eric Foster,eric.foster62@yahoo.com,+17261968980,262 Maple St,Virginia Beach,VA,69203,SUBPRIME,622,2025-09-27
+FSV328699,Amy Myers,amy.myers96@aol.com,+14201401897,3375 Elm Way,Columbus,IN,14413,PRIME,717,2020-12-30
+FSV970943,Jessica Myers,jessica.myers3@aol.com,+13695125311,5969 Walnut Blvd,Richmond,VA,44699,SUBPRIME,584,2024-10-22
+FSV578136,Nancy Mendoza,nancy.mendoza38@yahoo.com,+14052315100,8811 Elm Way,Boston,MA,15109,SUPER_PRIME,768,2020-05-30
+FSV308379,Frank Jones,frank.jones57@protonmail.com,+16978500604,3451 River Ct,Springfield,MD,78869,SUPER_PRIME,794,2023-12-14
+FSV413708,Melissa Hernandez,melissa.hernandez13@aol.com,+15514098179,6036 Cedar Way,Springfield,MO,71215,SUBPRIME,604,2019-07-20
+FSV623183,A. Miller,ashley.miller87@protonmail.com,+15461249862,4919 Lake Ln,Springfield,IN,46926,NEAR_PRIME,689,2021-05-27
+FSV402567,C. Nguyen,carolyn.nguyen8@aol.com,+19743249897,2599 Park Dr,Dallas,TX,53219,SUPER_PRIME,802,2021-11-20
+FSV541037,Melissa Torres,MELISSA.TORRES8@HOTMAIL.COM,+14916552150,6066 River Blvd,Tampa,FL,81751,PRIME,718,2023-05-31
+FSV435087,Gregory Reed,gregory.reed58@icloud.com,+16575420920,441 Walnut Blvd,Jersey City,NJ,26243,PRIME,709,2022-01-31
+FSV776551,Andrew Mitchell,ANDREW.MITCHELL38@OUTLOOK.COM,+15646640699,6056 Walnut Ct,Tampa,FL,34554,PRIME,740,2018-08-17
+FSV739155,Kathleen Hughes,kathleen.hughes98@hotmail.com,+12525927520,3391 Oak Dr,Tucson,AZ,21638,PRIME,739,2018-02-01
+FSV258468,Justin Robinson,justin.robinson70@outlook.com,+18611410098,1541 Main Blvd,Savannah,GA,58733,SUBPRIME,611,2025-06-30
+FSV706606,Andrew Miller,ANDREW.MILLER24@GMAIL.COM,+18814962847,9002 Lake Way,Dallas,TX,68660,NEAR_PRIME,695,2024-05-26
+FSV166577,Eric Gonzalez,eric.gonzalez24@outlook.com,+13907790705,7226 Pine Dr,Tucson,AZ,46450,SUPER_PRIME,784,2018-02-02
+FSV629102,Maria Perez,maria.perez35@aol.com,+17803831402,5197 Walnut Ln,Madison,TN,68440,PRIME,728,2023-10-24
+FSV459607,Alexander Nelson,alexander.nelson2@yahoo.com,+18417356126,9657 Main Ct,Atlanta,GA,82813,PRIME,727,2021-06-27
+FSV709134,David Thomas,david.thomas18@yahoo.com,+12534800985,7762 Maple Ave,Springfield,MO,73697,PRIME,709,2025-06-16
+FSV143940,Joshua Price,JOSHUA.PRICE85@ICLOUD.COM,+18677238439,7642 Lake Dr,Columbus,IN,83612,SUPER_PRIME,783,2021-09-04
+FSV812912,Kathleen Wood,kathleen.wood53@gmail.com,+14618287906,5918 Maple Blvd,Tucson,AZ,43186,SUBPRIME,613,2022-08-24
+FSV821867,Richard Mitchell,RICHARD.MITCHELL53@OUTLOOK.COM,+18422699225,3957 Maple Blvd,Chicago,IL,81739,SUPER_PRIME,823,2024-05-30
+FSV265999,N. Stewart,nicholas.stewart1@icloud.com,+12419479318,1368 Park St,Tucson,AZ,15001,SUPER_PRIME,812,2021-02-17
+FSV248552,George Richardson,george.richardson28@outlook.com,+17154250427,833 Pine Ct,Springfield,WI,10817,SUPER_PRIME,752,2021-12-10
+FSV805373,Scott Long,scott.long31@protonmail.com,+13581733619,4743 Maple St,Chicago,IL,89900,PRIME,729,2021-10-21
+FSV876335,Daniel Lewis,daniel.lewis42@outlook.com,+15463513078,6997 Park Ave,Cleveland,OH,17096,PRIME,722,2023-09-21
+FSV136299,James Rivera,JAMES.RIVERA50@ICLOUD.COM,+19044399222,3052 Maple Blvd,Tucson,AZ,34592,PRIME,720,2018-11-08
+FSV423991,Justin Hughes,justin.hughes91@aol.com,+14321537998,2523 Pine Ave,Newark,NJ,61897,PRIME,730,2022-12-17
+FSV662020,C. Castillo,christopher.castillo13@gmail.com,+18214713763,3218 Pine Dr,Austin,TX,57844,NEAR_PRIME,654,2025-12-18
+FSV382504,Rachel Hill,rachel.hill5@hotmail.com,+18623461593,1671 Park St,Cleveland,OH,45331,SUPER_PRIME,823,2019-05-05
+FSV609354,Margaret Watson,margaret.watson48@gmail.com,+15632583664,8186 Maple Way,Madison,MD,83767,PRIME,734,2022-04-09
+FSV894896,Heather Carter,heather.carter4@aol.com,+18165323488,5014 Main Dr,Madison,WI,55925,NEAR_PRIME,654,2024-08-08
+FSV625514,Betty Mitchell,betty.mitchell61@aol.com,+18636374378,7069 Elm Way,Boston,MA,33892,SUBPRIME,628,2018-01-28
+FSV885119,Raymond Roberts,raymond.roberts76@hotmail.com,+12695669739,9467 Main Ct,New York,NY,82842,PRIME,701,2018-04-19
+FSV712114,Shirley Brown,SHIRLEY.BROWN65@YAHOO.COM,+13022764648,9326 Cedar Dr,Virginia Beach,VA,94866,PRIME,731,2018-12-13
+FSV299030,Scott Campbell,SCOTT.CAMPBELL94@PROTONMAIL.COM,+17828710198,4725 Lake Ct,Seattle,WA,97846,SUBPRIME,599,2021-12-21
+FSV492360,Shirley Turner,shirley.turner64@icloud.com,+18215005695,6224 River Ln,Springfield,TN,97381,SUPER_PRIME,766,2023-07-01
+FSV198270,J. Long,JACOB.LONG20@ICLOUD.COM,+17022877973,9558 Oak Ln,Tampa,FL,65080,NEAR_PRIME,655,2018-09-10
+FSV874842,Kathleen Bailey,kathleen.bailey23@icloud.com,+19063880053,972 Elm Ln,Columbus,OH,98543,PRIME,708,2023-05-10
+FSV838197,Emma Bennett,emma.bennett11@icloud.com,+18608719030,8467 Walnut Blvd,Springfield,MD,11058,PRIME,728,2024-05-26
+FSV351484,Samuel Davis,samuel.davis17@hotmail.com,+15084551449,5044 Cedar Ave,Jersey City,NJ,55841,NEAR_PRIME,681,2024-04-23
+FSV129515,Charles Miller,charles.miller79@outlook.com,+14014346505,9547 Oak Dr,Columbus,WI,80233,NEAR_PRIME,662,2024-08-19
+FSV991420,Maria Wright,maria.wright34@aol.com,+13976852022,4661 River Ave,Savannah,GA,25038,SUPER_PRIME,850,2018-03-06
+FSV437668,Joseph Ramirez,joseph.ramirez42@hotmail.com,+17111630550,3190 Pine Dr,Naperville,IL,58422,PRIME,720,2023-12-06
+FSV211553,Carol Torres,CAROL.TORRES73@OUTLOOK.COM,+12049224047,1465 Park Ave,Phoenix,AZ,97347,SUPER_PRIME,765,2021-10-31
+FSV265327,Debra Miller,debra.miller25@outlook.com,+13362250886,4355 Oak Way,San Antonio,TX,33241,NEAR_PRIME,686,2018-11-12
+FSV395292,Nicole Baker,nicole.baker56@icloud.com,+15681206914,2401 Lake Blvd,Tucson,AZ,88286,SUPER_PRIME,843,2021-01-10
+FSV591307,Brandon Gonzalez,brandon.gonzalez83@hotmail.com,+13055750306,2721 River Ln,Virginia Beach,VA,89639,PRIME,745,2019-12-29
+FSV552896,Alexander Gomez,alexander.gomez91@gmail.com,+13108553515,5047 Main Ave,Madison,MD,16768,SUPER_PRIME,771,2021-08-09
+FSV740660,Anna Martinez,anna.martinez54@outlook.com,+14793076249,5234 Maple Ct,Springfield,MO,29599,SUBPRIME,595,2025-06-04
+FSV548415,Margaret Wilson,margaret.wilson94@yahoo.com,+13515224469,6564 Elm Dr,Virginia Beach,VA,72470,PRIME,710,2021-04-02
+FSV296052,Charles Walker,charles.walker84@hotmail.com,+18769980222,8185 Walnut Way,Columbus,MO,61791,SUPER_PRIME,807,2022-04-26
+FSV859041,Jennifer Edwards,jennifer.edwards3@hotmail.com,+18899271947,2469 Pine Ct,Newark,NJ,70548,SUBPRIME,586,2020-09-14
+FSV905719,Jonathan Ramos,jonathan.ramos71@yahoo.com,+17234199823,6347 Maple Way,Columbus,OH,92124,SUBPRIME,609,2025-11-04
+FSV843881,Emily White,emily.white93@icloud.com,+18984138788,1425 Maple Blvd,Savannah,GA,42695,PRIME,741,2018-11-20
+FSV198029,Patrick Bailey,patrick.bailey91@icloud.com,+13282186027,3994 Lake St,Columbus,MO,52644,NEAR_PRIME,689,2020-03-21
+FSV166441,Lisa Lee,LISA.LEE75@ICLOUD.COM,+14136945631,1897 Oak St,Virginia Beach,VA,88204,SUPER_PRIME,774,2021-09-03
+FSV862804,J. Cox,janet.cox54@protonmail.com,+19189168229,8330 Park Ct,San Diego,CA,15182,PRIME,731,2023-07-28
+FSV721078,David Ortiz,david.ortiz10@yahoo.com,+16516321292,9624 Walnut Ave,Madison,WI,75279,NEAR_PRIME,672,2025-07-26
+FSV505697,Jonathan Cook,jonathan.cook66@protonmail.com,+12195084484,6940 Pine Ln,Seattle,WA,58788,SUPER_PRIME,805,2024-07-09
+FSV533659,Patricia Cooper,patricia.cooper83@protonmail.com,+18474213844,3110 Oak Blvd,Albany,NY,84432,PRIME,727,2022-10-06
+FSV440799,Samuel Flores,samuel.flores3@outlook.com,+16041032619,1175 Main Way,Columbus,TN,48311,SUPER_PRIME,789,2019-03-04
+FSV259371,Patrick Stewart,patrick.stewart10@hotmail.com,+17359335208,9172 Park Dr,Naperville,IL,65511,NEAR_PRIME,688,2022-09-30
+FSV638763,Margaret Cox,MARGARET.COX29@GMAIL.COM,+14817060703,2015 River Blvd,Springfield,MO,51823,PRIME,739,2025-03-19
+FSV738461,J. Morgan,joseph.morgan41@aol.com,+15394233066,9418 Oak Ct,Madison,MO,80691,DEEP_SUBPRIME,506,2025-08-06
+FSV964242,Jerry Walker,jerry.walker59@gmail.com,+13431915074,7771 Oak Ct,Springfield,MD,56545,NEAR_PRIME,670,2018-05-08
+FSV125227,Patrick Baker,patrick.baker68@aol.com,+18013763919,2318 Oak Ct,Savannah,GA,14100,SUBPRIME,584,2023-10-16
+FSV415169,M. Murphy,michelle.murphy36@gmail.com,+12236211425,9143 Walnut Dr,New York,NY,73370,PRIME,706,2022-02-12
+FSV450458,Linda Hughes,linda.hughes21@outlook.com,+16741788633,4773 Pine Ave,Raleigh,NC,13820,SUPER_PRIME,752,2023-08-19
+FSV884489,Gregory Davis,gregory.davis74@yahoo.com,+14908836906,465 Pine Ct,Columbus,OH,79126,DEEP_SUBPRIME,562,2023-03-16
+FSV231872,Kimberly Rivera,kimberly.rivera32@outlook.com,+14478722454,4536 Maple Way,Tacoma,WA,30258,NEAR_PRIME,660,2022-02-13
+FSV602653,Barbara Wood,barbara.wood4@icloud.com,+12119200706,1778 Maple Way,Chicago,IL,62692,SUBPRIME,613,2025-02-22
+FSV649158,K. Lee,kimberly.lee16@gmail.com,+16192823142,5222 River Ln,Tucson,AZ,90099,SUBPRIME,626,2024-04-14
+FSV961823,Anthony Cruz,anthony.cruz5@yahoo.com,+13963240872,3292 Cedar Ln,Newark,NJ,58554,SUPER_PRIME,832,2018-09-03
+FSV505313,Eric Brown,eric.brown47@outlook.com,+15013206368,5967 Elm Blvd,Newark,NJ,72044,PRIME,702,2025-06-19
+FSV884724,John Flores,john.flores70@icloud.com,+13288675147,6066 Cedar Ct,Tucson,AZ,37248,SUPER_PRIME,751,2024-05-16
+FSV221278,Katherine Carter,katherine.carter94@yahoo.com,+18178299160,813 Oak Ct,San Francisco,CA,66903,SUPER_PRIME,782,2023-04-01
+FSV437222,Cynthia Brown,cynthia.brown8@yahoo.com,+13347236644,1062 Maple Way,Boston,MA,99181,SUPER_PRIME,835,2025-12-04
+FSV283509,B. Kelly,brenda.kelly44@protonmail.com,+15136944909,5900 Park Way,Richmond,VA,76463,SUPER_PRIME,761,2024-08-19
+FSV326287,C. Cruz,christopher.cruz61@icloud.com,+13048745532,6795 Pine Way,Tampa,FL,13984,SUPER_PRIME,837,2018-04-07
+FSV129460,Charles Peterson,CHARLES.PETERSON5@ICLOUD.COM,+19935898168,5646 River Blvd,Seattle,WA,32243,DEEP_SUBPRIME,308,2018-01-27
+FSV433088,Nancy Clark,nancy.clark67@yahoo.com,+18228016745,9577 Elm St,Springfield,WI,55182,PRIME,748,2025-03-01
+FSV943760,Benjamin Allen,benjamin.allen32@gmail.com,+12266974305,3073 Main Ln,Columbus,IN,84421,PRIME,724,2020-06-06
+FSV282372,S. Reyes,sandra.reyes99@yahoo.com,+19008614650,6213 River Way,Boston,MA,13512,SUPER_PRIME,810,2021-02-01
+FSV877657,Katherine Watson,katherine.watson73@icloud.com,+19901634223,2252 Maple Ave,Springfield,TN,19881,SUBPRIME,595,2024-07-21
+FSV596355,George Edwards,george.edwards9@icloud.com,+15441197757,2873 Pine St,Springfield,WI,38971,SUPER_PRIME,820,2024-01-15
+FSV955944,Carol Baker,carol.baker23@yahoo.com,+16007917271,4872 Walnut Ave,Columbus,MO,68368,SUPER_PRIME,793,2021-05-28
+FSV512254,Michelle Lewis,michelle.lewis85@yahoo.com,+15024375409,9504 Pine St,Columbus,MO,65803,PRIME,702,2022-07-02
+FSV499024,Brenda Gray,BRENDA.GRAY55@OUTLOOK.COM,+12939455779,7433 River Ave,Tucson,AZ,95605,PRIME,739,2018-12-19
+FSV979990,Pamela Ramirez,pamela.ramirez35@icloud.com,+12025911117,743 Park Way,Jacksonville,FL,87225,PRIME,742,2019-08-27
+FSV419203,Rachel Ramos,rachel.ramos47@icloud.com,+16954096927,1285 Elm Ct,Chicago,IL,42658,NEAR_PRIME,664,2023-04-08
+FSV888914,Sandra Jackson,sandra.jackson53@hotmail.com,+18201774733,3467 Main Ave,Detroit,MI,45214,PRIME,701,2024-07-05
+FSV258577,Janet Morgan,janet.morgan49@gmail.com,+14845020045,4155 Park St,Raleigh,NC,16669,SUBPRIME,583,2018-06-28
+FSV796589,Deborah Bailey,deborah.bailey62@hotmail.com,+17016050793,201 Cedar Blvd,Boston,MA,59106,NEAR_PRIME,674,2023-08-26
+FSV782591,Gary Cook,gary.cook88@aol.com,+13762378378,2738 Elm Ave,Richmond,VA,38678,PRIME,746,2023-08-13
+FSV343920,Mary Reyes,MARY.REYES54@ICLOUD.COM,+16942192376,6053 Pine St,Tampa,FL,70903,SUPER_PRIME,839,2021-03-31
+FSV385451,Stephanie Mendoza,stephanie.mendoza33@icloud.com,+16031786330,9310 Cedar Ave,Grand Rapids,MI,11103,PRIME,742,2022-06-25
+FSV146238,Nancy Martinez,nancy.martinez19@icloud.com,+15696017834,4619 Elm Ave,Columbus,TN,10648,PRIME,734,2023-07-21
+FSV836042,Gregory Robinson,gregory.robinson75@gmail.com,+14513721719,1537 Pine Ave,Columbus,IN,17288,PRIME,703,2023-05-16
+FSV625212,Susan Anderson,SUSAN.ANDERSON48@YAHOO.COM,+19135857837,5924 Elm Ln,Columbus,IN,61471,PRIME,716,2023-12-19
+FSV466803,Margaret Green,margaret.green55@aol.com,+16425151401,3431 Lake Way,Albany,NY,85388,SUBPRIME,605,2023-02-12
+FSV550691,J. Ruiz,JENNIFER.RUIZ76@YAHOO.COM,+16025764012,2350 Walnut Ln,Miami,FL,57433,SUBPRIME,635,2020-12-16
+FSV978962,Thomas Wood,thomas.wood21@gmail.com,+13313083730,6085 Oak Ln,Springfield,TN,15434,SUPER_PRIME,850,2025-08-01
+FSV885537,J. Gonzalez,john.gonzalez25@hotmail.com,+13347430050,2200 Cedar Ave,Tacoma,WA,98289,SUPER_PRIME,780,2025-08-09
+FSV741994,Andrew Rodriguez,ANDREW.RODRIGUEZ2@PROTONMAIL.COM,+19634562779,4142 Elm Ln,Charlotte,NC,17092,SUBPRIME,647,2020-02-16
+FSV993910,Joshua Powell,joshua.powell90@hotmail.com,+14473167929,8111 Park Way,Columbus,OH,94288,NEAR_PRIME,679,2019-01-30
+FSV564755,Mark Baker,mark.baker88@yahoo.com,+17944643269,9555 Elm Ln,Jersey City,NJ,44898,SUPER_PRIME,809,2020-01-07
+FSV170475,Steven Lewis,STEVEN.LEWIS28@HOTMAIL.COM,+17782172236,2256 River Ct,Atlanta,GA,89124,PRIME,747,2023-08-28
+FSV744776,Ashley Reed,ashley.reed91@icloud.com,+18696455993,9898 Oak St,Virginia Beach,VA,10505,SUBPRIME,616,2018-12-12
+FSV499536,Charles Myers,charles.myers51@hotmail.com,+17125009360,5328 Elm Dr,Columbus,MD,76664,PRIME,710,2025-01-30
+FSV452597,Nicole Ramirez,nicole.ramirez44@aol.com,+19488115696,7896 Park Blvd,Cleveland,OH,47183,SUPER_PRIME,825,2018-09-03
+FSV789631,Donald Nguyen,DONALD.NGUYEN43@OUTLOOK.COM,+19667892391,3388 Cedar St,Raleigh,NC,71019,SUPER_PRIME,841,2022-03-31
+FSV243414,Ronald Reed,RONALD.REED91@YAHOO.COM,+16586281077,2614 Elm Ln,Tacoma,WA,61794,PRIME,737,2021-09-02
+FSV492390,Carol Lopez,CAROL.LOPEZ53@GMAIL.COM,+14792175859,4765 Elm Dr,Raleigh,NC,50224,SUBPRIME,627,2023-01-31
+FSV892156,Emma Bailey,emma.bailey5@gmail.com,+19336127318,9402 Walnut Ave,Chicago,IL,83006,NEAR_PRIME,673,2021-06-29
+FSV808106,Cynthia Morgan,cynthia.morgan52@icloud.com,+16017329805,5156 Lake Ave,Cleveland,OH,66548,PRIME,743,2018-07-26
+FSV571765,Debra Myers,debra.myers49@icloud.com,+17793455225,3552 Elm Blvd,Richmond,VA,68710,PRIME,711,2025-02-06
+FSV293111,N. Alvarez,nicole.alvarez56@icloud.com,+16072767566,853 Cedar St,Pittsburgh,PA,49093,NEAR_PRIME,667,2019-12-26
+FSV515449,Deborah Long,deborah.long88@protonmail.com,+19777043599,1466 Lake Dr,Madison,IN,91472,PRIME,739,2021-01-18
+FSV816463,Rachel Wood,rachel.wood18@hotmail.com,+14089287266,8190 River Ct,Atlanta,GA,42466,PRIME,707,2024-06-30
+FSV204240,Elizabeth Roberts,elizabeth.roberts28@gmail.com,+13995066225,6571 Maple Way,Columbus,OH,18725,PRIME,701,2025-01-12
+FSV275365,Scott Diaz,SCOTT.DIAZ63@HOTMAIL.COM,+15277691642,9525 Main St,Springfield,TN,10747,SUPER_PRIME,829,2024-10-11
+FSV142604,Dennis Thompson,dennis.thompson93@icloud.com,+15118304182,1988 Oak Dr,Grand Rapids,MI,92097,PRIME,713,2023-05-25
+FSV631046,Steven Miller,steven.miller23@protonmail.com,+14093814063,1955 Walnut Way,Dallas,TX,99294,NEAR_PRIME,683,2024-02-12
+FSV105809,Sarah Mendoza,sarah.mendoza13@icloud.com,+16786810325,4853 Elm Ln,Richmond,VA,38194,PRIME,723,2025-05-09
+FSV179129,Joseph Parker,joseph.parker33@protonmail.com,+13738252962,7348 Maple Ct,Cambridge,MA,12063,DEEP_SUBPRIME,303,2021-08-03
+FSV761894,Andrew Gray,ANDREW.GRAY41@GMAIL.COM,+17405352979,8321 Cedar Ave,San Diego,CA,81794,SUPER_PRIME,816,2018-11-01
+FSV688890,Michael Sanders,michael.sanders42@outlook.com,+19351130501,1479 Park Ave,Los Angeles,CA,67916,NEAR_PRIME,675,2025-05-26
+FSV913098,Jessica Ruiz,JESSICA.RUIZ50@AOL.COM,+12312224669,9873 Main Blvd,Springfield,MO,13862,PRIME,705,2018-09-16
+FSV944254,Patrick Lopez,patrick.lopez81@hotmail.com,+12913743537,4271 Main Dr,Boston,MA,96539,PRIME,722,2024-05-10
+FSV861510,Jessica Kelly,jessica.kelly54@gmail.com,+17986676201,2217 Pine Ln,Houston,TX,62311,NEAR_PRIME,667,2025-11-01
+FSV199962,Kathleen Reyes,kathleen.reyes21@icloud.com,+16713281447,5385 Maple Way,Dallas,TX,29499,NEAR_PRIME,685,2020-10-27
+FSV898153,Donald Campbell,donald.campbell21@hotmail.com,+14611503532,4076 River Ln,Columbus,IN,62544,PRIME,710,2020-05-30
+FSV586729,Sarah Gray,sarah.gray71@hotmail.com,+17667984488,7537 Walnut Ave,Boston,MA,30384,SUPER_PRIME,842,2025-08-05
+FSV206672,Charles Davis,charles.davis89@yahoo.com,+14616760768,3000 Walnut Ave,Jacksonville,FL,62579,SUPER_PRIME,849,2019-04-23
+FSV956910,Emily Wright,emily.wright14@icloud.com,+15475448273,9534 Pine Blvd,Virginia Beach,VA,84400,SUPER_PRIME,833,2020-04-13
+FSV493876,Timothy Walker,TIMOTHY.WALKER33@HOTMAIL.COM,+15965836424,3016 River Ln,Springfield,IN,75681,SUPER_PRIME,829,2019-05-19
+FSV792961,Jessica Campbell,JESSICA.CAMPBELL62@AOL.COM,+13814936074,898 Cedar Dr,Atlanta,GA,83099,PRIME,707,2022-02-18
+FSV772181,Donald Myers,donald.myers2@icloud.com,+16307530639,1971 Main Dr,Madison,TN,87979,SUBPRIME,629,2021-06-17
+FSV427980,E. Morales,eric.morales14@gmail.com,+13686342219,136 Elm Way,Madison,WI,35036,PRIME,700,2018-11-14
+FSV843172,Anna Turner,anna.turner19@outlook.com,+12378752640,6572 Walnut Ln,Springfield,IN,89234,SUPER_PRIME,772,2024-03-19
+FSV658934,Andrew Hernandez,andrew.hernandez9@hotmail.com,+15627177606,2879 Lake Way,Raleigh,NC,52212,PRIME,741,2020-07-01
+FSV147304,R. Ross,RACHEL.ROSS50@ICLOUD.COM,+16441266238,7784 Pine Way,Madison,WI,92016,SUPER_PRIME,793,2023-08-06
+FSV882597,Sandra Reed,sandra.reed55@hotmail.com,+12158032065,3564 Cedar Blvd,Dallas,TX,98671,SUBPRIME,583,2023-12-14
+FSV656289,Donna Taylor,donna.taylor45@aol.com,+15002021485,8320 Cedar Ct,Seattle,WA,89500,PRIME,741,2019-03-02
+FSV776402,Maria Sanders,maria.sanders94@hotmail.com,+13586540810,1345 Elm Ave,Columbus,MD,53379,PRIME,726,2021-08-14
+FSV857603,Jerry Perez,jerry.perez80@icloud.com,+17085274755,9681 River Ln,Pittsburgh,PA,16912,NEAR_PRIME,661,2024-04-23
+FSV340035,Maria Lopez,maria.lopez91@yahoo.com,+18919087865,6245 Maple Blvd,Newark,NJ,31105,PRIME,726,2023-04-09
+FSV806335,Dorothy Jackson,DOROTHY.JACKSON58@YAHOO.COM,+17334012485,6365 Cedar Ln,Sacramento,CA,34719,SUPER_PRIME,802,2018-10-10
+FSV943658,Michael Young,michael.young7@hotmail.com,+13851266641,3363 Oak Ave,Columbus,OH,71764,SUBPRIME,617,2018-12-22
+FSV766857,Gary Castillo,gary.castillo45@outlook.com,+15381975973,3508 Pine Ln,Tucson,AZ,24526,NEAR_PRIME,679,2022-09-01
+FSV658346,Timothy Richardson,timothy.richardson87@hotmail.com,+12716223184,8620 Cedar Blvd,Cleveland,OH,13734,SUPER_PRIME,756,2020-02-27
+FSV506486,Carolyn Wilson,carolyn.wilson95@outlook.com,+18763278509,7524 River Dr,Newark,NJ,42669,PRIME,732,2022-11-25
+FSV843934,Christine Jones,christine.jones21@outlook.com,+17594032258,8898 Pine Ln,Philadelphia,PA,83313,NEAR_PRIME,673,2024-12-14
+FSV591100,Deborah Gray,deborah.gray99@outlook.com,+13474997281,9671 Main St,Newark,NJ,43793,NEAR_PRIME,667,2022-06-01
+FSV608474,Steven Murphy,steven.murphy96@aol.com,+18954833760,7038 Park Ave,San Francisco,CA,94106,PRIME,731,2018-07-04
+FSV924864,Elizabeth Reyes,elizabeth.reyes13@yahoo.com,+18796000830,306 Park Ln,Madison,TN,91013,NEAR_PRIME,665,2025-11-11
+FSV308384,Brian Torres,brian.torres55@icloud.com,+17339524340,1250 Cedar Blvd,Philadelphia,PA,71354,NEAR_PRIME,698,2023-06-30
+FSV258035,Jennifer Reed,JENNIFER.REED16@HOTMAIL.COM,+16232955671,1275 Maple Ave,Savannah,GA,86940,SUPER_PRIME,782,2025-03-03
+FSV184428,Nicole Phillips,nicole.phillips75@icloud.com,+17666103168,8711 Park Ln,Buffalo,NY,76514,SUPER_PRIME,840,2024-05-13
+FSV876788,Benjamin Miller,benjamin.miller31@gmail.com,+13233250547,8008 Pine Dr,Charlotte,NC,86861,SUBPRIME,603,2021-11-24
+FSV363201,N. Diaz,nicholas.diaz20@yahoo.com,+13971202515,6870 Maple Blvd,Savannah,GA,64680,NEAR_PRIME,683,2025-06-26
+FSV297909,Michelle Rodriguez,michelle.rodriguez40@protonmail.com,+17363921160,7382 Pine Ct,San Diego,CA,59930,SUBPRIME,584,2019-10-15
+FSV403510,Brenda Rogers,brenda.rogers18@hotmail.com,+12686617696,3374 Oak Way,Chicago,IL,23497,SUBPRIME,649,2025-09-13
+FSV682227,Ronald Diaz,RONALD.DIAZ21@ICLOUD.COM,+15349647339,4685 Cedar St,Tacoma,WA,35230,NEAR_PRIME,689,2023-05-21
+FSV689666,Gary Campbell,gary.campbell17@protonmail.com,+19058519778,5507 Walnut Dr,Cleveland,OH,22863,SUPER_PRIME,845,2025-05-27
+FSV824183,Ryan Bailey,ryan.bailey65@outlook.com,+13639478059,3998 Lake Ln,San Antonio,TX,32183,SUPER_PRIME,848,2021-09-12
+FSV405257,Barbara Young,barbara.young14@protonmail.com,+17816499395,4505 River Way,Seattle,WA,13106,PRIME,726,2019-07-18
+FSV316289,Steven Patel,STEVEN.PATEL44@HOTMAIL.COM,+15481276082,656 River Ct,Jersey City,NJ,21849,SUBPRIME,632,2018-11-11
+FSV111868,Rachel Wood,RACHEL.WOOD14@AOL.COM,+19936489157,3864 Walnut St,Richmond,VA,79606,SUPER_PRIME,764,2018-12-23
+FSV121089,S. Alvarez,SAMANTHA.ALVAREZ3@YAHOO.COM,+18628445699,3762 Pine Ct,Columbus,OH,42796,SUPER_PRIME,847,2022-06-11
+FSV820458,Brian Phillips,brian.phillips58@yahoo.com,+18155093451,1343 Walnut Blvd,Jersey City,NJ,88248,SUBPRIME,604,2023-06-27
+FSV195219,Raymond Miller,RAYMOND.MILLER17@OUTLOOK.COM,+14789310389,8429 Main Way,Virginia Beach,VA,14281,SUPER_PRIME,770,2020-05-19
+FSV113068,Nicole Powell,nicole.powell33@icloud.com,+16514888833,5163 Park Blvd,Boston,MA,41983,SUPER_PRIME,824,2018-05-24
+FSV698797,Anthony Wilson,anthony.wilson45@outlook.com,+13285246633,2969 Cedar Way,Madison,MD,18881,PRIME,731,2023-11-15
+FSV276388,Donna Perez,DONNA.PEREZ32@AOL.COM,+17558510459,6960 Park Dr,Columbus,MD,66387,SUPER_PRIME,822,2024-12-20
+FSV325401,Betty Jimenez,betty.jimenez3@aol.com,+13029565329,3320 Walnut Ave,Detroit,MI,31113,PRIME,730,2023-12-27
+FSV871980,Dennis Carter,dennis.carter29@protonmail.com,+13072303237,7798 Lake Dr,Atlanta,GA,17402,PRIME,722,2024-04-09
+FSV162233,Brenda Peterson,brenda.peterson46@aol.com,+18394115522,4003 Main Ave,Springfield,WI,64741,SUBPRIME,587,2023-12-14
+FSV373430,Raymond Thompson,raymond.thompson13@hotmail.com,+19626187094,5283 Maple Dr,Tacoma,WA,56713,SUBPRIME,588,2022-07-17
+FSV602022,Patrick Turner,patrick.turner61@yahoo.com,+14376776712,1321 Cedar Dr,Madison,WI,66075,NEAR_PRIME,683,2019-03-03
+FSV122076,Mary Cox,mary.cox41@aol.com,+16381866050,4173 Pine Way,Springfield,MO,55102,SUPER_PRIME,758,2020-11-27
+FSV340330,Sarah Scott,sarah.scott82@yahoo.com,+13705518835,2481 Park St,Jersey City,NJ,59484,SUPER_PRIME,793,2023-12-13
+FSV659197,Steven Morris,steven.morris61@aol.com,+19758447413,3137 Walnut Ln,Phoenix,AZ,22580,DEEP_SUBPRIME,540,2020-05-06
+FSV184078,Jerry Alvarez,jerry.alvarez65@outlook.com,+14816733210,6130 Pine St,Philadelphia,PA,80668,NEAR_PRIME,650,2020-01-30
+FSV189387,Michael Robinson,michael.robinson79@gmail.com,+15158495677,9595 Lake Dr,Virginia Beach,VA,57223,SUPER_PRIME,770,2019-09-10
+FSV640437,George Davis,george.davis7@hotmail.com,+18969788770,8918 Elm Ave,Columbus,IN,12658,PRIME,734,2022-04-30
+FSV614412,Margaret Gomez,margaret.gomez20@aol.com,+19871239603,3960 Maple Way,Columbus,OH,63113,SUPER_PRIME,820,2022-05-06
+FSV250499,Barbara Parker,barbara.parker31@protonmail.com,+15848239919,3031 Elm Ln,Savannah,GA,45929,NEAR_PRIME,693,2020-07-25
+FSV499344,Karen Lee,karen.lee94@protonmail.com,+16241734162,1085 Elm Ct,Columbus,MD,61048,SUBPRIME,580,2021-07-02
+FSV249419,Angela Brooks,angela.brooks70@aol.com,+14946359473,7810 Maple Ct,Springfield,WI,29333,NEAR_PRIME,658,2021-02-10
+FSV645014,Pamela Harris,pamela.harris79@aol.com,+15831402287,2867 Maple Way,Virginia Beach,VA,96347,SUBPRIME,581,2018-11-09
+FSV762458,Amanda Robinson,amanda.robinson22@aol.com,+17653782239,4895 River Ave,Atlanta,GA,30527,PRIME,705,2023-02-08
+FSV669371,Michael Rogers,michael.rogers22@outlook.com,+12466496379,1034 Park Way,Madison,MD,39880,SUPER_PRIME,806,2024-02-21
+FSV274930,D. Perez,DENNIS.PEREZ38@GMAIL.COM,+19764891786,7994 Walnut Blvd,Richmond,VA,43671,SUPER_PRIME,782,2019-09-15
+FSV262435,Mark Brown,mark.brown3@outlook.com,+12585569811,8474 Park Way,Columbus,IN,23868,SUBPRIME,616,2025-05-08
+FSV427351,Linda Ward,linda.ward33@protonmail.com,+19311165855,584 Maple Way,San Antonio,TX,43580,PRIME,736,2024-05-15
+FSV247437,Dennis Clark,dennis.clark94@gmail.com,+19855902041,7799 Pine St,Columbus,TN,29396,PRIME,725,2018-01-21
+FSV129792,Thomas Morgan,THOMAS.MORGAN78@PROTONMAIL.COM,+19256513147,8015 Park Blvd,Madison,MD,27353,PRIME,737,2022-02-04
+FSV676340,Jason Sanchez,jason.sanchez63@icloud.com,+14743629527,8540 Maple Ct,Tacoma,WA,90383,PRIME,709,2025-04-06
+FSV484519,Jennifer Gutierrez,jennifer.gutierrez80@protonmail.com,+18169201294,5090 Park Blvd,Columbus,MO,45695,NEAR_PRIME,685,2020-08-27
+FSV347075,J. Kelly,jennifer.kelly13@protonmail.com,+12324365016,4209 Main Blvd,Tucson,AZ,71622,NEAR_PRIME,673,2021-10-09
+FSV130545,Donna Anderson,donna.anderson59@hotmail.com,+16642146797,7052 River Ln,Columbus,TN,23220,NEAR_PRIME,663,2023-04-25
+FSV779169,Kevin Cruz,kevin.cruz71@yahoo.com,+19882974147,2823 Park Ct,Madison,MO,83690,SUBPRIME,594,2022-04-27
+FSV125024,David Richardson,david.richardson92@yahoo.com,+12635665748,3614 Park Dr,Seattle,WA,36634,PRIME,746,2025-08-06
+FSV925303,Steven Allen,STEVEN.ALLEN48@ICLOUD.COM,+12463499757,4006 Oak St,Madison,MO,65418,SUPER_PRIME,845,2018-01-10
+FSV641279,Charles Thompson,charles.thompson74@protonmail.com,+19583503192,6241 Oak Ct,Madison,MO,94158,PRIME,719,2023-02-01
+FSV336381,George Rogers,george.rogers56@hotmail.com,+17078710651,2072 Lake Blvd,Boston,MA,35564,PRIME,704,2025-11-10
+FSV379521,Charles Hall,charles.hall62@protonmail.com,+12008345376,1910 Elm Dr,Seattle,WA,85452,SUPER_PRIME,762,2025-08-25
+FSV701055,D. Hughes,daniel.hughes60@icloud.com,+13383817733,7282 Main Ave,Boston,MA,55579,NEAR_PRIME,651,2020-05-12
+FSV195558,Paul Morris,paul.morris51@hotmail.com,+13106373280,5849 Main Way,Springfield,IL,34219,SUBPRIME,629,2023-09-30
+FSV772505,Karen Foster,karen.foster36@yahoo.com,+18422911249,6848 River Blvd,San Antonio,TX,39000,PRIME,720,2025-05-10
+FSV169191,George Peterson,george.peterson72@protonmail.com,+18697456703,4959 Cedar Blvd,Buffalo,NY,58796,PRIME,721,2020-07-07
+FSV251253,George Lee,george.lee84@yahoo.com,+15257663007,9876 Elm Ct,Columbus,WI,62319,PRIME,731,2021-03-30
+FSV257063,M. Ramos,maria.ramos59@protonmail.com,+14025481499,4215 Cedar Ln,Cambridge,MA,94720,PRIME,730,2020-10-22
+FSV528981,Maria Lopez,MARIA.LOPEZ58@GMAIL.COM,+19599557352,1652 Main St,Tacoma,WA,45359,SUPER_PRIME,769,2021-10-05
+FSV373293,Scott James,scott.james2@hotmail.com,+12149744211,396 Cedar Ln,Charlotte,NC,81020,NEAR_PRIME,669,2019-07-11
+FSV359256,Matthew Ramirez,matthew.ramirez44@hotmail.com,+17308249719,9788 River St,Detroit,MI,93199,SUPER_PRIME,844,2025-10-17
+FSV904890,Sarah Brooks,sarah.brooks91@hotmail.com,+19416816935,9373 Lake Ct,Buffalo,NY,34922,SUBPRIME,635,2022-09-25
+FSV961808,Carol Kim,carol.kim48@icloud.com,+19036938321,8217 Oak Ct,Buffalo,NY,64993,SUBPRIME,599,2020-09-29
+FSV404916,Brian Davis,brian.davis6@aol.com,+15943418737,9333 Cedar Ave,Detroit,MI,27063,PRIME,748,2021-04-05
+FSV378022,Deborah Allen,DEBORAH.ALLEN65@HOTMAIL.COM,+12136417564,8357 Maple Ln,Tampa,FL,42165,SUBPRIME,626,2023-07-01
+FSV470670,Jacob Rogers,jacob.rogers23@outlook.com,+18807958968,2427 Park Dr,Columbus,IN,31395,SUBPRIME,595,2018-03-04
+FSV216131,Jonathan Clark,jonathan.clark66@gmail.com,+12908622732,8245 Oak Way,Madison,WI,13504,NEAR_PRIME,672,2025-02-13
+FSV571956,P. Collins,paul.collins24@yahoo.com,+19533075279,8760 Walnut Ct,Savannah,GA,96898,PRIME,741,2025-10-23
+FSV251018,Jacob Morris,jacob.morris32@hotmail.com,+16793909454,6559 Main Ct,Chicago,IL,21132,SUPER_PRIME,834,2021-04-24
+FSV297656,Andrew Jackson,andrew.jackson62@icloud.com,+19884044361,7570 Park Blvd,Springfield,IL,57462,SUPER_PRIME,828,2019-07-03
+FSV478154,Shirley Flores,SHIRLEY.FLORES39@YAHOO.COM,+12165787580,7671 Cedar Way,Phoenix,AZ,92031,PRIME,733,2024-07-13
+FSV836875,Deborah Kelly,DEBORAH.KELLY92@HOTMAIL.COM,+19208955769,9800 Pine Dr,Atlanta,GA,68340,SUPER_PRIME,832,2019-09-08
+FSV722252,William Lewis,WILLIAM.LEWIS96@ICLOUD.COM,+13774852994,5542 Main St,Columbus,MD,91103,PRIME,740,2024-07-27
+FSV289277,Timothy Rivera,timothy.rivera71@hotmail.com,+18603069052,480 Main St,Grand Rapids,MI,43491,PRIME,745,2024-03-19
+FSV432508,Carol Ramos,carol.ramos85@aol.com,+12081026254,4444 Cedar Ln,Newark,NJ,73405,PRIME,748,2024-05-03
+FSV531477,Emma Gomez,emma.gomez76@icloud.com,+13596568146,1147 Elm Way,Tucson,AZ,38461,SUPER_PRIME,788,2020-03-23
+FSV782025,Debra Morris,debra.morris86@gmail.com,+12096025723,9771 Park Ln,Columbus,TN,22078,SUBPRIME,596,2021-10-03
+FSV489477,William James,WILLIAM.JAMES96@GMAIL.COM,+16703008349,2889 Pine Ct,Madison,MD,40181,SUBPRIME,630,2025-12-09
+FSV299556,Deborah Kelly,deborah.kelly96@gmail.com,+18779375507,2981 Lake Way,Richmond,VA,39359,PRIME,728,2023-06-29
+FSV823125,Debra Carter,debra.carter23@protonmail.com,+16516599325,6562 Pine Blvd,Rochester,NY,39224,NEAR_PRIME,688,2025-05-12
+FSV987982,Robert Davis,robert.davis58@aol.com,+16731930682,5022 Lake St,Seattle,WA,21849,NEAR_PRIME,657,2022-01-09
+FSV341802,Ashley Cox,ashley.cox61@hotmail.com,+12626614312,6007 Pine Ln,Tucson,AZ,87689,PRIME,740,2024-09-05
+FSV406199,Carol Nguyen,carol.nguyen28@yahoo.com,+16009544879,9470 Maple Dr,Springfield,MO,44317,SUBPRIME,581,2025-05-14
+FSV162962,W. Ruiz,william.ruiz53@protonmail.com,+12878934301,7239 Cedar Blvd,Naperville,IL,83134,SUPER_PRIME,784,2025-11-08
+FSV444606,S. Harris,sharon.harris68@aol.com,+17092742651,6236 Maple Blvd,Los Angeles,CA,88463,PRIME,745,2024-10-27
+FSV369821,Edward Scott,EDWARD.SCOTT68@AOL.COM,+12509056135,5278 Walnut Way,Virginia Beach,VA,50697,NEAR_PRIME,683,2019-02-25
+FSV665497,Mary Wilson,mary.wilson49@yahoo.com,+15935960640,6467 Cedar Ave,Sacramento,CA,38738,PRIME,716,2023-08-09
+FSV256453,Christopher Martin,christopher.martin71@hotmail.com,+17105108300,4823 Cedar St,Phoenix,AZ,52353,NEAR_PRIME,654,2018-01-03
+FSV523198,P. Richardson,patricia.richardson49@gmail.com,+17859936102,5295 River St,Madison,TN,89494,SUPER_PRIME,759,2021-12-26
+FSV621317,Jeffrey Chavez,jeffrey.chavez32@gmail.com,+18469979502,4247 Pine Blvd,Madison,IN,88764,PRIME,719,2024-09-05
+FSV405407,Kathleen Morris,kathleen.morris50@protonmail.com,+12742365387,9083 River Ct,Charlotte,NC,78046,SUPER_PRIME,768,2023-09-11
+FSV614327,Jennifer Brooks,jennifer.brooks37@gmail.com,+15302126711,9465 Maple Blvd,San Francisco,CA,49703,SUPER_PRIME,786,2019-04-10
+FSV204198,Brandon Robinson,brandon.robinson41@protonmail.com,+17991337833,9444 Walnut Ct,Atlanta,GA,30503,NEAR_PRIME,671,2020-04-08
+FSV412355,Carol Brooks,CAROL.BROOKS59@YAHOO.COM,+17949648175,4151 Walnut Ct,Madison,TN,60439,PRIME,749,2020-02-19
+FSV632225,Debra Chavez,debra.chavez3@icloud.com,+18264880952,3081 Elm Dr,Grand Rapids,MI,56621,NEAR_PRIME,678,2024-09-26
+FSV918425,Jack Hall,JACK.HALL71@GMAIL.COM,+19338723444,661 Lake Way,Tucson,AZ,75642,PRIME,720,2024-07-20
+FSV979433,Amanda Richardson,amanda.richardson6@icloud.com,+18207969387,7447 Elm St,Springfield,TN,26841,SUPER_PRIME,829,2018-05-17
+FSV742828,Eric Nelson,eric.nelson61@gmail.com,+16905048909,141 Walnut Way,Savannah,GA,35194,SUBPRIME,599,2021-03-28
+FSV393213,Anthony Diaz,anthony.diaz62@outlook.com,+15586968099,7454 Maple Way,Springfield,IN,52879,SUPER_PRIME,818,2022-10-10
+FSV305913,Dorothy Johnson,dorothy.johnson81@aol.com,+15276458188,8760 Park Ave,Detroit,MI,37686,NEAR_PRIME,697,2025-04-20
+FSV947941,Andrew Anderson,andrew.anderson67@hotmail.com,+13218182699,1977 Oak Blvd,San Diego,CA,93258,SUPER_PRIME,809,2024-07-03
+FSV271784,Katherine Rivera,katherine.rivera3@icloud.com,+17841623068,6398 Pine Ln,Houston,TX,50337,SUBPRIME,622,2018-05-19
+FSV405194,Ronald Ramirez,RONALD.RAMIREZ68@HOTMAIL.COM,+14264954599,5825 Oak Ct,Springfield,MO,48900,PRIME,710,2022-01-26
+FSV240019,Nicole Jones,nicole.jones41@gmail.com,+15081171892,9526 Walnut St,Houston,TX,67347,SUPER_PRIME,840,2021-01-24
+FSV185007,Ronald Evans,ronald.evans47@gmail.com,+13037392491,4235 Cedar Blvd,Madison,MO,63589,SUBPRIME,609,2022-04-05
+FSV967601,Jeffrey Phillips,jeffrey.phillips5@aol.com,+12619482758,7494 Oak Dr,Madison,MD,40348,SUPER_PRIME,770,2023-08-03
+FSV529391,Timothy Hernandez,timothy.hernandez34@outlook.com,+15539392388,2450 River Ct,Raleigh,NC,64275,SUBPRIME,622,2020-12-21
+FSV318653,C. Bailey,cynthia.bailey57@yahoo.com,+18087579637,5429 Elm Blvd,Austin,TX,32756,PRIME,727,2018-03-27
+FSV532414,James Perez,james.perez19@protonmail.com,+16403557449,1546 Maple Ln,Phoenix,AZ,43532,SUPER_PRIME,769,2021-12-17
+FSV930470,George Foster,GEORGE.FOSTER90@GMAIL.COM,+16493623187,7813 Oak Ave,Springfield,IL,61287,PRIME,734,2025-02-28
+FSV774117,Janet Powell,janet.powell57@outlook.com,+16446632834,8400 Lake Ct,Atlanta,GA,26203,SUPER_PRIME,781,2019-09-26
+FSV569599,Karen Kelly,karen.kelly53@aol.com,+14661076788,5512 Maple Dr,Grand Rapids,MI,95083,SUPER_PRIME,759,2022-09-05
