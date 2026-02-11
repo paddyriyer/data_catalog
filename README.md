@@ -141,7 +141,7 @@ The catalogue engine automatically classifies every column:
 
 ## 📈 Connects to the MDM Lakehouse
 
-This data catalogue is designed to sit alongside the [Horizon Bank MDM Lakehouse](../finserv-mdm-lakehouse/) as the governance and discovery layer:
+This data catalogue is designed to sit alongside the [Horizon Bank MDM Lakehouse](https://github.com/paddyriyer/financial_lakehouse) as the governance and discovery layer:
 
 ```
 MDM Lakehouse (data platform)  ←→  Data Catalogue (governance)  ←→  10 Executive Dashboards (consumption)
